@@ -98,7 +98,7 @@ Using of curl in Windows requires only to have curl.exe in folder with scripts o
 
 ### Single Driver Route Optimization
 
-```curl (Windows)
+```curl
 @ECHO OFF
 :: Single Driver Round Trip
 
@@ -348,7 +348,7 @@ The file "single_driver_round_trip_data.json" contains json data for http post r
 
 ### Multiple Depot Multiple driver route optimization
 
-```curl (Windows)
+```curl
 @ECHO OFF
 :: Multiple Depot, Multiple Driver, No Time Window
 :: Please put real value in route_date
