@@ -1,0 +1,17 @@
+{
+	"addresses":[
+		{
+			"address":"Cabo Rojo, Cabo Rojo 00623, Puerto Rico",
+			"alias":"",
+			"lat":18.086627,
+			"lng":-67.145735,
+			"curbside_lat":18.086627,
+			"curbside_lng":-67.145735,
+			"contact_id":null,
+			"sequence_no":14,
+			"is_departed":false,
+			"is_visited":false
+		}
+	],
+	"optimal_position":false
+}
