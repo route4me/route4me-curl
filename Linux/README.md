@@ -98,7 +98,7 @@ Using of curl in Linux doesn't require any special installation.
 
 ### Single Driver Route Optimization
 
-```curl (Linux)
+```curl
 #!/bin/bash
 
 # Single Driver Round Trip
@@ -349,7 +349,7 @@ The file "single_driver_round_trip_data.json" contains json data for http post r
 
 ### Multiple Depot Multiple driver route optimization
 
-```curl (Linux)
+```curl
 #!/bin/bash
 
 # Multiple Depot, Multiple Driver, No Time Window
