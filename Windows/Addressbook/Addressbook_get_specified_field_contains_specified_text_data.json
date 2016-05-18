@@ -1,0 +1,6 @@
+{
+	"fields":[
+		{"field": "first_name"},
+		{"field": "address_email"}
+	]
+}
