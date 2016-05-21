@@ -1,0 +1,12 @@
+{
+	"arrValidCSVColumns ":[
+		"address",
+		"dst_lat",
+		"dst_lng",
+		"is_depot"
+	],
+	"arrIgnoreCSVColumns": [
+		"some ignore columns name here"
+	]
+	
+}
