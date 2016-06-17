@@ -1,0 +1,136 @@
+{
+	"results": [{
+		"activity_id": "DED99C027DA12D585EDB076BB82198FA",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1465589713",
+		"activity_message": "Region 'Test Territory Updated' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "FB25951FB702A1CEC10F4C4AD8B60E10",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1465588317",
+		"activity_message": "Region 'Test Territory Updated' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "2BCD8C4CEF000825B48E6D1312C9A90C",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1465371012",
+		"activity_message": "Region 'Test Territory Updated' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "944AC01861E075160FABC46BF1C19F6B",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1465370078",
+		"activity_message": "Region 'Test Territory Updated' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "6BD88E9C38A3947F0A51A9DC876C1208",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1465300748",
+		"activity_message": "Region 'Test Territory Updated' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "21320349A0D8C53ED01D9D9A72FED0A2",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1464097700",
+		"activity_message": "Region 'Polygon Territory' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "59CB20AB2A9337519B21B08AA0F7048F",
+		"activity_type": "area-removed",
+		"activity_timestamp": "1463227019",
+		"activity_message": "Region 'Test Territory' was removed",
+		"route_id": null,
+		"route_name": null,
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	}],
+	"total": 7
+}
