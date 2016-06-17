@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<destinations>
+	<destination  
+		destination="10-24 Congress St, Boston, MA 02109, USA" 
+		lat="42.3586291" 
+		lng="-71.0567045" 
+		type="street_address" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="60 State Street, Boston, MA 02109, USA" 
+		lat="42.35903" 
+		lng="-71.05646" 
+		type="premise" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Congress St @ State St, Boston, MA 02109, USA" 
+		lat="42.35851" 
+		lng="-71.0565613" 
+		type="bus_station, transit_station, point_of_interest, establishment" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Financial District, Boston, MA, USA" 
+		lat="42.3559219" 
+		lng="-71.0549768" 
+		type="neighborhood, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Downtown, Boston, MA, USA" 
+		lat="42.3557089" 
+		lng="-71.0572053" 
+		type="neighborhood, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Boston, MA, USA" 
+		lat="42.3600825" 
+		lng="-71.0588801" 
+		type="locality, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Boston, MA 02109, USA" 
+		lat="42.3660616" 
+		lng="-71.0482911" 
+		type="postal_code" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Suffolk County, MA, USA" 
+		lat="42.3522866" 
+		lng="-71.0504229" 
+		type="administrative_area_level_2, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Boston-Cambridge-Quincy, MA-NH, USA" 
+		lat="42.7104806" 
+		lng="-71.3824374" 
+		type="political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Boston-Cambridge-Quincy, MA-NH, USA" 
+		lat="42.5865746" 
+		lng="-71.097317" 
+		type="political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Boston Metropolitan Area, USA" 
+		lat="42.3600709" 
+		lng="-71.0588305" 
+		type="political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="Massachusetts, USA" 
+		lat="42.4072107" 
+		lng="-71.3824374" 
+		type="administrative_area_level_1, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+	<destination  
+		destination="United States" 
+		lat="37.09024" 
+		lng="-95.712891" 
+		type="country, political" 
+		confidence="medium" 
+		original="42.35863,-71.05670"/>
+</destinations>
