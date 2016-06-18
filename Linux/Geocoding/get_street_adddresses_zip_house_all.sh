@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://45.55.208.13:443/street_data/service
+url=https://rapid.route4me.com/street_data/service
 apikey=11111111111111111111111111111111
 zipcode=00601
 housenumber=17

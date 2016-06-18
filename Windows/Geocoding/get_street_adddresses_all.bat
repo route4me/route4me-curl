@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://45.55.208.13:443/street_data/
+SET url=https://rapid.route4me.com/street_data/
 SET apikey=11111111111111111111111111111111
 
 ECHO ON

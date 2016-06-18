@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://45.55.208.13:443/street_data/zipcode
+SET url=https://rapid.route4me.com/street_data/zipcode
 SET apikey=11111111111111111111111111111111
 SET zipcode=00601
 
