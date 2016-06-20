@@ -11,6 +11,6 @@ ECHO ON
 
 :: is_visited=1 means address visited, is_visited=0 --- not visited
 
-curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_visited=%isvisited%&member=%member%"
+curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_visited=%isvisited%&member_id=%member%"
 
 timeout /t 30

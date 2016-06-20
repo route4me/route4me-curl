@@ -9,7 +9,7 @@ member=1
 
 # is_departed=1 means address was departed, is_departed=0 --- not departed
 
-curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_departed=$departed=$departed&member=$member"
+curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_departed=$departed=$departed&member_id=$member"
 
 echo "Finished..."
 

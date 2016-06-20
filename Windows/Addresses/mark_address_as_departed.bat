@@ -11,6 +11,6 @@ ECHO ON
 
 :: is_departed=1 means address was departed, is_departed=0 --- not departed
 
-curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_departed=%isdeparted%&member=%member%"
+curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_departed=%isdeparted%&member_id=%member%"
 
 timeout /t 30

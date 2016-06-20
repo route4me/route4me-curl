@@ -9,7 +9,7 @@ member=1
 
 # is_visited=1 means address visited, is_visited=0 --- not visited
 
-curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_visited=$visited&member=$member"
+curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_visited=$visited&member_id=$member"
 
 echo "Finished..."
 
