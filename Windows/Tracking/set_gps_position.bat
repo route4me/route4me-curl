@@ -3,14 +3,14 @@
 SET url=https://www.route4me.com/track/set.php
 SET apikey=11111111111111111111111111111111
 SET frm=XML
-SET membid=545554
-SET route_id=gh4gf54hg5fh4fg56hf4g6h5gttyt
+SET membid=1
+SET route_id=114B01238180A4227FD187E128C056F5
 SET course=70
 SET speed=60
 SET lat=55.6884868
 SET lng=12.5366426
 SET devtype=android_phone
-SET devguid=qweqweqwe
+SET devguid="HK5454H0K454564WWER445"
 
 ECHO ON
 
