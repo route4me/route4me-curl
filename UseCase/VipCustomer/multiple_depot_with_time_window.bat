@@ -10,6 +10,6 @@ SET route_path_output=Points
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -k -d "@multiple_depot_with_time_window_data.json" "%URL%?api_key=%apikey%&route_path_output=%route_path_output%" 
+curl -o file1.txt -g -X POST -k -d "@multiple_depot_with_time_window_data_5.json" "%URL%?api_key=%apikey%&route_path_output=%route_path_output%" 
 
 timeout /t 30
