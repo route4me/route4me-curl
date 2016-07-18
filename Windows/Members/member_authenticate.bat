@@ -1,10 +1,12 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=https://www.route4me.com/actions/authenticate.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON
 
-:: This task requires email provider
-curl -o file1.txt -g -X POST -d '@member_authenticate_data.json' "%URL%/actions/authenticate.php?api_key=%apikey%" 
+:: Example refers to the process of autentication into the Route4Me's offciial web application
+
+curl -o file1.txt -k -g -X POST -H "Content-Type: multipart/form-data;" -F "strEmail=dddd@yahoo.com" -F "strPassword=111111" -F "format=json" "%url%?api_key=%apikey%" 
 
 timeout /t 30
