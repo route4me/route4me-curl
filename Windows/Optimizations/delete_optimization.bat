@@ -1,11 +1,13 @@
 @ECHO OFF
-SET url=https://www.route4me.com
+SET url=https://www.route4me.com/api.v4/optimization_problem.php
 SET apikey=11111111111111111111111111111111
-SET optprobid=07372F2CF3814EC6DFFAFE92E22771AA
+SET optprobid=DE62B03510AB5A6A876093F30F6C7BF5
+SET redirect=0
 
 ECHO ON
 
-:: this doesn't work. Needs Clarification - is it possible to delete optimization?
-curl -o file1.txt -g -X DELETE -k "%URL%/api.v4/optimization_problem.php?api_key=%apikey%&optimization_problem_id=%optprobid%" 
+:: Example refers to teh process of removing optimization problems
+
+curl -o file1.txt -g -k -X DELETE -d "@delete_optimization_data.json" "%url%?api_key=%apikey%&redirect=%redirect%" 
 
 timeout /t 30
