@@ -23,7 +23,9 @@
 	"truck_hazardous_goods": "",
 	"routeType": "multi_tw",
 	"algorithm_type": 3,
-	"parts": "10",
+	"parts": "10", (olo - number of Vehicles)
+	"min_tour_size": "10", (olo - minimum number of stops per route)
+	"max_tour_size": "15", (olo - maximum number of stops per route)
 	"route_max_duration": 28800,
 	"rt": false,
 	"vehicle_capacity": "20",
