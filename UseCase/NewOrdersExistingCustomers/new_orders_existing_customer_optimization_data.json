@@ -94,7 +94,7 @@
 		"order_id": 308
 	}],
 	"parameters": {
-		"route_name": " NewOrdersExistingCustomers",
+		"route_name": " NewOrdersExistingCustomers_api",
 		"route_date": 1471478400,
 		"route_time": 10800,
 		"override_addresses": {
@@ -118,7 +118,7 @@
 		"truck_hazardous_goods": "",
 		"routeType": "multi_tw",
 		"algorithm_type": 3,
-		"parts": "10",
+		"parts": "2",
 		"route_max_duration": 691200,
 		"rt": true,
 		"member_id": "44143",
