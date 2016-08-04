@@ -121,7 +121,7 @@
 		"parts": "10",
 		"route_max_duration": 691200,
 		"rt": true,
-		"member_id": "44143",
+		"member_id": "1",
 		"vehicle_id": "",
 		"disable_optimization": false,
 		"uploads": []

@@ -34,7 +34,7 @@
         "store_route": true,
         "metric": 4,
         "algorithm_type": 3,
-        "member_id": 44143,
+        "member_id": 1,
         "ip": 1844080707,
         "dm": 1,
         "dirm": 5,
@@ -64,7 +64,7 @@
         {
             "route_destination_id": 178008999,
             "alias": "273 Canal St, New York",
-            "member_id": 44143,
+            "member_id": 1,
             "address": "273 Canal St, New York, NY 10013, USA",
             "is_depot": true,
             "timeframe_violation_state": null,
@@ -138,7 +138,7 @@
         {
             "route_destination_id": 178009000,
             "alias": "BK Restaurant #: 17871",
-            "member_id": 44143,
+            "member_id": 1,
             "address": "106 Fulton St, Farmingdale, NY 11735, USA",
             "is_depot": false,
             "timeframe_violation_state": null,
@@ -232,7 +232,7 @@
         {
             "route_destination_id": 178009001,
             "alias": "BK Restaurant #: 20333",
-            "member_id": 44143,
+            "member_id": 1,
             "address": "325 Broadway, New York, NY 10007, USA",
             "is_depot": false,
             "timeframe_violation_state": null,
@@ -326,7 +326,7 @@
         {
             "route_destination_id": 178009002,
             "alias": "BK Restaurant #: 2446",
-            "member_id": 44143,
+            "member_id": 1,
             "address": "106 Liberty St, New York, NY 10006, USA",
             "is_depot": false,
             "timeframe_violation_state": null,
@@ -420,7 +420,7 @@
         {
             "route_destination_id": 178009003,
             "alias": "273 Canal St, New York",
-            "member_id": 44143,
+            "member_id": 1,
             "address": "273 Canal St, New York, NY 10013, USA",
             "is_depot": false,
             "timeframe_violation_state": null,
@@ -514,6 +514,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=49D8041BC3EDBA422B68E49F13768664&api_key=1D479A8464677D9FC054EB7D00B046D2&member_id=44143"
+        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=49D8041BC3EDBA422B68E49F13768664&api_key=1D479A8464677D9FC054EB7D00B046D2&member_id=1"
     }
 }
