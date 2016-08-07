@@ -1,0 +1,45 @@
+{
+	"results": [{
+		"activity_id": "17E82B5C4BFB3F5E0275D23D223A9C65",
+		"destination_name": "2 Victoria Ct, Fredericksburg, VA 22407",
+		"destination_alias": "",
+		"activity_type": "mark-destination-departed",
+		"activity_timestamp": "1450380541",
+		"activity_message": "The address '2 Victoria Ct, Fredericksburg, VA 22407' was marked as departed from Web Interface",
+		"route_id": "03CEF546324F727239ABA69EFF3766E1",
+		"route_name": "accenture-single-driver-1",
+		"route_destination_id": "136592941",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "Kevin",
+			"member_last_name": "Bacon",
+			"member_email": "demo333@yahoo.com"
+		}
+	},
+	{
+		"activity_id": "DBCD55313DA1131646BFD83F9F7EF934",
+		"destination_name": "10809 Stacy Run, Fredericksburg, VA 22408",
+		"destination_alias": "",
+		"activity_type": "mark-destination-departed",
+		"activity_timestamp": "1450380340",
+		"activity_message": "The address '10809 Stacy Run, Fredericksburg, VA 22408' was marked as departed from Web Interface",
+		"route_id": "03CEF546324F727239ABA69EFF3766E1",
+		"route_name": "accenture-single-driver-1",
+		"route_destination_id": "136592939",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "Kevin",
+			"member_last_name": "Bacon",
+			"member_email": "demo333@yahoo.com"
+		}
+	}],
+	"total": 2
+}
