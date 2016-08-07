@@ -1,0 +1,45 @@
+{
+	"results": [{
+		"activity_id": "2E4573C2252D01AAA182929E693A7E43",
+		"destination_name": "559 W Aurora Rd, Northfield, OH 44067",
+		"destination_alias": "",
+		"activity_type": "mark-destination-visited",
+		"activity_timestamp": "1469712876",
+		"activity_message": "The address '559 W Aurora Rd, Northfield, OH 44067' was marked as visited from Web Interface",
+		"route_id": "241466F15515D67D3F951E2DA38DE76D",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Unrouted Destinations)",
+		"route_destination_id": "167899269",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "dprogman@yahoo.com"
+		}
+	},
+	{
+		"activity_id": "C6D2C6102EEF5BC00882BEE9D43BAAF8",
+		"destination_name": "559 W Aurora Rd, Northfield, OH 44067",
+		"destination_alias": "",
+		"activity_type": "mark-destination-visited",
+		"activity_timestamp": "1467820325",
+		"activity_message": "The address '559 W Aurora Rd, Northfield, OH 44067' was marked as not visited from Web Interface",
+		"route_id": "241466F15515D67D3F951E2DA38DE76D",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Unrouted Destinations)",
+		"route_destination_id": "167899269",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "dprogman@yahoo.com"
+		}
+	}],
+	"total": 2
+}
