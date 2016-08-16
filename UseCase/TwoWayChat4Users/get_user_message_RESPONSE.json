@@ -1,0 +1,24 @@
+{
+	"results": [{
+		"activity_id": "365189041851E3E8C1955041D8340B69",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "user_message",
+		"activity_timestamp": "1471353989",
+		"activity_message": "Hello David I'm dispetcher",
+		"route_id": "EDE99139F62A036E9651D4A2AD168E81",
+		"route_name": "Fri, 05 Aug 2016 07:59:22 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David,
+			"member_last_name": "Progman",
+			"member_email": "dprogman@yahoo.com"
+		}
+	}],
+	"total": 1
+}
