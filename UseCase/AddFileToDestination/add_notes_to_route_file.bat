@@ -4,14 +4,12 @@
 
 SET url=https://www.route4me.com/actions/addRouteNotes.php
 SET apikey=11111111111111111111111111111111
-SET routeid=5C15E83A4BE005BCD1537955D28D51D7
-SET addrid=162916895
+SET routeid=EDE99139F62A036E9651D4A2AD168E81
+SET addrid=178141214
 SET dev_lat=33.132675170898
 SET dev_lng=-83.244743347168
 SET dev_type=web
-SET updatetype=dropoff
-SET "filename=notes.csv"
-SET "strNoteContents=This is content with file uploading"
+SET "filename=single_driver_addresses.jpg"
 
 ECHO ON
 
