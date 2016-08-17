@@ -1,5 +1,6 @@
 {
    "custom_fields": {
-      "animal": "zebra"
+      "cargo place": "Leave the cargo near to the entrance door",
+	  "message for client": "Next cargo will be delivered tomorrow morning"
     }
 }
