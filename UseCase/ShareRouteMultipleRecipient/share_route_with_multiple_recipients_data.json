@@ -94,7 +94,7 @@
 		"order_id": 308
 	}],
 	"parameters": {
-		"route_name": " NewOrdersExistingCustomers_api",
+		"route_name": "Share route with multiple receipient use case",
 		"route_date": 1471478400,
 		"route_time": 10800,
 		"override_addresses": {
