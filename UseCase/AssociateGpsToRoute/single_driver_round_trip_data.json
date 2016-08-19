@@ -16,61 +16,17 @@
 		"rt":true
     },
     "addresses": [
-	  { "address": "3634 W Market St, Fairlawn, OH 44333",
-                        "is_depot": true, 
-                        "lat":  41.135762259364,
-                        "lng": -81.629313826561
-        },
-
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
-        },
-
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
-        },
-
-        { "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
-                        "lat":  41.162971496582,
-                        "lng": -81.479049682617
-        },
-
-        { "address": "1659 Hibbard Dr, Stow, OH 44224",
-                        "lat":  41.194505989552,
-                        "lng": -81.443351581693
-        },
-
-        { "address": "2705 N River Rd, Stow, OH 44224",
-                        "lat":  41.145240783691,
-                        "lng": -81.410247802734
-        },
-
-        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
-                        "lat":  41.340042114258,
-                        "lng": -81.421226501465
-        },
-
-        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
-                        "lat":  41.148578643799,
-                        "lng": -81.429229736328
-        },
-
-        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
-                        "lat":  41.148578643799,
-                        "lng": -81.429229736328
-        },
-
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
-        },
-
-        { "address": "559 W Aurora Rd, Northfield, OH 44067",
-                        "lat":  41.315116882324,
-                        "lng": -81.558746337891
-        }
+		{ "address": "3634 W Market St, Fairlawn, OH 44333",
+			"is_depot": true, 
+			"lat":  41.135762259364,
+			"lng": -81.629313826561
+		},
+		{ 
+			"address": "559 W Aurora Rd, Northfield, OH 44067",
+			"lat":  41.315116882324,
+			"lng": -81.558746337891,
+			"is_depot": false
+		}
 	]
     
 }
