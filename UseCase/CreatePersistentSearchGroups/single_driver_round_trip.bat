@@ -4,7 +4,7 @@
 ::See video tutorial here: http://support.route4me.com/route-planning-help.php?id=manual0:tutorial2:chapter1:subchapter1
 
 SET URL=https://www.route4me.com/api.v4/optimization_problem.php
-SET apikey=FC3846C2707E1D41E61E60AF357CAAEB
+SET apikey=11111111111111111111111111111111
 SET route_path_output=Points
 
 ECHO ON
