@@ -1,6 +1,4 @@
 {	
 	"address_id":4560331,
-	"address_custom_data": [
-		{"package_type": "Glass package"}
-	]
+	"address_group": "Glass package"
 }

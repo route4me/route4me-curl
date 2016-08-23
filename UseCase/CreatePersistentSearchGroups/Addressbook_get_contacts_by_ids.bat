@@ -3,7 +3,7 @@ SET url=https://www.route4me.com/api.v4/address_book.php
 SET apikey=11111111111111111111111111111111
 
 :: Get contacts by listed ids 
-SET addr_id=2640129,4621569
+SET addr_id=4560331,4560087,4560098,4564330,4564346
 
 ECHO ON
 
