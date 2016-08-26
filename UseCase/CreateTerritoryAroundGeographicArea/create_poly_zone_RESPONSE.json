@@ -1,7 +1,8 @@
 {
+	"territory_id": "596A2A44FE9FB19EEB9C3C072BF2D0BE",
+	"member_id": "1",
 	"territory_name": "Territory_from_area_9_addresses_uc_1",
 	"territory_color": "b3dc6c",
-	"member_id": 1,
 	"addresses": [],
 	"territory": {
 		"type": "poly",
