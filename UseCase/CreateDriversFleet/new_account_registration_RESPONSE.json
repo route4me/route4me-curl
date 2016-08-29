@@ -1,0 +1,12 @@
+{
+    "status": true,
+    "session_id": "75888c43f8525bab7f8bbf6f4f85b0ec",
+    "session_guid": "75888c43f8525bab7f8bbf6f4f85b0ec",
+    "member_id": 315948,
+    "api_key": "0216bfd6245454545f2756a9556d98a8",
+    "account_type_id": 24,
+    "account_type_alias": 0,
+    "max_stops_per_route": 10000,
+    "max_routes": 10,
+    "routes_planned": 0
+}
