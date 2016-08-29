@@ -1,10 +1,11 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=http://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
 SET routeid=43F55835F1E76003FF980547F77338BD
 
 ECHO ON
 
-curl -o file1.txt -g -X PUT -H "Content-Type: application/json" -d "@update_route_data.json" "%url%/api.v4/route.php?route_id=%routeid%&api_key=%apikey%"
+curl -o file1.txt -g -X PUT -H "Content-Type: application/json" -d "@update_route_data.json" "%url%?route_id=%routeid%&api_key=%apikey%"
 
 timeout /t 30
