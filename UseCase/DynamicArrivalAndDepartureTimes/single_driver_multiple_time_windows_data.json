@@ -1,0 +1,124 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+		"store_route": false,
+		"route_name": "Single Driver Multiple TimeWindows 12 Stops",
+		"route_date": 1464523994,
+		"route_time": 25200,
+		"optimize": "Distance",
+		"distance_unit": "mi",
+        "device_type": "web"
+    },
+    "addresses": [
+	  { "address": "3634 W Market St, Fairlawn, OH 44333",
+                        "is_depot": true, 
+                        "lat":  41.135762259364,
+                        "lng": -81.629313826561,
+                        "time_window_start": null,
+                        "time_window_end": null,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": null
+        },
+
+        { "address": "512 Florida Pl, Barberton, OH 44203",
+                        "lat":  41.003671512008,
+                        "lng": -81.598461046815,
+                        "time_window_start": 27000,
+                        "time_window_end": 27600,
+                        "time_window_start_2": 28800,
+                        "time_window_end_2": 29400,
+                        "time": 300
+        },
+
+        { "address": "512 Florida Pl, Barberton, OH 44203",
+                        "lat":  41.003671512008,
+                        "lng": -81.598461046815,
+                        "time_window_start": 30600,
+                        "time_window_end": 31200,
+                        "time_window_start_2": 31800,
+                        "time_window_end_2": 32400,
+                        "time": 100
+        },
+
+        { "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
+                        "lat":  41.162971496582,
+                        "lng": -81.479049682617,
+                        "time_window_start": 32400,
+                        "time_window_end": 33300,
+                        "time_window_start_2": 34200,
+                        "time_window_end_2": 35100,
+                        "time": 300
+        },
+
+        { "address": "1659 Hibbard Dr, Stow, OH 44224",
+                        "lat":  41.194505989552,
+                        "lng": -81.443351581693,
+                        "time_window_start": 36000,
+                        "time_window_end": 36900,
+                        "time_window_start_2": 37800,
+                        "time_window_end_2": 38700,
+                        "time": 300
+        },
+
+        { "address": "2705 N River Rd, Stow, OH 44224",
+                        "lat":  41.145240783691,
+                        "lng": -81.410247802734,
+                        "time_window_start": 39600,
+                        "time_window_end": 40500,
+                        "time_window_start_2": 41400,
+                        "time_window_end_2": 42300,
+                        "time": 300
+        },
+
+        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
+                        "lat":  41.340042114258,
+                        "lng": -81.421226501465,
+                        "time_window_start": 43200,
+                        "time_window_end": 44100,
+                        "time_window_start_2": 45000,
+                        "time_window_end_2": 45900,
+                        "time": 300
+        },
+
+        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
+                        "lat":  41.148578643799,
+                        "lng": -81.429229736328,
+                        "time_window_start": 46800,
+                        "time_window_end": 47700,
+                        "time_window_start_2": 48600,
+                        "time_window_end_2": 49500,
+                        "time": 300
+        },
+
+        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
+                        "lat":  41.148578643799,
+                        "lng": -81.429229736328,
+                        "time_window_start": 50400,
+                        "time_window_end": 51300,
+                        "time_window_start_2": 52200,
+                        "time_window_end_2": 53100,
+                        "time": 300
+        },
+
+        { "address": "512 Florida Pl, Barberton, OH 44203",
+                        "lat":  41.003671512008,
+                        "lng": -81.598461046815,
+                        "time_window_start": 54000,
+                        "time_window_end": 54900,
+                        "time_window_start_2": 55800,
+                        "time_window_end_2": 56700,
+                        "time": 300
+        },
+
+        { "address": "559 W Aurora Rd, Northfield, OH 44067",
+                        "lat":  41.315116882324,
+                        "lng": -81.558746337891,
+                        "time_window_start": 57600,
+                        "time_window_end": 58500,
+                        "time_window_start_2": 59400,
+                        "time_window_end_2": 61200,
+                        "time": 50
+        }
+	]
+}
