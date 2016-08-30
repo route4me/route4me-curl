@@ -8,6 +8,6 @@ SET plan=free
 
 ECHO ON
 
-curl -k -X POST -H "Content-Type: multipart/form-data;" -F "strIndustry=Gifting" -F "strFirstName=Olman" -F "strLastName=Oland" -F "strEmail=thewelco@gmail.com" -F "format=json" -F "chkTerms=1" -F "device_type=web" -F "strPassword_1=111111" -F "strPassword_2=111111" "%url%?plan=%plan%&member_type=5"
+curl -k -X POST -H "Content-Type: multipart/form-data;" -F "strIndustry=Gifting" -F "strFirstName=Olman" -F "strLastName=Oland" -F "strEmail=thewelco@gmail.com" -F "format=json" -F "chkTerms=1" -F "device_type=web" -F "strPassword_1=111111" -F "strPassword_2=111111" "%url%?plan=%plan%&business_member_type=5"
 
 timeout /t 30
