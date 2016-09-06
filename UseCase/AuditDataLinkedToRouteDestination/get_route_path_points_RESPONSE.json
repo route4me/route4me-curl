@@ -3,9 +3,9 @@
     "optimization_problem_id": "06BF0EFE40FCCC24957686DFE2DE353A",
     "user_route_rating": null,
     "member_id": 1,
-    "member_email": "dan@novapulsar.com",
-    "member_first_name": "Dan",
-    "member_last_name": "Khasis",
+    "member_email": "dprogman@novapulsar.com",
+    "member_first_name": "David",
+    "member_last_name": "Progman",
     "channel_name": "7924bde0601040b8dfe9e90562a4b3bc",
     "vehicle_alias": "wes_test",
     "driver_alias": "N\/A",
@@ -1060,7 +1060,7 @@
             "member_id": 1,
             "address": "512 Florida Pl, Barberton, OH 44203",
             "is_depot": false,
-            "timeframe_violation_state": null,
+            "timeframe_violation_state": 3,
             "timeframe_violation_time": 0,
             "timeframe_violation_rate": 0,
             "lat": 41.003671512008,
@@ -1080,13 +1080,13 @@
             "order_id": null,
             "address_stop_type": "DELIVERY",
             "is_visited": true,
-            "timestamp_last_visited": 1472831090,
+            "timestamp_last_visited": 1473174799,
             "visited_lat": null,
             "visited_lng": null,
             "is_departed": true,
             "departed_lat": null,
             "departed_lng": null,
-            "timestamp_last_departed": 1472831623,
+            "timestamp_last_departed": 1473174554,
             "group": null,
             "customer_po": null,
             "invoice_no": null,
@@ -2036,10 +2036,10 @@
                 "fuel_cost_from_start": 3.9208333333333,
                 "projected_arrival_time_ts": 1464535804,
                 "projected_departure_time_ts": 1464536104,
-                "actual_arrival_time_ts": 1472831090,
-                "actual_departure_time_ts": 1472831623,
-                "estimated_arrival_time_ts": 1472831090,
-                "estimated_departure_time_ts": 1472831623,
+                "actual_arrival_time_ts": 1473174799,
+                "actual_departure_time_ts": 1473174554,
+                "estimated_arrival_time_ts": 1473174799,
+                "estimated_departure_time_ts": 1473174554,
                 "time_impact": null
             }
         },
@@ -2391,8 +2391,8 @@
                 "projected_departure_time_ts": 1464538240,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472831623,
-                "estimated_departure_time_ts": 1472831923,
+                "estimated_arrival_time_ts": 1473174554,
+                "estimated_departure_time_ts": 1473174854,
                 "time_impact": null
             }
         },
@@ -2496,8 +2496,8 @@
                 "projected_departure_time_ts": 1464539244,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472833759,
-                "estimated_departure_time_ts": 1472834059,
+                "estimated_arrival_time_ts": 1473176690,
+                "estimated_departure_time_ts": 1473176990,
                 "time_impact": null
             }
         },
@@ -2733,8 +2733,8 @@
                 "projected_departure_time_ts": 1464539544,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472834763,
-                "estimated_departure_time_ts": 1472835063,
+                "estimated_arrival_time_ts": 1473177694,
+                "estimated_departure_time_ts": 1473177994,
                 "time_impact": null
             }
         },
@@ -3018,8 +3018,8 @@
                 "projected_departure_time_ts": 1464540425,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472835063,
-                "estimated_departure_time_ts": 1472835363,
+                "estimated_arrival_time_ts": 1473177994,
+                "estimated_departure_time_ts": 1473178294,
                 "time_impact": null
             }
         },
@@ -3623,8 +3623,8 @@
                 "projected_departure_time_ts": 1464541512,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472835944,
-                "estimated_departure_time_ts": 1472836244,
+                "estimated_arrival_time_ts": 1473178875,
+                "estimated_departure_time_ts": 1473179175,
                 "time_impact": null
             }
         },
@@ -4176,8 +4176,8 @@
                 "projected_departure_time_ts": 1464543269,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472837031,
-                "estimated_departure_time_ts": 1472837331,
+                "estimated_arrival_time_ts": 1473179962,
+                "estimated_departure_time_ts": 1473180262,
                 "time_impact": null
             }
         },
@@ -4267,8 +4267,8 @@
                 "projected_departure_time_ts": 1464544559,
                 "actual_arrival_time_ts": null,
                 "actual_departure_time_ts": null,
-                "estimated_arrival_time_ts": 1472838788,
-                "estimated_departure_time_ts": 1472838838,
+                "estimated_arrival_time_ts": 1473181719,
+                "estimated_departure_time_ts": 1473181769,
                 "time_impact": null
             }
         }
