@@ -1,0 +1,24 @@
+{
+	"results": [{
+		"activity_id": "03D52AE7819BDC973BB27D05594707D2",
+		"destination_name": "512 Florida Pl, Barberton, OH 44203",
+		"destination_alias": "",
+		"activity_type": "mark-destination-departed",
+		"activity_timestamp": "1473174554",
+		"activity_message": "The address '512 Florida Pl, Barberton, OH 44203' was marked as departed from Web Interface",
+		"route_id": "DD376C7148E7FEE36CFABE2BD9978BDD",
+		"route_name": "Single Driver Multiple TimeWindows 12 Stops",
+		"route_destination_id": "183045808",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "Dan",
+			"member_last_name": "Khasis",
+			"member_email": "dan@novapulsar.com"
+		}
+	}],
+	"total": 1
+}
