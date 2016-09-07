@@ -1,6 +1,5 @@
 @ECHO OFF
 :: Single Depot, Multiple Driver, No Time Window
-:: Please put real value in route_date
 
 ::See video tutorial here: http://support.route4me.com/route-planning-help.php?id=manual0:tutorial2:chapter2:subchapter1
 
@@ -10,6 +9,6 @@ SET route_path_output=Points
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -k -d "@single_depot_multiple_driver_notime_window_data.json" "%URL%?api_key=%apikey%&route_path_output=%route_path_output%" 
+curl -o file1.txt -g -X POST -k -d "@single_depot_multi_driver_no_tw_data.json" "%URL%?api_key=%apikey%&route_path_output=%route_path_output%" 
 
 timeout /t 30
