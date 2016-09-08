@@ -1,11 +1,13 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=https://www.route4me.com/api.v3/route/reoptimize_2.php
 SET apikey=11111111111111111111111111111111
-SET routeid=5C15E83A4BE005BCD1537955D28D51D7
-SET reoptimize=1
+SET routeid=99C428A9106C118C3F908B445C7DEB76
+SET opt_type=Distance
+SET disable_optimization=0
 
 ECHO ON
 
-curl -o file1.txt -g -X PUT -H "Content-Type: application/json" -d "@reoptimize_route_data.json" "%url%/api.v4/route.php?route_id=%routeid%&api_key=%apikey%&reoptimize=%reoptimize%"
+curl -o file1.txt -k -g -X GET "%url%?api_key=%apikey%&route_id=%routeid%&disable_optimization=%disable_optimization%&optimize=%opt_type%;"
 
 timeout /t 30
