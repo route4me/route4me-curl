@@ -1,4 +1,5 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/actions/route/move_route_destination.php
 SET apikey=11111111111111111111111111111111
 
@@ -13,7 +14,6 @@ SET adi=184611074
 
 ECHO ON
 
-:: returns false - needs clarification
 curl -o file1.txt -g -X POST -k -H "Content-Type: multipart/form-data;" -F "to_route_id=%trid%" -F "route_destination_id=%rdi%" -F "after_destination_id=%adi%" "%url%?api_key=%apikey%"
 
 timeout /t 30
