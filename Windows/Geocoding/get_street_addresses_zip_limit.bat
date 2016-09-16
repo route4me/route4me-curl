@@ -3,7 +3,7 @@ SET url=https://rapid.route4me.com/street_data/zipcode
 SET apikey=11111111111111111111111111111111
 SET zipcode=00601
 SET offset=0
-SET limit=20
+SET limit=10
 
 ECHO ON
 
