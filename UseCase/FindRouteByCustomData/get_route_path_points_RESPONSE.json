@@ -27,7 +27,7 @@
     "idling_time": 0,
     "paying_miles": 0,
     "geofence_polygon_type": "circle",
-    "geofence_polygon_size": 50,
+    "geofence_polygon_size": 200,
     "parameters": {
         "is_upload": false,
         "rt": false,
@@ -1986,8 +1986,11 @@
             "geofence_detected_departed_lng": null,
             "time": 300,
             "tracking_number": "E186DKGR",
-            "custom_fields": {},
-            "custom_fields_str_json": "{}",
+            "custom_fields": {
+                "cargo place": "Leave the cargo near to the entrance door",
+                "message for client": "Next cargo will be delivered tomorrow morning"
+            },
+            "custom_fields_str_json": "{\"cargo place\":\"Leave the cargo near to the entrance door\",\"message for client\":\"Next cargo will be delivered tomorrow morning\"}",
             "custom_fields_config": null,
             "custom_fields_config_str_json": "null",
             "notes": [],

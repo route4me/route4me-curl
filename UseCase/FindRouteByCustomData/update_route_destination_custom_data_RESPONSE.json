@@ -69,9 +69,11 @@
     "tracking_number": "E186DKGR",
     "custom_fields": {
         "cargo place": "Leave the cargo near to the entrance door",
-        "message for client": "Next cargo will be delivered tomorrow morning"
+        "message for client": "Next cargo will be delivered tomorrow morning",
+        "cargo_place": "Leave the cargo near to the entrance door",
+        "message_for_client": "Next cargo will be delivered tomorrow morning"
     },
-    "custom_fields_str_json": "{\"cargo place\":\"Leave the cargo near to the entrance door\",\"message for client\":\"Next cargo will be delivered tomorrow morning\"}",
+    "custom_fields_str_json": "{\"cargo place\":\"Leave the cargo near to the entrance door\",\"message for client\":\"Next cargo will be delivered tomorrow morning\",\"cargo_place\":\"Leave the cargo near to the entrance door\",\"message_for_client\":\"Next cargo will be delivered tomorrow morning\"}",
     "custom_fields_config": null,
     "custom_fields_config_str_json": "null",
     "notes": []

@@ -1,4 +1,5 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/api.v4/address.php
 
 :: You should insert real test data and your API key for accurate testing
