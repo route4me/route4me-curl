@@ -1,0 +1,15 @@
+{
+   "mpg": 10,
+   "gas_price": 2,
+   "parameters": {
+		"vehicle_capacity": 10,
+        "vehicle_max_cargo_weight": 35,
+        "vehicle_max_cargo_volume": 80,
+        "vehicle_max_distance_mi": 99999,
+        "subtour_max_revenue": 10000,
+		"parts": 10,
+        "parts_min": 1,
+		"max_tour_size": 91,
+        "min_tour_size": 2
+   }
+}
