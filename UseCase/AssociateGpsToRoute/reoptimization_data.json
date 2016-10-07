@@ -1,5 +1,6 @@
 {
-	"parameters": {
-        "traffic_multiplier": 1.5
-	}
+   "parameters": {
+		"avoid": "Highways",
+		"avoidance_zones":["29AACF4A1B5F38F50EF7A7EAF6DCAFAB"]
+   }
 }
