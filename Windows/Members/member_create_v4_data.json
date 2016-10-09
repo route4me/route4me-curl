@@ -1,0 +1,19 @@
+{
+	"member_first_name": "Clay",
+	"member_last_name": "Abraham",
+	"member_phone": "571-259-5939",
+	"member_type": "SUB_ACCOUNT_DISPATCHER",
+	"member_email": "skrynkovskyy+newdispatcher@gmail.com",
+	"member_password": "123456",
+	"OWNER_MEMBER_ID": "1116",
+	"member_zipcode": "22102",
+	"preferred_language": "en",
+	"preferred_units": "ml",
+	"HIDE_NONFUTURE_ROUTES": false,
+	"HIDE_VISITED_ADDRESSES": false,
+	"HIDE_ROUTED_ADDRESSES": false,
+	"READONLY_USER": false,
+	"SHOW_ALL_VEHICLES": false,
+	"SHOW_ALL_DRIVERS": false,
+	"date_of_birth": "2010"
+}
