@@ -1,5 +1,6 @@
 @ECHO OFF
-SET url=https://www.route4me.com/api/member/view_users.php
+
+SET url=https://www.route4me.com/api.v4/user.php
 SET apikey=11111111111111111111111111111111
 
 :: View existing sub-users in a Member's account
