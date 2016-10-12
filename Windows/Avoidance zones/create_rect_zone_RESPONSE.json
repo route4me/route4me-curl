@@ -1,0 +1,13 @@
+{
+	"territory_id": "00BDD621FFF56266ED0BF7276B8DF7BA",
+	"member_id": "1",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"territory": {
+		"type": "rect",
+		"data": [
+			"43.51668853502909,-109.3798828125",
+			"46.98025235521883,-101.865234375"
+		]
+	}
+}
