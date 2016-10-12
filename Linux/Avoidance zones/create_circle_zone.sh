@@ -2,9 +2,10 @@
 
 url=https://www.route4me.com/api.v4/avoidance.php
 apikey=11111111111111111111111111111111
-terid=03C0330958139E3EDF61EFFCEFBBD64E
 
-curl -o file1.txt -g -k -X POST -d '@create_circle_zone_data.json' "$url?api_key=$apikey&territory_id=$terid"
+# Example demonstrates creating an avoidance zone with circle shape by sending HTTP parameters
+ 
+curl -o file1.txt -g -k -X POST -d "@create_circle_zone_data.json" "$url?api_key=$apikey"
 
 echo "Finished..."
 
