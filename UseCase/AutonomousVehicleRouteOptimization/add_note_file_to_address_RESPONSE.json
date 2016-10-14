@@ -1,0 +1,20 @@
+{
+	"status": true,
+	"note_id": "863541",
+	"upload_id": "b1ffae623e0261d180a7337a8039480a",
+	"note": {
+		"note_id": 863541,
+		"route_id": "EDE99139F62A036E9651D4A2AD168E81",
+		"route_destination_id": 178141214,
+		"ts_added": 1476431999,
+		"activity_type": "",
+		"upload_id": "b1ffae623e0261d180a7337a8039480a",
+		"upload_extension": "pdf",
+		"upload_url": "http:\/\/adb6def9928467589ebb-f540d5a8d53c2e76ad581b6e5c346ad6.r74.cf1.rackcdn.com\/b1ffae623e0261d180a7337a8039480a.pdf",
+		"upload_type": "ANY_FILE",
+		"contents": "",
+		"lat": 33.132675,
+		"lng": -83.244743,
+		"device_type": "web"
+	}
+}
