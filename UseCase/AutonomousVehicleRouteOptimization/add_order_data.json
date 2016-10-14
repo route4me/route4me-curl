@@ -1,7 +1,7 @@
 {
 	"address_1": "1358 E Luzerne St, Philadelphia, PA 19124, US",
-	"cached_lat"            : 48.335991,
-	"cached_lng"            : 31.18287,
+	"cached_lat"            : 41.315116882324,
+	"cached_lng"            : -81.558746337891,
 	"address_alias"         : "Auto test address",
 	"address_city"          : "Philadelphia",
 	"EXT_FIELD_first_name"  : "Igor",
@@ -10,9 +10,9 @@
 	"EXT_FIELD_phone"       : "380380380380",
 	"EXT_FIELD_custom_data" : [
 		{
-			"Delivery date": "2016-14-10 10:30"
-			"Item" : "French cookbook, 20",
-			"Item" : "Indian cookbook", 15"
+			"Delivery_date": "2016-14-10 10:30",
+			"Item1" : "French cookbook, 20",
+			"Item2" : "Indian cookbook, 15"
 		}
 	]
 }
