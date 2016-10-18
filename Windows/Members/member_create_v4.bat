@@ -1,8 +1,7 @@
 @ECHO OFF
 
 SET url=https://route4me.com/api.v4/user.php
-SET apikey=3E7F2F233DB726CF36E9610863E4727A
-SET email=olllandia654@gmail.com
+SET apikey=11111111111111111111111111111111
 
 ECHO ON
 
