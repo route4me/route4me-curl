@@ -1,25 +1,25 @@
 [
     {
-        "route_id": "422E488B1ABD5C37C23583052D3EFD73",
+        "route_id": "814FB49CEA8188D134E9D4D4B8B0DAF7",
         "optimization_problem_id": "E454F67078391C9A46D9C40CD022D450",
         "user_route_rating": null,
         "member_id": 1,
         "member_email": "dan@novapulsar.com",
         "member_first_name": "Dan",
         "member_last_name": "Khasis",
-        "channel_name": "f678a6206ed9c80f1c325d4ca3954ae4",
+        "channel_name": "29ff0bb9e6b81a1dd52abe7bc37f611c",
         "vehicle_alias": "N\/A",
         "driver_alias": "N\/A",
-        "trip_distance": 77.28,
+        "trip_distance": 78.05,
         "is_unrouted": false,
         "route_cost": 0,
         "route_revenue": 0,
         "net_revenue_per_distance_unit": 0,
-        "created_timestamp": 1475324642,
+        "created_timestamp": 1475853212,
         "mpg": 10,
         "gas_price": 2,
-        "route_duration_sec": 9111,
-        "planned_total_route_duration": 9111,
+        "route_duration_sec": 9455,
+        "planned_total_route_duration": 9455,
         "actual_travel_distance": 0,
         "actual_travel_time": 0,
         "actual_footsteps": 0,
@@ -46,8 +46,10 @@
             "subtour_max_revenue": null,
             "distance_unit": "mi",
             "travel_mode": "Driving",
-            "avoid": "",
-            "avoidance_zones": [],
+            "avoid": "Highways",
+            "avoidance_zones": [
+                "29AACF4A1B5F38F50EF7A7EAF6DCAFAB"
+            ],
             "vehicle_id": null,
             "driver_id": null,
             "dev_lat": null,
@@ -84,7 +86,7 @@
         },
         "addresses": [],
         "links": {
-            "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=422E488B1ABD5C37C23583052D3EFD73&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+            "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=814FB49CEA8188D134E9D4D4B8B0DAF7&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
             "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=E454F67078391C9A46D9C40CD022D450&api_key=11111111111111111111111111111111&member_id=1"
         },
         "notes": []
