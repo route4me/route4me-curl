@@ -1,8 +1,11 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
+
 :: route_id is not real - put real value
-SET routeid=422E488B1ABD5C37C23583052D3EFD73
+
+SET routeid=CEF9073F2C7BD79D967895A88E07F863
 
 ECHO ON
 

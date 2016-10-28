@@ -2,9 +2,9 @@
 
 SET url=https://www.route4me.com/api.v4/optimization_problem.php
 SET apikey=11111111111111111111111111111111
-SET optprobid=E454F67078391C9A46D9C40CD022D450
+SET optprobid=62AA10A7B1AF948E5D81339630F0192A
 
 ECHO ON
-curl -o file1.txt -g -X PUT -k -d "@update_route_data.json" "%url%?api_key=%apikey%&optimization_problem_id=%optprobid%&reoptimize=1" 
+curl -o file1.txt -g -X PUT -k "%url%?api_key=%apikey%&optimization_problem_id=%optprobid%&reoptimize=1" 
 
 timeout /t 30
