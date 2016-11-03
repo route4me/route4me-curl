@@ -1,0 +1,228 @@
+[{
+	"id": 27,
+	"code": "6bcd0373-c72c-42f1-81d7-a36c48983e16",
+	"name": "sample_simulation_110116",
+	"creation_date": "2016-11-01T16:05:01Z",
+	"locations": [{
+		"name": "McDonalds-Absecon,NJ",
+		"address": "551 White Horse Pike",
+		"latitude": 39.43096,
+		"longitude": -74.50995
+	},
+	{
+		"name": "McDonalds-Asbury Park,NJ",
+		"address": "1501 Main St",
+		"latitude": 40.22814,
+		"longitude": -74.00912
+	},
+	{
+		"name": "McDonalds-Atlantic City,NJ",
+		"address": "1537 Atlantic Ave",
+		"latitude": 39.36152,
+		"longitude": -74.4299
+	},
+	{
+		"name": "McDonalds-Atlantic City,NJ",
+		"address": "31 N Arkansas Ave",
+		"latitude": 39.35928,
+		"longitude": -74.43736
+	},
+	{
+		"name": "McDonalds-Atlantic City,NJ",
+		"address": "600 N Albany Ave",
+		"latitude": 39.35889,
+		"longitude": -74.46115
+	},
+	{
+		"name": "McDonalds PlayPlace-Atlantic Highlands,NJ",
+		"address": "970 Rt 36",
+		"latitude": 40.41156,
+		"longitude": -74.04691
+	},
+	{
+		"name": "McDonalds-Avenel,NJ",
+		"address": "1256 Saint Georges Ave",
+		"latitude": 40.58186,
+		"longitude": -74.2933
+	},
+	{
+		"name": "McDonalds-Barnegat,NJ",
+		"address": "580 N Main St",
+		"latitude": 39.77028,
+		"longitude": -74.21124
+	},
+	{
+		"name": "McDonalds-Bayonne,NJ",
+		"address": "157 W 63rd St",
+		"latitude": 40.69421,
+		"longitude": -74.10345
+	},
+	{
+		"name": "McDonalds PlayPlace-Bayonne,NJ",
+		"address": "537 Broadway",
+		"latitude": 40.66541,
+		"longitude": -74.11722
+	},
+	{
+		"name": "McDonalds-Bayville,NJ",
+		"address": "417 Atlantic City Blvd",
+		"latitude": 39.91467,
+		"longitude": -74.15432
+	},
+	{
+		"name": "McDonalds-Belleville,NJ",
+		"address": "173 Franklin St",
+		"latitude": 40.78268,
+		"longitude": -74.18259
+	},
+	{
+		"name": "McDonalds-Belleville,NJ",
+		"address": "663 Washington Ave",
+		"latitude": 40.80309,
+		"longitude": -74.14607
+	},
+	{
+		"name": "McDonalds PlayPlace-Berlin,NJ",
+		"address": "230 White Horse Pike",
+		"latitude": 39.78916,
+		"longitude": -74.92641
+	},
+	{
+		"name": "McDonalds-Berlin,NJ",
+		"address": "Rt 73 And Milford Rd",
+		"latitude": 39.80104,
+		"longitude": -74.93175
+	},
+	{
+		"name": "McDonalds-Blackwood,NJ",
+		"address": "1521 Blackwooe & Clementon",
+		"latitude": 39.80329,
+		"longitude": -75.04394
+	},
+	{
+		"name": "McDonalds-Bloomfield,NJ",
+		"address": "425 Broad St",
+		"latitude": 40.80787,
+		"longitude": -74.19215
+	},
+	{
+		"name": "McDonalds-Boonton,NJ",
+		"address": "568 Myrtle Ave",
+		"latitude": 40.90865,
+		"longitude": -74.39539
+	},
+	{
+		"name": "McDonalds-Bordentown,NJ",
+		"address": "255 Us 130",
+		"latitude": 40.14709,
+		"longitude": -74.70151
+	}],
+	"depots": [{
+		"id": 189,
+		"name": "Depot 1",
+		"address": "Hartle Street Industrial Park in Sayreville, NJ",
+		"latitude": 40.459402,
+		"longitude": -74.360846,
+		"drivers_count": "0.00",
+		"cost_per_driver_per_hour": "10.00",
+		"cost_per_vehicle_per_hour": "12.00",
+		"onetime_fee": "21600.00",
+		"recurring_fee": "10800.00",
+		"recurring_fee_frequency": "monthly",
+		"drivers": 15,
+		"cube": "0.00",
+		"pieces": "0.00",
+		"revenue": "0.00",
+		"weight": "0.00",
+		"distance": "0.00",
+		"estimated_travel_time": "0.00",
+		"estimated_wait_time": "0.00",
+		"estimated_service_time": "0.00",
+		"estimated_total_time": "0.00",
+		"estimated_travel_time_hour": "0.00",
+		"estimated_wait_time_hour": "0.00",
+		"estimated_service_time_hour": "0.00",
+		"estimated_total_time_hour": "0.00",
+		"cost_km": "0.00",
+		"profit_km": "0.00",
+		"cost_mile": "0.00",
+		"profit_mile": "0.00",
+		"stops_distance": "0.00",
+		"stops_hour": "0.00",
+		"total_fuel_cost": "0.00",
+		"total_labor_cost": "0.00",
+		"total_vehicle_cost": "0.00",
+		"transactions_hour": "0.00",
+		"cubic_volume_stops": "0.00",
+		"cubic_volume_distance": "0.00",
+		"pieces_distance": "0.00",
+		"weight_distance": "0.00",
+		"weight_stops": "0.00",
+		"depot_cost": "10800.00",
+		"total_operational_cost": "0.00",
+		"total_cost": "0.00",
+		"daily_depot_cost": "0.00",
+		"optimization_id": "",
+		"routes": []
+	},
+	{
+		"id": 190,
+		"name": "Depot 2",
+		"address": "1430 Jersey Ave, North Brunswick, NJ, 08902",
+		"latitude": 40.462336,
+		"longitude": -74.48231,
+		"drivers_count": "0.00",
+		"cost_per_driver_per_hour": "12.00",
+		"cost_per_vehicle_per_hour": "15.00",
+		"onetime_fee": "31624.00",
+		"recurring_fee": "15812.00",
+		"recurring_fee_frequency": "monthly",
+		"drivers": 15,
+		"cube": "0.00",
+		"pieces": "0.00",
+		"revenue": "0.00",
+		"weight": "0.00",
+		"distance": "0.00",
+		"estimated_travel_time": "0.00",
+		"estimated_wait_time": "0.00",
+		"estimated_service_time": "0.00",
+		"estimated_total_time": "0.00",
+		"estimated_travel_time_hour": "0.00",
+		"estimated_wait_time_hour": "0.00",
+		"estimated_service_time_hour": "0.00",
+		"estimated_total_time_hour": "0.00",
+		"cost_km": "0.00",
+		"profit_km": "0.00",
+		"cost_mile": "0.00",
+		"profit_mile": "0.00",
+		"stops_distance": "0.00",
+		"stops_hour": "0.00",
+		"total_fuel_cost": "0.00",
+		"total_labor_cost": "0.00",
+		"total_vehicle_cost": "0.00",
+		"transactions_hour": "0.00",
+		"cubic_volume_stops": "0.00",
+		"cubic_volume_distance": "0.00",
+		"pieces_distance": "0.00",
+		"weight_distance": "0.00",
+		"weight_stops": "0.00",
+		"depot_cost": "15812.00",
+		"total_operational_cost": "0.00",
+		"total_cost": "0.00",
+		"daily_depot_cost": "0.00",
+		"optimization_id": "",
+		"routes": []
+	}],
+	"end_date": "2016-11-02T22:03:15Z",
+	"fuel_cost_per_gallon": "2.32",
+	"miles_per_gallon": "9.00",
+	"status": "completed",
+	"elapsed_time": 0.0,
+	"avg_time": "30.00",
+	"departure_day": "2016-11-01T16:05:01Z",
+	"departure_time": "2016-11-01T16:05:01Z",
+	"peak_season_start": "2016-11-01T16:05:01Z",
+	"peak_season_stop": "2016-11-01T16:05:01Z",
+	"labor_peak_season": "15.00",
+	"annual_inflation": "3.00"
+}]
