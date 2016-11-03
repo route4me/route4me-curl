@@ -1,0 +1,276 @@
+{
+	"info": {
+		"version": "",
+		"title": "Route4Me Depots Optimization API"
+	},
+	"paths": {
+		"/depots/api/v0.1/depot/{pk}": {
+			"put": {
+				"tags": ["depot"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "pk"
+				},
+				{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "name"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "cost_per_driver_per_hour"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "cost_per_vehicle_per_hour"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "onetime_fee"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "recurring_fee"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/job/download/{job_id}": {
+			"get": {
+				"tags": ["download"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "job_id"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/channel/": {
+			"get": {
+				"tags": ["channel"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/routes/{pk}": {
+			"get": {
+				"tags": ["routes"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "pk"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/docs/": {
+			"get": {
+				"tags": ["docs"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/route/path/{route_id}": {
+			"get": {
+				"tags": ["path"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "route_id"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/optimization/": {
+			"post": {
+				"tags": ["optimization"],
+				"responses": {
+					"201": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "optimization_id"
+				},
+				{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "routes"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/job/view/{job_id}": {
+			"get": {
+				"tags": ["view"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "job_id"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "query",
+					"name": "page"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/jobs/{pk}": {
+			"delete": {
+				"tags": ["jobs"],
+				"responses": {
+					"204": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "pk"
+				}],
+				"description": ""
+			},
+			"get": {
+				"tags": ["jobs"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "pk"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "query",
+					"name": "page"
+				}],
+				"description": ""
+			}
+		},
+		"/depots/api/v0.1/job/{pk}": {
+			"put": {
+				"tags": ["job"],
+				"responses": {
+					"200": {
+						"description": ""
+					}
+				},
+				"parameters": [{
+					"required": true,
+					"type": "string",
+					"description": "",
+					"in": "path",
+					"name": "pk"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "fuel_cost_per_gallon"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "annual_inflation"
+				},
+				{
+					"required": false,
+					"type": "string",
+					"description": "",
+					"in": "formData",
+					"name": "miles_per_gallon"
+				}],
+				"description": ""
+			}
+		}
+	},
+	"host": "",
+	"swagger": "2.0",
+	"securityDefinitions": {
+		"basic": {
+			"type": "basic"
+		}
+	}
+}
