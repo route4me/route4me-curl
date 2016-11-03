@@ -13,7 +13,7 @@ SET miles_per_gallon=10
 
 ECHO ON
 
-:: Examlple refers to creating optimization simulation object with the form data parameters
+:: Examlple refers to the process of updating a job by sending form data parameters
 
 curl -o file1.txt -k -g -X PUT ^
 	-F "api_key=%api_key%" ^
