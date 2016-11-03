@@ -13,7 +13,7 @@ SET recurring_fee=40
 
 ECHO ON
 
-:: Examlple refers to creating optimization simulation object with the form data parameters
+:: Examlple refers to the process of updating depot object by sending form data
 
 curl -o file1.txt -k -g -X PUT ^
 	-F "api_key=%api_key%" ^
