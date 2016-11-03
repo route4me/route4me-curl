@@ -6,7 +6,7 @@ SET pk=28
 
 ECHO ON
 
-:: Examlple refers to the process of getting a job by ID
+:: Examlple refers to the process of getting the routes by sending job ID
 
 curl -o file1.txt -k -g -X GET "%url%%pk%?api_key=%apikey%"
 
