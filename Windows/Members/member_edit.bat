@@ -3,7 +3,7 @@
 SET url=https://www.route4me.com/api.v4/user.php
 SET apikey=11111111111111111111111111111111
 
-:: Edit existing sub-users in a Member's account
+:: Edit existing member's account
 
 ECHO ON
 
