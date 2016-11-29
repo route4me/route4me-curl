@@ -7,7 +7,8 @@ addressid=160940135
 departed=1
 member=1
 
-# is_departed=1 means address was departed, is_departed=0 --- not departed
+# The example refers to the process of marking an address as departed.
+# is_departed=1 means address was marked as departed.
 
 curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_departed=$departed=$departed&member_id=$member"
 
