@@ -7,7 +7,8 @@ SET routedestinationid=167899269
 
 ECHO ON
 
-:: is_visited=1 means address was visited, is_visited=0 --- not visited
+:: The example refers to the process of marking an address as detected as visited.
+:: is_visited=1 means address was marked as visited.
 
 curl -o file1.txt -k -g -X PUT -H "Content-Type: application/json" -d "@mark_address_as_detected_as_visited_data.json" "%url%?api_key=%apikey%&route_id=%routeid%&route_destination_id=%routedestinationid%"
 
