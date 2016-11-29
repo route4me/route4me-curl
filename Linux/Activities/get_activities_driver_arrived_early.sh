@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# You should insert real test data and your API key for accurate testing
+# Example refers to the process of getting all driver-arrived-early activities
 
 url=https://www.route4me.com/api/get_activities.php
 apikey=11111111111111111111111111111111
