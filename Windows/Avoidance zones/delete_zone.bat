@@ -1,7 +1,10 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/api.v4/avoidance.php
 SET apikey=11111111111111111111111111111111
 SET terid1=083F0E34A2271FCAFA5476A364F32B4E
+
+:: The example refers to the process of removing an avoidance zone from an user account.
 
 ECHO ON
 
