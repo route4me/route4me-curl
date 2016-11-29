@@ -3,7 +3,8 @@
 url=https://www.route4me.com/api.v4/address_book.php
 apikey=11111111111111111111111111111111
 
-# Example demostrates search for all Addressbook contacts, any specified fields which of contains search_text value. The result will contain only fields listed in the parameter 'fields'
+# The example refers to the process of getting limited number of the addressbook contacts, any specified fields which of contains searched text.
+# The successful response will contain only fields listed in the parameter 'fields'
 
 search_text="david"
 fields="first_name,address_email"

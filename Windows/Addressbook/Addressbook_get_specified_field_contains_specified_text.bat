@@ -2,9 +2,10 @@ ECHO OFF
 SET url=https://www.route4me.com/api.v4/address_book.php
 SET apikey=11111111111111111111111111111111
 
-:: Example demostrates search for all Addressbook contacts, any specified fields which of contains search_text value. The result will contain only fields listed in the parameter 'fields'
+:: The example refers to the process of getting limited number of the addressbook contacts, any specified fields which of contains searched text.
+:: The successful response will contain only fields listed in the parameter 'fields'
 
-SET search_text="peter"
+SET search_text="David"
 SET fields="first_name,address_email"
 SET offset=0
 SET limit=20
