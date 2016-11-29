@@ -1,5 +1,6 @@
 #!/bin/bash
-# Add Addressbook Contact
+
+# The example refers to the process of creating new location in an address book belonged to an user.
 
 url=http://www.route4me.com/api.v4/address_book.php
 apikey=11111111111111111111111111111111
