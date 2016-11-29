@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# You should insert real test data and your API key for accurate testing
-# Needs clarification --- in route_id returns always 00000000000000000000000000000000
+# Example refers to the process of getting all area-removed activities
 
 url=https://www.route4me.com/api/get_activities.php
 apikey=11111111111111111111111111111111
