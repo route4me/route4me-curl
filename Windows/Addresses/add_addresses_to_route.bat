@@ -4,7 +4,7 @@ SET url=http://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
 SET routeid=26312274727B95E07BEC2711449C458A
 
-:: The example refers to the process of adding an addres to a route.
+:: The example refers to the process of adding an address to a route.
 :: You should insert real test data and your API key for accurate testing.
 
 ECHO ON

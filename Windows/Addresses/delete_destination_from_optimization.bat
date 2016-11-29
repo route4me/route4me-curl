@@ -5,7 +5,7 @@ SET apikey=11111111111111111111111111111111
 SET optprobid=692C7776603BB4858900E0D000CA102A
 SET routedestinationid=175374836
 
-:: The example refers to the process of removing an addres from an optimization.
+:: The example refers to the process of removing an address from an optimization.
 
 ECHO ON
 
