@@ -7,7 +7,7 @@ housenumber=17
 offset=0
 limit=20
 
-# get street data filtered by zipcode and housenumber with limit and offset
+# The example refers to the process of getting street data filtered by specified zipcode and housenumber and limited by specified parameters.
 
 curl -o file1.txt -g -X GET -k "$url/$zipcode/$housenumber/$offset/$limit/?api_key=$apikey"
 
