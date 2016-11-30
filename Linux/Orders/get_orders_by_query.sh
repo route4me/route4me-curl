@@ -3,7 +3,7 @@
 url=http://www.route4me.com/api.v4/order.php
 apikey=11111111111111111111111111111111
 
-# Example demostrates process of the searching all Orders with containing specified text in any field.
+# The example refers to the process of the searching all Orders containing specified text in any field.
 
 query="David"
 
