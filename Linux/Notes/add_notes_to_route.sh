@@ -14,7 +14,7 @@ dev_type=web
 updatetype=dropoff
 content=Note example for Destination Audit Use Case
 
-# The example refers to the process of adding a note to a route by sending HTTP paramters.
+# The example refers to the process of adding a note to a route by sending HTTP parameters.
 
 curl -o file1.txt -g -k -X POST -H "Content-Type: multipart/form-data;" -F "strNoteContents=$content" -F "strUpdateType=$dropoff" "$url?api_key=$apikey&route_id=$routeid&address_id=$addrid&dev_lat=$dev_lat&dev_lng=$dev_lng&device_type=$dev_type"
 

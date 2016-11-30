@@ -14,7 +14,7 @@ SET dev_type=web
 SET updatetype=dropoff
 SET content=Note example for Destination Audit Use Case
 
-:: The example refers to the process of adding a note to a route by sending HTTP paramters.
+:: The example refers to the process of adding a note to a route by sending HTTP parameeters.
 
 ECHO ON
 
