@@ -1,12 +1,12 @@
 @ECHO OFF
 SET url=https://www.route4me.com/api/geocoder.php
 SET apikey=11111111111111111111111111111111
-SET format=xml
+SET format=json
 SET addrs="Los20%Angeles20%International20%Airport,20%CA"
 
 ECHO ON
 
-:: You can put in the parameter 'addresses' more than one addresses divided by '||', but only one address will be processed, rest addresses will be ignored.
+:: The example refers to the process of the forward geocoding.
 
 curl -o file1.txt -k -g -X POST "%URL%?api_key=%apikey%&format=%format%&addresses=%addrs%" 
 
