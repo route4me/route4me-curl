@@ -1,8 +1,9 @@
 ECHO OFF
+
 SET url=http://www.route4me.com/api.v4/order.php
 SET apikey=11111111111111111111111111111111
 
-:: Example demostrates the process of searching all Orders with specified custom fields.
+:: The example refers to the process of getting specified custom fields of all Orders.
 
 SET "fields=order_id,member_id"
 
