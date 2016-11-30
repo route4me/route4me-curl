@@ -1,17 +1,20 @@
 @ECHO OFF
 
-:: Add a note to the route using of file uploading
-:: route_id and address_id are not real - put real values
 SET url=https://www.route4me.com/actions/addRouteNotes.php
+
 SET apikey=11111111111111111111111111111111
 SET routeid=5C15E83A4BE005BCD1537955D28D51D7
+
 SET addrid=162916895
 SET dev_lat=33.132675170898
 SET dev_lng=-83.244743347168
+
 SET dev_type=web
 SET updatetype=dropoff
 SET "filename=notes.csv"
 SET "strNoteContents=This is content with file uploading"
+
+:: The example refers to the process of adding a note to a route with a file uploading and by sending HTTP parameters.
 
 ECHO ON
 
