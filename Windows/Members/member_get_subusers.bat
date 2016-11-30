@@ -3,7 +3,7 @@
 SET url=https://www.route4me.com/api.v4/user.php
 SET apikey=11111111111111111111111111111111
 
-:: View existing sub-users in a Member's account
+:: The example refers to the process of getting the existing sub-users.
 
 ECHO ON
 
