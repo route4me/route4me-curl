@@ -1,12 +1,15 @@
 @ECHO OFF
+
 SET url=https://rapid.route4me.com/street_data
 SET apikey=11111111111111111111111111111111
-SET offset=0
-SET limit=20
+SET offset=5
+SET limit=10
 
 ECHO ON
 
-:: get street data with limit and offset --- Attention, this doesn't work, needs clarification
-curl -o file1.txt -g -X GET -k "%URL%/%offset%/%limit%/?api_key=%apikey%"
+:: The example refers to the process of getting limited number of the street data.
+:: Attention, this endpoint doesn't work at offset=0
+
+curl -o file1.txt -g -X GET -k "%url%/%offset%/%limit%/?api_key=%apikey%"
 
 timeout /t 30
