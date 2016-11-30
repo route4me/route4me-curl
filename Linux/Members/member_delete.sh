@@ -3,7 +3,7 @@
 url=https://www.route4me.com/api.v4/user.php
 apikey=11111111111111111111111111111111
 
-# Remove existing sub-users in a Member's account
+# The example refers to the process of removing an existing sub-user from a member's account
 
 curl -o file1.txt -g -X DELETE -d "@member_delete_data.json" -k "$url?api_key=$apikey"
 
