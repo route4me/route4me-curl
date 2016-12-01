@@ -1,11 +1,12 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
-SET "routeid=270CB108F227AD6E11827FC08EE4E2D7,C340E3F6AF28E20EFAE0FBE51759C338"
+SET "routeid=D924D95010E517AA43755636B0C98045,EAEED381ACFC398C69B24B8CEA7708D9"
 
 ECHO ON
 
-:: Example demonstrates the process of deleting specified routes by ids sent with HTTP DELETE data
+:: The example refers to the process of removing the specified routes by sending their IDs with HTTP DELETE method.
 
 curl -o file1.txt -g -k -X DELETE "%url%?api_key=%apikey%&route_id=%routeid%" 
 
