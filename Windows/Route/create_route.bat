@@ -1,10 +1,12 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=https://www.route4me.com/api.v4/optimization_problem.php
 SET apikey=11111111111111111111111111111111
-SET opi=31AC533ECF9429CDECCECC530745F7BD
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -H "Content-Type: application/json" -d "@new_route_data.json" "%url%/api.v4/optimization_problem.php?api_key=%apikey%&optimization_problem_id=%opi%"
+:: The example refers to the process of creating new route.
+
+curl -o file1.txt -g -k -X POST -H "Content-Type: application/json" -d "@new_route_data.json" "%url%?api_key=%apikey%"
 
 timeout /t 30
