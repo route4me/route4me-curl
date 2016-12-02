@@ -9,8 +9,6 @@ remove_origin=false
 depot_lat=38.285804
 depot_lng=-77.555054
 
-ECHO ON
-
 # The example refers to the process of merging of the two routes into one route.
 # Attention - this function requires clarification, it doesn't work properly. Will be updated soon.
 
