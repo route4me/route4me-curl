@@ -1,10 +1,13 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=https://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
-SET routeid=3A2DD89E6E1A044B2098AD1313E3138C
+SET routeid=C896D0DB99C57B483D9F51B97260DCB5
+
+:: The example refers to the process of getting a route by sending HTTP parameters.
 
 ECHO ON
 
-curl -o file1.txt -g -X GET "%URL%/api.v4/route.php?route_id=%routeid%&api_key=%apikey%" 
+curl -o file1.txt -g -k -X GET "%URL%?route_id=%routeid%&api_key=%apikey%" 
 
 timeout /t 30
