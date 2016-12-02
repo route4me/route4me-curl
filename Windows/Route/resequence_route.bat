@@ -1,8 +1,11 @@
 @ECHO OFF
+
 SET url=http://www.route4me.com/api.v4/route.php
 SET apikey=11111111111111111111111111111111
-SET routeid=5C15E83A4BE005BCD1537955D28D51D7
-SET routedestid=160955261
+SET routeid=F0C842829D8799067F9BF7A495076335
+SET routedestid=174389214
+
+:: The example refers to the process of resequencing a specified address inside a route.
 
 ECHO ON
 
