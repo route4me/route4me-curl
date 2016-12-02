@@ -3,16 +3,18 @@
 setlocal enableDelayedExpansion
 
 SET url=https://www.route4me.com/actions/merge_routes.php
-SET apikey=11111111111111111111111111111111
-SET "route_ids=E819198B0D10364DD0AFC2944EAB3F17,F6BF7DC230A12D856DC78BBCB26F37D1"
-SET "depot_address=559 W Aurora Rd, Northfield, OH 44067"
-SET "depot_address=!depot_address: =%%20!"
-SET remove_origin=false
-SET depot_lat=41.315116882324
-SET depot_lng=-81.558746337891
+SET apikey=1D479A8464677D9FC054EB7D00B046D2
+SET route_destination_id=167899059
+SET route_ids=56E8F6BF949670F0C0BBAC00590FD116,A6DAA07A7D4737723A9C85E7C3BA2351
+SET "depot_address=11921 N Dickinson Dr, Fredericksburg, VA 22407, USA"
+SET "remove_origin=false"
+SET depot_lat=38.285804
+SET depot_lng=-77.555054
 
 ECHO ON
-:: curl -o file1.txt -g -k -H "Content-Type: application/x-www-form-urlencoded" -X POST -d '@merge_route_data.json' "%url%?api_key=%apikey%"
+
+:: The example refers to the process of merging of the two routes into one route.
+:: Attention - this function requires clarification, it doesn't work properly. Will be updated soon.
 
 curl -o file1.txt -g -k -H "multipart/form-data" -X POST ^
 -F "route_ids=%route_ids%" ^
