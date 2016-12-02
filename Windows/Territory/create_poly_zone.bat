@@ -1,7 +1,10 @@
 @ECHO OFF
+
 SET url=https://www.route4me.com/api.v4/territory.php
 SET apikey=11111111111111111111111111111111
 SET terid=03C0330958139E3EDF61EFFCEFBBD64E
+
+:: The example refers to the process of creating a territory zone with polygone shape by sending HTTP data.
 
 ECHO ON
 
