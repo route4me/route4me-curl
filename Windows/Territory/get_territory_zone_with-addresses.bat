@@ -7,7 +7,7 @@ SET addresses=1
 
 ECHO ON
 
-:: This example refers to the process of getting Territory zone with enclosed addresses.
+:: The example refers to the process of getting Territory zone with covered addresses.
 
 curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&territory_id=%terid%&addresses=%addresses%"
 
