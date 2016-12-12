@@ -1,8 +1,8 @@
 {
 	"parameters": {
         "algorithm_type": 1,
-		"StoreRoute": true,
-		"RouteName": "Single Driver Route 7 Stops",
+		"store_route": true,
+		"route_name": "כביש נהג יחיד 7 מפסיקים (csharp)",
 		"route_time": 25200,
 		"optimize": "Distance",
 		"distance_unit": "mi",
