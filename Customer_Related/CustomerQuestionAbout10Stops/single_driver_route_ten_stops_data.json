@@ -1,0 +1,49 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+		"StoreRoute": true,
+		"RouteName": "Single Driver Route 6 Stops",
+		"optimize": "Distance",
+		"distance_unit": "mi",
+        "device_type": "web"
+    },
+    "addresses": [
+	  {
+		"lng": -83.237459,
+		"lat": 33.142862,
+		"is_depot": true,
+		"sequence_no": 1,
+		"address": "139 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.237532,
+		"lat": 33.141923,
+		"is_depot": false,
+		"address": "117 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.237352,
+		"lat": 33.144148,
+		"is_depot": false,
+		"address": "151 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.239325,
+		"lat": 33.143338,
+		"is_depot": false,
+		"address": "138 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.238881,
+		"lat": 33.142288,
+		"is_depot": false,
+		"address": "133 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.238278,
+		"lat": 33.141329,
+		"is_depot": false,
+		"address": "119 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  }
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+		"store_route": true,
+		"route_name": "כביש נהג יחיד 7 מפסיקים (curl(cmd)_161216)",
+		"route_time": 25200,
+		"optimize": "Distance",
+		"distance_unit": "mi",
+        "device_type": "web"
+    },
+    "addresses": [
+	  {
+		"lng": 34.775779,
+		"lat": 32.090734,
+		"is_depot": true,
+		"address": "דיזנגוף 229 תל אביב-יפו, 63,116, ישראל"
+	  },
+	  {
+		"lng": 34.775371,
+		"lat": 32.088689,
+		"is_depot": false,
+		"address": "דיזנגוף 213 תל אביב-יפו, ישראל"
+	  },
+	  {
+		"lng": 34.776894,
+		"lat": 32.083080,
+		"is_depot": false,
+		"address": "שדרות בן גוריון 68 תל אביב-יפו, ישראל"
+	  },
+	  {
+		"lng": 34.779909,
+		"lat": 32.081417,
+		"is_depot": false,
+		"address": "מלכי Yisra'el רחוב תל אביב-יפו, ישראל"
+	  },
+	  {
+		"lng": 34.779866,
+		"lat": 32.077744,
+		"is_depot": false,
+		"address": "נצח ישראל רחוב 9 תל אביב-יפו, ישראל"
+	  },
+	  {
+		"lng": 34.783310,
+		"lat": 32.075644,
+		"is_depot": false,
+		"address": "שאול שדרות המלך 1-13 תל אביב-יפו, ישראל"
+	  },
+	  {
+		"lng": 34.781916,
+		"lat": 32.085298,
+		"is_depot": false,
+		"address": "ארלוזורוב 88 תל אביב-יפו, ישראל"
+	  }
+	]
+}
