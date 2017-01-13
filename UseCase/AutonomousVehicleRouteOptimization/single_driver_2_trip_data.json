@@ -1,0 +1,46 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+        "device_type": "web",
+        "distance_unit": "mi",
+        "member_id": "403634",
+        "optimize": "Distance",
+        "remote_ip": "0",
+        "route_max_duration": 86400,
+        "route_time": 0,
+        "store_route": true,
+        "travel_mode": "Driving",
+		"vehicle_id": "FFFF72BF6E06DC3C746673279BDAAE05",
+        "vehicle_capacity": "1",
+        "vehicle_max_distance_mi": "10000",
+		"disable_optimization": true,
+		"rt":false
+    },
+    "addresses": [
+		{ "address": "3634 W Market St, Fairlawn, OH 44333",
+			"is_depot": true, 
+			"lat":  41.135762259364,
+			"lng": -81.629313826561,
+			"sequence_no": 0
+		},
+		{ "address": "10159 Bissell Dr, Twinsburg, OH 44087",
+			"lat":  41.340042114258,
+			"lng": -81.421226501465,
+			"time_window_start": 35700,
+			"time_window_end": 35820,
+			"time": 120,
+			"sequence_no": 1
+		},
+		{ "address": "6452 Dorset Ln Solon, OH 44139, USA",
+			"lat":  41.383462,
+			"lng": -81.396553,
+			"sequence_no": 2
+        },
+		{ "address": "17638 Chillicothe Rd Chagrin Falls, OH 44023, USA",
+		  "alias": "Stow License Bureau",
+			"lat":  41.389898,
+			"lng": -81.340134,
+			"sequence_no": 3
+        }
+	]
+}

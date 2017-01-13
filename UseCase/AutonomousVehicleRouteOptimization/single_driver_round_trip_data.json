@@ -7,7 +7,7 @@
         "optimize": "Distance",
         "remote_ip": "0",
         "route_max_duration": 86400,
-        "route_time": 0,
+        "route_time": 9022,
         "store_route": true,
         "travel_mode": "Driving",
 		"vehicle_id": "FFFF72BF6E06DC3C746673279BDAAE05",
@@ -17,60 +17,45 @@
     },
     "addresses": [
 	  { "address": "3634 W Market St, Fairlawn, OH 44333",
-                        "is_depot": true, 
-                        "lat":  41.135762259364,
-                        "lng": -81.629313826561
+			"is_depot": true, 
+			"lat":  41.135762259364,
+			"lng": -81.629313826561,
+			"time_window_start": 28800,
+			"time_window_end": 28920
         },
-
         { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
+			"lat":  41.003671512008,
+			"lng": -81.598461046815,
+			"time_window_start": 30180,
+			"time_window_end": 30300
         },
-
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
-        },
-
-        { "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
-                        "lat":  41.162971496582,
-                        "lng": -81.479049682617
-        },
-
         { "address": "1659 Hibbard Dr, Stow, OH 44224",
-                        "lat":  41.194505989552,
-                        "lng": -81.443351581693
+			"lat":  41.194505989552,
+			"lng": -81.443351581693,
+			"time_window_start": 34200,
+			"time_window_end": 34320,
+			"time": 120
         },
-
         { "address": "2705 N River Rd, Stow, OH 44224",
-                        "lat":  41.145240783691,
-                        "lng": -81.410247802734
+			"lat":  41.145240783691,
+			"lng": -81.410247802734,
+			"time_window_start": 33420,
+			"time_window_end": 33540,
+			"time": 120
         },
-
         { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
-                        "lat":  41.340042114258,
-                        "lng": -81.421226501465
+			"lat":  41.340042114258,
+			"lng": -81.421226501465,
+			"time_window_start": 35460,
+			"time_window_end": 35580,
+			"time": 120
         },
-
-        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
-                        "lat":  41.148578643799,
-                        "lng": -81.429229736328
-        },
-
-        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
-                        "lat":  41.148578643799,
-                        "lng": -81.429229736328
-        },
-
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-                        "lat":  41.003671512008,
-                        "lng": -81.598461046815
-        },
-
-        { "address": "559 W Aurora Rd, Northfield, OH 44067",
-                        "lat":  41.315116882324,
-                        "lng": -81.558746337891
+		{ "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
+			"lat":  41.162971496582,
+			"lng": -81.479049682617,
+			"time_window_start": 37382,
+			"time_window_end": 37502,
+			"time": 120
         }
 	]
-    
 }
