@@ -5,9 +5,9 @@
 SET url=https://www.route4me.com/actions/addRouteNotes.php
 SET apikey=11111111111111111111111111111111
 SET routeid=1809542824986BB45A4FA3F10939DA92
-SET addrid=208389370
-SET dev_lat=33.132675170898
-SET dev_lng=-83.244743347168
+SET addrid=208389368
+SET dev_lat=41.003671512008
+SET dev_lng=-81.598461046815
 SET dev_type=web
 SET "filename=flags.pdf"
 
