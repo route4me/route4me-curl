@@ -1,18 +1,17 @@
 {
-	"address_1": "1358 E Luzerne St, Philadelphia, PA 19124, US",
-	"cached_lat"            : 41.315116882324,
-	"cached_lng"            : -81.558746337891,
-	"address_alias"         : "Auto test address",
-	"address_city"          : "Philadelphia",
+	"address_1": "4601 Northfield Rd North Randall, OH 44128, USA",
+	"cached_lat"            : 41.432795,
+	"cached_lng"            : -81.525631,
+	"address_alias"         : "North Randall",
+	"address_city"          : "Cleveland",
 	"EXT_FIELD_first_name"  : "Igor",
 	"EXT_FIELD_last_name"   : "Progman",
 	"EXT_FIELD_email"       : "progman@gmail.com",
 	"EXT_FIELD_phone"       : "380380380380",
 	"EXT_FIELD_custom_data" : [
 		{
-			"Delivery_date": "2016-14-10 10:30",
-			"Item1" : "French cookbook, 20",
-			"Item2" : "Indian cookbook, 15"
+			"Pickup_date": "2017-01-17 10:30",
+			"luggage" : "suitcase"
 		}
 	]
 }
