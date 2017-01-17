@@ -1,61 +1,56 @@
 {
 	"parameters": {
-        "algorithm_type": 1,
+        "algorithm_type": 3,
         "device_type": "web",
         "distance_unit": "mi",
-        "member_id": "1",
+        "member_id": "403634",
         "optimize": "Distance",
         "remote_ip": "0",
         "route_max_duration": 86400,
-        "route_time": 9022,
+        "route_time": 0,
         "store_route": true,
         "travel_mode": "Driving",
-		"vehicle_id": "FFFF72BF6E06DC3C746673279BDAAE05",
         "vehicle_capacity": "1",
         "vehicle_max_distance_mi": "10000",
 		"rt":true
     },
     "addresses": [
-	  { "address": "3634 W Market St, Fairlawn, OH 44333",
-			"is_depot": true, 
-			"lat":  41.135762259364,
-			"lng": -81.629313826561,
-			"time_window_start": 28800,
-			"time_window_end": 28920
-        },
-        { "address": "512 Florida Pl, Barberton, OH 44203",
-			"lat":  41.003671512008,
-			"lng": -81.598461046815,
-			"time_window_start": 30180,
-			"time_window_end": 30300
-        },
-        { "address": "1659 Hibbard Dr, Stow, OH 44224",
-			"lat":  41.194505989552,
-			"lng": -81.443351581693,
-			"time_window_start": 34200,
-			"time_window_end": 34320,
-			"time": 120
-        },
-        { "address": "2705 N River Rd, Stow, OH 44224",
-			"lat":  41.145240783691,
-			"lng": -81.410247802734,
-			"time_window_start": 33420,
-			"time_window_end": 33540,
-			"time": 120
-        },
-        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
-			"lat":  41.340042114258,
-			"lng": -81.421226501465,
-			"time_window_start": 35460,
-			"time_window_end": 35580,
-			"time": 120
-        },
-		{ "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
-			"lat":  41.162971496582,
-			"lng": -81.479049682617,
-			"time_window_start": 37382,
-			"time_window_end": 37502,
-			"time": 120
-        }
+	  {
+		"is_depot": true,
+		"address": "6605 Fenske Lane,Needville,TX,77461",
+		"alias": "6605 FENSKE LANE NEEDVILLE",
+		"lat": 29.452769,
+		"lng": -95.845939
+	  },
+	  {
+		"address": "10 Royal Rose DR,Manvel,TX,77578",
+		"alias": "10 ROYAL ROSE DR MANVEL",
+		"lat": 29.504064,
+		"lng": -95.404174
+	  },
+	  {
+		"address": "3331 Bremerton Falls Drive,Missouri City,TX,77459",
+		"alias": "3331 Bremerton Falls Drive",
+		"lat": 29.551244,
+		"lng": -95.51165
+	  },
+	  {
+		"address": "10965 S.Gessner RD,Houston,TX,77071",
+		"alias": "10965 S GESSNER RD",
+		"lat": 29.660969,
+		"lng": -95.526293
+	  },
+	  {
+		"address": "6000 W. Sunforest DR,Houston,TX,77092",
+		"alias": "6000 W SUNFOREST DR",
+		"lat": 29.848074,
+		"lng": -95.478895
+	  },
+	  {
+		"address": "12921 Gladden,Houston,TX,77049",
+		"alias": "12921 GLADDEN HOUSTON",
+		"lat": 29.829694,
+		"lng": -95.199829
+	  }
 	]
 }

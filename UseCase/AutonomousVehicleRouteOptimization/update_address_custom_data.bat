@@ -4,8 +4,8 @@ SET url=https://www.route4me.com/api.v4/address.php
 :: You should insert real test data and your API key for accurate testing
 
 SET apikey=11111111111111111111111111111111
-SET routeid=1809542824986BB45A4FA3F10939DA92
-SET routedestinationid=208389372
+SET routeid=27AF2455563AAB57650CE5696FBEC199
+SET routedestinationid=208797874
 
 ECHO ON
 

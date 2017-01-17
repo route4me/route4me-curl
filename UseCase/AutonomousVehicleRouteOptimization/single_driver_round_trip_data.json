@@ -1,18 +1,20 @@
 {
 	"parameters": {
         "algorithm_type": 1,
+		"parts": 1,
         "device_type": "web",
         "distance_unit": "mi",
         "member_id": "1",
         "optimize": "Distance",
         "remote_ip": "0",
         "route_max_duration": 86400,
-        "route_time": 9022,
+        "route_time": 28800,
         "store_route": true,
         "travel_mode": "Driving",
 		"vehicle_id": "FFFF72BF6E06DC3C746673279BDAAE05",
-        "vehicle_capacity": "1",
-        "vehicle_max_distance_mi": "10000",
+        "vehicle_capacity": "6",
+        "vehicle_max_distance_mi": 99000,
+		"max_tour_size": 10,
 		"rt":true
     },
     "addresses": [
@@ -20,42 +22,51 @@
 			"is_depot": true, 
 			"lat":  41.135762259364,
 			"lng": -81.629313826561,
-			"time_window_start": 28800,
-			"time_window_end": 28920
+			"sequence": 0,
+			"time_window_start": null,
+			"time_window_end": null,
+			"time": null
         },
         { "address": "512 Florida Pl, Barberton, OH 44203",
 			"lat":  41.003671512008,
 			"lng": -81.598461046815,
-			"time_window_start": 30180,
-			"time_window_end": 30300
+			"sequence": 1,
+			"time_window_start": 30200,
+			"time_window_end": 30500,
+			"time": 60
         },
-        { "address": "1659 Hibbard Dr, Stow, OH 44224",
-			"lat":  41.194505989552,
-			"lng": -81.443351581693,
-			"time_window_start": 34200,
-			"time_window_end": 34320,
-			"time": 120
-        },
-        { "address": "2705 N River Rd, Stow, OH 44224",
+		{ "address": "2705 N River Rd, Stow, OH 44224",
 			"lat":  41.145240783691,
 			"lng": -81.410247802734,
-			"time_window_start": 33420,
-			"time_window_end": 33540,
-			"time": 120
-        },
-        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
-			"lat":  41.340042114258,
-			"lng": -81.421226501465,
-			"time_window_start": 35460,
-			"time_window_end": 35580,
-			"time": 120
+			"sequence": 2,
+			"time_window_start": 32300,
+			"time_window_end": 32500,
+			"time": 60
         },
 		{ "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
 			"lat":  41.162971496582,
 			"lng": -81.479049682617,
-			"time_window_start": 37382,
-			"time_window_end": 37502,
-			"time": 120
+			"sequence": 3,
+			"time_window_start": 33000,
+			"time_window_end": 33300,
+			"time": 60
+        },
+		{ "address": "1659 Hibbard Dr, Stow, OH 44224",
+			"lat":  41.194505989552,
+			"lng": -81.443351581693,
+			"sequence": 4,
+			"time_window_start": 33600,
+			"time_window_end": 33800,
+			"time": 60
+        },
+        
+        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
+			"lat":  41.340042114258,
+			"lng": -81.421226501465,
+			"sequence": 5,
+			"time_window_start": 35000,
+			"time_window_end": 35300,
+			"time": 60
         }
 	]
 }
