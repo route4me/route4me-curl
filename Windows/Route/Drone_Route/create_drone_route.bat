@@ -1,7 +1,7 @@
 @ECHO OFF
 
 SET url=https://www.route4me.com/api.v4/optimization_problem.php
-SET apikey=bd48828717021141485a701453273458
+SET apikey=11111111111111111111111111111111
 
 ECHO ON
 
