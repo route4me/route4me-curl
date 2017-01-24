@@ -1,6 +1,6 @@
 @ECHO OFF
 
-:: Add a note to the route using of file uploading
+:: Example refers to the process of extracting text from an image using Route4Me OCR service
 
 SET url=http://199.193.112.174/ImageUpload/AddImage
 SET apikey=11111111111111111111111111111111
