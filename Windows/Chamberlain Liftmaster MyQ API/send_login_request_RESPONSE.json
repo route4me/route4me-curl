@@ -1,9 +1,0 @@
-{
-  "UserId": 987654,
-  "SecurityToken": "YOUR_TOKEN_HERE",
-  "ReturnCode": "0",
-  "ErrorMessage": "",
-  "ExecutionTimes": "15.6;46.8;78;62.4",
-  "BrandId": 2,
-  "BrandName": "Chamberlain"
-}
