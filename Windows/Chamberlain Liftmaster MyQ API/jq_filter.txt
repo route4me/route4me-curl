@@ -1,9 +1,1 @@
-if .Devices[] | .DeviceId=="876543" then 
-	if .Devices[] | .Attributes[] | .Name=="doorstate" then 
-		.Devices[] | .Attributes[] | .Value 
-	else 
-		null 
-	end 
-else 
-	.Devices[]|.TypeId 
-end
+{"doorstate" : .Devices[] | .Attributes[] | select( .Name == "doorstate") | .Value}
