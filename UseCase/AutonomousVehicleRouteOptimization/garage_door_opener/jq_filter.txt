@@ -1,0 +1,1 @@
+{"doorstate" : .Devices[] | .Attributes[] | select( .Name == "doorstate") | .Value}
