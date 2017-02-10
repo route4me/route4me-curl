@@ -12,6 +12,6 @@ ECHO ON
 :: The example refers to the process of marking an address as departed.
 :: is_departed=1 means address was marked as departed.
 
-curl -o file1.txt -g -k -X GET "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_departed=%isdeparted%&member_id=%member%"
+curl -o file1.txt -g -k -X PUT "%URL%?api_key=%apikey%&route_id=%routeid%&address_id=%addressid%&is_departed=%isdeparted%&member_id=%member%"
 
 timeout /t 30
