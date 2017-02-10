@@ -16,6 +16,6 @@ ECHO ON
 :: The example refers to the process of setting GPS position of a device by sending HTTP parameters.
 :: You can also use optional parameters: tx_id, vehicle_id altitude, device_timestamp, app_version.
 
-curl -o file1.txt -g -X GET -k "%url%?api_key=%apikey%&member_id=%membid%&route_id=%route_id%&course=%course%&speed=%speed%&lat=%lat%&lng=%lng%&device_type=%devtype%&device_guid=%devguid%"
+curl -o file1.txt -g -X POST -k "%url%?api_key=%apikey%&member_id=%membid%&route_id=%route_id%&course=%course%&speed=%speed%&lat=%lat%&lng=%lng%&device_type=%devtype%&device_guid=%devguid%"
 
 timeout /t 30
