@@ -10,7 +10,7 @@ member=1
 # The example refers to the process of marking an address as visited.
 # is_visited=1 means address was marked as visited.
 
-curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_visited=$visited&member_id=$member"
+curl -o file1.txt -g -k -X PUT "$url?api_key=$apikey&route_id=$routeid&address_id=$addressid&is_visited=$visited&member_id=$member"
 
 echo "Finished..."
 
