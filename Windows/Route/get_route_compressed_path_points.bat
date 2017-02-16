@@ -6,7 +6,9 @@ SET routeid=4728372005DE97EF9E4205852D690E34
 SET rpo=Points
 SET compress_path_points=true
 
-:: The example refers to the process of getting a route with the path points.
+:: The example refers to the process of getting a route with the encoded & compressed path points.
+:: For a path compreesion is used Encoded Polyline Algorithm Format (see link: https://developers.google.com/maps/documentation/utilities/polylinealgorithm)
+:: There are interactive decoder polyline utilities in the Internet (see link: https://developers.google.com/maps/documentation/utilities/polylineutility)
 
 ECHO ON
 
