@@ -15,17 +15,15 @@
 	"address_country_id": "US",
 	"address_state_id": "KY",
 	"address_zip": "40215",
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "monthly",
 		"monthly": {
 			"every": 1,
-			"dates": [
-				"2017-02-21", 
-				"2017-02-24, 2017-02-25"
-			]
+			"mode": "dates",
+			"dates": [20,22,23,24,25]
 		}
-	},
+	}],
 	"service_time": 750,
 	"color": "red"	
 }

@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487522520,
-	"address_id": 13590504,
+	"created_timestamp": 1487596289,
+	"address_id": 13600396,
 	"address_group": "Scheduled daily",
 	"address_alias": "4629 HILLSIDE DRIVE 40216",
 	"address_1": "4629 HILLSIDE DRIVE, Louisville, KY, 40216",
@@ -22,15 +22,14 @@
 		"scheduled": "yes",
 		"serice type": "appliance"
 	},
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "daily",
 		"daily": {
 			"every": 1
 		}
-	},
-	"schedule_blacklist": ["2017-02-24",
-	"2017-02-25"],
+	}],
+	"schedule_blacklist": ["2017-02-24","2017-02-25"],
 	"in_route_count": 0,
 	"last_visited_timestamp": 0,
 	"last_routed_timestamp": 0,

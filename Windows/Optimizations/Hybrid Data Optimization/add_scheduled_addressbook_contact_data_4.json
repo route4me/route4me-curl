@@ -15,17 +15,18 @@
 		"scheduled": "yes",
 		"service type": "library"
 	},
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "monthly",
 		"monthly": {
 			"every": 1,
+			"mode": "nth",
 			"nth": {
 				"n": 1,
 				"what": 4
 			}
 		}
-	},
+	}],
 	"service_time": 450,
 	"address_icon": "emoji/emoji-bus"
 		

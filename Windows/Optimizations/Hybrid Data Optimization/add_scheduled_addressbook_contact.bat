@@ -14,6 +14,6 @@ SET apikey=11111111111111111111111111111111
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -H "Content-Type: application/json" -d "@add_scheduled_addressbook_contact_data_6.json" "%url%?api_key=%apikey%"
+curl -o file1.txt -g -X POST -H "Content-Type: application/json" -d "@add_scheduled_addressbook_contact_data_4.json" "%url%?api_key=%apikey%"
 
 timeout /t 30

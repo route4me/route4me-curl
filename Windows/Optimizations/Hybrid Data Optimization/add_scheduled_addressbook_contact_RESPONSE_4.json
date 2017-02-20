@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487520078,
-	"address_id": 13590501,
+	"created_timestamp": 1487608041,
+	"address_id": 13617500,
 	"address_group": "Scheduled monthly",
 	"address_alias": "730 CECIL AVENUE 40211",
 	"address_1": "730 CECIL AVENUE, Louisville, KY, 40211",
@@ -22,17 +22,18 @@
 		"scheduled": "yes",
 		"service type": "library"
 	},
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "monthly",
 		"monthly": {
 			"every": 1,
+			"mode": "nth",
 			"nth": {
 				"n": 1,
 				"what": 4
 			}
 		}
-	},
+	}],
 	"schedule_blacklist": null,
 	"in_route_count": 0,
 	"last_visited_timestamp": 0,

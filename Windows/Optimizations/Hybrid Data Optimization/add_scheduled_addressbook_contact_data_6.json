@@ -15,13 +15,13 @@
 		"scheduled": "yes",
 		"serice type": "appliance"
 	},
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "daily",
 		"daily": {
 			"every": 1
 		}
-	},
+	}],
 	"schedule_blacklist": ["2017-02-24","2017-02-25"],
 	"service_time": 300
 		

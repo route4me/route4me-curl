@@ -15,25 +15,18 @@
 		"scheduled": "yes",
 		"service type": "restaurant"
 	},
-	"schedule": {
-		"enabled": true,
-		"mode": "annually",
-		"annually": [
-			{
-				"every": 1,
-				"use_nth": true,
-				"nth": {
-					"n": 1,
-					"what": 4
-				}
-			},
-			{
+	"schedule": [
+		{
+			"enabled": true,
+			"mode": "annually",
+			"annually": {
 				"every": 1,
 				"use_nth": false,
 				"months": [2,3,4,5,6,7,8,9,10,11]
 			}
-		]
-	},
+		
+		}
+	],
 	"service_time": 480,
 	"address_icon": "emoji/emoji-taxi"
 		

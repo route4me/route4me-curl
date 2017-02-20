@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487513445,
-	"address_id": 13590492,
+	"created_timestamp": 1487595516,
+	"address_id": 13599645,
 	"address_group": "Scheduled daily",
 	"address_alias": "1604 PARKRIDGE PKWY 40214",
 	"address_1": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
@@ -22,13 +22,13 @@
 		"scheduled": "yes",
 		"serice type": "publiching"
 	},
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "daily",
 		"daily": {
 			"every": 1
 		}
-	},
+	}],
 	"schedule_blacklist": null,
 	"in_route_count": 0,
 	"last_visited_timestamp": 0,

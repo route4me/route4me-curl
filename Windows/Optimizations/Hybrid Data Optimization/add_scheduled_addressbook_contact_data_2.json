@@ -11,14 +11,14 @@
 	"curbside_lat": 38.202496,
 	"curbside_lng": -85.786514,
 	"address_city": "Louisville",
-	"schedule": {
+	"schedule": [{
 		"enabled": true,
 		"mode": "weekly",
 		"weekly": {
 			"every": 1,
 			"weekdays": [1,2,3,4,5]
 		}
-	},
+	}],
 	"service_time": 600
 		
 }
