@@ -1,0 +1,49 @@
+{
+	"created_timestamp": 1487608041,
+	"address_id": 13617500,
+	"address_group": "Scheduled monthly",
+	"address_alias": "730 CECIL AVENUE 40211",
+	"address_1": "730 CECIL AVENUE, Louisville, KY, 40211",
+	"address_2": "",
+	"member_id": 1,
+	"first_name": "David",
+	"last_name": "Silvester",
+	"address_email": "dsilvester5874@yahoo.com",
+	"address_phone_number": "36985214",
+	"address_city": "Louisville",
+	"address_state_id": null,
+	"address_country_id": "0",
+	"address_zip": "",
+	"cached_lat": 38.248684,
+	"cached_lng": -85.821121,
+	"curbside_lat": 38.248684,
+	"curbside_lng": -85.821121,
+	"address_custom_data": {
+		"scheduled": "yes",
+		"service type": "library"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "monthly",
+		"monthly": {
+			"every": 1,
+			"mode": "nth",
+			"nth": {
+				"n": 1,
+				"what": 4
+			}
+		}
+	}],
+	"schedule_blacklist": null,
+	"in_route_count": 0,
+	"last_visited_timestamp": 0,
+	"last_routed_timestamp": 0,
+	"local_time_window_start": null,
+	"local_time_window_end": null,
+	"local_time_window_start_2": null,
+	"local_time_window_end_2": null,
+	"service_time": 450,
+	"local_timezone_string": null,
+	"color": null,
+	"address_icon": "emoji\/emoji-bus"
+}

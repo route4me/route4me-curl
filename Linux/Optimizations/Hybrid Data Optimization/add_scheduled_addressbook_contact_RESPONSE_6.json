@@ -1,0 +1,44 @@
+{
+	"created_timestamp": 1487596289,
+	"address_id": 13600396,
+	"address_group": "Scheduled daily",
+	"address_alias": "4629 HILLSIDE DRIVE 40216",
+	"address_1": "4629 HILLSIDE DRIVE, Louisville, KY, 40216",
+	"address_2": "",
+	"member_id": 1,
+	"first_name": "Kim",
+	"last_name": "Shandor",
+	"address_email": "kshand8524@yahoo.com",
+	"address_phone_number": "9874152",
+	"address_city": "Louisville",
+	"address_state_id": null,
+	"address_country_id": "0",
+	"address_zip": "",
+	"cached_lat": 38.176067,
+	"cached_lng": -85.824638,
+	"curbside_lat": 38.176067,
+	"curbside_lng": -85.824638,
+	"address_custom_data": {
+		"scheduled": "yes",
+		"serice type": "appliance"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "daily",
+		"daily": {
+			"every": 1
+		}
+	}],
+	"schedule_blacklist": ["2017-02-24","2017-02-25"],
+	"in_route_count": 0,
+	"last_visited_timestamp": 0,
+	"last_routed_timestamp": 0,
+	"local_time_window_start": null,
+	"local_time_window_end": null,
+	"local_time_window_start_2": null,
+	"local_time_window_end_2": null,
+	"service_time": 300,
+	"local_timezone_string": null,
+	"color": null,
+	"address_icon": null
+}

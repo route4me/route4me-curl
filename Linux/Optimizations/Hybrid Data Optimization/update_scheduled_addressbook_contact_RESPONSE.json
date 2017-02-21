@@ -1,0 +1,44 @@
+{
+	"created_timestamp": 1487516397,
+	"address_id": 13590497,
+	"address_group": "Scheduled daily",
+	"address_alias": "1604 PARKRIDGE PKWY 40214",
+	"address_1": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
+	"address_2": "",
+	"member_id": 1,
+	"first_name": "Peter",
+	"last_name": "Newman",
+	"address_email": "pnewman6564@yahoo.com",
+	"address_phone_number": "65432178",
+	"address_city": "Louisville",
+	"address_state_id": null,
+	"address_country_id": "0",
+	"address_zip": "",
+	"cached_lat": 38.141598,
+	"cached_lng": -85.793846,
+	"curbside_lat": 38.141598,
+	"curbside_lng": -85.793846,
+	"address_custom_data": {
+		"scheduled": "yes",
+		"serice type": "publiching"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "daily",
+		"daily": {
+			"every": 1
+		}
+	}],
+	"schedule_blacklist": null,
+	"in_route_count": 0,
+	"last_visited_timestamp": 0,
+	"last_routed_timestamp": 0,
+	"local_time_window_start": null,
+	"local_time_window_end": null,
+	"local_time_window_start_2": null,
+	"local_time_window_end_2": null,
+	"service_time": 900,
+	"local_timezone_string": null,
+	"color": null,
+	"address_icon": null
+}
