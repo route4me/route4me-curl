@@ -14,6 +14,6 @@ SET tz_minutes=480
 
 ECHO ON
 
-curl -o file1.txt -g -k -X GET "%URL%?route_id=%routeid%&api_key=%apikey%&target_date_string=%scheduled_data%&timezone_offset_minutes=%tz_minutes%" 
+curl -o file1.txt -g -k -X GET "%url%?api_key=%apikey%&target_date_string=%scheduled_data%&timezone_offset_minutes=%tz_minutes%" 
 
 timeout /t 30

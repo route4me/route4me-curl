@@ -13,7 +13,7 @@ tz_minutes=480
 # http://support.route4me.com/route-planning-help.php?id=manual11:tutorial3:chapter12
 
 
-curl -o file1.txt -g -k -X GET "$url?route_id=$routeid&api_key=$apikey&target_date_string=$scheduled_data&timezone_offset_minutes=$tz_minutes" 
+curl -o file1.txt -g -k -X GET "$url?api_key=$apikey&target_date_string=$scheduled_data&timezone_offset_minutes=$tz_minutes" 
 
 echo "Finished..."
 
