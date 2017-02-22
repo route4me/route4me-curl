@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=url=http://www.route4me.com/api.v4/address_book.php
+url=http://www.route4me.com/api.v4/address_book.php
 apikey=11111111111111111111111111111111
 
 # The example refers to the process of creating new location in an address book belonged to an user.
