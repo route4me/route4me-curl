@@ -2,7 +2,7 @@
 
 SET url=https://www.route4me.com/api.v4/hybrid_date_optimization.php
 SET apikey=11111111111111111111111111111111
-::SET routeid=E7905633469E06FB8AF56658C445FA6A
+
 SET "scheduled_data=2017-02-24"
 SET tz_minutes=480
 
