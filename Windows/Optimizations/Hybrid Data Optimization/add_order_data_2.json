@@ -1,0 +1,25 @@
+{
+	"address_1": "1324 BLUEGRASS AVE, Louisville, KY, 40215",
+	"cached_lat"            : 38.179253,
+	"cached_lng"            : -85.785118,
+	"curbside_lat"            : 38.179253,
+	"curbside_lng"            : -85.785118,
+	"address_alias"         : "1324 BLUEGRASS AVE 40215",
+	"address_city"          : "Louisville",
+	"EXT_FIELD_first_name"  : "Vain",
+	"EXT_FIELD_last_name"   : "Napoli",
+	"EXT_FIELD_email"       : "vnapoli84@yahoo.com",
+	"EXT_FIELD_phone"       : "9874562",
+	"EXT_FIELD_custom_data" : [
+		{
+			"order_type"     : "scheduled order"
+		}
+	],
+	"day_scheduled_for_YYMMDD": "2017-02-24",
+	"local_time_window_end": 41400,
+	"local_time_window_end_2": 48600,
+	"local_time_window_start": 40200,
+	"local_time_window_start_2": 47400,
+	"local_timezone_string": "America/New_York",
+	"order_icon": "emoji/emoji-large_orange_diamond"
+}
