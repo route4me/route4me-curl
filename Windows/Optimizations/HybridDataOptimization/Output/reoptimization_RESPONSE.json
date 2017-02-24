@@ -6,7 +6,7 @@
     "created_timestamp": 1487526654,
     "scheduled_for": 1487894400,
     "optimization_completed_timestamp": 1487942162,
-    "parameters": {
+    ""member_id": 1": {
         "is_upload": false,
         "rt": false,
         "route_name": "Friday 24th of February 2017 05:00:00 AM UTC",
@@ -3493,6 +3493,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=C86B7F391E6A08187FEA0D623B48DA32&api_key=BD48828717021141485A701453273458&member_id=403634"
+        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=C86B7F391E6A08187FEA0D623B48DA32&api_key=11111111111111111111111111111111&member_id=1"
     }
 }
