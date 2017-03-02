@@ -1,0 +1,186 @@
+{
+	"vendors": [{
+		"id": "52",
+		"name": "FleetComplete",
+		"slug": "fleetcomplete",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetcomplete589992529694e2.87947196.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "153",
+		"name": "Teletrac Navman",
+		"slug": "teletrac-navman",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/teletrac-navman58ada84bd26158.03851096.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "3",
+		"name": "TomTom Webfleet",
+		"slug": "tomtom-webfleet",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tomtom589301bef0f1a6.35464894.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "72",
+		"name": "ALK",
+		"slug": "alk",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/alk5899c4728c7447.62354045.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "128",
+		"name": "BigChange",
+		"slug": "bigchange",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/bigchange589d9946c00f26.43118230.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "67",
+		"name": "BOX Telematics",
+		"slug": "box-telematics",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/box-telematics5899b5aed8a0a2.77355119.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "44",
+		"name": "CDL",
+		"slug": "cdl",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cdl58997caa5f37a9.37876896.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "69",
+		"name": "crystallBall",
+		"slug": "crystallball",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/crystallball5899bfa7dd3491.61189788.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "21",
+		"name": "GPSWOX",
+		"slug": "gpswox",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/gpswox5898104bf3d416.65927106.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "71",
+		"name": "Hubio Fleet",
+		"slug": "hubio-fleet",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/hubio-fleet5899c0ecb48999.27857109.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "29",
+		"name": "Navixy",
+		"slug": "navixy",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/navixy58982707c09ac1.00522059.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "145",
+		"name": "PinPointers",
+		"slug": "pinpointers",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/pinpointers589de441e8fe79.45974646.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "38",
+		"name": "Quartix",
+		"slug": "quartix",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/quartix58997491b09381.45215739.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "75",
+		"name": "RAM Tracking",
+		"slug": "ram-tracking",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/ram-tracking5899d89872f709.40383737.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "146",
+		"name": "ScorpionTrack",
+		"slug": "scorpiontrack",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/scorpiontrack589de54273f6e8.44805654.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "127",
+		"name": "Tantalum Corporation",
+		"slug": "tantalum-corporation",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tantalum-corporation589c74b1bc8c05.11149663.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "84",
+		"name": "The Floow",
+		"slug": "the-floow",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/the-floow589ac7f8a8ce69.61038856.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "151",
+		"name": "Tigtrack",
+		"slug": "tigtrack",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tigtrack589dec19e28069.07735143.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "100",
+		"name": "Trackerfit",
+		"slug": "trackerfit",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/trackerfit589ae1972c0853.52513174.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "125",
+		"name": "Trackit Solutions",
+		"slug": "trackit-solutions",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/trackit-solutions589b41c0527c97.39587811.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "82",
+		"name": "Trakm8",
+		"slug": "trakm8",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/trakm8589ac5d3cc3268.67291646.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "123",
+		"name": "ULU",
+		"slug": "ulu",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/ulu589b3f45ddccc3.60311820.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "96",
+		"name": "V Zone Track",
+		"slug": "v-zone-track",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/v-zone-track589adbd7d45000.54671194.png",
+		"is_integrated": "0"
+	}]
+}

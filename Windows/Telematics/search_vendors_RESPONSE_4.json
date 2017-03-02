@@ -1,0 +1,386 @@
+{
+	"vendors": [{
+		"id": "155",
+		"name": "Azuga",
+		"slug": "azuga",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/silent-passanger58adacc09bed30.24568195.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "52",
+		"name": "FleetComplete",
+		"slug": "fleetcomplete",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetcomplete589992529694e2.87947196.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "154",
+		"name": "Geotab",
+		"slug": "geotab",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/geotab58adab131f2792.24314443.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "153",
+		"name": "Teletrac Navman",
+		"slug": "teletrac-navman",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/teletrac-navman58ada84bd26158.03851096.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "3",
+		"name": "TomTom Webfleet",
+		"slug": "tomtom-webfleet",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tomtom589301bef0f1a6.35464894.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "33",
+		"name": "USFleetTracking",
+		"slug": "usfleettracking",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/us-fleet-tracking589834a9d204d6.62461661.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "116",
+		"name": "Vehicle Tracking Solutions",
+		"slug": "vehicle-tracking-solutions",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/vehicle-tracking-solutions589b34901c99d9.13614751.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "91",
+		"name": "4GFlota",
+		"slug": "4gflota",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/4gflota589ad44a81ee43.57187572.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "63",
+		"name": "ActSoft",
+		"slug": "actsoft",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/actsoft5899b17bac02a3.34148668.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "72",
+		"name": "ALK",
+		"slug": "alk",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/alk5899c4728c7447.62354045.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "148",
+		"name": "Amber Connect",
+		"slug": "amber-connect",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/amber-connect589de8c3daeab3.86061379.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "47",
+		"name": "AssetTrackr",
+		"slug": "assettrackr",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/assettrackr58997f33559606.33339988.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "126",
+		"name": "Atic",
+		"slug": "atic",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/atic589b42d9148451.66045825.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "46",
+		"name": "ATTI",
+		"slug": "atti",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/atti58997e44f23f45.99814789.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "51",
+		"name": "AVLView",
+		"slug": "avlview",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/avlview589988a798fb19.89230117.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "45",
+		"name": "AwareGPS",
+		"slug": "awaregps",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/awaregps58997db371ff90.02467450.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "124",
+		"name": "Beame",
+		"slug": "beame",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/beame589b409c6e2309.82694926.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "111",
+		"name": "Betaar3",
+		"slug": "betaar3",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/betaar3589b29e5d81218.82033473.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "128",
+		"name": "BigChange",
+		"slug": "bigchange",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/bigchange589d9946c00f26.43118230.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "40",
+		"name": "BigRoad",
+		"slug": "bigroad",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/bigroad589978ec1fac11.83688163.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "50",
+		"name": "Blue-Bird",
+		"slug": "blue-bird",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/blue-bird58998655c00426.54345970.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "67",
+		"name": "BOX Telematics",
+		"slug": "box-telematics",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/box-telematics5899b5aed8a0a2.77355119.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "93",
+		"name": "BSM Technologies",
+		"slug": "bsm-technologies",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/bsm-technologies589ad6e866b076.32874660.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "55",
+		"name": "BudgetGPS",
+		"slug": "budgetgps",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/budgetgps58999ab015cc73.63025495.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "20",
+		"name": "CalAmp",
+		"slug": "calamp",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/calamp58980e2b14edf2.61653219.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "103",
+		"name": "Carmine",
+		"slug": "carmine",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/carmine589af057c35c68.98603140.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "120",
+		"name": "Cartrack Nigeria",
+		"slug": "cartrack-nigeria",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cartrack-nigeria589b3ad6491e39.16440187.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "109",
+		"name": "CarTracker",
+		"slug": "cartracker",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cartracker589b27c7a539a1.10697141.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "44",
+		"name": "CDL",
+		"slug": "cdl",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cdl58997caa5f37a9.37876896.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "58",
+		"name": "ClearPathGPS",
+		"slug": "clearpathgps",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/clearpathgps5899a634866306.13219753.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "13",
+		"name": "ClickSoftware",
+		"slug": "clicksoftware",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/clicksoftware5895c9c7eaedb2.57695532.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "107",
+		"name": "CloudFleet",
+		"slug": "cloudfleet",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cloudfleet589b250e854482.12587954.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "43",
+		"name": "Company Mileage",
+		"slug": "company-mileage",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/company-mileage58997b77a10579.03910567.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "34",
+		"name": "CoPilot GPS",
+		"slug": "copilot-gps",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/copilot-gps589839289df7a9.73182717.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "69",
+		"name": "crystallBall",
+		"slug": "crystallball",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/crystallball5899bfa7dd3491.61189788.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "60",
+		"name": "Dogma Guardian",
+		"slug": "dogma-guardian",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/dogma-guardian5899acaa880e08.15090692.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "133",
+		"name": "DriverLocate",
+		"slug": "driverlocate",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/driverlocate589dd7c811b1a7.88081990.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "119",
+		"name": "E-Drive Technology",
+		"slug": "e-drive-technology",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/e-drive-technology589b38dc815dd0.09743758.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "142",
+		"name": "E-localiza",
+		"slug": "e-localiza",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/e-localiza589ddf40edae60.30226644.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "86",
+		"name": "Easy Track India",
+		"slug": "easy-track-india",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/easy-track-india589acc2c96b051.78471483.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "90",
+		"name": "EasyTracGPS",
+		"slug": "easytracgps",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/easytracgps589ad1f51c09b4.45133084.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "48",
+		"name": "Efectivus",
+		"slug": "efectivus",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/efectivus5899803555bcf3.14899835.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "143",
+		"name": "Ekoio",
+		"slug": "ekoio",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/ekoio589ddfdeb8c402.96076828.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "92",
+		"name": "Fleetilla",
+		"slug": "fleetilla",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetilla589ad5a3d19294.56100508.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "25",
+		"name": "Fleetio",
+		"slug": "fleetio",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetio58981a74e0dfd2.33867187.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "64",
+		"name": "Fleetistics",
+		"slug": "fleetistics",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetistics5899b2265ce568.90597410.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "104",
+		"name": "Fleetlog",
+		"slug": "fleetlog",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetlog589b216e7e6078.32751754.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "10",
+		"name": "Fleetmatics",
+		"slug": "fleetmatics",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetmatics589490c180f305.39735584.png",
+		"is_integrated": "0"
+	}]
+}
