@@ -8,6 +8,7 @@ SET size=global
 SET is_integrated=1
 SET feature=Satellite
 SET country=GB
+SET "search=Fleet"
 SET page=1
 SET per_page=15
 
@@ -19,5 +20,7 @@ curl -o search_vendors_RESPONSE_1.json -g -k -X GET "%url%?api_key=%apikey%&size
 START /WAIT curl -o search_vendors_RESPONSE_2.json -g -k -X GET "%url%?api_key=%apikey%&feature=%feature%"
 
 START /WAIT curl -o search_vendors_RESPONSE_3.json -g -k -X GET "%url%?api_key=%apikey%&country=%country%"
+
+START /WAIT curl -o search_vendors_RESPONSE_4.json -g -k -X GET "%url%?api_key=%apikey%&s=%search%"
 
 timeout /t 30
