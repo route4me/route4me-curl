@@ -19,3 +19,10 @@ In this directory you can find examples for Telematics Gateway issue:
 - Output file: **search_vendors_RESPONSE_1.json** (search by the parameters: **size, per_page, page, is_integrated**);
 - Output file: **search_vendors_RESPONSE_2.json** (search by the parameter **feature**);
 - Output file: **search_vendors_RESPONSE_3.json** (search by the parameter **country**).
+
+## Compare Selected Vendors
+- Script file: **get_comparisons.bat**;
+- Output file (getting vendors): **get_comparisons_RESPONSE.json**; 
+- Input file (vendors comparison): **get_comparisons_RESPONSE.json**;
+- Filter file: **get_comparisons_filter.txt**;
+- Output file: **get_comparison.csv**
