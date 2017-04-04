@@ -10,6 +10,6 @@ SET routedestinationid=222432885,
 
 ECHO ON
 
-curl -o update_destination_custom_RESPONSE.json -g -k -X PUT -H "Content-Type: application/json" -d "@update_route_destination_custom_data.json" "%url%?api_key=%apikey%&route_id=%routeid%&route_destination_id=%routedestinationid%"
+curl -o update_destination_custom_RESPONSE.json -g -k -X PUT -H "Content-Type: application/json" -d "@update_route_destination_custom_data_RIGHT.json" "%url%?api_key=%apikey%&route_id=%routeid%&route_destination_id=%routedestinationid%"
 
 timeout /t 30

@@ -67,8 +67,15 @@
     "geofence_detected_departed_lng": null,
     "time": 600,
     "tracking_number": "ZLV32QLD",
-    "custom_fields": {},
-    "custom_fields_str_json": "{}",
+    "custom_fields": {
+        "BatchId": "e7c672b1-a356-4a97-803e-97db88fdcf99",
+        "CustomerNumber": "2718500",
+        "DeliveryId": "2c71f6d9-c1aa-4672-a682-3e9f12badac9",
+        "DeliveryInvoices": "<?xml version=\"1.0\" encoding=\"utf-16\"?>\r\n<!DOCTYPE PAMSDelivery SYSTEM \"PAMSDelivery.dtd\">\r\n<ArrayOfRouteDeliveryInvoice>\r\n  <RouteDeliveryInvoice>\r\n    <InvoiceNumber>945822<\/InvoiceNumber>\r\n    <InventoryIds>\r\n      <string>1790908<\/string>\r\n    <\/InventoryIds>\r\n    <IsRA>false<\/IsRA>\r\n    <IsDT>false<\/IsDT>\r\n    <IsINC>true<\/IsINC>\r\n    <IsPO>false<\/IsPO>\r\n    <IsPOPickup>false<\/IsPOPickup>\r\n  <\/RouteDeliveryInvoice>\r\n<\/ArrayOfRouteDeliveryInvoice>",
+        "DeliveryNotes": "",
+        "RouteId": "20191"
+    },
+    "custom_fields_str_json": "{\"BatchId\":\"e7c672b1-a356-4a97-803e-97db88fdcf99\",\"CustomerNumber\":\"2718500\",\"DeliveryId\":\"2c71f6d9-c1aa-4672-a682-3e9f12badac9\",\"DeliveryInvoices\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-16\\\"?>\\r\\n<!DOCTYPE PAMSDelivery SYSTEM \\\"PAMSDelivery.dtd\\\">\\r\\n<ArrayOfRouteDeliveryInvoice>\\r\\n  <RouteDeliveryInvoice>\\r\\n    <InvoiceNumber>945822<\\\/InvoiceNumber>\\r\\n    <InventoryIds>\\r\\n      <string>1790908<\\\/string>\\r\\n    <\\\/InventoryIds>\\r\\n    <IsRA>false<\\\/IsRA>\\r\\n    <IsDT>false<\\\/IsDT>\\r\\n    <IsINC>true<\\\/IsINC>\\r\\n    <IsPO>false<\\\/IsPO>\\r\\n    <IsPOPickup>false<\\\/IsPOPickup>\\r\\n  <\\\/RouteDeliveryInvoice>\\r\\n<\\\/ArrayOfRouteDeliveryInvoice>\",\"DeliveryNotes\":\"\",\"RouteId\":\"20191\"}",
     "custom_fields_config": null,
     "custom_fields_config_str_json": "null",
     "notes": []
