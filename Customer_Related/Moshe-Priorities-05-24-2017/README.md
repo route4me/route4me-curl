@@ -1,4 +1,4 @@
-# The route parameter **priority**
+# The route parameter "**priority**"
 
 A Route4Me API user can use the route parameter **priority** for defining a way the optimization algorithm should work in the case of conflict between several time windows (in shortened TW) of the addresses. If there is no conflict, the algorithm ignores the parameter priority, because main point of the good logistic service is timely service, a service done according to a preliminary arranged schedule. But in the case of TW conflict, the algorithm tries first preserve TW of an address with higher priority.
 
