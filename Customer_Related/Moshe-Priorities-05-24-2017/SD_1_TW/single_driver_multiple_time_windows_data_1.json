@@ -1,0 +1,102 @@
+{
+	"parameters": {
+        "algorithm_type": 3,
+		"store_route": false,
+		"route_name": "Single Driver Multiple TimeWindows 12 Stops",
+		"route_date": 1464523994,
+		"route_time": 25200,
+		"optimize": "Distance",
+		"distance_unit": "mi",
+		"min_tour_size": 7,
+		"parts": 1,
+        "device_type": "web"
+    },
+    "addresses": [
+	  { "address": "3634 W Market St, Fairlawn, OH 44333",
+                        "is_depot": true, 
+                        "lat":  41.135762259364,
+                        "lng": -81.629313826561,
+                        "time_window_start": null,
+                        "time_window_end": null,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": null
+        },
+
+        { "address": "512 Florida Pl, Barberton, OH 44203",
+                        "lat":  41.003671512008,
+                        "lng": -81.598461046815,
+                        "time_window_start": 27000,
+                        "time_window_end": 27600,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":2
+        },
+        { "address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
+                        "lat":  41.162971496582,
+                        "lng": -81.479049682617,
+                        "time_window_start": 32400,
+                        "time_window_end": 33300,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":2
+        },
+
+        { "address": "1659 Hibbard Dr, Stow, OH 44224",
+                        "lat":  41.194505989552,
+                        "lng": -81.443351581693,
+                        "time_window_start": 36000,
+                        "time_window_end": 36900,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":1
+        },
+
+        { "address": "2705 N River Rd, Stow, OH 44224",
+                        "lat":  41.145240783691,
+                        "lng": -81.410247802734,
+                        "time_window_start": 39600,
+                        "time_window_end": 40500,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":2
+        },
+
+        { "address": "10159 Bissell Dr, Twinsburg, OH 44087",
+                        "lat":  41.340042114258,
+                        "lng": -81.421226501465,
+                        "time_window_start": 43200,
+                        "time_window_end": 44100,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":2
+        },
+
+        { "address": "367 Cathy Dr, Munroe Falls, OH 44262",
+                        "lat":  41.148578643799,
+                        "lng": -81.429229736328,
+                        "time_window_start": 46800,
+                        "time_window_end": 47700,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 300,
+						"priority":2
+        },
+
+        { "address": "559 W Aurora Rd, Northfield, OH 44067",
+                        "lat":  41.315116882324,
+                        "lng": -81.558746337891,
+                        "time_window_start": 57600,
+                        "time_window_end": 58500,
+                        "time_window_start_2": null,
+                        "time_window_end_2": null,
+                        "time": 50,
+						"priority":2
+        }
+	]
+}
