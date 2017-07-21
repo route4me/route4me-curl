@@ -141,7 +141,7 @@ For the aplications we prepared input data with similar content:
 
 ### web UI
 
-Response JSON file - [Single Driver Multiple TW ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json)
+Response JSON file - [web UI Single Driver Multiple TW ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json)
 
 The route one the map.
 
@@ -149,8 +149,19 @@ The route one the map.
 
 ### curl (cmd)
 
+Response JSON file - [curl (cmd) Single Driver Multiple TW ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl_RESPONSE.json)
+
+The route one the map.
+
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl.png "web UI - SIngle Driver Multiple TW, 12 Stops")
 
 ### Excel add-in
+
+Response JSON file - [Excel add-in Single Driver Multiple TW ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_RESPONSE.json)
+
+The route one the map.
+
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "web UI - SIngle Driver Multiple TW, 12 Stops")
 
 
 
