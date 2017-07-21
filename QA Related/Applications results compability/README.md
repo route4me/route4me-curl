@@ -1,6 +1,6 @@
 # Comparison of the results from web UI, curl (cmd) and Excel add-in
 
-This article was written because of great interest among QA staff and Route4Me users about compability results from defferent applications:
+This article was written because of great interest among QA staff and Route4Me users about compability between the results from defferent applications:
 - web UI. Results of route optimization on the official website: http://www.route4me.com;
 - curl (cmd). Results of route optimization using curl (cmd);
 - Excel add-in. Results of route optimizatin using Excel add-in.
