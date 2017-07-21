@@ -251,7 +251,7 @@ The results from **curl (cmd)** and **Excel add-in** are **equal**. Ther route s
 
 ## Summary
 
-The name for the parameter **algorithm=3** is CVRP_TW_SD - **Capacitated Vehicle Routing Problem, Time Windows, Single Depot**. Of course, this algorithm assumes that we should pay attention to the parameter **vehicle_capacity** and set it to right value. If we'll set it to 1, algorithm will be forced to generate almost as many routes as many stops are in the optimization.
+The name for the value 3 of parameter **algorithm** is CVRP_TW_SD - **Capacitated Vehicle Routing Problem, Time Windows, Single Depot**. Of course, this algorithm assumes that we should pay attention to the parameter **vehicle_capacity** and set it to right value. If we'll set it to 1, algorithm will be forced to generate almost as many routes as many stops are in the optimization.
 ***
 
 ## Apendix
