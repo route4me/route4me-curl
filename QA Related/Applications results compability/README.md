@@ -1,0 +1,155 @@
+# Comparison of the results from web UI, curl (cmd) and Excel add-in
+
+This article was written because of great interest among QA staff and Route4Me users about compability results from defferent applications:
+- web UI. Results of route optimization on the official website: http://www.route4me.com;
+- curl (cmd). Results of route optimization using curl (cmd);
+- Excel add-in. Results of route optimizatin using Excel add-in.
+
+For the aplications we prepared input data with similar content:
+
+1. Single Driver Multiple Time WIndows
+
+**Parameters:**
+```
+"parameters": {
+	"algorithm_type": 1,
+	"store_route": false,
+	"route_name": "Single Driver Multiple TimeWindows 12 Stops",
+	"route_time": 25200,
+	"optimize": "Time",
+	"distance_unit": "mi",
+	"device_type": "web",
+	"vehicle_max_distance_mi": 1000,
+	"vehicle_capacity": 1,
+	"rt": true,
+	"route_max_duration": 86400,
+	"travel_mode": "Driving"
+}
+```
+
+**Addresses:**
+```
+"addresses": [
+	{
+		"address": "1201 Holcombe Blvd, Houston, TX 77030, USA",
+		"alias": "Start",
+		"is_depot": true, 
+		"lat":  29.7063457,
+		"lng": -95.3999784,
+		"time_window_start": null,
+		"time_window_end": null,
+		"time_window_start_2": null,
+		"time_window_end_2": null,
+		"time": null
+        },
+	{ 
+		"address": "1220 Holcombe Blvd, Houston, TX, 77030",
+		"alias": "Betty  Thornburg",
+		"lat":  29.7055795,
+		"lng": -95.400029,
+		"time_window_start": 28800,
+		"time_window_end": 43200,
+		"time": 300
+        },
+	{ 
+		"address": "6651 Main Street, Houston, TX, 77030",
+		"alias": "Corey  Barker",
+		"lat":  29.708566,
+		"lng": -95.4024123,
+		"time_window_start": 32400,
+		"time_window_end": 39600,
+		"time": 100
+        },
+	{ 
+		"address": "6100 Main St, Houston, TX, 77005",
+		"alias": "Evon  Caldwell",
+		"lat":  29.7184075,
+		"lng": -95.3980766,
+		"time_window_start": 28800,
+		"time_window_end": 54000,
+		"time": 300
+        },
+	{ 
+		"address": "1520 Louisiana St, Houston, TX 77002, USA",
+		"alias": "Jody  McDougall",
+		"lat":  29.7543582,
+		"lng": -95.3708402,
+		"time_window_start": 32400,
+		"time_window_end": 64800,
+		"time": 300
+        },
+	{ 
+		"address": "6633 Travis St, Houston, TX, 77030-1308",
+		"alias": "Nancy  Chiu",
+		"lat":  29.709903,
+		"lng": -95.403276,
+		"time_window_start": 30600,
+		"time_window_end": 57600,
+		"time": 300
+        },
+	{ 
+		"address": "4001 Hazard St, Houston, TX 77098, USA",
+		"alias": "Patrick  Allison",
+		"lat":  29.7366671,
+		"lng": -95.4068916,
+		"time_window_start": 28800,
+		"time_window_end": 54000,
+		"time": 300
+        },
+	{ 
+		"address": "6720 Bertner Ave, Houston, TX, 77030",
+		"alias": "Sandra  Sabatini",
+		"lat":  29.707876,
+		"lng": -95.400405,
+		"time_window_start": 23400,
+		"time_window_end": 64800,
+		"time": 300
+        },
+	{ 
+		"address": "1515 Holcombe Blvd, Houston, TX, 77030-4000",
+		"alias": "Tarsha  Wilson",
+		"lat":  29.7071962,
+		"lng": -95.3966905,
+		"time_window_start": 25200,
+		"time_window_end": 61200,
+		"time": 300
+        },
+	{ 
+		"address": "1 Baylor Plaza, Houston, TX, 77030",
+		"alias": "Tricia  Magana",
+		"lat":  29.7105286,
+		"lng": -95.3962414,
+		"time_window_start": 21600,
+		"time_window_end": 46800,
+		"time": 300
+        },
+	{ 
+		"address": "1220 Blalock Rd, Ste 150, Houston, TX, 77055",
+		"alias": "William  Espinoza",
+		"lat":  29.7903957,
+		"lng": -95.5213012,
+		"time_window_start": 27000,
+		"time_window_end": 64800,
+		"time": 300
+        }
+	]
+```
+
+*Note:* *These addresses are not allowed for demo account with api_key=11111111111111111111111111111111*.
+
+## Results
+
+### web UI
+
+[Response JSON file ](SD_multiple_TW_QA_webUI_RESPONSE.json)
+
+### curl (cmd)
+
+
+### Excel add-in
+
+
+
+
+
+
