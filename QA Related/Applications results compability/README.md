@@ -7,7 +7,7 @@ This article was written because of great interest among QA staff and Route4Me u
 
 For the aplications we prepared input data with similar content:
 
-1. Single Driver Multiple Time WIndows
+## 1. Single Driver Multiple Time WIndows
 
 **Parameters:**
 ```
@@ -162,9 +162,18 @@ Response JSON file - [Excel add-in Single Driver Multiple TW ](https://github.co
 The route one the map.
 
 ![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "web UI - SIngle Driver Multiple TW, 12 Stops")
+***
 
+### Conclusion
 
+The results from **curl (cmd)** and **Excel add-in** are **equal**. Ther result from **web UI** is **same** but movement on the route is **opposite**.
 
+## 2. Multiple Driver Multiple Time WIndows
 
+For this optimization type was changed only the parameter **algorithm_type**:
+```
+algorithm_type=3
+```
+The addresses are same as in the previous optimization type.
 
 
