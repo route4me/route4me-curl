@@ -197,6 +197,8 @@ Response JSON file - [curl (cmd) Multiple Driver Multiple TW, Vehicle Capacity =
 
 ### Excel add-in
 
+Was got 10 routes - from depot to other stops one by one.
+
 Response JSON file - [Excel add-in Multiple Driver Multiple TW, Vehicle Capacity = 1 ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_cap_1_Excel_RESPONSE.json)
 
 ### Conclusion
