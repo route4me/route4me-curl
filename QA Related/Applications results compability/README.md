@@ -153,7 +153,7 @@ Response JSON file - [curl (cmd) Single Driver Multiple TW ](https://github.com/
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl.png "web UI - Single Driver Multiple TW, 12 Stops")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl.png "curl (cmd) - Single Driver Multiple TW, 12 Stops")
 
 ### Excel add-in
 
@@ -161,7 +161,7 @@ Response JSON file - [Excel add-in Single Driver Multiple TW ](https://github.co
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "web UI - Single Driver Multiple TW, 12 Stops")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "Excel add-in - Single Driver Multiple TW, 12 Stops")
 
 ### Conclusion
 
@@ -232,7 +232,7 @@ Response JSON file - [curl (cmd) Single Driver Multiple TW, Vehicle Capacity = 3
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_QA_curl_cap_30.png "web UI - Multiple Driver Multiple TW, 12 Stops, capacity=30")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_QA_curl_cap_30.png "curl (cmd) - Multiple Driver Multiple TW, 12 Stops, capacity=30")
 
 ### Excel add-in
 
@@ -243,4 +243,25 @@ The route one the map.
 ![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_QA_Excel_cap_30.png "Excel add-in - Multiple Driver Multiple TW, 12 Stops, capacity=30")
 
 ### Conclusion
+
+The results from **curl (cmd)** and **Excel add-in** are **equal**. Ther route shape from **web UI** is **same**, but the sequence of the addresses is different.
+***
+
+** Summary
+
+The name for the parameter **algorithm=3** is CVRP_TW_SD - **Capacitated Vehicle Routing Problem, Time Windows, Single Depot**. Of course, this algorithm assumes that we should pay attention to the parameter **vehicle_capacity** and set it to right value. If we set it to 1, algorithm will be forced to generate almost as many routes as many stops are in the optimization.
+
+## Apendix
+
+Please, pay attention to this table, which shows corespodence between API parameters and web UI field names.
+
+| web UI field | API parameter |
+|:-----------|:------------|
+| Maximum Pieces per Route | vehicle_capacity |
+|Maximum Weight per Vehicle|vehicle_max_cargo_weight|
+|Maximum Volume per Route|vehicle_max_cargo_volume|
+|Maximum Distance per Vehicle or Route|vehicle_max_distance_mi|
+|Maximum Number of Routes/Vehicles|parts|
+|Maximum Stops per Route|max_tour_size|
+
 
