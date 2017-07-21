@@ -145,7 +145,7 @@ Response JSON file - [web UI Single Driver Multiple TW ](https://github.com/rout
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI.png "web UI - SIngle Driver Multiple TW, 12 Stops")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI.png "web UI - Single Driver Multiple TW, 12 Stops")
 
 ### curl (cmd)
 
@@ -153,7 +153,7 @@ Response JSON file - [curl (cmd) Single Driver Multiple TW ](https://github.com/
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl.png "web UI - SIngle Driver Multiple TW, 12 Stops")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_curl.png "web UI - Single Driver Multiple TW, 12 Stops")
 
 ### Excel add-in
 
@@ -161,19 +161,47 @@ Response JSON file - [Excel add-in Single Driver Multiple TW ](https://github.co
 
 The route one the map.
 
-![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "web UI - SIngle Driver Multiple TW, 12 Stops")
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_Excel_addin.png "web UI - Single Driver Multiple TW, 12 Stops")
 ***
 
 ### Conclusion
 
 The results from **curl (cmd)** and **Excel add-in** are **equal**. Ther result from **web UI** is **same** but movement on the route is **opposite**.
 
-## 2. Multiple Driver Multiple Time WIndows
+## 2. Multiple Driver Multiple Time Windows With Vehicle Capacity = 1
 
 For this optimization type was changed only the parameter **algorithm_type**:
 ```
 algorithm_type=3
 ```
+
 The addresses are same as in the previous optimization type.
 
+## Results
 
+### web UI
+
+In case of web UI we got 1 route.
+
+Response JSON file - [web UI Multiple Driver Multiple TW ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_cap_1_web_UI_RESPONSE.json)
+
+The route one the map.
+
+![alt text](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_QA_webUI_cap_1.png "web UI - Multiple Driver Multiple TW, 12 Stops")
+
+### curl (cmd)
+
+Was got 10 routes - from depot to other stops one by one.
+
+Response JSON file - [curl (cmd) Multiple Driver Multiple TW, Vehicle Capacity = 1 ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_cap_1_curl_RESPONSE.json)
+
+### Excel add-in
+
+Response JSON file - [Excel add-in Multiple Driver Multiple TW, Vehicle Capacity = 1 ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/MD_multiple_TW_cap_1_Excel_RESPONSE.json)
+
+### Conclusion
+
+The results from the curl (cmd) and Excel add-in are equal again. The result is different - it seems low value of the parameter vehicle_capacity didn't affected on the result - altough, in the response file we see that 
+```
+vehicle_capacity=1
+```
