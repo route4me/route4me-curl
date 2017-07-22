@@ -2,11 +2,11 @@
 
 A customer asked us to explain issue of the overlapping time windows.
 
-You can see input JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json)
+You can see input JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/Customer_Related/Overlapping%20TIme%20Windows/overlapping_time_windows_data.json)
 
 and
 
-Output JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json).
+Output JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/Customer_Related/Overlapping%20TIme%20Windows/overlapping_time_windows_RESPONSE.json).
 
 In the response are many error messages, which are 2 types:
 
@@ -30,9 +30,9 @@ What was changed:
 
 - Everywhere, where time windows have non-null value, but start of the second time windows less than end of the first time window, was set the start of the second time window with the 5 minutes more than the end of the first time window - this number was chosen randomely, for demostration purpose (i.g. the address "C-00001373").
 
-You can see improved input JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json)
+You can see improved input JSON data [here. ](https://github.com/route4me/route4me-curl/blob/master/Customer_Related/Overlapping%20TIme%20Windows/overlapping_time_windows_data_RIGHT.json)
 
 and 
 
-You can see RESPONSE from rigth input data [here. ](https://github.com/route4me/route4me-curl/blob/master/QA%20Related/Applications%20results%20compability/SD_multiple_TW_QA_webUI_RESPONSE.json).
+You can see RESPONSE from rigth input data [here. ](https://github.com/route4me/route4me-curl/blob/master/Customer_Related/Overlapping%20TIme%20Windows/overlapping_time_windows_right_RESPONSE.json).
 
