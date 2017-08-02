@@ -1,0 +1,31 @@
+{
+    "addresses":[
+      {
+         "address":"Court Street Freehold Borough United States of America",
+         "lat":"40.261189",
+         "lng":"-74.275818",
+         "is_depot":1
+      },
+      {
+         "address":"Fountayne Boulevard Lawrence Township United States of America",
+         "lat":"40.274287",
+         "lng":"-74.679565",
+         "time_window_start": 21600,
+         "time_window_end":   72000
+      },
+      {
+         "address":"Tennent Avenue Manalapan Township United States of America",
+         "lat":"40.285026",
+         "lng":"-74.333839",
+         "time_window_start": 36000,
+         "time_window_end":   72000
+      },
+      {
+         "address":"Stage Coach Road Millstone Township United States of America",
+         "lat":"40.202215",
+         "lng":"-74.406967",
+         "time_window_start": 21600,
+         "time_window_end":   72000
+      }
+   ]
+}
