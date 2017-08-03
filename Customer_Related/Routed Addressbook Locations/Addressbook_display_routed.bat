@@ -1,6 +1,6 @@
 ECHO OFF
 SET url=http://www.route4me.com/api.v4/address_book.php
-SET apikey=bd48828717021141485a701453273458
+SET apikey=11111111111111111111111111111111
 
 :: The example refers to the process of getting routed contacts from an address book.
 :: The parameter <display> has 3 possible values: [all, routed, unrouted]
