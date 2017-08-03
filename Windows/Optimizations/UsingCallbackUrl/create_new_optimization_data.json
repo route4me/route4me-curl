@@ -31,5 +31,16 @@
         "time_window_start": 29400,
         "time_window_end": 30000      	
       }
-   ]
+   ],
+   "parameters": {
+		"lock_last":false,
+		"travel_mode": "Driving",
+		"optimize": "Distance", 
+		"algorithm_type": 3,
+		"route_time": 21600,
+		"route_max_duration": 128000,
+		"metric": 4,
+		"vehicle_capacity": 160,
+		"vehicle_max_distance_mi": 1000000
+   }
 }
