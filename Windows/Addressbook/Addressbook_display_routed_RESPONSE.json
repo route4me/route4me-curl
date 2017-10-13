@@ -38,7 +38,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -79,7 +87,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -120,7 +136,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -161,7 +185,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -202,7 +234,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -243,7 +283,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -284,7 +332,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -325,7 +381,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -366,7 +430,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -407,7 +479,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -448,7 +528,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -489,7 +577,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -530,7 +626,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -571,7 +675,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -612,7 +724,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -653,7 +773,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -694,7 +822,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -735,7 +871,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -776,7 +920,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -817,7 +969,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -858,7 +1018,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -899,7 +1067,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -940,7 +1116,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -981,7 +1165,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1022,7 +1214,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1063,7 +1263,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1104,7 +1312,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1145,7 +1361,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1186,7 +1410,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	},
 	{
 		"created_timestamp": 1464888302,
@@ -1227,7 +1459,15 @@
 		"service_time": null,
 		"local_timezone_string": null,
 		"color": null,
-		"address_icon": null
+		"address_icon": null,
+		"address_stop_type": "DELIVERY",
+		"address_cube": null,
+		"address_pieces": null,
+		"address_reference_no": null,
+		"address_revenue": null,
+		"address_weight": null,
+		"address_priority": null,
+		"address_customer_po": null
 	}],
 	"total": 909
 }
