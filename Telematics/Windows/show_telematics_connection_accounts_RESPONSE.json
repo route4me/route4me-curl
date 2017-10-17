@@ -17,7 +17,7 @@
 	"is_enabled": 0,
 	"last_vehicles_reload": "2017-10-09 09:00:06",
 	"last_position_reload": "2017-08-07 03:14:47",
-	"vendor": "geotab",
+	"vendor": "sapsan",
 	"synced_vehicles_count": 2
 },
 {
@@ -39,7 +39,7 @@
 	"is_enabled": 1,
 	"last_vehicles_reload": "2017-10-09 09:01:20",
 	"last_position_reload": "2017-10-09 09:02:21",
-	"vendor": "geotab",
+	"vendor": "sapsan",
 	"synced_vehicles_count": 10
 },
 {
@@ -61,7 +61,7 @@
 	"is_enabled": 0,
 	"last_vehicles_reload": "2017-10-09 09:00:05",
 	"last_position_reload": "2017-08-07 03:15:02",
-	"vendor": "new_teletrac",
+	"vendor": "newton",
 	"synced_vehicles_count": 1
 },
 {
@@ -83,6 +83,6 @@
 	"is_enabled": 0,
 	"last_vehicles_reload": "2017-10-09 09:00:04",
 	"last_position_reload": "2017-08-07 03:15:23",
-	"vendor": "silentpassenger",
+	"vendor": "travelnger",
 	"synced_vehicles_count": 155
 }]
