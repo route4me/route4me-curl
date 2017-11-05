@@ -1,5 +1,6 @@
 {
 	"address_1": "318 S 39th St, Louisville, KY 40212, USA",
+	"address_2": "Second address",
 	"cached_lat"            : 38.259326,
 	"cached_lng"            : -85.814979,
 	"curbside_lat"            : 38.259326,

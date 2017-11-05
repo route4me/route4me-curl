@@ -1,0 +1,28 @@
+{
+	"address_1": "4629 HILLSIDE DRIVE, Louisville, KY, 40216",
+	"address_alias": "4629 HILLSIDE DRIVE 40216",
+	"address_group": "Scheduled daily",
+	"first_name": "Kim",
+	"last_name": "Shandor",
+	"address_email": "kshand8524@yahoo.com",
+	"address_phone_number": "9874152",
+	"cached_lat": 38.176067,
+	"cached_lng": -85.824638,
+	"curbside_lat": 38.176067,
+	"curbside_lng": -85.824638,
+	"address_city": "Louisville",
+	"address_custom_data": {
+		"scheduled": "yes",
+		"serice type": "appliance"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "daily",
+		"daily": {
+			"every": 1
+		}
+	}],
+	"schedule_blacklist": ["2017-02-24","2017-02-25"],
+	"service_time": 300
+		
+}
