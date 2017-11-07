@@ -1,0 +1,12 @@
+{
+	"optimization_problem_id": "F56546BD2FE87C93F14311975F122453",
+	"delete_old_depots": true,
+	"new_depots": [
+		{
+			"address": "1604 PARKRIDGE PKWY, Louisville, KY, 40214"
+		},
+		{
+			"address": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211"
+		}
+	]
+}
