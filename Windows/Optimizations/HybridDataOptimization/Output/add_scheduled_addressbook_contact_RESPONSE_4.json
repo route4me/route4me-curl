@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487946234,
-	"address_id": 13820690,
+	"created_timestamp": 1510069263,
+	"address_id": 23222724,
 	"address_group": "Scheduled monthly",
 	"address_alias": "730 CECIL AVENUE 40211",
 	"address_1": "730 CECIL AVENUE, Louisville, KY, 40211",
@@ -45,5 +45,13 @@
 	"service_time": 450,
 	"local_timezone_string": null,
 	"color": null,
-	"address_icon": "emoji\/emoji-bus"
+	"address_icon": "emoji\/emoji-bus",
+	"address_stop_type": "DELIVERY",
+	"address_cube": null,
+	"address_pieces": null,
+	"address_reference_no": null,
+	"address_revenue": null,
+	"address_weight": null,
+	"address_priority": null,
+	"address_customer_po": null
 }
