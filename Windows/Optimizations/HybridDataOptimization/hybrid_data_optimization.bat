@@ -42,7 +42,7 @@ SET "scheduled_data=2017-12-20"
 SET tz_minutes=480
 SET "houtput=output/get_hybrid_route_20_12_17_RESPONSE.json"
 
-START /WAIT curl -o %houtput% -g -k -X GET "%url%?route_id=%routeid%&api_key=%apikey%&target_date_string=%scheduled_data%&timezone_offset_minutes=%tz_minutes%"
+START /WAIT curl -o %houtput% -g -k -X GET "%url%?api_key=%apikey%&target_date_string=%scheduled_data%&timezone_offset_minutes=%tz_minutes%"
 
 timeout /t 30
 :: ====================================================================================
