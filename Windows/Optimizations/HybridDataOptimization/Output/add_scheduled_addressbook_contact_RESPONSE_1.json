@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487946232,
-	"address_id": 13820687,
+	"created_timestamp": 1510069261,
+	"address_id": 23222721,
 	"address_group": "Scheduled daily",
 	"address_alias": "1604 PARKRIDGE PKWY 40214",
 	"address_1": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
@@ -40,5 +40,13 @@
 	"service_time": 900,
 	"local_timezone_string": null,
 	"color": null,
-	"address_icon": null
+	"address_icon": null,
+	"address_stop_type": "DELIVERY",
+	"address_cube": null,
+	"address_pieces": null,
+	"address_reference_no": null,
+	"address_revenue": null,
+	"address_weight": null,
+	"address_priority": null,
+	"address_customer_po": null
 }
