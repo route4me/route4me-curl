@@ -1,0 +1,25 @@
+[{
+	"note_custom_type_id": 10,
+	"note_custom_type": "Dropoff Location",
+	"root_owner_member_id": 1,
+	"note_custom_type_values": ["Front door",
+	"Backdoor",
+	"Roof"]
+},
+{
+	"note_custom_type_id": 11,
+	"note_custom_type": "Conditions at Site",
+	"root_owner_member_id": 1,
+	"note_custom_type_values": ["safe",
+	"mild",
+	"dangerous",
+	"slippery"]
+},
+{
+	"note_custom_type_id": 18,
+	"note_custom_type": "To Do",
+	"root_owner_member_id": 1,
+	"note_custom_type_values": ["Pass a package",
+	"Pickup package",
+	"Do a service"]
+}]
