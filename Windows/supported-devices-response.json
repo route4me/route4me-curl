@@ -1,0 +1,182 @@
+[
+  {
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "6.0",
+    "make": "Meizu",
+    "model": "U20",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20-158x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20-63x128.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices\/8562"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_devices"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/9715"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=8562"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "5.0.1",
+    "make": "Meizu",
+    "model": "MX5e",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e-178x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e-71x128.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices\/8560"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_devices"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/8578"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=8560"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "6.0",
+    "make": "Meizu",
+    "model": "Pro 6 Plus",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus-161x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus-65x128.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices\/8559"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_devices"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/8574"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=8559"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "6.0",
+    "make": "Meizu",
+    "model": "M3x",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/ab188c9b-meizu_m3x.png",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/ab188c9b-meizu_m3x-163x320.png",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/ab188c9b-meizu_m3x-65x128.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices\/8558"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/supported-devices"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_devices"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/8567"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=8558"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
