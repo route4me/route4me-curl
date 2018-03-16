@@ -4,6 +4,7 @@
 	"cached_lng"            : 31.18287,
 	"address_alias"         : "Auto test address",
 	"address_city"          : "Philadelphia",
+	"day_scheduled_for_YYMMDD" : "2018-05-16",
 	"EXT_FIELD_first_name"  : "Igor",
 	"EXT_FIELD_last_name"   : "Progman",
 	"EXT_FIELD_email"       : "progman@gmail.com",
