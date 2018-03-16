@@ -1,9 +1,9 @@
 {
-	"created_timestamp": 0,
-	"order_id": 7207782,
+	"created_timestamp": 1521184759,
+	"order_id": 27992,
 	"order_status_id": 0,
-	"day_added_YYMMDD": "2016-06-18",
-	"day_scheduled_for_YYMMDD": null,
+	"day_added_YYMMDD": "2018-03-16",
+	"day_scheduled_for_YYMMDD": "2018-05-16",
 	"address_alias": "Auto test address",
 	"address_1": "1358 E Luzerne St, Philadelphia, PA 19124, US",
 	"address_2": "",
@@ -20,7 +20,10 @@
 	"cached_lng": 31.18287,
 	"curbside_lat": 48.335991,
 	"curbside_lng": 31.18287,
-	"EXT_FIELD_custom_data": null,
+	"EXT_FIELD_custom_data": [{
+		"order_id": "10",
+		"name": "Bill Soul"
+	}],
 	"in_route_count": 0,
 	"last_visited_timestamp": 0,
 	"last_routed_timestamp": 0,
@@ -36,5 +39,6 @@
 	"is_pending": true,
 	"is_accepted": false,
 	"is_started": false,
-	"is_completed": false
+	"is_completed": false,
+	"custom_user_fields": []
 }
