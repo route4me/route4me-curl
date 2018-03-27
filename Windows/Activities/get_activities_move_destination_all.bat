@@ -2,7 +2,7 @@
 
 :: You should insert real test data and your API key for accurate testing
 
-SET url=https://www.route4me.com/api/get_activities.php
+SET url=https://api.route4me.com/api/get_activities.php
 SET apikey=11111111111111111111111111111111
 SET act_type=move-destination
 
