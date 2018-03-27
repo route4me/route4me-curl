@@ -10,7 +10,7 @@ ECHO ON
 :: http://support.route4me.com/route-planning-help.php?id=manual11:tutorial3:chapter12
 
 :: ===== Add scheduled address book locations==========================================
-SET url=http://www.route4me.com/api.v4/address_book.php
+SET url=http://api.route4me.com/api.v4/address_book.php
 
 curl -o "output/add_scheduled_addressbook_contact_RESPONSE_1.json" -g -X POST -H "Content-Type: application/json" -d "@input/add_scheduled_addressbook_contact_data_1.json" "%url%?api_key=%apikey%"
 
@@ -26,7 +26,7 @@ START /WAIT curl -o "output/add_scheduled_addressbook_contact_RESPONSE_6.json" -
 :: ====================================================================================
 
 :: ===== Add scheduled orders =========================================================
-SET url=https://www.route4me.com/api.v4/order.php
+SET url=https://api.route4me.com/api.v4/order.php
 
 START /WAIT curl -o "output/add_order_RESPONSE_1.json" -k -g -X POST -H "Content-Type: application/json" -d "@input/add_order_data_1.json" "%url%?api_key=%apikey%"
 
@@ -36,7 +36,7 @@ START /WAIT curl -o "output/add_order_RESPONSE_3.json" -k -g -X POST -H "Content
 :: ====================================================================================
 
 :: ===== Get Hybrid Optimization ======================================================
-SET url=https://www.route4me.com/api.v4/hybrid_date_optimization.php
+SET url=https://api.route4me.com/api.v4/hybrid_date_optimization.php
 
 SET "scheduled_data=2017-12-20"
 SET tz_minutes=480
@@ -59,7 +59,7 @@ set /p opt_id=<"input/optimization_problem_id.txt"
 echo %opt_id%
 
 :: ==== Define Hibrid OPtimization Depots ===========================
-SET url=https://www.route4me.com/api/change_hybrid_optimization_depot.php
+SET url=https://api.route4me.com/api/change_hybrid_optimization_depot.php
 SET "hinput1=input\depots.json"
 SET "hinput2=input\depots2.json"
 
@@ -69,7 +69,7 @@ START /WAIT curl -o "output/depots_RESPONSE.json" -g -X POST -k -d "@%hinput2%" 
 
 ::===================================================================
 
-SET url=https://www.route4me.com/api.v4/optimization_problem.php
+SET url=https://api.route4me.com/api.v4/optimization_problem.php
 
 START /WAIT curl -o "output/reoptimization_RESPONSE.json" -g -X PUT -k "%url%?api_key=%apikey%&optimization_problem_id=%opt_id%&reoptimize=1"
 
