@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=http://www.broono.com/api.v4/order.php
+SET url=http://api.broono.com/api.v4/order.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON
