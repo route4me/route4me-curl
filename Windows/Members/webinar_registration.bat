@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/webinar_register.php
+SET url=https://api.route4me.com/actions/webinar_register.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON
