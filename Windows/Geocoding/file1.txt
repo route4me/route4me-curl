@@ -1,1 +1,0 @@
-[{"address":"100 Pier Four Blvd, Boston, MA 02210, USA","lat":42.3518314,"lng":-71.0434026,"type":"street_address","confidence":"high","original":"100 Pier 4 Boulevard, Boston, MA 02210, USA"}]
