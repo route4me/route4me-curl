@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/api.v4/note_custom_types.php
+SET url=https://api.route4me.com/api.v4/note_custom_types.php
 SET apikey=11111111111111111111111111111111
 
 
