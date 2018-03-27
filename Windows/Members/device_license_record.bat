@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://www.route4me.com/api/device/verify_device_license.php
+SET url=https://api.route4me.com/api/device/verify_device_license.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON
