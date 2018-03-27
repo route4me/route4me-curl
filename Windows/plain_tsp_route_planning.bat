@@ -1,5 +1,5 @@
 @ECHO OFF
-SET URL=https://www.route4me.com//api.v4/optimization_problem.php
+SET URL=https://api.route4me.com//api.v4/optimization_problem.php
 SET API_KEY=11111111111111111111111111111111
 
 ECHO ON
