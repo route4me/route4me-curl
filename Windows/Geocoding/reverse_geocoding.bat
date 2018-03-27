@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=http://www.route4me.com/api/geocoder.php
+SET url=http://api.route4me.com/api/geocoder.php
 SET apikey=11111111111111111111111111111111
 SET format=xml
 SET addrs="42.35863,-71.05670"

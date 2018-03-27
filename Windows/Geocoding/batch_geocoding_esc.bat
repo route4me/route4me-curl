@@ -2,7 +2,7 @@
 
 setlocal enableDelayedExpansion
 
-SET url=https://www.route4me.com/api/geocoder.php
+SET url=https://api.route4me.com/api/geocoder.php
 SET apikey=11111111111111111111111111111111
 SET format=json
 SET "address=100 Pier 4 Boulevard, Boston, MA 02210, USA"
