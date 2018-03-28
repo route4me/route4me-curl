@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/activity_feed.php
+url=https://api.route4me.com/api.v4/activity_feed.php
 apikey=11111111111111111111111111111111
 
 # The example refers to sending of an user's message directly to Activity Feed

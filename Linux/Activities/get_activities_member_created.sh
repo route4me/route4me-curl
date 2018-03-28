@@ -2,7 +2,7 @@
 
 # You should insert real test data and your API key for accurate testing
 
-url=https://www.route4me.com/api/get_activities.php
+url=https://api.route4me.com/api/get_activities.php
 apikey=11111111111111111111111111111111
 act_type=member-created
 
