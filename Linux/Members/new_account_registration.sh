@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/register_action.php
+url=https://api.route4me.com/actions/register_action.php
 apikey=11111111111111111111111111111111
 plan=enterprise_plan
 
