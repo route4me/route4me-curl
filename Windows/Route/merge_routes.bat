@@ -2,7 +2,7 @@
 
 setlocal enableDelayedExpansion
 
-SET url=https://www.route4me.com/actions/merge_routes.php
+SET url=https://api.route4me.com/actions/merge_routes.php
 SET apikey=11111111111111111111111111111111
 SET route_destination_id=167899059
 SET route_ids=807D38F914B27A7E9B05EDF0E1BE4014,F9165689AEB9818ED61AF3CC1C759AE4

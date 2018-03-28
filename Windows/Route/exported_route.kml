@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-			<kml xmlns="http://earth.google.com/kml/2.1">
-				<Document>
-					<name>Route4Me Optimized Route</name>
-					<Style id="r4m_placemark">
-						<IconStyle>
-							<Icon>
-								<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
-							</Icon>
-						</IconStyle>
-					</Style>
-					<Placemark>
-						<name>Strada Călan 11, Cluj-Napoca 400000</name>
-						<styleUrl>#r4m_placemark</styleUrl>
-						<Point>
-							<coordinates>23.611374735152,46.783958960682</coordinates>
-						</Point>
-					</Placemark><Placemark>
-						<name>Dej 405200, Romania</name>
-						<styleUrl>#r4m_placemark</styleUrl>
-						<Point>
-							<coordinates>23.8787342,47.1415878</coordinates>
-						</Point>
-					</Placemark><Placemark>
-						<name>Sighetu Marmației 435500, Romania</name>
-						<styleUrl>#r4m_placemark</styleUrl>
-						<Point>
-							<coordinates>23.8976506,47.927707</coordinates>
-						</Point>
-					</Placemark><Placemark>
-						<name>Miercurea Ciuc, Romania</name>
-						<styleUrl>#r4m_placemark</styleUrl>
-						<Point>
-							<coordinates>25.7953655,46.3695574</coordinates>
-						</Point>
-					</Placemark>	
-				</Document>
-			</kml>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>Route4Me Optimized Route</name>
+		<Style id="r4m_placemark">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Strada Călan 11, Cluj-Napoca 400000</name>
+			<styleUrl>#r4m_placemark</styleUrl>
+			<Point>
+				<coordinates>23.611374735152,46.783958960682</coordinates>
+			</Point>
+		</Placemark><Placemark>
+			<name>Dej 405200, Romania</name>
+			<styleUrl>#r4m_placemark</styleUrl>
+			<Point>
+				<coordinates>23.8787342,47.1415878</coordinates>
+			</Point>
+		</Placemark><Placemark>
+			<name>Sighetu Marmației 435500, Romania</name>
+			<styleUrl>#r4m_placemark</styleUrl>
+			<Point>
+				<coordinates>23.8976506,47.927707</coordinates>
+			</Point>
+		</Placemark><Placemark>
+			<name>Miercurea Ciuc, Romania</name>
+			<styleUrl>#r4m_placemark</styleUrl>
+			<Point>
+				<coordinates>25.7953655,46.3695574</coordinates>
+			</Point>
+		</Placemark>	
+	</Document>
+</kml>
