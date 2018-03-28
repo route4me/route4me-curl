@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/note_custom_types.php
+url=https://api.route4me.com/api.v4/note_custom_types.php
 
 apikey=11111111111111111111111111111111
 
