@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://route4me.com/api.v4/status.php
+SET url=https://api.route4me.com/api.v4/status.php
 
 SET apikey=11111111111111111111111111111111
 SET tracking="Q7G9P1L9"
