@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/route/share_route.php
+url=https://api.route4me.com/actions/route/share_route.php
 apikey=11111111111111111111111111111111
 routeid=3A2DD89E6E1A044B2098AD1313E3138C
 frmt=json
