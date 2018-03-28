@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/hybrid_date_optimization.php
+url=https://api.route4me.com/api.v4/hybrid_date_optimization.php
 apikey=11111111111111111111111111111111
 
 scheduled_data="2017-02-24"
