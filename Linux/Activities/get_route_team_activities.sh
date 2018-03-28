@@ -2,7 +2,7 @@
 
 # You should insert real test data and your API key for accurate testing
 
-url=https://www.route4me.com/api/get_activities.php
+url=https://api.route4me.com/api/get_activities.php
 apikey=11111111111111111111111111111111
 route_id=06B655F27E0D6A74BD37F6F9758E4D2E
 team=true
