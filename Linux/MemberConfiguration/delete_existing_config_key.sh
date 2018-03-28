@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://route4me.com/api.v4/configuration-settings.php
+url=https://api.route4me.com/api.v4/configuration-settings.php
 apikey=11111111111111111111111111111111
 
 # Example refers to the process of removing of a specified configuration key belonging to an account.
