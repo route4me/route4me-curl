@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api/device/verify_device_license.php
+url=https://api.route4me.com/api/device/verify_device_license.php
 apikey=11111111111111111111111111111111
 
 # Create and Verify Mobile Device License Record
