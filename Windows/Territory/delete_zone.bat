@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/api.v4/territory.php
+SET url=https://api.route4me.com/api.v4/territory.php
 SET apikey=11111111111111111111111111111111
 SET terid1=8506E4725A006B59D5CA2EA375E08B97
 
