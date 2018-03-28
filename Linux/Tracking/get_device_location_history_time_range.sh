@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api/track/get_device_location.php
+url=https://api.route4me.com/api/track/get_device_location.php
 apikey=11111111111111111111111111111111
 routeid=814FB49CEA8188D134E9D4D4B8B0DAF7
 time_period=custom

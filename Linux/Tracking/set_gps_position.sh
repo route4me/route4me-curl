@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/track/set.php
+url=https://api.route4me.com/track/set.php
 apikey=11111111111111111111111111111111
 membid=1
 route_id=114B01238180A4227FD187E128C056F5
