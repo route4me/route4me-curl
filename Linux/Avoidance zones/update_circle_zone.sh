@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/avoidance.php
+url=https://api.route4me.com/api.v4/avoidance.php
 apikey=11111111111111111111111111111111
 terid=33C1D8EA0B3078B6238626259FBA914F
 
