@@ -6,7 +6,7 @@
 # one link in the page mentioned above.
 
 
-url=https://www.route4me.com/api.v4/optimization_problem.php
+url=https://api.route4me.com/api.v4/optimization_problem.php
 api_key=11111111111111111111111111111111
 optimized_callback_url=https://requestb.in/p59ihlp5
 
