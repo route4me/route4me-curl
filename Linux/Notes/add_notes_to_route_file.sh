@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/addRouteNotes.php
+url=https://api.route4me.com/actions/addRouteNotes.php
 
 apikey=11111111111111111111111111111111
 routeid=5C15E83A4BE005BCD1537955D28D51D7
