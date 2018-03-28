@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/upload/csv-xls-preview.php
+url=https://api.route4me.com/actions/upload/csv-xls-preview.php
 apikey=11111111111111111111111111111111
 format=json
 upload_id=b2130b5fc36ae1109ef63b6db73781f6
