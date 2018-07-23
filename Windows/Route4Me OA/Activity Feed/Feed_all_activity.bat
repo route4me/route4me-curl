@@ -9,7 +9,7 @@ SET authToken=111111111111111111111111111111111111.22222222222222222222222222222
 SET fromTs=1526649668
 SET trimTs=1529328068
 
-:: The example refers to the process of getting limited number of the locations from an address book belonged to an user.
+:: The example refers to the process of getting all activity feed OA events.
 
 ECHO ON
 
