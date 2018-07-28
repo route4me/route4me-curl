@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"longitude": -81.997146,
+		"vehicle_model_year": null,
+		"external_id": "4444444444",
+		"vehicle_model": null,
+		"last_moved_at": 1532726831,
+		"member_id": 794712,
+		"vehicle_license_plate": null,
+		"timezone": "America/New_York",
+		"vendor_hash_id": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+		"latitude": 30.121394,
+		"created_time": 1527574806,
+		"vehicle_alias": "4444444444",
+		"vehicle_make": null,
+		"vendor_id": 12,
+		"vendor_company_name": "Global leet",
+		"vehicle_id": "77777777777777777777777777777777",
+		"last_position_received": 1532795201
+	}],
+	"metadata": {
+		"total": 1
+	}
+}
