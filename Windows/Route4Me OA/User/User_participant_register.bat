@@ -1,7 +1,7 @@
 ECHO OFF
 
 :: Please, put real values in the parameter xAuthToken
-SET url=https://oa.route4me.com/api/v1/user/participants
+SET url=https://oa.route4me.com/api/v1/user/participants/register
 SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
 
 :: The example refers to the process of registering a new participant
