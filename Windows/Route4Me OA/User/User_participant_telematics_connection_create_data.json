@@ -1,0 +1,8 @@
+{
+  "participant_user_id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "name": "Test Connection",
+  "vendor_id": 9,
+  "validate_remote_credentials": true,
+  "api_key": "33333333333333333333333333333333",
+  "vehicle_position_refresh_rate": 60
+}
