@@ -1,0 +1,28 @@
+{
+	"data": {
+		"algo_id": "7F3DC4020C3CCCCCCCCCCCCCCCCCCCCC",
+		"source_address_stop_type": null,
+		"polygon": [
+			[42.239,-83.057],
+			[42.24,-83.057],
+			[42.24,-83.056],
+			[42.239,-83.056],
+			[42.239,-83.057]
+		],
+		"source_type": 0,
+		"source_route_id": null,
+		"depot": [42.2395,-83.0565],
+		"source_created_timestamp": null,
+		"polygon_hash": "wxx`Gfa}yNgE??gEfE??fE",
+		"probability": 13128983.6500000004,
+		"user_id": "2467609EFBBBBBBBBBBBBBBBBBBBBBBB",
+		"detected_depot_id": "0E76BE2F7EEEEEEEEEEEEEEEEEEEEEEE"
+	},
+	"metadata": {
+		"algo_name": "andrii_depots_detection",
+		"algo_params": {
+			"precision": 0.001
+		},
+		"algo_id": "7F3DC4020C3CCCCCCCCCCCCCCCCCCCCC"
+	}
+}
