@@ -10,6 +10,6 @@ SET user_id=7F9590B72CCccccccccccccccccccccc
 
 ECHO ON
 
-curl -o Report_settings_delete_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X GET  "%url%?user_id=%user_id%"
+curl -o Report_settings_delete_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X DELETE  "%url%?user_id=%user_id%"
 
 timeout /t 30
