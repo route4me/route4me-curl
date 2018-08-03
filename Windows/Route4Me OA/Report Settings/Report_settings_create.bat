@@ -4,7 +4,7 @@ ECHO OFF
 SET url=https://oa.route4me.com/api/v1/report/settings/
 SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
 
-:: The example refers to the process of creating the new reports settings
+:: The example refers to the process of creating the new report settings
 
 ECHO ON
 
