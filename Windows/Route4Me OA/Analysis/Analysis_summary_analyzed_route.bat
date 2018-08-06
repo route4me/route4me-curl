@@ -11,7 +11,7 @@ SET show_location_analysis_summary=1
 SET show_location_analysis=1
 SET show_detailed_routes_analysis=1
 
-:: The example refers to the process of summary of an analyzed route 
+:: The example refers to the process of getting the summary of an analyzed route 
 
 ECHO ON
 
