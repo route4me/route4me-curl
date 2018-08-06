@@ -11,6 +11,6 @@ SET timestamp_to=1529328068
 
 ECHO ON
 
-curl -o Autid_members_detected_routes_get_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X GET "%url%%r4m_member_id%/detected-routes?timestamp_from=%timestamp_from%&timestamp_to=%timestamp_to%"
+curl -o Audit_members_detected_routes_get_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X GET "%url%%r4m_member_id%/detected-routes?timestamp_from=%timestamp_from%&timestamp_to=%timestamp_to%"
 
 timeout /t 30
