@@ -1,0 +1,13 @@
+{
+	"vehicle_alias": "Ford Transit Test 4",
+	"vehicle_model_year": "2015",
+	"vehicle_reg_country": "United States",
+	"vehicle_reg_country_id": "223",
+	"vehicle_make": "Ford",
+	"vehicle_axle_count": "2",
+	"mpg_city": "9",
+	"mpg_highway": "15",
+	"fuel_type": "unleaded 93",
+	"height_inches": "73",
+	"weight_lb": "2099"
+}
