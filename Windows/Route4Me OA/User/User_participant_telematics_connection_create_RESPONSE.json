@@ -8,7 +8,6 @@
 		"api_key": "33333333333333333333333333333333",
 		"telematics_connection_id": "55555555555555555555555555555555",
 		"user_id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-		"virtual_email": "virtual-0EB534995CEC41C4@route4me.com",
 		"telematics_id": 100000,
 		"device_position_refresh_rate": 60,
 		"telematics_connection_token": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
@@ -16,7 +15,6 @@
 		"vendor_id": 9,
 		"created_at": 1532651489,
 		"first_name": null,
-		"virtual_password": "o4yCk6P8jGW",
 		"company_name": null,
 		"telematics_api_token": "782cf32dc5243a42723b2ef0793ed72c"
 	},
