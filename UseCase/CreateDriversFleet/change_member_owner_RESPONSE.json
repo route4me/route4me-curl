@@ -1,3 +1,25 @@
 {
-  "status": true
+	"member_first_name": "Clay",
+	"member_id": "886945",
+	"member_last_name": "Abraham",
+	"member_email": "regression.autotests+20180819113202@gmail.com",
+	"preferred_units": null,
+	"preferred_language": "en",
+	"timezone": "America\/New_York",
+	"member_zipcode": "22102",
+	"OWNER_MEMBER_ID": "886943",
+	"member_type": "SUB_ACCOUNT_DISPATCHER",
+	"member_phone": "571-259-5939",
+	"user_reg_state_id": null,
+	"user_reg_country_id": null,
+	"date_of_birth": "0000-00-00",
+	"HIDE_ROUTED_ADDRESSES": "",
+	"HIDE_VISITED_ADDRESSES": "",
+	"HIDE_NONFUTURE_ROUTES": "",
+	"READONLY_USER": "",
+	"SHOW_ALL_DRIVERS": "",
+	"SHOW_ALL_VEHICLES": "FALSE",
+	"member_picture": null,
+	"api_key": "11111111111111111111111111111111",
+	"custom_data": []
 }
