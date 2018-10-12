@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real value in the parameter xAuthToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/api_keys
-SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET offset=0
 SET limit=3
 
@@ -10,6 +10,6 @@ SET limit=3
 
 ECHO ON
 
-curl -o ApiKeys_get_list_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X GET "%url%?offset=%offset%&limit=%limit%"
+curl -o ApiKeys_get_list_RESPONSE.json -H "Accept: application/json" -g -k -X GET "%url%?api_key=%api_key%&offset=%offset%&limit=%limit%"
 
 timeout /t 30
