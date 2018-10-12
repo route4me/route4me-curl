@@ -2,7 +2,7 @@ ECHO OFF
 
 :: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/analysis/route/
-SET api_key=c8f031c712715c90b2e0cd1ce19cabf222222222222222222222222222222222
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 
 SET analyzed_route_id=4FE9DD79D5FA46666666666666666666
 SET show_savings=1
