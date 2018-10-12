@@ -10,6 +10,6 @@ SET trim_ts=1529328068
 
 ECHO ON
 
-curl -o Statistics_depots_detected_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%?auth_token=%authToken%&from_ts=%from_ts%&trim_ts=%trim_ts%"
+curl -o Statistics_depots_detected_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%?api_key=%api_key%&from_ts=%from_ts%&trim_ts=%trim_ts%"
 
 timeout /t 30
