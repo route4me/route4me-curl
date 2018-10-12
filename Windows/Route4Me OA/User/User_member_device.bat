@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values in the parameter xAuthToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/user/members/devices/
-SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET device_id=77777777777777777777777777777777
 
 
@@ -10,6 +10,6 @@ SET device_id=77777777777777777777777777777777
 
 ECHO ON
 
-curl -o User_member_device_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X GET  "%url%%device_id%"
+curl -o User_member_device_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%%device_id%?api_key=%api_key%"
 
 timeout /t 30
