@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values in the parameter xAuthToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/user/participants/
-SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET participant_user_id=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 SET telematic_connection_id=22222222222222222222222222222222
 
@@ -10,6 +10,6 @@ SET telematic_connection_id=22222222222222222222222222222222
 
 ECHO ON
 
-curl -o User_participant_tc_update_name_RESPONSE.json -H "Content-Type: application/json" -H "Accept: application/json" -H "x-auth-token: %xAuthToken%" -g -k -X PUT -d "@User_participant_tc_update_name_data.json" "%url%%participant_user_id%/telematics-connection/%telematic_connection_id%"
+curl -o User_participant_tc_update_name_RESPONSE.json -H "Content-Type: application/json" -H "Accept: application/json" -g -k -X PUT -d "@User_participant_tc_update_name_data.json" "%url%%participant_user_id%/telematics-connection/%telematic_connection_id%?api_key=%api_key%"
 
 timeout /t 30
