@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values in the parameter xAuthToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/analysis/download/report
-SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 
 SET member_id=888888
 SET from_ts=1526649668
@@ -13,6 +13,6 @@ SET format=xls
 
 ECHO ON
 
-curl -o Analysis_download_report_RESPONSE.xls -H "x-auth-token: %xAuthToken%" -H "Accept: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" -g -k -X GET  "%url%?member_id=%member_id%&from_ts=%from_ts%&trim_ts=%trim_ts%&format=%format%"
+curl -o Analysis_download_report_RESPONSE.xls -H "Accept: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" -g -k -X GET  "%url%?api_key=%api_key%&member_id=%member_id%&from_ts=%from_ts%&trim_ts=%trim_ts%&format=%format%"
 
 timeout /t 30
