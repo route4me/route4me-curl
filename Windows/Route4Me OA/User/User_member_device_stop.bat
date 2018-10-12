@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values in the parameter api_key
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/user/members/devices/
-SET api_key=c8f031c712715c90b2e0cd1ce19cabf247922222222222222222222222222222
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET device_id=0013311c7b7954509999999999999999
 SET timestamp=1534195390
 
