@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values n the parameters originApiKey and authToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/feed/event/
-SET authToken=111111111111111111111111111111111111.222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222.333333333-44444444444444444444444444444-555
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET event_id=44444444444444444444444444444444
 SET hide=true
 
@@ -10,6 +10,6 @@ SET hide=true
 
 ECHO ON
 
-curl -o Feed_activity_event_hide_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%%event_id%?auth_token=%authToken%&hide=%hide%"
+curl -o Feed_activity_event_hide_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%%event_id%?api_key=%api_key%&hide=%hide%"
 
 timeout /t 30
