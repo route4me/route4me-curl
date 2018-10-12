@@ -2,9 +2,8 @@ ECHO OFF
 
 SET url=https://oa.route4me.com/api/v1/feed/all
 
-:: Please, put real values in the parameters: originApiKey and authToken
-SET originApiKey=55555555555555555555555555555555
-SET authToken=111111111111111111111111111111111111.222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222.333333333-44444444444444444444444444444-555
+:: Please, put real value in the parameter api_key
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 
 SET fromTs=1526649668
 SET trimTs=1529328068
@@ -13,6 +12,6 @@ SET trimTs=1529328068
 
 ECHO ON
 
-curl -o Feed_all_activity_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%?from_ts=%fromTs%&trim_ts=%trimTs%&original_api_key=%originApiKey%&auth_token=%authToken%"
+curl -o Feed_all_activity_RESPONSE.json -H "Accept: application/json" -g -k -X GET  "%url%?from_ts=%fromTs%&trim_ts=%trimTs%&api_key=%api_key%"
 
 timeout /t 30
