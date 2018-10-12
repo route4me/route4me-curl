@@ -1,8 +1,8 @@
 ECHO OFF
 
-:: Please, put real values in the parameter xAuthToken
+:: Please, put real value in the parameter api_key
 SET url=https://oa.route4me.com/api/v1/report/settings/
-SET xAuthToken=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ.LL-gggggggggggggggggggggggggggggggggggggggg
+SET api_key=1111111111111111111111111111111111111111111111111111111111111111
 SET user_id=7F9590B72CCccccccccccccccccccccc
 
 
@@ -10,6 +10,6 @@ SET user_id=7F9590B72CCccccccccccccccccccccc
 
 ECHO ON
 
-curl -o Report_settings_delete_RESPONSE.json -H "x-auth-token: %xAuthToken%" -H "Accept: application/json" -g -k -X DELETE  "%url%?user_id=%user_id%"
+curl -o Report_settings_delete_RESPONSE.json -H "Accept: application/json" -g -k -X DELETE  "%url%?api_key=%api_key%&user_id=%user_id%"
 
 timeout /t 30
