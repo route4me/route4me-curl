@@ -18,6 +18,7 @@
 	"schedule": [
 		{
 			"enabled": true,
+			"from": "2018-12-20",
 			"mode": "annually",
 			"annually": {
 				"every": 1,

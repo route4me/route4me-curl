@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1522162175,
-	"address_id": 29618664,
+	"created_timestamp": 1539781902,
+	"address_id": 39501921,
 	"address_group": "Scheduled weekly",
 	"address_alias": "1407 MCCOY 40215",
 	"address_1": "1407 MCCOY, Louisville, KY, 40215",
@@ -21,6 +21,7 @@
 	"address_custom_data": [],
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "weekly",
 		"weekly": {
 			"every": 1,
