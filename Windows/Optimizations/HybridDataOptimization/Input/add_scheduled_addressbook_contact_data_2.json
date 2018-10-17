@@ -13,6 +13,7 @@
 	"address_city": "Louisville",
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "weekly",
 		"weekly": {
 			"every": 1,

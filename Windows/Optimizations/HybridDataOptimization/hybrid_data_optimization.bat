@@ -38,9 +38,9 @@ START /WAIT curl -o "output/add_order_RESPONSE_3.json" -k -g -X POST -H "Content
 :: ===== Get Hybrid Optimization ======================================================
 SET url=https://api.route4me.com/api.v4/hybrid_date_optimization.php
 
-SET "scheduled_data=2017-12-20"
+SET "scheduled_data=2017-18-20"
 SET tz_minutes=480
-SET "houtput=output/get_hybrid_route_20_12_17_RESPONSE.json"
+SET "houtput=output/get_hybrid_route_20_12_18_RESPONSE.json"
 
 START /WAIT curl -o %houtput% -g -k -X GET "%url%?api_key=%apikey%&target_date_string=%scheduled_data%&timezone_offset_minutes=%tz_minutes%"
 
@@ -52,7 +52,7 @@ timeout /t 30
 :: jq-win64 is a JSON parser for batch scripts.  Manual: https://stedolan.github.io/jq/manual/
 
 ::type "%houtput%" | jq-win64 ".optimization_problem_id" >"input/optimization_problem_id.txt"
-type "%cd%\output\get_hybrid_route_20_12_17_RESPONSE.json" | jq-win64 ".optimization_problem_id" > "%cd%\input\optimization_problem_id.txt"
+type "%cd%\output\get_hybrid_route_20_12_18_RESPONSE.json" | jq-win64 ".optimization_problem_id" > "%cd%\input\optimization_problem_id.txt"
 
 set /p opt_id=<"input/optimization_problem_id.txt"
 
