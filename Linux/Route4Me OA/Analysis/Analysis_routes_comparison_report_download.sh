@@ -4,7 +4,7 @@
 
 url=https://oa.route4me.com/api/v1/analysis/routes_comparison/
 
-api_key=c8f031c712715c90b2e0cd1ce19cabf24792eb2d297a85346fa10df16842f40f
+api_key=1111111111111111111111111111111111111111111111111111111111111111
 analyzed_route_id=8D6703CC5793437A8C2780E2D41E0F77
 format=xls
 
