@@ -1,0 +1,34 @@
+{
+  "data": {
+    "original_r4m_api_key": null,
+    "email": "rexlentina@route4me.com",
+    "vendor_company_name": "",
+    "locale": null,
+    "timezone": null,
+    "affiliate_user_id": "99999999999999999999999999999999",
+    "api_key": {
+      "is_active": true,
+      "ttl": 1564492137,
+      "created_at": 1532956137,
+      "private": "OOOOOOOOOOOOOOOO",
+      "public": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "api_key_id": "22222222222222222222222222222222",
+      "owner_id": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+      "creator_id": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+    },
+    "affiliate_email": "",
+    "user_id": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+    "measurement": 0,
+    "affiliate_company_name": "",
+    "origin_r4m_member_id": 0,
+    "vendor_user_id": null,
+    "vendor_id": null,
+    "phone_number": "+8123456789",
+    "last_name": "Lentina",
+    "r4m_api_key": null,
+    "website": "https://route4me.com",
+    "company_name": "Rex Lantina LLC",
+    "r4m_member_id": null,
+    "first_name": "Rex"
+  }
+}
