@@ -4,7 +4,7 @@
 
 url=https://oa.route4me.com/api/v1/user/vendors/
 
-api_key=c8f031c712715c90b2e0cd1ce19cabf24792eb2d297a85346fa10df16842f40f
+api_key=1111111111111111111111111111111111111111111111111111111111111111
 user_id=F9E0EC7394CF4C2F9965B4F2173E2501
 
 # The example refers to the process of updating a teleamtics vendor
