@@ -4,7 +4,7 @@
 
 url=https://oa.route4me.com/api/v1/report/settings/
 
-api_key=c8f031c712715c90b2e0cd1ce19cabf24792eb2d297a85346fa10df16842f40f
+api_key=1111111111111111111111111111111111111111111111111111111111111111
 user_id=7F9590B72CC941A49CD5348FE6002E04
 
 # The example refers to the process of deleting the report settings
