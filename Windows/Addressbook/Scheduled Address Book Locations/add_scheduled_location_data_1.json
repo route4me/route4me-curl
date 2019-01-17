@@ -13,7 +13,7 @@
 	"address_city": "Louisville",
 	"address_custom_data": {
 		"scheduled": "yes",
-		"serice type": "publiching"
+		"service type": "publishing"
 	},
 	"schedule": [{
 		"enabled": true,
