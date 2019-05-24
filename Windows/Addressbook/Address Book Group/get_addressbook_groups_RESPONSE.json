@@ -1,0 +1,119 @@
+[
+	{
+		"group_id": "6C4B258C149545945000000000000000",
+		"group_name": "All Group",
+		"group_color": "92e1c0",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "not_equal",
+					"value": "qwerty123456"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "0B94E3E429BA51CD338DDDDDDDDDDDDD",
+		"group_name": "Polk G",
+		"group_color": "b99aff",
+		"group_icon": "emoji/emoji-pushpin",
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"type": "string",
+					"input": "text",
+					"operator": "contains",
+					"value": "Polk"
+				}
+			],
+			"valid": true
+		}
+	},
+	{
+		"group_id": "31E5B888BF8443875466DDDDDDDDDDDD",
+		"group_name": "Houston Group",
+		"group_color": "16a765",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "contains",
+					"value": "Houston"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "618B7F04664E44B04337777777777777",
+		"group_name": "Shapes Center",
+		"group_color": "b99aff",
+		"group_icon": "emoji/emoji-pushpin",
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_alias",
+					"field": "address_alias",
+					"type": "string",
+					"input": "text",
+					"operator": "contains",
+					"value": "Shapes"
+				}
+			],
+			"valid": true
+		}
+	},
+	{
+		"group_id": "90105A3262EFFD00BE7B166666666666",
+		"group_name": "Louisville Ggroup",
+		"group_color": "fa573c",
+		"group_icon": "emoji/emoji-pushpin",
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"type": "string",
+					"input": "text",
+					"operator": "contains",
+					"value": "Louisville"
+				}
+			],
+			"valid": true
+		}
+	},
+	{
+		"group_id": "FB267644B98CEA02A6D1BBBBBBBBBBBB",
+		"group_name": "All Group",
+		"group_color": "92e1c0",
+		"group_icon": "emoji/emoji-pushpin",
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "not_equal",
+					"value": "qwerty123456"
+				}
+			]
+		}
+	}
+]
