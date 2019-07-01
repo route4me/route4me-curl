@@ -1,0 +1,14 @@
+{
+	"group_name": "All Group",
+	"group_color": "92e1c0",
+	"filter": {
+		"condition": "AND",
+		"rules": [
+			{	"id": "address_1",
+				"field": "address_1",
+				"operator": "not_equal",
+				"value": "qwerty123456"
+			}
+		]
+	}
+}
