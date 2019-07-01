@@ -1,6 +1,6 @@
 ECHO OFF
 
-SET url=https://www.route4me.com/api.v4/address_book_group.php
+SET url=https://api.route4me.com/api.v4/address_book_group.php
 SET apikey=11111111111111111111111111111111
 SET group_id=1322968F9B217C64785752B838849200
 

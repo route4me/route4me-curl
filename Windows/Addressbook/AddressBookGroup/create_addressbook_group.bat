@@ -1,6 +1,6 @@
 ECHO OFF
 
-SET url=https://www.route4me.com/api.v4/address_book_group.php
+SET url=https://api.route4me.com/api.v4/address_book_group.php
 SET apikey=11111111111111111111111111111111
 
 :: The example refers to the process of creating address book group.
