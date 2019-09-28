@@ -1,62 +1,158 @@
 {
-	"data": [{
-		"s": "60",
-		"lt": "41.00478",
-		"m": 0,
-		"lg": "-81.59004",
-		"d": 70,
-		"ts": "1477488852",
-		"ts_friendly": "2016-10-26 09:34:12",
-		"src": "R4M",
-		"cd": null
-	},
-	{
-		"s": "60",
-		"lt": "41.00478",
-		"m": 0,
-		"lg": "-81.59004",
-		"d": 70,
-		"ts": "1477489979",
-		"ts_friendly": "2016-10-26 09:52:59",
-		"src": "R4M",
-		"cd": null
-	},
-	{
-		"s": "60",
-		"lt": "41.003672",
-		"m": 0,
-		"lg": "-81.598461",
-		"d": 70,
-		"ts": "1477490169",
-		"ts_friendly": "2016-10-26 09:56:09",
-		"src": "R4M",
-		"cd": null
-	}],
+	"data": [
+		{
+			"s": "65",
+			"lt": "37.794161",
+			"m": 725205,
+			"lg": "-122.407848",
+			"d": 72,
+			"ts": "1569680385",
+			"ts_friendly": "2019-09-28 10:19:45",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.794353",
+			"m": 725205,
+			"lg": "-122.419802",
+			"d": 72,
+			"ts": "1569680464",
+			"ts_friendly": "2019-09-28 10:21:04",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.794353",
+			"m": 725205,
+			"lg": "-122.419802",
+			"d": 72,
+			"ts": "1569680503",
+			"ts_friendly": "2019-09-28 10:21:43",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.794353",
+			"m": 725205,
+			"lg": "-122.419802",
+			"d": 72,
+			"ts": "1569680516",
+			"ts_friendly": "2019-09-28 10:21:56",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.752556",
+			"m": 725205,
+			"lg": "-122.447619",
+			"d": 72,
+			"ts": "1569680577",
+			"ts_friendly": "2019-09-28 10:22:57",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.770308",
+			"m": 725205,
+			"lg": "-122.491035",
+			"d": 72,
+			"ts": "1569680612",
+			"ts_friendly": "2019-09-28 10:23:32",
+			"src": "R4M"
+		},
+		{
+			"s": "65",
+			"lt": "37.819929",
+			"m": 725205,
+			"lg": "-122.478255",
+			"d": 72,
+			"ts": "1569680650",
+			"ts_friendly": "2019-09-28 10:24:10",
+			"src": "R4M"
+		}
+	],
 	"mmd": {
-		"status": 0,
-		"matchings": [{
-			"trace_time": 4294966169,
-			"trace_distance": 0,
-			"matched_points": [[41.004784,
-			-81.590042],
-			[41.004784,
-			-81.590042]],
-			"indices": [1,
-			2],
-			"matched_time": 0,
-			"instructions": [
-			["10", "Phlox Place",0, 0, 6, "0m", "N", 0, 1],
-			["15", "", 0, 1, 0, "0m", "N", 0]],
-			"matched_distance": 0,
-			"geometry": "}mvemArpzrzC??"
-		}],
+		"matchings": [
+			{
+				"confidence": 0.0000030347739817804,
+				"geometry": "mtteFpxbjVaCX]DoDb@uC\\YDHrAHlATdDtAOb@Gt@I@P@FXlEJ~A?@H`AHvABXPnCh@hIh@hIXlENvB@D?@Dv@L`BRhD??",
+				"legs": [
+					{
+						"geometry": "mtteFpxbjVaCX]DoDb@uC\\YDHrAHlATdDtAOb@Gt@I@P@FXlEJ~A?@H`AHvABXPnCh@hIh@hIXlENvB@D?@Dv@L`BRhD",
+						"steps": [],
+						"distance": 1411.9,
+						"duration": 206.9,
+						"summary": "",
+						"weight": 206.9
+					},
+					{
+						"geometry": "wuteFrbejV??",
+						"steps": [],
+						"distance": 0,
+						"duration": 0,
+						"summary": "",
+						"weight": 0
+					}
+				],
+				"distance": 1411.9,
+				"duration": 206.9,
+				"weight_name": "routability",
+				"weight": 206.9
+			}
+		],
+		"tracepoints": [
+			{
+				"alternatives_count": 1,
+				"waypoint_index": 0,
+				"location": [
+					37.794151,
+					-122.407931
+				],
+				"name": "Stockton Street",
+				"distance": 7.3962444393931,
+				"matchings_index": 0
+			},
+			{
+				"alternatives_count": 2,
+				"waypoint_index": 1,
+				"location": [
+					37.794357,
+					-122.419776
+				],
+				"name": "Jackson Street",
+				"distance": 2.3332864205135,
+				"matchings_index": 0
+			},
+			{
+				"alternatives_count": 5,
+				"waypoint_index": 2,
+				"location": [
+					37.794357,
+					-122.419776
+				],
+				"name": "Jackson Street",
+				"distance": 2.3332864205135,
+				"matchings_index": 0
+			},
+			null,
+			null,
+			null,
+			null
+		],
+		"gaps": [
+			{
+				"distance": 15181.3,
+				"duration": 147,
+				"geometry": "wuteFrbejV@BddGzlD}mBjnGcuH{nA"
+			}
+		],
 		"summary": {
-			"total_distance": 717,
-			"matched_time": 0,
-			"matched_distance": 0,
-			"total_time": -190,
-			"trace_time": 4294965979,
-			"trace_distance": 718
+			"total_distance": 16593.2,
+			"total_duration": 353.9,
+			"matchings_distance": 1411.9,
+			"matchings_duration": 206.9,
+			"gaps_distance": 15181.3,
+			"gaps_duration": 147
 		}
 	}
 }
