@@ -1,7 +1,7 @@
 @ECHO OFF
 setlocal enableDelayedExpansion
 
-SET url=https://www.route4me.com/api/geocoder.php
+SET url=https://api.route4me.com/api/geocoder.php
 SET apikey=11111111111111111111111111111111
 SET format=json
 

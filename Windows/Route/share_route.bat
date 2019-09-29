@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/route/share_route.php
+SET url=https://api.route4me.com/actions/route/share_route.php
 SET apikey=11111111111111111111111111111111
 SET routeid=3A2DD89E6E1A044B2098AD1313E3138C
 

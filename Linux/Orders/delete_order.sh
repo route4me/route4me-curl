@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://www.broono.com/api.v4/order.php
+url=https://api.route4me.com/api.v4/order.php
 apikey=11111111111111111111111111111111
 
 # The example demonstrates process of deleting an order by sending HTPP DELETE data

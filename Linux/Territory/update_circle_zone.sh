@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/territory.php
+url=https://api.route4me.com/api.v4/territory.php
 apikey=11111111111111111111111111111111
 terid=39236C3A30F92CA338C41EB0978F9D8A
 

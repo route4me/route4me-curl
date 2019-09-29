@@ -1,11 +1,12 @@
 @ECHO OFF
-SET url=https://www.route4me.com/api/member/view_users.php
+
+SET url=https://www.route4me.com/api.v4/user.php
 SET apikey=11111111111111111111111111111111
 
-:: View existing sub-users in a Member's account
+:: The example refers to the process of getting the existing sub-users.
 
 ECHO ON
 
-curl -o file1.txt -g -X GET -k "%URL%?api_key=%apikey%"
+curl -o member_get_subusers_RESPONSE.json -g -X GET -k "%URL%?api_key=%apikey%&ofset=0&limit=10"
 
 timeout /t 30

@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=http://www.route4me.com/actions/upload/json-geocode.php
+SET url=http://api.route4me.com/actions/upload/json-geocode.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON

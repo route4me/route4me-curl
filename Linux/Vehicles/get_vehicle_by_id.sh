@@ -1,12 +1,12 @@
 #!/bin/bash
 
-url=http://www.broono.com/api/vehicles/view_vehicle.php
+url=https://wh.route4me.com/modules/api/vehicles
 apikey=11111111111111111111111111111111
-vehicleid=0A18C14AB42F6B6D7E830CE4082493E3
+vehicleid=D81F0A4E11BA589A2390999999999999
 
 # The example refers to the process of getting a vehicle by vehicle_id.
 
-curl -o file1.txt -g -X GET -k "$url?api_key=$apikey&vehicle_id=$vehicleid"
+curl -o get_vehicle_by_id_RESPONSE.json -g -X GET -k "$url$vehicleid?api_key=$apikey"
 
 echo "Finished..."
 

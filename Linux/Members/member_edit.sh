@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/user.php
+url=https://api.route4me.com/api.v4/user.php
 apikey=11111111111111111111111111111111
 
 # The example refers to the process of updating an existing user account.

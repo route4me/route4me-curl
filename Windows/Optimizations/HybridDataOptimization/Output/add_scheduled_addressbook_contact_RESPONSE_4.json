@@ -1,11 +1,11 @@
 {
-	"created_timestamp": 1487946234,
-	"address_id": 13820690,
+	"created_timestamp": 1539785631,
+	"address_id": 39508418,
 	"address_group": "Scheduled monthly",
 	"address_alias": "730 CECIL AVENUE 40211",
 	"address_1": "730 CECIL AVENUE, Louisville, KY, 40211",
 	"address_2": "",
-	"member_id": 1,
+	"member_id": 403634,
 	"first_name": "David",
 	"last_name": "Silvester",
 	"address_email": "dsilvester5874@yahoo.com",
@@ -24,6 +24,7 @@
 	},
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "monthly",
 		"monthly": {
 			"every": 1,
@@ -45,5 +46,13 @@
 	"service_time": 450,
 	"local_timezone_string": null,
 	"color": null,
-	"address_icon": "emoji\/emoji-bus"
+	"address_icon": "emoji\/emoji-bus",
+	"address_stop_type": "DELIVERY",
+	"address_cube": null,
+	"address_pieces": null,
+	"address_reference_no": null,
+	"address_revenue": null,
+	"address_weight": null,
+	"address_priority": null,
+	"address_customer_po": null
 }

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://www.route4me.com/actions/upload/json-geocode.php
+url=http://api.route4me.com/actions/upload/json-geocode.php
 apikey=11111111111111111111111111111111
 
 

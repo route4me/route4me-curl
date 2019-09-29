@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://www.route4me.com/api.v4/order.php
+url=http://api.route4me.com/api.v4/order.php
 apikey=11111111111111111111111111111111
 
 # The example refers to the process of getting specified custom fields of all Orders.

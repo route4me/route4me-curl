@@ -1,0 +1,26 @@
+{
+	"data": {
+		"is_active": true,
+		"email": null,
+		"name": "Renamed Test Connection",
+		"updated_at": 1533124666,
+		"last_name": null,
+		"api_key": "33333333333333333333333333333333",
+		"telematics_connection_id": "22222222222222222222222222222222",
+		"user_id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+		"virtual_email": "virtual-0EB534995CEC41C4@route4me.com",
+		"telematics_id": 10100,
+		"device_position_refresh_rate": 60,
+		"telematics_connection_token": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+		"vendor_name": "Route4Me",
+		"vendor_id": 9,
+		"created_at": 1532651489,
+		"first_name": null,
+		"virtual_password": "ooooooooooo",
+		"company_name": null,
+		"telematics_api_token": "77777777777777777777777777777777"
+	},
+	"metadata": {
+		"user_id": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+	}
+}

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/authenticate.php
+url=https://api.route4me.com/actions/authenticate.php
 apikey=11111111111111111111111111111111
 
 # Example refers to the process of autentication into the Route4Me's offciial web application

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/avoidance.php
+url=https://api.route4me.com/api.v4/avoidance.php
 apikey=11111111111111111111111111111111
 
 # Example demonstrates creating an avoidance zone with rectangle shape by sending HTTP parameters

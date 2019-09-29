@@ -1,12 +1,12 @@
 @ECHO OFF
 
-SET url=https://route4me.com/api/member/change_owner.php
+SET url=https://www.route4me.com/api.v4/user.php
 SET apikey=11111111111111111111111111111111
-SET memebr_id=45837
-SET owner_member_id=2
+
+:: The example refers to the process of changing a member's owner.
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -k "%url%?api_key=%apikey%&memebr_id=%memebr_id%&owner_member_id=%owner_member_id%"
+curl -o member_edit_RESPONSE.json -g -X PUT -d "@change_member_owner_data.json" -k "%url%?api_key=%apikey%"
 
 timeout /t 30

@@ -1,0 +1,23 @@
+{
+	"data": [{
+		"route_duration": 6243,
+		"vehicle_model": "SF625",
+		"is_round_trip": true,
+		"route_name": "No opt (ts 1528796175), 056058c4c3aa06bc8156666666666666",
+		"stops_detection_confidence": 0.6757875498,
+		"detected_route_duration": 39810,
+		"matched_route_id": null,
+		"vehicle_license_plate": "",
+		"is_eligible": false,
+		"internal_route_id": "DB6EB587CCCD470AAAAAAAAAAAAAAAAA",
+		"route_time": 34575,
+		"detected_route_start": 1528796175,
+		"detected_route_id": "1AE8E7663BA8E6399999999999999999",
+		"stops_count": 38,
+		"vehicle_alias": "106",
+		"vehicle_make": "INTERNATIONAL",
+		"trip_distance": 60.18,
+		"created_timestamp": 1528856083,
+		"vehicle_id": "056058c4c3aa06bc8156666666666666"
+	}]
+}

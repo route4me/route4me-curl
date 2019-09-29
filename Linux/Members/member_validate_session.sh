@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/datafeed/session/validate_session.php
+url=https://api.route4me.com/datafeed/session/validate_session.php
 apikey=11111111111111111111111111111111
 sesid=4552222222
 memid=787544566

@@ -1,13 +1,13 @@
 @ECHO OFF
 
-SET url=http://www.broono.com/api/vehicles/view_vehicle.php
+SET url=https://wh.route4me.com/modules/api/vehicles
 SET apikey=11111111111111111111111111111111
-SET vehicleid=0A18C14AB42F6B6D7E830CE4082493E3
+SET vehicleid=D81F0A4E11BA589A2390999999999999
 
 :: The example refers to the process of getting a vehicle by vehicle_id.
 
 ECHO ON
 
-curl -o file1.txt -g -X GET -k "%url%?api_key=%apikey%&vehicle_id=%vehicleid%"
+curl -o get_vehicle_by_id_RESPONSE.json -g -X GET -k "%url%%vehicleid%?api_key=%apikey%"
 
 timeout /t 30

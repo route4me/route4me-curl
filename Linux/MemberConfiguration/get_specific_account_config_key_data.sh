@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://route4me.com/api.v4/configuration-settings.php
+url=https://api.route4me.com/api.v4/configuration-settings.php
 apikey=11111111111111111111111111111111
 config_key=destination_icon_width
 

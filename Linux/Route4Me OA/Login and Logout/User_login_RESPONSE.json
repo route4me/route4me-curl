@@ -1,0 +1,16 @@
+{
+	"user": {
+		"type": 0,
+		"created_at": 1532525807,
+		"user_id": "77777777777777777777777777777777",
+		"is_sso": false,
+		"email": "jijialph@route4me.com",
+		"tc_api_token": "33333333333333333333333333333333",
+		"member_id": null,
+		"r4m_api_key": null,
+		"user_name": "Jiji",
+		"tc_connection_token": null,
+		"updated_at": 1532701449
+	},
+	"token": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.ccccccccccccccccccccccccccccccccccccccccccc"
+}

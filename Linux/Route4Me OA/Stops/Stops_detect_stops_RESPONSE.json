@@ -1,0 +1,10 @@
+{
+	"stops": [{
+		"index": 0,
+		"point": [43.702213,
+		-79.51863],
+		"timestamp": 1499558464,
+		"timestamp_next": 1499558584,
+		"stop_duration": 120
+	}]
+}

@@ -17,12 +17,13 @@
 	},
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "daily",
 		"daily": {
 			"every": 1
 		}
 	}],
-	"schedule_blacklist": ["2017-02-24","2017-02-25"],
+	"schedule_blacklist": ["2019-02-24","2019-02-25"],
 	"service_time": 300
 		
 }

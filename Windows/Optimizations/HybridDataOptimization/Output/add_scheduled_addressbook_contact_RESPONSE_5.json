@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487946234,
-	"address_id": 13820691,
+	"created_timestamp": 1539785632,
+	"address_id": 39508419,
 	"address_group": "Scheduled annually",
 	"address_alias": "650 SOUTH 29TH ST UNIT 315",
 	"address_1": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211",
@@ -24,6 +24,7 @@
 	},
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "annually",
 		"annually": {
 			"every": 1,
@@ -42,5 +43,13 @@
 	"service_time": 480,
 	"local_timezone_string": null,
 	"color": null,
-	"address_icon": "emoji\/emoji-taxi"
+	"address_icon": "emoji\/emoji-taxi",
+	"address_stop_type": "DELIVERY",
+	"address_cube": null,
+	"address_pieces": null,
+	"address_reference_no": null,
+	"address_revenue": null,
+	"address_weight": null,
+	"address_priority": null,
+	"address_customer_po": null
 }

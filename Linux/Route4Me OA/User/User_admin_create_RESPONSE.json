@@ -1,0 +1,24 @@
+{
+  "data": {
+    "last_name": "Alphy",
+    "locale": null,
+    "api_key": {
+      "api_key_id": "55555555555555555555555555555555",
+      "owner_id": "77777777777777777777777777777777",
+      "private": "WUWUWUUWUUWWUWUW",
+      "ttl": 1564061807,
+      "public": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "creator_id": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+      "is_active": true,
+      "created_at": 1532525807
+    },
+    "company_name": "Route4Me",
+    "first_name": "Jiji",
+    "email": "jijialph@route4me.com",
+    "phone_number": "+2345678901",
+    "website": "https://route4me.com",
+    "user_id": "77777777777777777777777777777777",
+    "timezone": null,
+    "measurement": 0
+  }
+}

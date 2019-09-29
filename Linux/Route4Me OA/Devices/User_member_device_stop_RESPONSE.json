@@ -1,0 +1,17 @@
+{
+	"data": {
+		"distance": 113,
+		"signals_count": 4,
+		"stop_timestamp_formatted": "2018/08/13 21:23:10",
+		"stop_duration": 1177,
+		"latitude": 44.049099,
+		"created_ts": 1534230275,
+		"stop_timestamp": 1534195390,
+		"stop_timestamp_formatted_iso": "2018-08-13T21:23:10",
+		"stop_duration_formatted": "19 minutes",
+		"confidence_formatted": "79%",
+		"longitude": -123.079887,
+		"device_id": "0013311c7b7954509999999999999999",
+		"confidence": 0.7949695499
+	}
+}

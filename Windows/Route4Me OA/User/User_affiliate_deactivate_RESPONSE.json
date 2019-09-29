@@ -1,0 +1,14 @@
+{
+	"data": {
+		"user_id": "55555555555555555555555555555555",
+		"measurement": 0,
+		"phone_number": "1234567890",
+		"timezone": null,
+		"website": "http://route4me.com",
+		"company_name": "Route4Me",
+		"first_name": "First",
+		"locale": null,
+		"email": "affiliate",
+		"last_name": "Last"
+	}
+}
