@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://www.route4me.com/api.v4/route.php
+url=http://api.route4me.com/api.v4/route.php
 apikey=11111111111111111111111111111111
 routeid=4728372005DE97EF9E4205852D690E34
 rpo=Points

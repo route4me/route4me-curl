@@ -1,0 +1,62 @@
+{
+	"data": [{
+		"longitude": -81.617841,
+		"vehicle_model_year": null,
+		"external_id": "4444444444",
+		"vehicle_model": null,
+		"last_moved_at": 1532707245,
+		"member_id": 777777,
+		"vehicle_license_plate": null,
+		"timezone": "America/New_York",
+		"vendor_hash_id": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+		"latitude": 30.204824,
+		"created_time": 1527574805,
+		"vehicle_alias": "4444444444",
+		"vehicle_make": null,
+		"vendor_id": 12,
+		"vendor_company_name": "Globus Fleet",
+		"vehicle_id": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+		"last_position_received": 1532707725
+	},
+	{
+		"longitude": -81.664707,
+		"vehicle_model_year": null,
+		"external_id": "3333333333",
+		"vehicle_model": null,
+		"last_moved_at": 1532707659,
+		"member_id": 777777,
+		"vehicle_license_plate": null,
+		"timezone": "America/New_York",
+		"vendor_hash_id": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR=",
+		"latitude": 30.371299,
+		"created_time": 1527574806,
+		"vehicle_alias": "3333333333",
+		"vehicle_make": null,
+		"vendor_id": 12,
+		"vendor_company_name": "GlobalCloud EzFleet",
+		"vehicle_id": "88888888888888888888888888888888",
+		"last_position_received": 1532707719
+	},
+	{
+		"longitude": -81.679478,
+		"vehicle_model_year": null,
+		"external_id": "2222222222",
+		"vehicle_model": null,
+		"last_moved_at": 1532707659,
+		"member_id": 777777,
+		"vehicle_license_plate": null,
+		"timezone": "America/New_York",
+		"vendor_hash_id": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR=",
+		"latitude": 30.438286,
+		"created_time": 1527574805,
+		"vehicle_alias": "2222222222",
+		"vehicle_make": null,
+		"vendor_id": 12,
+		"vendor_company_name": "GlobalCloud EzFleet",
+		"vehicle_id": "99999999999999999999999999999999",
+		"last_position_received": 1532707719
+	}],
+	"metadata": {
+		"total": 3
+	}
+}

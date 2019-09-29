@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://www.route4me.com/actions/upload/upload.php
+SET url=https://api.route4me.com/actions/upload/upload.php
 SET apikey=11111111111111111111111111111111
 SET "filename=4 addresses linked 2 New Filters.xlsx"
 

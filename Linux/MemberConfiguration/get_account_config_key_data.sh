@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://route4me.com/api.v4/configuration-settings.php
+url=https://api.route4me.com/api.v4/configuration-settings.php
 apikey=11111111111111111111111111111111
 
 # The example refers to the process of getting all account configuration key data.

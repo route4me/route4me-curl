@@ -1,6 +1,6 @@
 {
-	"created_timestamp": 1487946233,
-	"address_id": 13820689,
+	"created_timestamp": 1539785628,
+	"address_id": 39508417,
 	"address_group": "Scheduled monthly",
 	"address_alias": "4805 BELLEVUE AVE 40215",
 	"address_1": "4805 BELLEVUE AVE, Louisville, KY, 40215",
@@ -21,6 +21,7 @@
 	"address_custom_data": [],
 	"schedule": [{
 		"enabled": true,
+		"from": "2018-12-20",
 		"mode": "monthly",
 		"monthly": {
 			"every": 1,
@@ -39,5 +40,13 @@
 	"service_time": 750,
 	"local_timezone_string": null,
 	"color": "red",
-	"address_icon": null
+	"address_icon": null,
+	"address_stop_type": "DELIVERY",
+	"address_cube": null,
+	"address_pieces": null,
+	"address_reference_no": null,
+	"address_revenue": null,
+	"address_weight": null,
+	"address_priority": null,
+	"address_customer_po": null
 }

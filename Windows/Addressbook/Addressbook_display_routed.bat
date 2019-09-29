@@ -1,5 +1,5 @@
 ECHO OFF
-SET url=http://www.route4me.com/api.v4/address_book.php
+SET url=https://api.route4me.com/api.v4/address_book.php
 SET apikey=11111111111111111111111111111111
 
 :: The example refers to the process of getting routed contacts from an address book.
@@ -9,6 +9,6 @@ SET display="routed"
 
 ECHO ON
 
-curl -o file1.txt -X GET "%url%?api_key=%apikey%&display=%display%"
+curl -o file1.txt -k -X GET "%url%?api_key=%apikey%&display=%display%"
 
 timeout /t 30

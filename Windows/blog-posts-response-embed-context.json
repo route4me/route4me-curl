@@ -1,0 +1,164 @@
+[
+  {
+    "id": 5703,
+    "date": "2017-08-16T00:08:27",
+    "slug": "design-best-routes",
+    "type": "post",
+    "link": "http:\/\/blog.route4me.com\/2017\/08\/design-best-routes\/",
+    "title": {
+      "rendered": "Why It Is Critically Important to Design the Best Routes for Your Drivers"
+    },
+    "excerpt": {
+      "rendered": "<p>To conquer the last mile, you&#8217;ll need the\u00a0best routes possible. In case you don&#8217;t know already, the &#8220;last mile&#8221; refers to the final step of<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/2017\/08\/design-best-routes\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 5710,
+    "thumb": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/road-trip-2530069_1280-2-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts\/5703"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/users\/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5703"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts\/5703\/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5710"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5703"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/categories?post=5703"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/tags?post=5703"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5673,
+    "date": "2017-08-13T08:44:20",
+    "slug": "gps-tracking-software-cost-inflation",
+    "type": "post",
+    "link": "http:\/\/blog.route4me.com\/2017\/08\/gps-tracking-software-cost-inflation\/",
+    "title": {
+      "rendered": "How GPS Tracking Software Can Help You Control Cost Inflation"
+    },
+    "excerpt": {
+      "rendered": "<p>Running a business is frustrating. For every new client you sign, for every single dollar you bring in, it seems like there are a million<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/2017\/08\/gps-tracking-software-cost-inflation\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 5678,
+    "thumb": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/bookkeeping-615384_1920-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts\/5673"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/users\/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5673"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/posts\/5673\/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5678"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5673"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/categories?post=5673"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/tags?post=5673"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

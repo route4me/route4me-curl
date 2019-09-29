@@ -1,0 +1,198 @@
+[{
+	"vehicle_id": "b7",
+	"EventDateTime": "2017-10-12 15:44:40",
+	"Speed": 31,
+	"Latitude": 40.036197700000002,
+	"Longitude": -105.10292800000001,
+	"custom_data": {
+		"bearing": 1,
+		"currentStateDuration": "00:16:30",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": true,
+		"device": {
+			"id": "b7"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b6",
+	"EventDateTime": "2017-10-12 15:45:13",
+	"Speed": 0,
+	"Latitude": 39.927627600000001,
+	"Longitude": -105.09893,
+	"custom_data": {
+		"bearing": 123,
+		"currentStateDuration": "00:01:55",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b6"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "bA",
+	"EventDateTime": "2017-10-12 15:44:49",
+	"Speed": 0,
+	"Latitude": 39.991603900000001,
+	"Longitude": -105.12657900000001,
+	"custom_data": {
+		"bearing": -1,
+		"currentStateDuration": "00:06:32",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "bA"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b5",
+	"EventDateTime": "2017-10-12 15:44:59",
+	"Speed": 0,
+	"Latitude": 39.991168999999999,
+	"Longitude": -105.12442799999999,
+	"custom_data": {
+		"bearing": 294,
+		"currentStateDuration": "00:07:45",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b5"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b2",
+	"EventDateTime": "2017-10-12 15:45:04",
+	"Speed": 0,
+	"Latitude": 39.928474399999999,
+	"Longitude": -105.09893,
+	"custom_data": {
+		"bearing": -1,
+		"currentStateDuration": "00:08:23",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b2"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b8",
+	"EventDateTime": "2017-10-12 15:45:42",
+	"Speed": 0,
+	"Latitude": 39.991191899999997,
+	"Longitude": -105.12445099999999,
+	"custom_data": {
+		"bearing": 304,
+		"currentStateDuration": "00:23:49",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b8"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b1",
+	"EventDateTime": "2017-10-12 15:45:31",
+	"Speed": 0,
+	"Latitude": 40.014003799999998,
+	"Longitude": -105.28037999999999,
+	"custom_data": {
+		"bearing": 233,
+		"currentStateDuration": "00:30:47",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b1"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b3",
+	"EventDateTime": "2017-10-12 15:41:33",
+	"Speed": 0,
+	"Latitude": 39.927551299999998,
+	"Longitude": -105.099701,
+	"custom_data": {
+		"bearing": 179,
+		"currentStateDuration": "16:24:59.0630000",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b3"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+},
+{
+	"vehicle_id": "b9",
+	"EventDateTime": "2017-10-12 15:37:54",
+	"Speed": 0,
+	"Latitude": 39.927551299999998,
+	"Longitude": -105.09985399999999,
+	"custom_data": {
+		"bearing": -1,
+		"currentStateDuration": "16:31:51.0630000",
+		"exceptionEvents": [],
+		"isDeviceCommunicating": true,
+		"isDriving": false,
+		"device": {
+			"id": "b9"
+		},
+		"driver": "UnknownDriverId",
+		"groups": [{
+			"children": [],
+			"id": "GroupCompanyId"
+		}]
+	}
+}]

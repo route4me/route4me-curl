@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/merge_routes.php
+url=https://api.route4me.com/actions/merge_routes.php
 apikey=11111111111111111111111111111111
 route_ids="807D38F914B27A7E9B05EDF0E1BE4014,F9165689AEB9818ED61AF3CC1C759AE4"
 depot_address="10180 Dyer St, El Paso, TX 79924, USA"

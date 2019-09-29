@@ -1,0 +1,77 @@
+{
+	"data": [{
+		"telematics_api_token": "77777777777777777777777777777777",
+		"credentials": {
+			"api_key": "66666666666666666666666666666666"
+		},
+		"email": "e.tekhov+2pa3@gmail.com",
+		"name": "r4m1",
+		"last_name": "participant 3",
+		"first_name": "evhen",
+		"virtual_password": "5555555555",
+		"is_active": true,
+		"updated_at": 1533112869,
+		"telematics_connection_id": "662A2222222222222222222222222222",
+		"virtual_email": "virtual-C5B6AE29A97C4D7C@route4me.com",
+		"telematics_id": 10100,
+		"vendor_id": 9,
+		"user_id": "22222222222222222222222222222222",
+		"api_key": "33333333333333333333333333333333",
+		"device_position_refresh_rate": 60,
+		"company_name": "3pa3 OA",
+		"vendor_name": "Route4Me",
+		"telematics_connection_token": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+		"created_at": 1533112817
+	},
+	{
+		"telematics_api_token": "22222222222222222222222222222222",
+		"credentials": {
+			"api_key": "61E36333333333333333333333333333"
+		},
+		"email": "e.tekhov+81@gmail.com",
+		"name": "Route4Me",
+		"last_name": "Telbow",
+		"first_name": "Even",
+		"virtual_password": "GN2qDVmo9cQ",
+		"is_active": true,
+		"updated_at": 1533109652,
+		"telematics_connection_id": "DE65A666666666666666666666666666",
+		"virtual_email": "virtual-D37F22636EC84022@route4me.com",
+		"telematics_id": 10101,
+		"vendor_id": 9,
+		"user_id": "FB0FD444444444444444444444444444",
+		"api_key": "940690ffffffffffffffffffffffffff",
+		"device_position_refresh_rate": 60,
+		"company_name": null,
+		"vendor_name": "Route4Me",
+		"telematics_connection_token": "FMqMXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"created_at": 1533109652
+	},
+	{
+		"telematics_api_token": "a688b699999999999999999999999999",
+		"credentials": {
+			"api_key": "34D2B2B0777777777777777777777777"
+		},
+		"email": "rexlentina@route4me.com",
+		"name": "Test Connection",
+		"last_name": "Lentina",
+		"first_name": "Rex",
+		"virtual_password": "evNzzzzzzzzz",
+		"is_active": true,
+		"updated_at": 1533032157,
+		"telematics_connection_id": "BAE96AB0777777777777777777777777",
+		"virtual_email": "virtual-D780BD77C35B4396@route4me.com",
+		"telematics_id": 10102,
+		"vendor_id": 9,
+		"user_id": "FF59D906666666666666666666666666",
+		"api_key": "4c2122b1b88888888888888888888888",
+		"device_position_refresh_rate": 60,
+		"company_name": "Rex Lantina",
+		"vendor_name": "Route4Me",
+		"telematics_connection_token": "wCyJLW66666666666666666666666666",
+		"created_at": 1533032157
+	}],
+	"recordsTotal": 71,
+	"recordsFiltered": 3,
+	"draw": 1
+}

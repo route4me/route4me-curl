@@ -1,7 +1,7 @@
 #!/bin/bash
 
-url=http://route4me.com/api.v4/optimization_problem.php
-apikey=33383266363136302D623934312D3131
+url=http://api.route4me.com/api.v4/optimization_problem.php
+apikey=11111111111111111111111111111111
 rdirect=0
 optid=E0883C1A2C7B3AAA9397BDDF90C9CFF8
 

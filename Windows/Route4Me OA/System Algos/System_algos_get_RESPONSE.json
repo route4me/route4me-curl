@@ -1,0 +1,11 @@
+{
+	"data": [{
+		"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC",
+		"algo_name": "ff_depots_detection",
+		"algo_params": {
+			"precision": 0.001
+		},
+		"created_at": 1519820433,
+		"detection_type": 0
+	}]
+}

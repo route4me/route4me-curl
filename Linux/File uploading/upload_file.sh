@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/upload/upload.php
+url=https://api.route4me.com/actions/upload/upload.php
 apikey=11111111111111111111111111111111
 filename="10-Stops-MultiDepotSmall.csv"
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=http://www.route4me.com/api/geocoder.php
+url=http://api.route4me.com/api/geocoder.php
 apikey=11111111111111111111111111111111
 format=json
 addrs="33.945705,-118.391105"

@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://www.route4me.com/actions/route/move_route_destination.php
+SET url=https://api.route4me.com/actions/route/move_route_destination.php
 SET apikey=11111111111111111111111111111111
 
 :: Recipient route ID

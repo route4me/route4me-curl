@@ -1,0 +1,16 @@
+[{
+	"note_custom_type_id": 18,
+	"note_custom_type": "To Do",
+	"root_owner_member_id": 1,
+	"note_custom_type_values": ["Pass a package",
+	"Pickup package",
+	"Do a service"]
+},
+{
+	"note_custom_type_id": 29,
+	"note_custom_type": "Dropoff Location",
+	"root_owner_member_id": 1,
+	"note_custom_type_values": ["Front door",
+	"Backdoor",
+	"Roof"]
+}]

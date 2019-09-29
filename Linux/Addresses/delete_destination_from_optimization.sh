@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/api.v4/address.php
+url=https://api.route4me.com/api.v4/address.php
 apikey=11111111111111111111111111111111
 optprobid=123974C887534E84B6114F18A65847E3
 routedestinationid=154456307

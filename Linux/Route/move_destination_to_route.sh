@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=https://www.route4me.com/actions/route/move_route_destination.php
+url=https://api.route4me.com/actions/route/move_route_destination.php
 apikey=11111111111111111111111111111111
 
 # Recipient route ID
