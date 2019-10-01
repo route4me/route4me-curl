@@ -12,3 +12,4 @@ curl -o get_orders_RESPONSE.json -k -X GET "$url?api_key=$apikey&offset=$offset&
 echo "Finished..."
 
 sleep 15
+
