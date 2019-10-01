@@ -20,54 +20,7 @@
       }
     ],
     "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/Dynamic-Route-Optimization-Capabilities.jpg",
-    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/Dynamic-Route-Optimization-Capabilities-388x220.jpg",
-    "_links": {
-      "self": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases\/6095"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases"
-        }
-      ],
-      "about": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_press_releases"
-        }
-      ],
-      "wp:featuredmedia": [
-        {
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/6096"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=6095"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "pr-tags",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-tag?post=6095"
-        },
-        {
-          "taxonomy": "pr-categories",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-category?post=6095"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/Dynamic-Route-Optimization-Capabilities-388x220.jpg"
   },
   {
     "title": "Route4Me Adds Time Saving Auto Check-in\/Check-out Feature",
@@ -95,54 +48,7 @@
       }
     ],
     "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/route4me-auto-checkin.jpg",
-    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/route4me-auto-checkin-388x220.jpg",
-    "_links": {
-      "self": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases\/6093"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases"
-        }
-      ],
-      "about": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_press_releases"
-        }
-      ],
-      "wp:featuredmedia": [
-        {
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/6094"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=6093"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "pr-tags",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-tag?post=6093"
-        },
-        {
-          "taxonomy": "pr-categories",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-category?post=6093"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/route4me-auto-checkin-388x220.jpg"
   },
   {
     "title": "Route4Me Announces New Program To Help Abandoned MapPoint Users",
@@ -170,53 +76,6 @@
       }
     ],
     "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/mappoint.jpg",
-    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/mappoint-388x220.jpg",
-    "_links": {
-      "self": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases\/6091"
-        }
-      ],
-      "collection": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/press-releases"
-        }
-      ],
-      "about": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_press_releases"
-        }
-      ],
-      "wp:featuredmedia": [
-        {
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/6092"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=6091"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "pr-tags",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-tag?post=6091"
-        },
-        {
-          "taxonomy": "pr-categories",
-          "embeddable": true,
-          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/pr-category?post=6091"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/mappoint-388x220.jpg"
   }
 ]
