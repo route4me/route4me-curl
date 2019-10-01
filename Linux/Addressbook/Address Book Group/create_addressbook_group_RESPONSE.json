@@ -1,0 +1,18 @@
+{
+	"member_id": 1,
+	"group_name": "All Group",
+	"group_color": "92e1c0",
+	"group_icon": null,
+	"filter": {
+		"condition": "AND",
+		"rules": [
+			{
+				"id": "address_1",
+				"field": "address_1",
+				"operator": "not_equal",
+				"value": "qwerty123456"
+			}
+		]
+	},
+	"group_id": "54AC71733C0DE0A1B67EE1B39BDE1142"
+}
