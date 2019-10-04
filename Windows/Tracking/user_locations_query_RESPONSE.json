@@ -1,0 +1,38 @@
+[
+	{
+		"member_data": {
+			"member_id": 1,
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "dprogman@yahoo.com",
+			"account_type_id": 126,
+			"member_type": "PRIMARY_ACCOUNT",
+			"phone_number": null,
+			"readonly_user": 0,
+			"show_superuser_addresses": 1
+		},
+		"tracking": {
+			"route_id": "26057d4c12aadc95399c5ef828abeeba",
+			"device_id": "a77096d71abbc18e08dc8581f7365dbbc736d230",
+			"activity_timestamp": 1570211723,
+			"device_timestamp": "2019-10-04 13:55:23",
+			"device_type": "iphone",
+			"member_id": 1,
+			"vehicle_id": 0,
+			"direction": 1,
+			"speed": 268.4328,
+			"day_id": 3564,
+			"position_lat": 40.7669692,
+			"position_lng": -73.9693864,
+			"altitude": 0,
+			"footsteps": null,
+			"data_source_name": "R4M",
+			"custom_data": "",
+			"device_timezone": "America/New_York",
+			"device_timezone_offset": 0,
+			"activity_timestamp_friendly": "10/04/2019 01:10:23",
+			"LAST_KNOWN": 1570211723
+		},
+		"from_cache": true
+	}
+]
