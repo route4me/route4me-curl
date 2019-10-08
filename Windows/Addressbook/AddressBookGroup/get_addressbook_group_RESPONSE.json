@@ -1,1 +1,18 @@
-{"errors":["group not found"],"timestamp":1561880480}
+{
+	"group_id": "35DC986E1AECDD71C9389641675024EE",
+	"group_name": "All Group",
+	"group_color": "92e1c0",
+	"group_icon": null,
+	"member_id": 1,
+	"filter": {
+		"condition": "AND",
+		"rules": [
+			{
+				"field": "address_1",
+				"id": "address_1",
+				"operator": "not_equal",
+				"value": "qwerty123456"
+			}
+		]
+	}
+}
