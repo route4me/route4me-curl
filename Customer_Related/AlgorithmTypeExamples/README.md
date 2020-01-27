@@ -10,7 +10,7 @@ The Route4Me optimization engine provides the following optimization types:
 |VRP = 2| Deprecated||
 |CVRP_TW_SD = 3|Capacitated Vehicle Routing Problem with time windows contraint|Single Depot, Multiple Drivers|
 |CVRP_TW_MD = 4|Capacitated Vehicle Routing Problem with time windows contraint|Multiple Depots, Multiple Drivers|
-|TSP_TW = 5| c||
+|TSP_TW = 5| Deprecated||
 |TSP_TW_CR = 6| Deprecated||
 |BBCVRP = 7| Deprecated||
 |ALG_NONE = 100|No Algorithm|To get the routes with the original sequence of the destinations|
