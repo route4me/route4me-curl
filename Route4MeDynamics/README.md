@@ -39,7 +39,7 @@ Steps to publish OData web service in MS Dynamics Nav ([link](https://docs.micro
 
 After publishing an OData base service, you can get sales order with this url:
 
-http://<server>:7048/DynamicsNAV110/ODataV4/Company('CRONUS%20International%20Ltd.')/SalesOrder
+http://{server}:7048/DynamicsNAV110/ODataV4/Company('CRONUS%20International%20Ltd.')/SalesOrder
 
 
 ## Consmunig MS Dynamics Sql DB Directly
