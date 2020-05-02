@@ -56,7 +56,7 @@ Together with Route4MeExcelAddIn, this add-in enables effectively integrate MS D
 
 ## Export data from MS Dynamics to Excel and consume it by Route4MeExcelAddIn
 
-You can manually export data (e.g. sales orders) from MS Dynamics, import it inn Route4MeExcel work environment and geneate routes.
+You can manually export data (e.g. sales orders) from MS Dynamics, import it in the Route4MeExcel work environment and generate routes.
 
 
 ## Summary
