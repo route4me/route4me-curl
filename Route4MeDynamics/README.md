@@ -4,7 +4,7 @@ There are several ways to integrate MS Dynamics in Route4Me system:
 
 - [Consuming web-services of the MS Dynamics](#consuming-ms-dynamics-web-services);
 - [Consmunig MS Dynamics Sql DB directly](#consmunig-ms-dynamics-sql-db-directly);
-- Buy and install [Dvart Excel Add-in for Dynamics CRM](https://www.devart.com/excel-addins/dynamics-crm.html)
+- Buy and install [Devart Excel Add-in for Dynamics CRM](https://www.devart.com/excel-addins/dynamics-crm.html)
 - Export data from MS Dynamics to Excel and consume it by Route4MeExcelAddIn.
 
 ## Consuming MS Dynamics Web-Services 
@@ -17,12 +17,12 @@ In my opinion OData based service is preferable because it is supported in Power
 
 The OData implementation in Microsoft Dynamics NAV 2018 also supports the JSON format.
 
-While trying to integrate MS Dynamics in Route4me using the web-servies we should know following:
+While trying to integrate MS Dynamics in Route4me using the web-services we should know the following:
 - It is currently not possible to access Microsoft Dynamics NAV “Query objects” with SOAP web services.
 - It is currently not possible to access “CodeUnit Object” with OData web services.
 - "Page Objects" can be accessed by both SOAP and ODATA
 - OData Web Services are much Faster than SOAP.
-- SOAP supports only XML format message. OData Supports XML, JSON messages.
+- SOAP supports only XML format messages. OData Supports XML, JSON messages.
 - SOAP for data exchange, OData for web applications.
 
 Steps to publish OData web service in MS Dynamics Nav ([link](https://docs.microsoft.com/en-us/dynamics-nav/walkthrough-creating-and-interacting-odata-v4-bound-action)):
@@ -50,11 +50,11 @@ Copy OData V4 URL value and paste it in a browser's address field. You can see r
 
 
 
-## Consmunig MS Dynamics Sql DB Directly
+## Consuming MS Dynamics Sql DB Directly
 
 Microsoft Dynamics NAV server instance is MsSql server. We can read data from sql database but writing is bad idea.
 
-### Conect to MS Dynamics DB from Excel
+### Connect to MS Dynamics DB from Excel
 
 You can connect to the MS Dynamics DB from Excel application:
 
@@ -68,7 +68,7 @@ You'll get the dialog window for connection to the server:
 
 ![alt connect_to_sql_server](image/connect_to_sql_server.jpg "Connect to SQL server")
 
-You will be invited to select a datatable from database:
+You will be invited to select a datatable from the database:
 
 ![alt select_datable_from_sql_db](image/select_datatable_from_sql_db.jpg "Select a datatable from SQL database")
 
@@ -94,11 +94,11 @@ We can import exported data to Route4MeExcel work environment:
 
 ## Excel Add-in for Dynamics CRM
 
-You can install Dvart Excel Add-in for Dynamics CRM (it's commercial), which allows you to connect Microsoft Excel to Microsoft Dynamics CRM, quickly and easily load data from Dynamics CRM to Excel, instantly refresh data in an Excel workbook from Dynamics CRM, edit these data, and save them back to Dynamics CRM. It enables you to work with Dynamics CRM contacts, accounts, opportunities, leads, products, and other objects like with usual Excel worksheets.
+You can install Devart Excel Add-in for Dynamics CRM (it's commercial), which allows you to connect Microsoft Excel to Microsoft Dynamics CRM, quickly and easily load data from Dynamics CRM to Excel, instantly refresh data in an Excel workbook from Dynamics CRM, edit these data, and save them back to Dynamics CRM. It enables you to work with Dynamics CRM contacts, accounts, opportunities, leads, products, and other objects like with usual Excel worksheets.
 
 Together with Route4MeExcelAddIn, this add-in enables effectively integrate MS Dynamics data in the Route4Me system.
 
-There is another considarable Dynamics Excel add-in: [Microsoft Dynamics Office Add-in](https://appsource.microsoft.com/en-us/product/office/WA104379629?src=office&corrid=6f9547f6-4990-4c70-9b67-d9db94437cdd&omexanonuid=8dbb7a5b-1220-475c-9b48-d59f97f3f248&referralurl=). It is free but it is for Ms Dynamics 365.
+There is another considerable Dynamics Excel add-in: [Microsoft Dynamics Office Add-in](https://appsource.microsoft.com/en-us/product/office/WA104379629?src=office&corrid=6f9547f6-4990-4c70-9b67-d9db94437cdd&omexanonuid=8dbb7a5b-1220-475c-9b48-d59f97f3f248&referralurl=). It is free but it is for MS Dynamics 365.
 
 
 ## Export data from MS Dynamics to Excel and consume it by Route4MeExcelAddIn
@@ -111,5 +111,5 @@ You can manually export data (e.g. sales orders) from MS Dynamics, import it in 
 In my opinion best solutions are:
 - Consuming MS Dynamics Web-Services  (OData based);
 - Excel Add-in for Dynamics CRM together with Route4MeExcelAddIn.
+- Connect to MS Dynamics DB from Excel.
 
-Although we can use other solutions too in case of non-recurring and simple tasks.

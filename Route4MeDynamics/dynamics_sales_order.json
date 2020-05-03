@@ -1,5 +1,5 @@
 {
-	"@odata.context": "http://your_pc:7048/DynamicsNAV110/ODataV4/$metadata#Company('CRONUS%20UK%20Ltd.')/SalesOrder",
+	"@odata.context": "http://bonepc--g58:7048/DynamicsNAV110/ODataV4/$metadata#Company('CRONUS%20UK%20Ltd.')/SalesOrder",
 	"value": [
 		{
 			"@odata.etag": "W/\"JzQwO0pBQUFBQUNMQVFBQUFBSjdCakVBTUFBeEFEQUFNQUExQUFBQUFBQT02OzM1MTA2MTA7Jw==\"",
