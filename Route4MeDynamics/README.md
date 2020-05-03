@@ -34,12 +34,20 @@ Steps to publish OData web service in MS Dynamics Nav ([link](https://docs.micro
 5. Choose the OK button.
 
 
-
 > **Note**: MS Dynamics Nav Demo version not provides ability to publish web-services.
 
-After publishing an OData base service, you can get sales order with this url:
+Some OData based services are already published in the demo version. The steps for consuming them:
 
-http://{server}:7048/DynamicsNAV110/ODataV4/Company('CRONUS%20International%20Ltd.')/SalesOrder
+- Run MS Dynamics Administrator and enable OData services:
+
+![alt enable_odata_services](image/enable_odata_services.jpg "Enable OData Services")
+
+- In the MS Dynamics search for the web services and select the service **Sales Order**:
+
+![alt odata_service_link](image/odata_service_link.jpg "OData Service Link")
+
+Copy OData V4 URL value and paste it in a browser's address field. You can see returned response [here](dynamics_sales_order.json).
+
 
 
 ## Consmunig MS Dynamics Sql DB Directly
