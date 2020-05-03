@@ -81,7 +81,7 @@ You can refresh the link manually or set the refresh interval.
 We can import exported data to Route4MeExcel work environment:
 - manually;
 - by VBA script;
-- implementing in the Route4meExcel add-in project appropriate module.
+- implementing appropriate logic in the Route4meExcel add-in project.
 
 
 ## Excel Add-in for Dynamics CRM
