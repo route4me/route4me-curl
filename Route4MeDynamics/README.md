@@ -76,6 +76,13 @@ The datatable **Order Address** will be downloaded/linked to the sheet **dynOrde
 
 ![alt select_sheet_to_export](image/sheet_dyn_order_address.jpg "Worksheet dynOrderAddress")
 
+You can refresh the link manually or set the refresh interval.  
+
+We can import exported data to Route4MeExcel work environment:
+- manually;
+- by VBA script;
+- implementing in the Route4meExcel add-in project appropriate module.
+
 
 ## Excel Add-in for Dynamics CRM
 
