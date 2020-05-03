@@ -46,6 +46,24 @@ http://{server}:7048/DynamicsNAV110/ODataV4/Company('CRONUS%20International%20Lt
 
 Microsoft Dynamics NAV server instance is MsSql server. We can read data from sql database but writing is bad idea.
 
+### Conect to MS Dynamics DB from Excel
+
+You can connect to the MS Dynamics DB from Excel application:
+
+Create empty worksheet with some name, e.g. OrderAddress.
+
+Select the menu item in Excel: 
+
+```Data > Get Data > From Database > From SQL Server Database```
+
+You'll get the dialog window for connection yo the server:
+
+![alt connect_to_sql_server](image/connect_to_sql_server.jpg "Connect to SQL server")
+
+You will be invited to select a datatable from database:
+
+![alt select_datable_from_sql_db](image/select_datatable_from_sql_db.jpg")
+
 
 ## Excel Add-in for Dynamics CRM
 
