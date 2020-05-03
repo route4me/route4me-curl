@@ -62,7 +62,7 @@ You'll get the dialog window for connection yo the server:
 
 You will be invited to select a datatable from database:
 
-![alt select_datable_from_sql_db](image/select_datatable_from_sql_db.jpg")
+![alt select_datable_from_sql_db](image/select_datatable_from_sql_db.jpg "Select a datatable from SQL database")
 
 
 ## Excel Add-in for Dynamics CRM
