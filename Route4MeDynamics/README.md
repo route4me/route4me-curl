@@ -50,19 +50,31 @@ Microsoft Dynamics NAV server instance is MsSql server. We can read data from sq
 
 You can connect to the MS Dynamics DB from Excel application:
 
-Create empty worksheet with some name, e.g. OrderAddress.
+Create empty worksheet with some name, e.g. **dynOrderAddress**.
 
 Select the menu item in Excel: 
 
 ```Data > Get Data > From Database > From SQL Server Database```
 
-You'll get the dialog window for connection yo the server:
+You'll get the dialog window for connection to the server:
 
 ![alt connect_to_sql_server](image/connect_to_sql_server.jpg "Connect to SQL server")
 
 You will be invited to select a datatable from database:
 
 ![alt select_datable_from_sql_db](image/select_datatable_from_sql_db.jpg "Select a datatable from SQL database")
+
+Click the button **Load To...**
+
+You expect to see the dialog window:
+
+![alt select_sheet_to_export](image/select_datatable_from_sql_db.jpg "Select the worksheet to export the datatable")
+
+Select the worksheet **dynOrderAddress** and click the button **OK**.
+
+The datatable **Order Address** will be downloaded/linked to the sheet **dynOrderAddress**:
+
+![alt select_sheet_to_export](image/sheet_dyn_order_address.jpg "Worksheet dynOrderAddress")
 
 
 ## Excel Add-in for Dynamics CRM
