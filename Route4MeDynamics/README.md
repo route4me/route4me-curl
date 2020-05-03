@@ -98,6 +98,8 @@ You can install Dvart Excel Add-in for Dynamics CRM (it's commercial), which all
 
 Together with Route4MeExcelAddIn, this add-in enables effectively integrate MS Dynamics data in the Route4Me system.
 
+There is another considarable Dynamics Excel add-in: [Microsoft Dynamics Office Add-in](https://appsource.microsoft.com/en-us/product/office/WA104379629?src=office&corrid=6f9547f6-4990-4c70-9b67-d9db94437cdd&omexanonuid=8dbb7a5b-1220-475c-9b48-d59f97f3f248&referralurl=). It is free but it is for Ms Dynamics 365.
+
 
 ## Export data from MS Dynamics to Excel and consume it by Route4MeExcelAddIn
 
