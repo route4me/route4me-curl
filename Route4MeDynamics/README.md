@@ -76,7 +76,7 @@ Click the button **Load To...**
 
 You expect to see the dialog window:
 
-![alt select_sheet_to_export](image/select_datatable_from_sql_db.jpg "Select the worksheet to export the datatable")
+![alt select_sheet_to_export](image/select_sheet_to_export.jpg "Select the worksheet to export the datatable")
 
 Select the worksheet **dynOrderAddress** and click the button **OK**.
 
