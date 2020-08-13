@@ -1,0 +1,17 @@
+{
+	"id": 75802,
+	"name": "10-Stops-MultiDepotSmall.csv",
+	"download_url": "https://route4me.com/webapi/v5.0/team/files/75802/download",
+	"started_at": "2020-08-13T18:35:05+00:00",
+	"finished_at": "2020-08-13T18:35:06+00:00",
+	"is_finished": true,
+	"is_failed": null,
+	"error": null,
+	"source_file_type_id": 2,
+	"source_file_type": "user-file-uploads",
+	"tags": [
+		"csv file",
+		"csv file",
+		"csv file"
+	]
+}
