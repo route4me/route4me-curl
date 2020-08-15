@@ -1,0 +1,21 @@
+{
+	"avoid": [],
+	"avoid_roads": [
+		"Highways",
+		"Tolls",
+		"highways,tolls"
+	],
+	"features": {
+		"tolls_restriction": true
+	},
+	"travelModes": {
+		"Driving": "Driving"
+	},
+	"navigateBy": [
+		"Time",
+		"timeWithTraffic"
+	],
+	"LicensedModules": [
+		"MODULE__ROUTE_EDITOR_CUSTOM_DATA_EDITING"
+	]
+}
