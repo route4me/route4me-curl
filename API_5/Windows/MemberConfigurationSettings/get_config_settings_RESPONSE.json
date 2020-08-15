@@ -1,0 +1,12 @@
+{
+  "result": "string",
+  "data": [
+    {
+      "member_id": 0,
+      "config_key": "string",
+      "config_value": "string",
+      "is_hidden_value": true,
+      "can_unhide_value": true
+    }
+  ]
+}
