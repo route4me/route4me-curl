@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "territory_id": "5A51772FAC3C9F3A8A4F9002E9BF7399",
+      "territory_name": "Some territory name",
+      "territory_color": "000000",
+      "member_id": 1,
+      "territory": {
+        "type": "poly",
+        "data": [
+          "38.204727,-85.202452",
+          "1000"
+        ]
+      }
+    }
+  ]
+}
