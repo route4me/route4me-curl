@@ -3,7 +3,7 @@
 :: You should insert real test data and your API key for accurate testing
 
 SET url=https://api.route4me.com/autocomplete.php
-SET apikey=BD48828717021141485A701453273458
+SET apikey=11111111111111111111111111111111
 
 SET include_ab=true
 SET include_orders=false
