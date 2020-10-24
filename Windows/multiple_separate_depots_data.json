@@ -2,7 +2,7 @@
 	"parameters": {
         "algorithm_type": 4,
 		"store_route": true,
-		"route_name": "multiple_separate_depots_section",	
+		"route_name": "multiple separate depots section",	
 		"route_date": 1464523994,
 		"route_time": 25200,
 		"optimize": "Distance",
