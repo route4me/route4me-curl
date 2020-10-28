@@ -6,9 +6,9 @@ apikey=11111111111111111111111111111111
 date_from_string="2020-10-20"
 date_to_string="2020-11-20"
 timezone_offset_minutes=-240
-orders=1
-ab=1
-routes_count=1
+orders=true
+ab=true
+routes_count=true
 
 # The example refers to the process of getting the schedule calendar.
 # The example requires an API key with the enterprise subscription.
