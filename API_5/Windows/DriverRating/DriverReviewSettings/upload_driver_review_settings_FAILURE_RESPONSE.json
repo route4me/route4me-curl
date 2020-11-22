@@ -1,0 +1,10 @@
+{
+	"status": false,
+	"code": 406,
+	"exit_code": 1,
+	"messages": {
+		"logo_picture": [
+			"Image is invalid."
+		]
+	}
+}
