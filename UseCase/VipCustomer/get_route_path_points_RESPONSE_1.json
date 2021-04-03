@@ -1,0 +1,2872 @@
+{
+    "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+    "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+    "user_route_rating": null,
+    "member_id": 1,
+    "member_email": "dan@novapulsar.com",
+    "member_first_name": "Dan",
+    "member_last_name": "Khasis",
+    "channel_name": "524f0471deba60ecdc1d0f99ed61f28b",
+    "vehicle_alias": "N\/A",
+    "driver_alias": "N\/A",
+    "trip_distance": 30.33,
+    "is_unrouted": false,
+    "route_cost": 0,
+    "route_revenue": 0,
+    "net_revenue_per_distance_unit": 0,
+    "created_timestamp": 1468324510,
+    "mpg": 10,
+    "gas_price": 2,
+    "route_duration_sec": 5050,
+    "planned_total_route_duration": 85493,
+    "actual_travel_distance": 0,
+    "actual_travel_time": 0,
+    "actual_footsteps": 0,
+    "working_time": 0,
+    "driving_time": 0,
+    "idling_time": 0,
+    "paying_miles": 0,
+    "geofence_polygon_type": "circle",
+    "geofence_polygon_size": 50,
+    "parameters": {
+        "is_upload": false,
+        "rt": true,
+        "route_name": "Multiple Depot, Multiple Driver, Time Window (Part 002)",
+        "route_date": 1477785600,
+        "route_time": 25200,
+        "shared_publicly": false,
+        "disable_optimization": false,
+        "optimize": "Time",
+        "lock_last": false,
+        "vehicle_capacity": 99,
+        "vehicle_max_cargo_weight": null,
+        "vehicle_max_cargo_volume": null,
+        "vehicle_max_distance_mi": 99999,
+        "subtour_max_revenue": null,
+        "distance_unit": "mi",
+        "travel_mode": "Driving",
+        "avoid": "",
+        "avoidance_zones": [],
+        "vehicle_id": null,
+        "driver_id": null,
+        "dev_lat": null,
+        "dev_lng": null,
+        "route_max_duration": 86400,
+        "route_email": null,
+        "store_route": true,
+        "metric": 3,
+        "algorithm_type": 4,
+        "member_id": 1,
+        "ip": 1844080707,
+        "dm": 1,
+        "dirm": 5,
+        "parts": 10,
+        "parts_min": 1,
+        "device_id": null,
+        "device_type": "web",
+        "first_drive_then_wait_between_stops": false,
+        "has_trailer": false,
+        "trailer_weight_t": null,
+        "limited_weight_t": null,
+        "weight_per_axle_t": null,
+        "truck_height": null,
+        "truck_width": null,
+        "truck_length": null,
+        "truck_hazardous_goods": "",
+        "optimization_quality": 2,
+        "override_addresses": {},
+        "max_tour_size": 91,
+        "min_tour_size": 0,
+        "uturn": 1,
+        "leftturn": 1,
+        "rightturn": 1
+    },
+    "addresses": [
+        {
+            "route_destination_id": 173719625,
+            "alias": "",
+            "member_id": 1,
+            "address": "455 S 4th St, Louisville, KY 40202",
+            "is_depot": true,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.251698,
+            "lng": -85.757308,
+            "curbside_lat": 38.251698,
+            "curbside_lng": -85.757308,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "route_name": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 0,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 646,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 3.91,
+            "channel_name": "987033d0ff2e3860facbfdce4f5035ca",
+            "generated_time_window_start": 25200,
+            "generated_time_window_end": 25200,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 0,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.251698,
+                    "lng": -85.757308
+                },
+                {
+                    "lat": 38.2517,
+                    "lng": -85.7574
+                },
+                {
+                    "lat": 38.25113,
+                    "lng": -85.7575
+                },
+                {
+                    "lat": 38.25204,
+                    "lng": -85.76578
+                },
+                {
+                    "lat": 38.24763,
+                    "lng": -85.76657
+                },
+                {
+                    "lat": 38.24688,
+                    "lng": -85.76666
+                },
+                {
+                    "lat": 38.24716,
+                    "lng": -85.76883
+                },
+                {
+                    "lat": 38.24721,
+                    "lng": -85.76911
+                },
+                {
+                    "lat": 38.24824,
+                    "lng": -85.77655
+                },
+                {
+                    "lat": 38.24849,
+                    "lng": -85.7782
+                },
+                {
+                    "lat": 38.24868,
+                    "lng": -85.77972
+                },
+                {
+                    "lat": 38.24897,
+                    "lng": -85.78185
+                },
+                {
+                    "lat": 38.24901,
+                    "lng": -85.78228
+                },
+                {
+                    "lat": 38.24943,
+                    "lng": -85.79483
+                },
+                {
+                    "lat": 38.24946,
+                    "lng": -85.79498
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.79816
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.7988
+                },
+                {
+                    "lat": 38.24967,
+                    "lng": -85.80163
+                },
+                {
+                    "lat": 38.24976,
+                    "lng": -85.80452
+                },
+                {
+                    "lat": 38.24981,
+                    "lng": -85.80575
+                },
+                {
+                    "lat": 38.24986,
+                    "lng": -85.80736
+                },
+                {
+                    "lat": 38.24987,
+                    "lng": -85.8082
+                },
+                {
+                    "lat": 38.24991,
+                    "lng": -85.80886
+                },
+                {
+                    "lat": 38.25029,
+                    "lng": -85.81996
+                },
+                {
+                    "lat": 38.25031,
+                    "lng": -85.8206
+                },
+                {
+                    "lat": 38.24866,
+                    "lng": -85.82074
+                }
+            ],
+            "wait_time_to_next_destination": 11672,
+            "manifest": {
+                "running_service_time": 0,
+                "running_travel_time": 0,
+                "running_wait_time": 0,
+                "running_distance": 0,
+                "fuel_from_start": 0,
+                "fuel_cost_from_start": 0,
+                "projected_arrival_time_ts": 1477810800,
+                "projected_departure_time_ts": 1477810800,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477810800,
+                "estimated_departure_time_ts": 1477810800,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719629,
+            "alias": "",
+            "member_id": 1,
+            "address": "730 CECIL AVENUE, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.248684,
+            "lng": -85.821121,
+            "curbside_lat": 38.248684,
+            "curbside_lng": -85.821121,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 1,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 266,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.4,
+            "channel_name": "5d98cb55db5bba8fc2b6701bcd647a61",
+            "generated_time_window_start": 37518,
+            "generated_time_window_end": 37818,
+            "time_window_start": 37518,
+            "time_window_end": 39550,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.248684,
+                    "lng": -85.821121
+                },
+                {
+                    "lat": 38.24866,
+                    "lng": -85.82074
+                },
+                {
+                    "lat": 38.25031,
+                    "lng": -85.8206
+                },
+                {
+                    "lat": 38.24991,
+                    "lng": -85.80886
+                },
+                {
+                    "lat": 38.24987,
+                    "lng": -85.8082
+                },
+                {
+                    "lat": 38.24986,
+                    "lng": -85.80736
+                },
+                {
+                    "lat": 38.24976,
+                    "lng": -85.80452
+                },
+                {
+                    "lat": 38.24967,
+                    "lng": -85.80163
+                },
+                {
+                    "lat": 38.2524,
+                    "lng": -85.80115
+                },
+                {
+                    "lat": 38.25227,
+                    "lng": -85.79998
+                }
+            ],
+            "wait_time_to_next_destination": 1465,
+            "manifest": {
+                "running_service_time": 0,
+                "running_travel_time": 646,
+                "running_wait_time": 11672,
+                "running_distance": 3.91,
+                "fuel_from_start": 0.391,
+                "fuel_cost_from_start": 0.782,
+                "projected_arrival_time_ts": 1477823118,
+                "projected_departure_time_ts": 1477823418,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477823118,
+                "estimated_departure_time_ts": 1477823418,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719630,
+            "alias": "",
+            "member_id": 1,
+            "address": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.251923,
+            "lng": -85.800034,
+            "curbside_lat": 38.251923,
+            "curbside_lng": -85.800034,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 2,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 228,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.23,
+            "channel_name": "8ea383689896b1b3111c98ba0b5176e5",
+            "generated_time_window_start": 39549,
+            "generated_time_window_end": 39849,
+            "time_window_start": 39550,
+            "time_window_end": 41348,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.251923,
+                    "lng": -85.800034
+                },
+                {
+                    "lat": 38.25227,
+                    "lng": -85.79998
+                },
+                {
+                    "lat": 38.2524,
+                    "lng": -85.80115
+                },
+                {
+                    "lat": 38.2559,
+                    "lng": -85.80054
+                },
+                {
+                    "lat": 38.25753,
+                    "lng": -85.81509
+                },
+                {
+                    "lat": 38.25928,
+                    "lng": -85.81473
+                }
+            ],
+            "wait_time_to_next_destination": 5118,
+            "manifest": {
+                "running_service_time": 300,
+                "running_travel_time": 912,
+                "running_wait_time": 13137,
+                "running_distance": 5.31,
+                "fuel_from_start": 0.531,
+                "fuel_cost_from_start": 1.062,
+                "projected_arrival_time_ts": 1477825149,
+                "projected_departure_time_ts": 1477825449,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477825149,
+                "estimated_departure_time_ts": 1477825449,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719633,
+            "alias": "",
+            "member_id": 1,
+            "address": "318 SO. 39TH STREET, Louisville, KY, 40212",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.259335,
+            "lng": -85.815094,
+            "curbside_lat": 38.259335,
+            "curbside_lng": -85.815094,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 3,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 605,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 3.74,
+            "channel_name": "a986a619b0938d6f518874d5b4242612",
+            "generated_time_window_start": 45195,
+            "generated_time_window_end": 45495,
+            "time_window_start": 45195,
+            "time_window_end": 46549,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.259335,
+                    "lng": -85.815094
+                },
+                {
+                    "lat": 38.25928,
+                    "lng": -85.81473
+                },
+                {
+                    "lat": 38.25861,
+                    "lng": -85.81486
+                },
+                {
+                    "lat": 38.25845,
+                    "lng": -85.81346
+                },
+                {
+                    "lat": 38.25744,
+                    "lng": -85.81364
+                },
+                {
+                    "lat": 38.25729,
+                    "lng": -85.81362
+                },
+                {
+                    "lat": 38.25517,
+                    "lng": -85.81398
+                },
+                {
+                    "lat": 38.25224,
+                    "lng": -85.78767
+                },
+                {
+                    "lat": 38.25093,
+                    "lng": -85.78792
+                },
+                {
+                    "lat": 38.25042,
+                    "lng": -85.78799
+                },
+                {
+                    "lat": 38.23692,
+                    "lng": -85.79036
+                },
+                {
+                    "lat": 38.23665,
+                    "lng": -85.7904
+                },
+                {
+                    "lat": 38.2366,
+                    "lng": -85.79039
+                },
+                {
+                    "lat": 38.23631,
+                    "lng": -85.79028
+                },
+                {
+                    "lat": 38.23597,
+                    "lng": -85.79018
+                },
+                {
+                    "lat": 38.23527,
+                    "lng": -85.79026
+                },
+                {
+                    "lat": 38.23498,
+                    "lng": -85.79034
+                },
+                {
+                    "lat": 38.23471,
+                    "lng": -85.79047
+                },
+                {
+                    "lat": 38.23062,
+                    "lng": -85.79214
+                },
+                {
+                    "lat": 38.23005,
+                    "lng": -85.78986
+                },
+                {
+                    "lat": 38.23008,
+                    "lng": -85.78968
+                },
+                {
+                    "lat": 38.22972,
+                    "lng": -85.78476
+                },
+                {
+                    "lat": 38.22969,
+                    "lng": -85.78463
+                },
+                {
+                    "lat": 38.22958,
+                    "lng": -85.78462
+                }
+            ],
+            "wait_time_to_next_destination": 4824,
+            "manifest": {
+                "running_service_time": 600,
+                "running_travel_time": 1140,
+                "running_wait_time": 18255,
+                "running_distance": 6.54,
+                "fuel_from_start": 0.654,
+                "fuel_cost_from_start": 1.308,
+                "projected_arrival_time_ts": 1477830795,
+                "projected_departure_time_ts": 1477831095,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477830795,
+                "estimated_departure_time_ts": 1477831095,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719636,
+            "alias": "",
+            "member_id": 1,
+            "address": "1661 W HILL ST, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.229584,
+            "lng": -85.783966,
+            "curbside_lat": 38.229584,
+            "curbside_lng": -85.783966,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 4,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 222,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.1,
+            "channel_name": "0a0962f027919e7ae1cd6a6e9321f4b6",
+            "generated_time_window_start": 50924,
+            "generated_time_window_end": 51224,
+            "time_window_start": 50924,
+            "time_window_end": 51392,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.229584,
+                    "lng": -85.783966
+                },
+                {
+                    "lat": 38.22958,
+                    "lng": -85.78462
+                },
+                {
+                    "lat": 38.22969,
+                    "lng": -85.78463
+                },
+                {
+                    "lat": 38.22972,
+                    "lng": -85.78476
+                },
+                {
+                    "lat": 38.23008,
+                    "lng": -85.78968
+                },
+                {
+                    "lat": 38.23005,
+                    "lng": -85.78986
+                },
+                {
+                    "lat": 38.23062,
+                    "lng": -85.79214
+                },
+                {
+                    "lat": 38.23369,
+                    "lng": -85.79089
+                },
+                {
+                    "lat": 38.23474,
+                    "lng": -85.79506
+                },
+                {
+                    "lat": 38.23408,
+                    "lng": -85.79663
+                },
+                {
+                    "lat": 38.23423,
+                    "lng": -85.79663
+                },
+                {
+                    "lat": 38.23582,
+                    "lng": -85.79647
+                }
+            ],
+            "wait_time_to_next_destination": 4185,
+            "manifest": {
+                "running_service_time": 900,
+                "running_travel_time": 1745,
+                "running_wait_time": 23079,
+                "running_distance": 10.28,
+                "fuel_from_start": 1.028,
+                "fuel_cost_from_start": 2.056,
+                "projected_arrival_time_ts": 1477836524,
+                "projected_departure_time_ts": 1477836824,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477836524,
+                "estimated_departure_time_ts": 1477836824,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719639,
+            "alias": "",
+            "member_id": 1,
+            "address": "1314 SOUTH 26TH STREET, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.235847,
+            "lng": -85.796852,
+            "curbside_lat": 38.235847,
+            "curbside_lng": -85.796852,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 5,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 101,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.45,
+            "channel_name": "7b06c4868e93c4e538284a0809d3a0ab",
+            "generated_time_window_start": 55631,
+            "generated_time_window_end": 55931,
+            "time_window_start": 55631,
+            "time_window_end": 58516,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.235847,
+                    "lng": -85.796852
+                },
+                {
+                    "lat": 38.23582,
+                    "lng": -85.79647
+                },
+                {
+                    "lat": 38.23768,
+                    "lng": -85.79627
+                },
+                {
+                    "lat": 38.23783,
+                    "lng": -85.7962
+                },
+                {
+                    "lat": 38.24174,
+                    "lng": -85.79577
+                },
+                {
+                    "lat": 38.24168,
+                    "lng": -85.79502
+                }
+            ],
+            "wait_time_to_next_destination": 6029,
+            "manifest": {
+                "running_service_time": 1200,
+                "running_travel_time": 1967,
+                "running_wait_time": 27264,
+                "running_distance": 11.38,
+                "fuel_from_start": 1.138,
+                "fuel_cost_from_start": 2.276,
+                "projected_arrival_time_ts": 1477841231,
+                "projected_departure_time_ts": 1477841531,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477841231,
+                "estimated_departure_time_ts": 1477841531,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719643,
+            "alias": "",
+            "member_id": 1,
+            "address": "2512 GREENWOOD AVE, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.241405,
+            "lng": -85.795059,
+            "curbside_lat": 38.241405,
+            "curbside_lng": -85.795059,
+            "priority": 1,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 6,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 261,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.17,
+            "channel_name": "cc74caf02a96f0fb53da1c774847ac81",
+            "generated_time_window_start": 62061,
+            "generated_time_window_end": 62361,
+            "time_window_start": 62061,
+            "time_window_end": 65012,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.241405,
+                    "lng": -85.795059
+                },
+                {
+                    "lat": 38.24168,
+                    "lng": -85.79502
+                },
+                {
+                    "lat": 38.24174,
+                    "lng": -85.79577
+                },
+                {
+                    "lat": 38.24464,
+                    "lng": -85.79545
+                },
+                {
+                    "lat": 38.24507,
+                    "lng": -85.80042
+                },
+                {
+                    "lat": 38.24525,
+                    "lng": -85.80301
+                },
+                {
+                    "lat": 38.2454,
+                    "lng": -85.80407
+                },
+                {
+                    "lat": 38.24554,
+                    "lng": -85.80564
+                },
+                {
+                    "lat": 38.24555,
+                    "lng": -85.8059
+                },
+                {
+                    "lat": 38.24969,
+                    "lng": -85.80573
+                },
+                {
+                    "lat": 38.24996,
+                    "lng": -85.80576
+                },
+                {
+                    "lat": 38.25043,
+                    "lng": -85.80586
+                },
+                {
+                    "lat": 38.25054,
+                    "lng": -85.8062
+                }
+            ],
+            "wait_time_to_next_destination": 22745,
+            "manifest": {
+                "running_service_time": 1500,
+                "running_travel_time": 2068,
+                "running_wait_time": 33293,
+                "running_distance": 11.83,
+                "fuel_from_start": 1.183,
+                "fuel_cost_from_start": 2.366,
+                "projected_arrival_time_ts": 1477847661,
+                "projected_departure_time_ts": 1477847961,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477847661,
+                "estimated_departure_time_ts": 1477847961,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719655,
+            "alias": "",
+            "member_id": 1,
+            "address": "678 WESTLAWN ST, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.250397,
+            "lng": -85.80629,
+            "curbside_lat": 38.250397,
+            "curbside_lng": -85.80629,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 7,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 212,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.95,
+            "channel_name": "ba22cfa199b6ace61b8b6334a2a81314",
+            "generated_time_window_start": 85367,
+            "generated_time_window_end": 85667,
+            "time_window_start": 85367,
+            "time_window_end": 86400,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.250397,
+                    "lng": -85.80629
+                },
+                {
+                    "lat": 38.25054,
+                    "lng": -85.8062
+                },
+                {
+                    "lat": 38.25043,
+                    "lng": -85.80586
+                },
+                {
+                    "lat": 38.24981,
+                    "lng": -85.80575
+                },
+                {
+                    "lat": 38.24976,
+                    "lng": -85.80452
+                },
+                {
+                    "lat": 38.24967,
+                    "lng": -85.80163
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.7988
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.79816
+                },
+                {
+                    "lat": 38.24946,
+                    "lng": -85.79498
+                },
+                {
+                    "lat": 38.24943,
+                    "lng": -85.79483
+                },
+                {
+                    "lat": 38.24933,
+                    "lng": -85.79157
+                },
+                {
+                    "lat": 38.24864,
+                    "lng": -85.79168
+                },
+                {
+                    "lat": 38.2486,
+                    "lng": -85.79043
+                }
+            ],
+            "wait_time_to_next_destination": 521,
+            "manifest": {
+                "running_service_time": 1800,
+                "running_travel_time": 2329,
+                "running_wait_time": 56038,
+                "running_distance": 13,
+                "fuel_from_start": 1.3,
+                "fuel_cost_from_start": 2.6,
+                "projected_arrival_time_ts": 1477870967,
+                "projected_departure_time_ts": 1477871267,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477870967,
+                "estimated_departure_time_ts": 1477871267,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719656,
+            "alias": "",
+            "member_id": 1,
+            "address": "2308 W BROADWAY, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.248882,
+            "lng": -85.790421,
+            "curbside_lat": 38.248882,
+            "curbside_lng": -85.790421,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 8,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 202,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.39,
+            "channel_name": "6d6223b278e1cf0779531839600f2710",
+            "generated_time_window_start": 86400,
+            "generated_time_window_end": 86699,
+            "time_window_start": 86400,
+            "time_window_end": 88703,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.248882,
+                    "lng": -85.790421
+                },
+                {
+                    "lat": 38.2486,
+                    "lng": -85.79043
+                },
+                {
+                    "lat": 38.24853,
+                    "lng": -85.78832
+                },
+                {
+                    "lat": 38.23692,
+                    "lng": -85.79036
+                },
+                {
+                    "lat": 38.23665,
+                    "lng": -85.7904
+                },
+                {
+                    "lat": 38.2366,
+                    "lng": -85.79039
+                },
+                {
+                    "lat": 38.23631,
+                    "lng": -85.79028
+                },
+                {
+                    "lat": 38.23597,
+                    "lng": -85.79018
+                },
+                {
+                    "lat": 38.23527,
+                    "lng": -85.79026
+                },
+                {
+                    "lat": 38.23513,
+                    "lng": -85.79029
+                },
+                {
+                    "lat": 38.23287,
+                    "lng": -85.79123
+                },
+                {
+                    "lat": 38.23362,
+                    "lng": -85.79424
+                }
+            ],
+            "wait_time_to_next_destination": 1801,
+            "manifest": {
+                "running_service_time": 2100,
+                "running_travel_time": 2541,
+                "running_wait_time": 56559,
+                "running_distance": 13.95,
+                "fuel_from_start": 1.395,
+                "fuel_cost_from_start": 2.79,
+                "projected_arrival_time_ts": 1477872000,
+                "projected_departure_time_ts": 1477872300,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477872000,
+                "estimated_departure_time_ts": 1477872300,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719657,
+            "alias": "",
+            "member_id": 1,
+            "address": "2332 WOODLAND AVE, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.233579,
+            "lng": -85.794257,
+            "curbside_lat": 38.233579,
+            "curbside_lng": -85.794257,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 9,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 163,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.99,
+            "channel_name": "75895102bdd6bb964a704ef71752c3cd",
+            "generated_time_window_start": 88702,
+            "generated_time_window_end": 89003,
+            "time_window_start": 88703,
+            "time_window_end": 89320,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.233579,
+                    "lng": -85.794257
+                },
+                {
+                    "lat": 38.23362,
+                    "lng": -85.79424
+                },
+                {
+                    "lat": 38.23287,
+                    "lng": -85.79123
+                },
+                {
+                    "lat": 38.23513,
+                    "lng": -85.79029
+                },
+                {
+                    "lat": 38.23527,
+                    "lng": -85.79026
+                },
+                {
+                    "lat": 38.23597,
+                    "lng": -85.79018
+                },
+                {
+                    "lat": 38.23626,
+                    "lng": -85.79009
+                },
+                {
+                    "lat": 38.23635,
+                    "lng": -85.79004
+                },
+                {
+                    "lat": 38.23642,
+                    "lng": -85.78996
+                },
+                {
+                    "lat": 38.23646,
+                    "lng": -85.78985
+                },
+                {
+                    "lat": 38.23641,
+                    "lng": -85.78909
+                },
+                {
+                    "lat": 38.23646,
+                    "lng": -85.78891
+                },
+                {
+                    "lat": 38.23657,
+                    "lng": -85.78877
+                },
+                {
+                    "lat": 38.23669,
+                    "lng": -85.78872
+                },
+                {
+                    "lat": 38.24011,
+                    "lng": -85.78812
+                },
+                {
+                    "lat": 38.2399,
+                    "lng": -85.78573
+                },
+                {
+                    "lat": 38.24015,
+                    "lng": -85.78563
+                },
+                {
+                    "lat": 38.23997,
+                    "lng": -85.78389
+                }
+            ],
+            "wait_time_to_next_destination": 153,
+            "manifest": {
+                "running_service_time": 2400,
+                "running_travel_time": 2743,
+                "running_wait_time": 58360,
+                "running_distance": 15.34,
+                "fuel_from_start": 1.534,
+                "fuel_cost_from_start": 3.068,
+                "projected_arrival_time_ts": 1477874303,
+                "projected_departure_time_ts": 1477874603,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477874303,
+                "estimated_departure_time_ts": 1477874603,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719658,
+            "alias": "",
+            "member_id": 1,
+            "address": "1706 WEST ST. CATHERINE, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.239697,
+            "lng": -85.783928,
+            "curbside_lat": 38.239697,
+            "curbside_lng": -85.783928,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 10,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 324,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 2.25,
+            "channel_name": "2133ce00f68a76c0e3653157fa7f0e76",
+            "generated_time_window_start": 89319,
+            "generated_time_window_end": 89619,
+            "time_window_start": 89320,
+            "time_window_end": 90054,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.239697,
+                    "lng": -85.783928
+                },
+                {
+                    "lat": 38.23997,
+                    "lng": -85.78389
+                },
+                {
+                    "lat": 38.24007,
+                    "lng": -85.78484
+                },
+                {
+                    "lat": 38.23999,
+                    "lng": -85.7849
+                },
+                {
+                    "lat": 38.2391,
+                    "lng": -85.78528
+                },
+                {
+                    "lat": 38.23918,
+                    "lng": -85.78602
+                },
+                {
+                    "lat": 38.23751,
+                    "lng": -85.78669
+                },
+                {
+                    "lat": 38.2374,
+                    "lng": -85.78678
+                },
+                {
+                    "lat": 38.23736,
+                    "lng": -85.78694
+                },
+                {
+                    "lat": 38.23723,
+                    "lng": -85.78725
+                },
+                {
+                    "lat": 38.2372,
+                    "lng": -85.78747
+                },
+                {
+                    "lat": 38.23745,
+                    "lng": -85.79027
+                },
+                {
+                    "lat": 38.23665,
+                    "lng": -85.7904
+                },
+                {
+                    "lat": 38.23651,
+                    "lng": -85.79036
+                },
+                {
+                    "lat": 38.23622,
+                    "lng": -85.79025
+                },
+                {
+                    "lat": 38.23597,
+                    "lng": -85.79018
+                },
+                {
+                    "lat": 38.23527,
+                    "lng": -85.79026
+                },
+                {
+                    "lat": 38.23513,
+                    "lng": -85.79029
+                },
+                {
+                    "lat": 38.23347,
+                    "lng": -85.79098
+                },
+                {
+                    "lat": 38.22525,
+                    "lng": -85.79433
+                },
+                {
+                    "lat": 38.22281,
+                    "lng": -85.79531
+                },
+                {
+                    "lat": 38.22226,
+                    "lng": -85.7955
+                },
+                {
+                    "lat": 38.22209,
+                    "lng": -85.79549
+                },
+                {
+                    "lat": 38.22201,
+                    "lng": -85.79546
+                },
+                {
+                    "lat": 38.22187,
+                    "lng": -85.79535
+                },
+                {
+                    "lat": 38.22179,
+                    "lng": -85.7952
+                },
+                {
+                    "lat": 38.22174,
+                    "lng": -85.79498
+                },
+                {
+                    "lat": 38.22168,
+                    "lng": -85.79405
+                },
+                {
+                    "lat": 38.22164,
+                    "lng": -85.79383
+                },
+                {
+                    "lat": 38.22157,
+                    "lng": -85.79359
+                },
+                {
+                    "lat": 38.22147,
+                    "lng": -85.79341
+                },
+                {
+                    "lat": 38.22141,
+                    "lng": -85.79325
+                },
+                {
+                    "lat": 38.2211,
+                    "lng": -85.79339
+                },
+                {
+                    "lat": 38.22084,
+                    "lng": -85.79353
+                },
+                {
+                    "lat": 38.21646,
+                    "lng": -85.79527
+                },
+                {
+                    "lat": 38.21624,
+                    "lng": -85.79242
+                }
+            ],
+            "wait_time_to_next_destination": 111,
+            "manifest": {
+                "running_service_time": 2700,
+                "running_travel_time": 2906,
+                "running_wait_time": 58513,
+                "running_distance": 16.33,
+                "fuel_from_start": 1.633,
+                "fuel_cost_from_start": 3.266,
+                "projected_arrival_time_ts": 1477874919,
+                "projected_departure_time_ts": 1477875219,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477874919,
+                "estimated_departure_time_ts": 1477875219,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719659,
+            "alias": "",
+            "member_id": 1,
+            "address": "1699 WATHEN LN, Louisville, KY, 40216",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.216465,
+            "lng": -85.792397,
+            "curbside_lat": 38.216465,
+            "curbside_lng": -85.792397,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 11,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 121,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.55,
+            "channel_name": "01d1019a3cfafd0745b819e835edf44e",
+            "generated_time_window_start": 90054,
+            "generated_time_window_end": 90353,
+            "time_window_start": 90054,
+            "time_window_end": 91150,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.216465,
+                    "lng": -85.792397
+                },
+                {
+                    "lat": 38.21624,
+                    "lng": -85.79242
+                },
+                {
+                    "lat": 38.21599,
+                    "lng": -85.7886
+                },
+                {
+                    "lat": 38.21591,
+                    "lng": -85.78828
+                },
+                {
+                    "lat": 38.21579,
+                    "lng": -85.78798
+                },
+                {
+                    "lat": 38.21535,
+                    "lng": -85.78714
+                },
+                {
+                    "lat": 38.21512,
+                    "lng": -85.78662
+                },
+                {
+                    "lat": 38.21497,
+                    "lng": -85.78639
+                },
+                {
+                    "lat": 38.21471,
+                    "lng": -85.78614
+                },
+                {
+                    "lat": 38.21304,
+                    "lng": -85.78497
+                },
+                {
+                    "lat": 38.21286,
+                    "lng": -85.78481
+                },
+                {
+                    "lat": 38.21245,
+                    "lng": -85.78512
+                }
+            ],
+            "wait_time_to_next_destination": 2933,
+            "manifest": {
+                "running_service_time": 3000,
+                "running_travel_time": 3230,
+                "running_wait_time": 58624,
+                "running_distance": 18.58,
+                "fuel_from_start": 1.858,
+                "fuel_cost_from_start": 3.716,
+                "projected_arrival_time_ts": 1477875654,
+                "projected_departure_time_ts": 1477875954,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477875654,
+                "estimated_departure_time_ts": 1477875954,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719662,
+            "alias": "",
+            "member_id": 1,
+            "address": "2707 7TH ST, Louisville, KY, 40215",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.212438,
+            "lng": -85.785082,
+            "curbside_lat": 38.212438,
+            "curbside_lng": -85.785082,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 12,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 266,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.94,
+            "channel_name": "48d2882a53871502312c920cf9f214e4",
+            "generated_time_window_start": 93407,
+            "generated_time_window_end": 93706,
+            "time_window_start": 93407,
+            "time_window_end": 95992,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.212438,
+                    "lng": -85.785082
+                },
+                {
+                    "lat": 38.21245,
+                    "lng": -85.78512
+                },
+                {
+                    "lat": 38.21314,
+                    "lng": -85.78458
+                },
+                {
+                    "lat": 38.21405,
+                    "lng": -85.78372
+                },
+                {
+                    "lat": 38.21975,
+                    "lng": -85.77775
+                },
+                {
+                    "lat": 38.21998,
+                    "lng": -85.7775
+                },
+                {
+                    "lat": 38.22006,
+                    "lng": -85.77739
+                },
+                {
+                    "lat": 38.22047,
+                    "lng": -85.77778
+                },
+                {
+                    "lat": 38.22076,
+                    "lng": -85.77813
+                },
+                {
+                    "lat": 38.22089,
+                    "lng": -85.77833
+                },
+                {
+                    "lat": 38.2211,
+                    "lng": -85.77881
+                },
+                {
+                    "lat": 38.22127,
+                    "lng": -85.77936
+                },
+                {
+                    "lat": 38.22224,
+                    "lng": -85.78311
+                },
+                {
+                    "lat": 38.2224,
+                    "lng": -85.78373
+                },
+                {
+                    "lat": 38.22251,
+                    "lng": -85.78427
+                },
+                {
+                    "lat": 38.22258,
+                    "lng": -85.78473
+                },
+                {
+                    "lat": 38.22265,
+                    "lng": -85.78527
+                },
+                {
+                    "lat": 38.22269,
+                    "lng": -85.78576
+                },
+                {
+                    "lat": 38.22334,
+                    "lng": -85.7951
+                },
+                {
+                    "lat": 38.22512,
+                    "lng": -85.79438
+                },
+                {
+                    "lat": 38.22537,
+                    "lng": -85.79562
+                },
+                {
+                    "lat": 38.22464,
+                    "lng": -85.7959
+                }
+            ],
+            "wait_time_to_next_destination": 13304,
+            "manifest": {
+                "running_service_time": 3300,
+                "running_travel_time": 3351,
+                "running_wait_time": 61557,
+                "running_distance": 19.13,
+                "fuel_from_start": 1.913,
+                "fuel_cost_from_start": 3.826,
+                "projected_arrival_time_ts": 1477879008,
+                "projected_departure_time_ts": 1477879308,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477879008,
+                "estimated_departure_time_ts": 1477879308,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719667,
+            "alias": "",
+            "member_id": 1,
+            "address": "1810 GREGG AVE, Louisville, KY, 40210",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.224716,
+            "lng": -85.796211,
+            "curbside_lat": 38.224716,
+            "curbside_lng": -85.796211,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 13,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 669,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 4.42,
+            "channel_name": "0dce2ac116f593aed237670d41cb6f97",
+            "generated_time_window_start": 107276,
+            "generated_time_window_end": 107575,
+            "time_window_start": 107276,
+            "time_window_end": 107948,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.224716,
+                    "lng": -85.796211
+                },
+                {
+                    "lat": 38.22464,
+                    "lng": -85.7959
+                },
+                {
+                    "lat": 38.22537,
+                    "lng": -85.79562
+                },
+                {
+                    "lat": 38.22512,
+                    "lng": -85.79438
+                },
+                {
+                    "lat": 38.23347,
+                    "lng": -85.79098
+                },
+                {
+                    "lat": 38.23471,
+                    "lng": -85.79047
+                },
+                {
+                    "lat": 38.23498,
+                    "lng": -85.79034
+                },
+                {
+                    "lat": 38.23527,
+                    "lng": -85.79026
+                },
+                {
+                    "lat": 38.23597,
+                    "lng": -85.79018
+                },
+                {
+                    "lat": 38.23626,
+                    "lng": -85.79009
+                },
+                {
+                    "lat": 38.23635,
+                    "lng": -85.79004
+                },
+                {
+                    "lat": 38.23642,
+                    "lng": -85.78996
+                },
+                {
+                    "lat": 38.23646,
+                    "lng": -85.78985
+                },
+                {
+                    "lat": 38.23641,
+                    "lng": -85.78909
+                },
+                {
+                    "lat": 38.23646,
+                    "lng": -85.78891
+                },
+                {
+                    "lat": 38.23657,
+                    "lng": -85.78877
+                },
+                {
+                    "lat": 38.23669,
+                    "lng": -85.78872
+                },
+                {
+                    "lat": 38.25424,
+                    "lng": -85.78563
+                },
+                {
+                    "lat": 38.25647,
+                    "lng": -85.80565
+                },
+                {
+                    "lat": 38.2565,
+                    "lng": -85.806
+                },
+                {
+                    "lat": 38.25664,
+                    "lng": -85.80716
+                },
+                {
+                    "lat": 38.25829,
+                    "lng": -85.82194
+                },
+                {
+                    "lat": 38.25938,
+                    "lng": -85.82171
+                },
+                {
+                    "lat": 38.25954,
+                    "lng": -85.82324
+                },
+                {
+                    "lat": 38.25987,
+                    "lng": -85.82319
+                }
+            ],
+            "wait_time_to_next_destination": 170,
+            "manifest": {
+                "running_service_time": 3600,
+                "running_travel_time": 3617,
+                "running_wait_time": 74861,
+                "running_distance": 21.07,
+                "fuel_from_start": 2.107,
+                "fuel_cost_from_start": 4.214,
+                "projected_arrival_time_ts": 1477892878,
+                "projected_departure_time_ts": 1477893178,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477892878,
+                "estimated_departure_time_ts": 1477893178,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719669,
+            "alias": "",
+            "member_id": 1,
+            "address": "359 SOUTHWESTERN PKWY, Louisville, KY, 40212",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.259903,
+            "lng": -85.823463,
+            "curbside_lat": 38.259903,
+            "curbside_lng": -85.823463,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 14,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 351,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 2,
+            "channel_name": "da411947e664a405ff3b95db96045d76",
+            "generated_time_window_start": 108414,
+            "generated_time_window_end": 108614,
+            "time_window_start": 108414,
+            "time_window_end": 108685,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 200,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.259903,
+                    "lng": -85.823463
+                },
+                {
+                    "lat": 38.25987,
+                    "lng": -85.82319
+                },
+                {
+                    "lat": 38.25954,
+                    "lng": -85.82324
+                },
+                {
+                    "lat": 38.25938,
+                    "lng": -85.82171
+                },
+                {
+                    "lat": 38.25611,
+                    "lng": -85.82241
+                },
+                {
+                    "lat": 38.25273,
+                    "lng": -85.79213
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 3900,
+                "running_travel_time": 4286,
+                "running_wait_time": 75031,
+                "running_distance": 25.49,
+                "fuel_from_start": 2.549,
+                "fuel_cost_from_start": 5.098,
+                "projected_arrival_time_ts": 1477894017,
+                "projected_departure_time_ts": 1477894217,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477894017,
+                "estimated_departure_time_ts": 1477894217,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719670,
+            "alias": "",
+            "member_id": 1,
+            "address": "2407 W CHESTNUT ST, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.252781,
+            "lng": -85.792109,
+            "curbside_lat": 38.252781,
+            "curbside_lng": -85.792109,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 15,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 131,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.83,
+            "channel_name": "23ca1b6f27afdb66e389ad652c31f16b",
+            "generated_time_window_start": 108891,
+            "generated_time_window_end": 109191,
+            "time_window_start": 108685,
+            "time_window_end": 110109,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.252781,
+                    "lng": -85.792109
+                },
+                {
+                    "lat": 38.25273,
+                    "lng": -85.79213
+                },
+                {
+                    "lat": 38.25205,
+                    "lng": -85.78601
+                },
+                {
+                    "lat": 38.25765,
+                    "lng": -85.78503
+                },
+                {
+                    "lat": 38.25783,
+                    "lng": -85.78669
+                },
+                {
+                    "lat": 38.25761,
+                    "lng": -85.78673
+                }
+            ],
+            "wait_time_to_next_destination": 786,
+            "manifest": {
+                "running_service_time": 4100,
+                "running_travel_time": 4637,
+                "running_wait_time": 75031,
+                "running_distance": 27.49,
+                "fuel_from_start": 2.749,
+                "fuel_cost_from_start": 5.498,
+                "projected_arrival_time_ts": 1477894568,
+                "projected_departure_time_ts": 1477894868,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477894568,
+                "estimated_departure_time_ts": 1477894868,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719671,
+            "alias": "",
+            "member_id": 1,
+            "address": "225 S 22ND ST, Louisville, KY, 40212",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.257616,
+            "lng": -85.786658,
+            "curbside_lat": 38.257616,
+            "curbside_lng": -85.786658,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 16,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 282,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 2.01,
+            "channel_name": "fd971df2bd216beb62a28577f09c29f8",
+            "generated_time_window_start": 110108,
+            "generated_time_window_end": 110409,
+            "time_window_start": 110109,
+            "time_window_end": 111375,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.257616,
+                    "lng": -85.786658
+                },
+                {
+                    "lat": 38.25761,
+                    "lng": -85.78673
+                },
+                {
+                    "lat": 38.25714,
+                    "lng": -85.78681
+                },
+                {
+                    "lat": 38.25695,
+                    "lng": -85.78516
+                },
+                {
+                    "lat": 38.25834,
+                    "lng": -85.78491
+                },
+                {
+                    "lat": 38.25756,
+                    "lng": -85.7779
+                },
+                {
+                    "lat": 38.25725,
+                    "lng": -85.77496
+                },
+                {
+                    "lat": 38.25709,
+                    "lng": -85.7737
+                },
+                {
+                    "lat": 38.25641,
+                    "lng": -85.76752
+                },
+                {
+                    "lat": 38.25617,
+                    "lng": -85.7655
+                },
+                {
+                    "lat": 38.25522,
+                    "lng": -85.7568
+                },
+                {
+                    "lat": 38.2517,
+                    "lng": -85.7574
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 4400,
+                "running_travel_time": 4768,
+                "running_wait_time": 75817,
+                "running_distance": 28.32,
+                "fuel_from_start": 2.832,
+                "fuel_cost_from_start": 5.664,
+                "projected_arrival_time_ts": 1477895785,
+                "projected_departure_time_ts": 1477896085,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477895785,
+                "estimated_departure_time_ts": 1477896085,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 173719625,
+            "alias": "",
+            "member_id": 1,
+            "address": "455 S 4th St, Louisville, KY 40202",
+            "is_depot": true,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.251698,
+            "lng": -85.757308,
+            "curbside_lat": 38.251698,
+            "curbside_lng": -85.757308,
+            "priority": 5,
+            "route_id": "8242F8854C00C65586C1BFE9F6F5A157",
+            "original_route_id": null,
+            "route_name": null,
+            "optimization_problem_id": "07A150F52EEB318B28000F79FF7282BA",
+            "sequence_no": 0,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": 0,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": null,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": null,
+            "channel_name": "987033d0ff2e3860facbfdce4f5035ca",
+            "generated_time_window_start": 110691,
+            "generated_time_window_end": 110691,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 0,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.251698,
+                    "lng": -85.757308
+                },
+                {
+                    "lat": 38.2517,
+                    "lng": -85.7574
+                },
+                {
+                    "lat": 38.25113,
+                    "lng": -85.7575
+                },
+                {
+                    "lat": 38.25204,
+                    "lng": -85.76578
+                },
+                {
+                    "lat": 38.24763,
+                    "lng": -85.76657
+                },
+                {
+                    "lat": 38.24688,
+                    "lng": -85.76666
+                },
+                {
+                    "lat": 38.24716,
+                    "lng": -85.76883
+                },
+                {
+                    "lat": 38.24721,
+                    "lng": -85.76911
+                },
+                {
+                    "lat": 38.24824,
+                    "lng": -85.77655
+                },
+                {
+                    "lat": 38.24849,
+                    "lng": -85.7782
+                },
+                {
+                    "lat": 38.24868,
+                    "lng": -85.77972
+                },
+                {
+                    "lat": 38.24897,
+                    "lng": -85.78185
+                },
+                {
+                    "lat": 38.24901,
+                    "lng": -85.78228
+                },
+                {
+                    "lat": 38.24943,
+                    "lng": -85.79483
+                },
+                {
+                    "lat": 38.24946,
+                    "lng": -85.79498
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.79816
+                },
+                {
+                    "lat": 38.24957,
+                    "lng": -85.7988
+                },
+                {
+                    "lat": 38.24967,
+                    "lng": -85.80163
+                },
+                {
+                    "lat": 38.24976,
+                    "lng": -85.80452
+                },
+                {
+                    "lat": 38.24981,
+                    "lng": -85.80575
+                },
+                {
+                    "lat": 38.24986,
+                    "lng": -85.80736
+                },
+                {
+                    "lat": 38.24987,
+                    "lng": -85.8082
+                },
+                {
+                    "lat": 38.24991,
+                    "lng": -85.80886
+                },
+                {
+                    "lat": 38.25029,
+                    "lng": -85.81996
+                },
+                {
+                    "lat": 38.25031,
+                    "lng": -85.8206
+                },
+                {
+                    "lat": 38.24866,
+                    "lng": -85.82074
+                }
+            ],
+            "wait_time_to_next_destination": null,
+            "manifest": {
+                "running_service_time": 4700,
+                "running_travel_time": 5050,
+                "running_wait_time": 75817,
+                "running_distance": 30.33,
+                "fuel_from_start": 3.033,
+                "fuel_cost_from_start": 6.066,
+                "projected_arrival_time_ts": 1477896367,
+                "projected_departure_time_ts": 1477896367,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1477896367,
+                "estimated_departure_time_ts": 1477896367,
+                "time_impact": null
+            }
+        }
+    ],
+    "links": {
+        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=8242F8854C00C65586C1BFE9F6F5A157&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+        "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=07A150F52EEB318B28000F79FF7282BA&api_key=11111111111111111111111111111111&member_id=1"
+    },
+    "notes": [],
+    "path": null
+}

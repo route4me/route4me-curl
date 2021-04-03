@@ -1,0 +1,20 @@
+{	
+	"member_id":1,
+	"address_group":"",
+	"address_alias":"7001 QUINCE ST HOUSTON",
+	"address_1":"7001 Quince ST,Houston,TX,77087", 
+	"first_name":"Marcio", 
+	"last_name":"Castillo", 
+	"address_email":"mcastillo@gmail.com", 
+	"address_phone_number":"(832) 994-2938", 
+	"address_city":"Houston", 
+	"address_state_id":"TX", 
+	"address_country_id":"US", 
+	"address_zip":"77221", 
+	"cached_lat":"29.704901", 
+	"cached_lng":"-95.294325", 
+	"address_custom_data":{
+		"package type": "Glass",
+		"hubname": "Houston"
+	}
+}
