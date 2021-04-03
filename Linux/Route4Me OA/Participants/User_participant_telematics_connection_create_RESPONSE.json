@@ -1,0 +1,46 @@
+{
+	"data": {
+		"is_active": true,
+		"email": null,
+		"name": "Test Connection",
+		"updated_at": 1533044746,
+		"last_name": null,
+		"api_key": "33333333333333333333333333333333",
+		"telematics_connection_id": "55555555555555555555555555555555",
+		"user_id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+		"telematics_id": 100000,
+		"device_position_refresh_rate": 60,
+		"telematics_connection_token": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+		"vendor_name": "Route4Me",
+		"vendor_id": 9,
+		"created_at": 1532651489,
+		"first_name": null,
+		"company_name": null,
+		"telematics_api_token": "782cf32dc5243a42723b2ef0793ed72c"
+	},
+	"metadata": {
+		"user_id": "EBA794354DC847E3BC19AEE49CF4AB1B",
+		"participant": {
+			"original_r4m_api_key": "44444444444444444444444444444444",
+			"email": "stqagm+oa2707@gmail.com",
+			"vendor_company_name": "",
+			"locale": null,
+			"timezone": null,
+			"affiliate_user_id": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+			"affiliate_email": "",
+			"user_id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"measurement": 0,
+			"affiliate_company_name": "",
+			"origin_r4m_member_id": 888888,
+			"vendor_user_id": "11111111111111111111111111111111",
+			"vendor_id": 9,
+			"phone_number": null,
+			"last_name": "Doe",
+			"r4m_api_key": "99999999999999999999999999999999",
+			"website": null,
+			"company_name": null,
+			"r4m_member_id": 222222,
+			"first_name": "John"
+		}
+	}
+}

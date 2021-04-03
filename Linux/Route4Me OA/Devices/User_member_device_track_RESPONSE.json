@@ -1,0 +1,5265 @@
+[{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532219206,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12585,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532233606,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12585,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532248006,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12555,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532262406,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12555,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532276805,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12555,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532291205,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12555,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532305605,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12524,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532320005,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12524,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971026,
+	"latitude": 30.1217396,
+	"timestamp": 1532334405,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12524,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9970973,
+	"latitude": 30.1217306,
+	"timestamp": 1532346531,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 28912168.5445901826
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971036,
+	"latitude": 30.1213563,
+	"timestamp": 1532346576,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14288,
+		"buzzer": 0,
+		"distance": 28912210.1810219549
+	},
+	"speed": 9
+},
+{
+	"longitude": -81.9989136,
+	"latitude": 30.1253535,
+	"timestamp": 1532346681,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14288,
+		"buzzer": 0,
+		"distance": 28912771.4057333618
+	},
+	"speed": 81
+},
+{
+	"longitude": -81.9994441,
+	"latitude": 30.1328031,
+	"timestamp": 1532346716,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14288,
+		"buzzer": 0,
+		"distance": 28913601.5676146895
+	},
+	"speed": 87
+},
+{
+	"longitude": -82.0076375,
+	"latitude": 30.1458148,
+	"timestamp": 1532346796,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28915273.5115002804
+	},
+	"speed": 45
+},
+{
+	"longitude": -82.0029311,
+	"latitude": 30.1534273,
+	"timestamp": 1532346843,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28916280.3621777669
+	},
+	"speed": 89
+},
+{
+	"longitude": -81.9975421,
+	"latitude": 30.1660266,
+	"timestamp": 1532346902,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14288,
+		"buzzer": 0,
+		"distance": 28917774.4972502366
+	},
+	"speed": 91
+},
+{
+	"longitude": -81.9915538,
+	"latitude": 30.1804205,
+	"timestamp": 1532346974,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28919479.8483490758
+	},
+	"speed": 82
+},
+{
+	"longitude": -81.9909305,
+	"latitude": 30.1865521,
+	"timestamp": 1532347008,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28920166.6477544494
+	},
+	"speed": 69
+},
+{
+	"longitude": -81.9911256,
+	"latitude": 30.1973008,
+	"timestamp": 1532347067,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28921362.3334671594
+	},
+	"speed": 69
+},
+{
+	"longitude": -81.9908428,
+	"latitude": 30.2042231,
+	"timestamp": 1532347132,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28922150.0733359717
+	},
+	"speed": 38
+},
+{
+	"longitude": -81.9771428,
+	"latitude": 30.2063628,
+	"timestamp": 1532347191,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28923488.3172113225
+	},
+	"speed": 93
+},
+{
+	"longitude": -81.953797,
+	"latitude": 30.2117956,
+	"timestamp": 1532347281,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28925828.722591579
+	},
+	"speed": 95
+},
+{
+	"longitude": -81.9400613,
+	"latitude": 30.218652,
+	"timestamp": 1532347340,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28927353.3644492999
+	},
+	"speed": 90
+},
+{
+	"longitude": -81.9264823,
+	"latitude": 30.2260238,
+	"timestamp": 1532347400,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28928894.619326625
+	},
+	"speed": 92
+},
+{
+	"longitude": -81.9135796,
+	"latitude": 30.2335681,
+	"timestamp": 1532347460,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28930391.8293325864
+	},
+	"speed": 85
+},
+{
+	"longitude": -81.9006641,
+	"latitude": 30.240869,
+	"timestamp": 1532347520,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28931874.9866948128
+	},
+	"speed": 90
+},
+{
+	"longitude": -81.8865373,
+	"latitude": 30.2478648,
+	"timestamp": 1532347593,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28933494.696099963
+	},
+	"speed": 42
+},
+{
+	"longitude": -81.886003,
+	"latitude": 30.2460665,
+	"timestamp": 1532347614,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28933728.1923138984
+	},
+	"speed": 40
+},
+{
+	"longitude": -81.8712921,
+	"latitude": 30.2463005,
+	"timestamp": 1532347673,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28935141.9286797196
+	},
+	"speed": 96
+},
+{
+	"longitude": -81.855275,
+	"latitude": 30.2465853,
+	"timestamp": 1532347733,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28936681.2535775006
+	},
+	"speed": 91
+},
+{
+	"longitude": -81.843646,
+	"latitude": 30.2468818,
+	"timestamp": 1532347793,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28937799.1063097939
+	},
+	"speed": 45
+},
+{
+	"longitude": -81.8308305,
+	"latitude": 30.2472135,
+	"timestamp": 1532347853,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28939031.0253213495
+	},
+	"speed": 78
+},
+{
+	"longitude": -81.8223558,
+	"latitude": 30.2475171,
+	"timestamp": 1532347913,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28939846.0069294311
+	},
+	"speed": 60
+},
+{
+	"longitude": -81.8069556,
+	"latitude": 30.2476555,
+	"timestamp": 1532347987,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 34,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28941325.8542969897
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8005905,
+	"latitude": 30.247606,
+	"timestamp": 1532348033,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 28941937.460678678
+	},
+	"speed": 66
+},
+{
+	"longitude": -81.7943438,
+	"latitude": 30.2477105,
+	"timestamp": 1532348093,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28942537.7783470154
+	},
+	"speed": 70
+},
+{
+	"longitude": -81.781509,
+	"latitude": 30.2480981,
+	"timestamp": 1532348153,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28943771.7417818755
+	},
+	"speed": 79
+},
+{
+	"longitude": -81.7730645,
+	"latitude": 30.2482093,
+	"timestamp": 1532348213,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28944583.2095257454
+	},
+	"speed": 63
+},
+{
+	"longitude": -81.7522776,
+	"latitude": 30.248372,
+	"timestamp": 1532348333,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28946580.5579719618
+	},
+	"speed": 76
+},
+{
+	"longitude": -81.744491,
+	"latitude": 30.2484143,
+	"timestamp": 1532348393,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28947328.7313699648
+	},
+	"speed": 55
+},
+{
+	"longitude": -81.7370726,
+	"latitude": 30.2483206,
+	"timestamp": 1532348453,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28948041.5886488408
+	},
+	"speed": 71
+},
+{
+	"longitude": -81.7308831,
+	"latitude": 30.2473568,
+	"timestamp": 1532348513,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28948645.8812195361
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.721333,
+	"latitude": 30.2474278,
+	"timestamp": 1532348573,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28949563.5252318606
+	},
+	"speed": 80
+},
+{
+	"longitude": -81.707019,
+	"latitude": 30.2475015,
+	"timestamp": 1532348633,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14257,
+		"buzzer": 0,
+		"distance": 28950938.8923601322
+	},
+	"speed": 87
+},
+{
+	"longitude": -81.698465,
+	"latitude": 30.2476125,
+	"timestamp": 1532348693,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28951760.8846499138
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6977056,
+	"latitude": 30.2479983,
+	"timestamp": 1532348747,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28951863.4876726419
+	},
+	"speed": 35
+},
+{
+	"longitude": -81.7023293,
+	"latitude": 30.2613421,
+	"timestamp": 1532348818,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14227,
+		"buzzer": 0,
+		"distance": 28952198.9500749186
+	},
+	"speed": 85
+},
+{
+	"longitude": -81.7071795,
+	"latitude": 30.2666928,
+	"timestamp": 1532348879,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28953025.5405069701
+	},
+	"speed": 12
+},
+{
+	"longitude": -81.7067861,
+	"latitude": 30.2666001,
+	"timestamp": 1532348944,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28953067.534873303
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.706781,
+	"latitude": 30.2665946,
+	"timestamp": 1532349004,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28953068.3186237849
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7067771,
+	"latitude": 30.266577,
+	"timestamp": 1532349064,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28953070.3117366843
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7067688,
+	"latitude": 30.2665948,
+	"timestamp": 1532349124,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28953072.4460921511
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7067826,
+	"latitude": 30.266576,
+	"timestamp": 1532349168,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13224,
+		"buzzer": 0,
+		"distance": 28953074.9219730087
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068376,
+	"latitude": 30.2665658,
+	"timestamp": 1532350761,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953074.9219730087
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068565,
+	"latitude": 30.2665508,
+	"timestamp": 1532350821,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953077.387749508
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068308,
+	"latitude": 30.2665508,
+	"timestamp": 1532350881,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953079.8566219062
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068186,
+	"latitude": 30.2665731,
+	"timestamp": 1532350941,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953082.5999215282
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068313,
+	"latitude": 30.2665711,
+	"timestamp": 1532351001,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953083.8400622681
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.706818,
+	"latitude": 30.266586,
+	"timestamp": 1532351061,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28953085.9326635972
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068083,
+	"latitude": 30.2665828,
+	"timestamp": 1532351121,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28953086.9301559143
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.706806,
+	"latitude": 30.2665903,
+	"timestamp": 1532351181,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953087.7931184322
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068106,
+	"latitude": 30.266573,
+	"timestamp": 1532351241,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953089.7674236447
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068105,
+	"latitude": 30.26659,
+	"timestamp": 1532351301,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28953091.6582958698
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351361,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351421,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351481,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351541,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13984,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351601,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13984,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351661,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351722,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13315,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532351989,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7068078,
+	"latitude": 30.266568,
+	"timestamp": 1532352049,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28953094.1189836934
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7082428,
+	"latitude": 30.2665153,
+	"timestamp": 1532352120,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28953258.4172855578
+	},
+	"speed": 47
+},
+{
+	"longitude": -81.7175241,
+	"latitude": 30.2747045,
+	"timestamp": 1532352179,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28954532.9983390942
+	},
+	"speed": 76
+},
+{
+	"longitude": -81.7200306,
+	"latitude": 30.2781911,
+	"timestamp": 1532352201,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28954998.0830896124
+	},
+	"speed": 77
+},
+{
+	"longitude": -81.720243,
+	"latitude": 30.2883995,
+	"timestamp": 1532352260,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28956133.7093425095
+	},
+	"speed": 63
+},
+{
+	"longitude": -81.7182916,
+	"latitude": 30.3041365,
+	"timestamp": 1532352351,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28957938.4724090807
+	},
+	"speed": 80
+},
+{
+	"longitude": -81.7060553,
+	"latitude": 30.3104535,
+	"timestamp": 1532352428,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28959332.9721546881
+	},
+	"speed": 53
+},
+{
+	"longitude": -81.702827,
+	"latitude": 30.3178763,
+	"timestamp": 1532352478,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28960256.7016071528
+	},
+	"speed": 81
+},
+{
+	"longitude": -81.6907615,
+	"latitude": 30.3203583,
+	"timestamp": 1532352545,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28961584.8027977981
+	},
+	"speed": 80
+},
+{
+	"longitude": -81.6786943,
+	"latitude": 30.3222941,
+	"timestamp": 1532352604,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28962802.800612852
+	},
+	"speed": 40
+},
+{
+	"longitude": -81.6780606,
+	"latitude": 30.3216305,
+	"timestamp": 1532352675,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28963098.7891592793
+	},
+	"speed": 30
+},
+{
+	"longitude": -81.6790253,
+	"latitude": 30.3210905,
+	"timestamp": 1532352698,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28963243.7791929953
+	},
+	"speed": 14
+},
+{
+	"longitude": -81.6792023,
+	"latitude": 30.32114,
+	"timestamp": 1532352785,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 28963274.778753683
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.6796516,
+	"latitude": 30.3211531,
+	"timestamp": 1532352826,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13163,
+		"buzzer": 0,
+		"distance": 28963318.8750284128
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6796516,
+	"latitude": 30.3211531,
+	"timestamp": 1532353651,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13984,
+		"buzzer": 0,
+		"distance": 28963318.8750284128
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6783445,
+	"latitude": 30.3216993,
+	"timestamp": 1532353709,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28963487.8761049509
+	},
+	"speed": 22
+},
+{
+	"longitude": -81.6775255,
+	"latitude": 30.3217593,
+	"timestamp": 1532353741,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28963585.7402959429
+	},
+	"speed": 31
+},
+{
+	"longitude": -81.6773051,
+	"latitude": 30.3222545,
+	"timestamp": 1532353800,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13923,
+		"buzzer": 0,
+		"distance": 28963644.7445834577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6810951,
+	"latitude": 30.3233685,
+	"timestamp": 1532353888,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 35,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28964061.8043125607
+	},
+	"speed": 36
+},
+{
+	"longitude": -81.6924966,
+	"latitude": 30.3208108,
+	"timestamp": 1532353941,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28965258.0278976709
+	},
+	"speed": 90
+},
+{
+	"longitude": -81.7043036,
+	"latitude": 30.3119878,
+	"timestamp": 1532354018,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28967125.8970864192
+	},
+	"speed": 74
+},
+{
+	"longitude": -81.7056261,
+	"latitude": 30.3106673,
+	"timestamp": 1532354075,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28967322.3871176057
+	},
+	"speed": 44
+},
+{
+	"longitude": -81.7095273,
+	"latitude": 30.3099286,
+	"timestamp": 1532354096,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28967706.6230567917
+	},
+	"speed": 71
+},
+{
+	"longitude": -81.7203976,
+	"latitude": 30.3008575,
+	"timestamp": 1532354175,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28969195.8139275834
+	},
+	"speed": 73
+},
+{
+	"longitude": -81.7204258,
+	"latitude": 30.2890348,
+	"timestamp": 1532354234,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28970510.812396735
+	},
+	"speed": 33
+},
+{
+	"longitude": -81.719967,
+	"latitude": 30.2771526,
+	"timestamp": 1532354321,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28971833.7284517102
+	},
+	"speed": 73
+},
+{
+	"longitude": -81.7190931,
+	"latitude": 30.275818,
+	"timestamp": 1532354329,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28972004.2617836036
+	},
+	"speed": 72
+},
+{
+	"longitude": -81.7100983,
+	"latitude": 30.267809,
+	"timestamp": 1532354389,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28973245.2736313604
+	},
+	"speed": 72
+},
+{
+	"longitude": -81.7009658,
+	"latitude": 30.2592816,
+	"timestamp": 1532354447,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28974537.2975039482
+	},
+	"speed": 83
+},
+{
+	"longitude": -81.6966713,
+	"latitude": 30.2425191,
+	"timestamp": 1532354566,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28976447.0334216952
+	},
+	"speed": 65
+},
+{
+	"longitude": -81.6966173,
+	"latitude": 30.2396561,
+	"timestamp": 1532354583,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28976765.5167127773
+	},
+	"speed": 68
+},
+{
+	"longitude": -81.6998783,
+	"latitude": 30.2285218,
+	"timestamp": 1532354642,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 28978042.9768609963
+	},
+	"speed": 79
+},
+{
+	"longitude": -81.7022103,
+	"latitude": 30.2207878,
+	"timestamp": 1532354702,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28978931.9176367857
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7037831,
+	"latitude": 30.2155755,
+	"timestamp": 1532354762,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28979531.0464693941
+	},
+	"speed": 72
+},
+{
+	"longitude": -81.7079915,
+	"latitude": 30.1981093,
+	"timestamp": 1532354846,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28981522.3429628871
+	},
+	"speed": 80
+},
+{
+	"longitude": -81.7055096,
+	"latitude": 30.1913566,
+	"timestamp": 1532354931,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28982312.4803962298
+	},
+	"speed": 38
+},
+{
+	"longitude": -81.7054905,
+	"latitude": 30.1911566,
+	"timestamp": 1532354936,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28982334.8013231717
+	},
+	"speed": 10
+},
+{
+	"longitude": -81.7022811,
+	"latitude": 30.1866748,
+	"timestamp": 1532354996,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13984,
+		"buzzer": 0,
+		"distance": 28982921.0628064275
+	},
+	"speed": 17
+},
+{
+	"longitude": -81.7015241,
+	"latitude": 30.1749236,
+	"timestamp": 1532355116,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28984230.6490996964
+	},
+	"speed": 59
+},
+{
+	"longitude": -81.7012143,
+	"latitude": 30.1676545,
+	"timestamp": 1532355176,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28985039.7131236568
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7016943,
+	"latitude": 30.1659313,
+	"timestamp": 1532355220,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28985254.0779455304
+	},
+	"speed": 37
+},
+{
+	"longitude": -81.7094308,
+	"latitude": 30.1656693,
+	"timestamp": 1532355280,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13984,
+		"buzzer": 0,
+		"distance": 28985998.617407877
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7129831,
+	"latitude": 30.1655865,
+	"timestamp": 1532355340,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28986340.3437415846
+	},
+	"speed": 71
+},
+{
+	"longitude": -81.724214,
+	"latitude": 30.1652458,
+	"timestamp": 1532355400,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28987421.015259888
+	},
+	"speed": 64
+},
+{
+	"longitude": -81.7336258,
+	"latitude": 30.1649428,
+	"timestamp": 1532355460,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28988326.7206480876
+	},
+	"speed": 64
+},
+{
+	"longitude": -81.7434698,
+	"latitude": 30.1646136,
+	"timestamp": 1532355520,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28989274.0718696862
+	},
+	"speed": 28
+},
+{
+	"longitude": -81.747588,
+	"latitude": 30.1641338,
+	"timestamp": 1532355601,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28989691.6110487878
+	},
+	"speed": 32
+},
+{
+	"longitude": -81.7476936,
+	"latitude": 30.1558381,
+	"timestamp": 1532355656,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 28990614.3673039228
+	},
+	"speed": 64
+},
+{
+	"longitude": -81.750998,
+	"latitude": 30.1516861,
+	"timestamp": 1532355687,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28991182.6432752721
+	},
+	"speed": 65
+},
+{
+	"longitude": -81.7597076,
+	"latitude": 30.1465338,
+	"timestamp": 1532355746,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28992197.5970390588
+	},
+	"speed": 51
+},
+{
+	"longitude": -81.763771,
+	"latitude": 30.1442215,
+	"timestamp": 1532355806,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14014,
+		"buzzer": 0,
+		"distance": 28992665.459665779
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7704975,
+	"latitude": 30.1402253,
+	"timestamp": 1532355866,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28993450.4258330613
+	},
+	"speed": 47
+},
+{
+	"longitude": -81.775536,
+	"latitude": 30.1372641,
+	"timestamp": 1532355926,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28994036.4024170935
+	},
+	"speed": 56
+},
+{
+	"longitude": -81.7844448,
+	"latitude": 30.1319385,
+	"timestamp": 1532355986,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28995078.1685742959
+	},
+	"speed": 66
+},
+{
+	"longitude": -81.7938583,
+	"latitude": 30.1261275,
+	"timestamp": 1532356046,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 28996190.7387011945
+	},
+	"speed": 71
+},
+{
+	"longitude": -81.7989081,
+	"latitude": 30.1238921,
+	"timestamp": 1532356136,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14044,
+		"buzzer": 0,
+		"distance": 28996806.869865559
+	},
+	"speed": 8
+},
+{
+	"longitude": -81.7989923,
+	"latitude": 30.123935,
+	"timestamp": 1532356189,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13193,
+		"buzzer": 0,
+		"distance": 28996816.2711861543
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989278,
+	"latitude": 30.1238498,
+	"timestamp": 1532361884,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996816.2711861543
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990015,
+	"latitude": 30.123893,
+	"timestamp": 1532361944,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996824.8362103663
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.799034,
+	"latitude": 30.123911,
+	"timestamp": 1532362004,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996828.5489165485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990458,
+	"latitude": 30.1239191,
+	"timestamp": 1532362064,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996829.9981871806
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990141,
+	"latitude": 30.1239118,
+	"timestamp": 1532362124,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996833.1541021392
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989791,
+	"latitude": 30.1238865,
+	"timestamp": 1532362184,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996837.5423204377
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.798989,
+	"latitude": 30.1238783,
+	"timestamp": 1532362244,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996838.8610153273
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989891,
+	"latitude": 30.1238931,
+	"timestamp": 1532362304,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996840.5071933083
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990071,
+	"latitude": 30.1239086,
+	"timestamp": 1532362364,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996842.9507387727
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990275,
+	"latitude": 30.1239038,
+	"timestamp": 1532362424,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996844.9846292436
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990185,
+	"latitude": 30.1239028,
+	"timestamp": 1532362484,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996845.8575832546
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989978,
+	"latitude": 30.123907,
+	"timestamp": 1532362544,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996847.9030717276
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990056,
+	"latitude": 30.1239033,
+	"timestamp": 1532362604,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 28996848.7589070499
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990213,
+	"latitude": 30.1239158,
+	"timestamp": 1532362664,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13862,
+		"buzzer": 0,
+		"distance": 28996850.8117948622
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990166,
+	"latitude": 30.1239095,
+	"timestamp": 1532362724,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13892,
+		"buzzer": 0,
+		"distance": 28996851.6457408369
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7990298,
+	"latitude": 30.1239261,
+	"timestamp": 1532362784,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 28996853.8866500631
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989815,
+	"latitude": 30.1239008,
+	"timestamp": 1532363205,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 28996853.8866500631
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.798977,
+	"latitude": 30.1239148,
+	"timestamp": 1532363384,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 28996855.5028783865
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989896,
+	"latitude": 30.123908,
+	"timestamp": 1532363611,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13011,
+		"buzzer": 0,
+		"distance": 28996856.931659814
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7989896,
+	"latitude": 30.123908,
+	"timestamp": 1532363889,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 28996856.931659814
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7984208,
+	"latitude": 30.1242155,
+	"timestamp": 1532363941,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 28996921.4620058201
+	},
+	"speed": 10
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364001,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364061,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364121,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364181,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364241,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364301,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364361,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364421,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364481,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364541,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364601,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364661,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364721,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364781,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532364841,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7983768,
+	"latitude": 30.1240888,
+	"timestamp": 1532365453,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28996936.1763944179
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7977516,
+	"latitude": 30.1246525,
+	"timestamp": 1532365566,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28997030.7168476246
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.7972658,
+	"latitude": 30.1238626,
+	"timestamp": 1532365604,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 28997150.5071224906
+	},
+	"speed": 26
+},
+{
+	"longitude": -81.7907653,
+	"latitude": 30.127836,
+	"timestamp": 1532365664,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 28997916.2728272788
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7835383,
+	"latitude": 30.132244,
+	"timestamp": 1532365724,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 28998766.9894303605
+	},
+	"speed": 46
+},
+{
+	"longitude": -81.7750356,
+	"latitude": 30.1372893,
+	"timestamp": 1532365784,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 28999758.8984230757
+	},
+	"speed": 28
+},
+{
+	"longitude": -81.7701875,
+	"latitude": 30.1393991,
+	"timestamp": 1532365876,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29000335.8859694526
+	},
+	"speed": 14
+},
+{
+	"longitude": -81.7705138,
+	"latitude": 30.139746,
+	"timestamp": 1532365896,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13072,
+		"buzzer": 0,
+		"distance": 29000385.981442254
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.770504,
+	"latitude": 30.1397551,
+	"timestamp": 1532367641,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29000385.981442254
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7705695,
+	"latitude": 30.1396333,
+	"timestamp": 1532367701,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29000400.9221899919
+	},
+	"speed": 8
+},
+{
+	"longitude": -81.7707298,
+	"latitude": 30.139293,
+	"timestamp": 1532367758,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29000529.7998770699
+	},
+	"speed": 20
+},
+{
+	"longitude": -81.7707041,
+	"latitude": 30.1398531,
+	"timestamp": 1532367808,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29000618.0426850542
+	},
+	"speed": 37
+},
+{
+	"longitude": -81.7682671,
+	"latitude": 30.1413145,
+	"timestamp": 1532367868,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29000903.2960589528
+	},
+	"speed": 3
+},
+{
+	"longitude": -81.762202,
+	"latitude": 30.144882,
+	"timestamp": 1532367928,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29001608.8293605372
+	},
+	"speed": 52
+},
+{
+	"longitude": -81.757517,
+	"latitude": 30.147659,
+	"timestamp": 1532367988,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29002155.1426460892
+	},
+	"speed": 6
+},
+{
+	"longitude": -81.7488355,
+	"latitude": 30.153353,
+	"timestamp": 1532368069,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29003206.8572462276
+	},
+	"speed": 17
+},
+{
+	"longitude": -81.7475065,
+	"latitude": 30.1556671,
+	"timestamp": 1532368124,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29003494.234954983
+	},
+	"speed": 46
+},
+{
+	"longitude": -81.747213,
+	"latitude": 30.1604403,
+	"timestamp": 1532368179,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29004025.890343219
+	},
+	"speed": 47
+},
+{
+	"longitude": -81.7473673,
+	"latitude": 30.1686686,
+	"timestamp": 1532368238,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29004941.2143360414
+	},
+	"speed": 60
+},
+{
+	"longitude": -81.7422885,
+	"latitude": 30.1776921,
+	"timestamp": 1532368315,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29006072.2379287779
+	},
+	"speed": 58
+},
+{
+	"longitude": -81.7388236,
+	"latitude": 30.1825798,
+	"timestamp": 1532368368,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29006740.2143223323
+	},
+	"speed": 35
+},
+{
+	"longitude": -81.7309216,
+	"latitude": 30.1846086,
+	"timestamp": 1532368439,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29007625.6145081967
+	},
+	"speed": 40
+},
+{
+	"longitude": -81.7303915,
+	"latitude": 30.1867113,
+	"timestamp": 1532368482,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29007903.0404466353
+	},
+	"speed": 39
+},
+{
+	"longitude": -81.7263316,
+	"latitude": 30.1864141,
+	"timestamp": 1532368526,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29008294.7696468495
+	},
+	"speed": 39
+},
+{
+	"longitude": -81.7181751,
+	"latitude": 30.189553,
+	"timestamp": 1532368585,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29009153.1579893865
+	},
+	"speed": 57
+},
+{
+	"longitude": -81.7064638,
+	"latitude": 30.1872793,
+	"timestamp": 1532368686,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29010470.8909379318
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.7050398,
+	"latitude": 30.1849136,
+	"timestamp": 1532368736,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29010801.3067652583
+	},
+	"speed": 10
+},
+{
+	"longitude": -81.7052206,
+	"latitude": 30.1848525,
+	"timestamp": 1532368796,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29010819.9709869437
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052383,
+	"latitude": 30.1848845,
+	"timestamp": 1532368856,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29010823.9161375761
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052396,
+	"latitude": 30.1848881,
+	"timestamp": 1532368916,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010824.3356064372
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052651,
+	"latitude": 30.1849018,
+	"timestamp": 1532368976,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010827.2222608626
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052613,
+	"latitude": 30.1849276,
+	"timestamp": 1532369036,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29010830.1150644496
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052358,
+	"latitude": 30.1849061,
+	"timestamp": 1532369096,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29010833.5398907289
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052316,
+	"latitude": 30.1849165,
+	"timestamp": 1532369156,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010834.7651013024
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052498,
+	"latitude": 30.1849011,
+	"timestamp": 1532369216,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010837.2137549818
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052413,
+	"latitude": 30.1848921,
+	"timestamp": 1532369276,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010838.5060174949
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7052468,
+	"latitude": 30.184898,
+	"timestamp": 1532369353,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13011,
+		"buzzer": 0,
+		"distance": 29010839.8351325952
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.704924,
+	"latitude": 30.1849118,
+	"timestamp": 1532369480,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29010870.0152161233
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.7019855,
+	"latitude": 30.1848773,
+	"timestamp": 1532369539,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29011200.4544845335
+	},
+	"speed": 36
+},
+{
+	"longitude": -81.7015481,
+	"latitude": 30.1778198,
+	"timestamp": 1532369599,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29011986.5601453595
+	},
+	"speed": 5
+},
+{
+	"longitude": -81.7011808,
+	"latitude": 30.1785005,
+	"timestamp": 1532369650,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 12920,
+		"buzzer": 0,
+		"distance": 29012120.0956104137
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7015863,
+	"latitude": 30.1789731,
+	"timestamp": 1532369782,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29012192.3142083921
+	},
+	"speed": 37
+},
+{
+	"longitude": -81.7018895,
+	"latitude": 30.1851161,
+	"timestamp": 1532369842,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29012876.1992438212
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7018878,
+	"latitude": 30.1851106,
+	"timestamp": 1532369902,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29012876.8324470818
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7057883,
+	"latitude": 30.1851786,
+	"timestamp": 1532369989,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29013292.7323347814
+	},
+	"speed": 10
+},
+{
+	"longitude": -81.7055125,
+	"latitude": 30.1847381,
+	"timestamp": 1532370027,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13163,
+		"buzzer": 0,
+		"distance": 29013383.7744435072
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055471,
+	"latitude": 30.184678,
+	"timestamp": 1532371524,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13497,
+		"buzzer": 0,
+		"distance": 29013383.7744435072
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7053973,
+	"latitude": 30.184585,
+	"timestamp": 1532371630,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013402.0724381618
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.704819,
+	"latitude": 30.1850395,
+	"timestamp": 1532371697,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29013639.0605618916
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.7055301,
+	"latitude": 30.1847645,
+	"timestamp": 1532371746,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29013824.4293124378
+	},
+	"speed": 6
+},
+{
+	"longitude": -81.7055198,
+	"latitude": 30.1846515,
+	"timestamp": 1532371806,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29013837.0368420482
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055096,
+	"latitude": 30.1846801,
+	"timestamp": 1532371866,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013840.3656498194
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055051,
+	"latitude": 30.1846668,
+	"timestamp": 1532371926,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013841.9069309942
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055048,
+	"latitude": 30.1846303,
+	"timestamp": 1532371986,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29013845.9667949602
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055581,
+	"latitude": 30.1846895,
+	"timestamp": 1532372046,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013854.3105230257
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055685,
+	"latitude": 30.1847301,
+	"timestamp": 1532372106,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013858.9356902651
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055103,
+	"latitude": 30.1846625,
+	"timestamp": 1532372166,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013868.3082612716
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055185,
+	"latitude": 30.184671,
+	"timestamp": 1532372226,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013869.5392709412
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055326,
+	"latitude": 30.1847108,
+	"timestamp": 1532372286,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29013874.1690017805
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055295,
+	"latitude": 30.1847188,
+	"timestamp": 1532372354,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13224,
+		"buzzer": 0,
+		"distance": 29013876.8213221356
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7055608,
+	"latitude": 30.1846428,
+	"timestamp": 1532372672,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13467,
+		"buzzer": 0,
+		"distance": 29013876.8213221356
+	},
+	"speed": 1
+},
+{
+	"longitude": -81.7051956,
+	"latitude": 30.1849393,
+	"timestamp": 1532372730,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29014033.0256015435
+	},
+	"speed": 8
+},
+{
+	"longitude": -81.7051201,
+	"latitude": 30.1849411,
+	"timestamp": 1532372789,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29014040.2872964516
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051226,
+	"latitude": 30.1849185,
+	"timestamp": 1532372861,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13193,
+		"buzzer": 0,
+		"distance": 29014043.8185072243
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051311,
+	"latitude": 30.1849445,
+	"timestamp": 1532373803,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13497,
+		"buzzer": 0,
+		"distance": 29014043.8185072243
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051648,
+	"latitude": 30.1849911,
+	"timestamp": 1532373863,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13497,
+		"buzzer": 0,
+		"distance": 29014049.9310464412
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051431,
+	"latitude": 30.1849606,
+	"timestamp": 1532373923,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29014053.9136616774
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051345,
+	"latitude": 30.184954,
+	"timestamp": 1532373983,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29014055.0193592273
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051246,
+	"latitude": 30.1849666,
+	"timestamp": 1532374043,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29014056.7134827971
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051158,
+	"latitude": 30.184988,
+	"timestamp": 1532374103,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29014059.2396264412
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7051223,
+	"latitude": 30.1849628,
+	"timestamp": 1532374163,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29014062.1113543771
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.704958,
+	"latitude": 30.184857,
+	"timestamp": 1532374257,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29014082.0629447103
+	},
+	"speed": 10
+},
+{
+	"longitude": -81.7043703,
+	"latitude": 30.1851801,
+	"timestamp": 1532374280,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29014157.4168354869
+	},
+	"speed": 31
+},
+{
+	"longitude": -81.7024743,
+	"latitude": 30.185277,
+	"timestamp": 1532374340,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13528,
+		"buzzer": 0,
+		"distance": 29014340.0252349116
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7025463,
+	"latitude": 30.187919,
+	"timestamp": 1532374452,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29014687.0105904788
+	},
+	"speed": 64
+},
+{
+	"longitude": -81.7047286,
+	"latitude": 30.191813,
+	"timestamp": 1532374509,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 36,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29015595.4445844367
+	},
+	"speed": 59
+},
+{
+	"longitude": -81.7209781,
+	"latitude": 30.1912978,
+	"timestamp": 1532374568,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29017158.695671536
+	},
+	"speed": 102
+},
+{
+	"longitude": -81.7269726,
+	"latitude": 30.1921425,
+	"timestamp": 1532374588,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29017742.6044040695
+	},
+	"speed": 104
+},
+{
+	"longitude": -81.7540516,
+	"latitude": 30.2031511,
+	"timestamp": 1532374689,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29020621.3193432912
+	},
+	"speed": 103
+},
+{
+	"longitude": -81.7577656,
+	"latitude": 30.2071126,
+	"timestamp": 1532374709,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29021188.4207075536
+	},
+	"speed": 103
+},
+{
+	"longitude": -81.7620801,
+	"latitude": 30.2212091,
+	"timestamp": 1532374765,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29022810.2369796187
+	},
+	"speed": 104
+},
+{
+	"longitude": -81.7627076,
+	"latitude": 30.2366821,
+	"timestamp": 1532374825,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29024532.2983766273
+	},
+	"speed": 103
+},
+{
+	"longitude": -81.762773,
+	"latitude": 30.2529711,
+	"timestamp": 1532374885,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29026344.0751687288
+	},
+	"speed": 107
+},
+{
+	"longitude": -81.771638,
+	"latitude": 30.2833036,
+	"timestamp": 1532375005,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29029825.860060636
+	},
+	"speed": 105
+},
+{
+	"longitude": -81.7705951,
+	"latitude": 30.298607,
+	"timestamp": 1532375065,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29031530.9456885383
+	},
+	"speed": 97
+},
+{
+	"longitude": -81.7691666,
+	"latitude": 30.3135813,
+	"timestamp": 1532375125,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29033202.1215767227
+	},
+	"speed": 97
+},
+{
+	"longitude": -81.7685893,
+	"latitude": 30.3154288,
+	"timestamp": 1532375159,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 36,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29033830.9112217389
+	},
+	"speed": 66
+},
+{
+	"longitude": -81.7838003,
+	"latitude": 30.3151188,
+	"timestamp": 1532375216,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29035291.8383301832
+	},
+	"speed": 103
+},
+{
+	"longitude": -81.8023046,
+	"latitude": 30.3146238,
+	"timestamp": 1532375276,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29037069.4326182194
+	},
+	"speed": 113
+},
+{
+	"longitude": -81.8215865,
+	"latitude": 30.3120266,
+	"timestamp": 1532375336,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29038943.2677410059
+	},
+	"speed": 107
+},
+{
+	"longitude": -81.8500761,
+	"latitude": 30.3093326,
+	"timestamp": 1532375432,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29041696.545196034
+	},
+	"speed": 69
+},
+{
+	"longitude": -81.8500066,
+	"latitude": 30.3106958,
+	"timestamp": 1532375447,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 36,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29041923.1363784373
+	},
+	"speed": 54
+},
+{
+	"longitude": -81.8488796,
+	"latitude": 30.3142633,
+	"timestamp": 1532375555,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29042470.8476563916
+	},
+	"speed": 36
+},
+{
+	"longitude": -81.8621141,
+	"latitude": 30.3128016,
+	"timestamp": 1532375615,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29043751.9699413665
+	},
+	"speed": 77
+},
+{
+	"longitude": -81.8695073,
+	"latitude": 30.3115526,
+	"timestamp": 1532375657,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29044504.5311564542
+	},
+	"speed": 29
+},
+{
+	"longitude": -81.869746,
+	"latitude": 30.3096723,
+	"timestamp": 1532375685,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29044726.8010074906
+	},
+	"speed": 12
+},
+{
+	"longitude": -81.8698111,
+	"latitude": 30.3097791,
+	"timestamp": 1532375746,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 12950,
+		"buzzer": 0,
+		"distance": 29044740.2243478075
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698111,
+	"latitude": 30.3097791,
+	"timestamp": 1532377605,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12828,
+		"buzzer": 0,
+		"distance": 29044740.2243478075
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698055,
+	"latitude": 30.3098406,
+	"timestamp": 1532378444,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044740.2243478075
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.86984,
+	"latitude": 30.30985,
+	"timestamp": 1532378504,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044743.6982011162
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698296,
+	"latitude": 30.3098571,
+	"timestamp": 1532378564,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044744.9713510424
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698448,
+	"latitude": 30.3098726,
+	"timestamp": 1532378624,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044747.2302168794
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532378744,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532378804,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532378864,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532378924,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532378984,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379044,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379104,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379164,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379224,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379284,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379344,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379526,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 12950,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379768,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379828,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379888,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532379948,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380008,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380068,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380128,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380188,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380248,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380308,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380368,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698335,
+	"latitude": 30.3098681,
+	"timestamp": 1532380428,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29044748.4251501299
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.8698398,
+	"latitude": 30.3097491,
+	"timestamp": 1532380525,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29044761.6749020256
+	},
+	"speed": 12
+},
+{
+	"longitude": -81.8691761,
+	"latitude": 30.3120093,
+	"timestamp": 1532380567,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29045056.8856659532
+	},
+	"speed": 32
+},
+{
+	"longitude": -81.8570238,
+	"latitude": 30.3133655,
+	"timestamp": 1532380627,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29046233.4580942355
+	},
+	"speed": 75
+},
+{
+	"longitude": -81.848609,
+	"latitude": 30.3139043,
+	"timestamp": 1532380676,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29047065.8482216448
+	},
+	"speed": 32
+},
+{
+	"longitude": -81.8486015,
+	"latitude": 30.3076478,
+	"timestamp": 1532380772,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29047761.850812234
+	},
+	"speed": 19
+},
+{
+	"longitude": -81.8440693,
+	"latitude": 30.3093186,
+	"timestamp": 1532380804,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29048275.986444436
+	},
+	"speed": 79
+},
+{
+	"longitude": -81.8262113,
+	"latitude": 30.311058,
+	"timestamp": 1532380864,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29050001.6329192147
+	},
+	"speed": 105
+},
+{
+	"longitude": -81.8083186,
+	"latitude": 30.313661,
+	"timestamp": 1532380924,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29051743.9178448394
+	},
+	"speed": 102
+},
+{
+	"longitude": -81.7907808,
+	"latitude": 30.3147323,
+	"timestamp": 1532380984,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29053432.0802365765
+	},
+	"speed": 100
+},
+{
+	"longitude": -81.7707188,
+	"latitude": 30.310588,
+	"timestamp": 1532381064,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29055609.4066440612
+	},
+	"speed": 97
+},
+{
+	"longitude": -81.7711255,
+	"latitude": 30.2950776,
+	"timestamp": 1532381124,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29057335.01372784
+	},
+	"speed": 113
+},
+{
+	"longitude": -81.7713183,
+	"latitude": 30.2801895,
+	"timestamp": 1532381182,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29058991.066169098
+	},
+	"speed": 99
+},
+{
+	"longitude": -81.7658873,
+	"latitude": 30.2657798,
+	"timestamp": 1532381241,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29060676.5737284347
+	},
+	"speed": 105
+},
+{
+	"longitude": -81.7630603,
+	"latitude": 30.2535398,
+	"timestamp": 1532381288,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29062064.8108202219
+	},
+	"speed": 99
+},
+{
+	"longitude": -81.7630555,
+	"latitude": 30.2482883,
+	"timestamp": 1532381367,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29062667.22712956
+	},
+	"speed": 19
+},
+{
+	"longitude": -81.7579821,
+	"latitude": 30.2483515,
+	"timestamp": 1532381427,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29063154.7448309138
+	},
+	"speed": 32
+},
+{
+	"longitude": -81.7533521,
+	"latitude": 30.2483676,
+	"timestamp": 1532381487,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29063599.6121142916
+	},
+	"speed": 46
+},
+{
+	"longitude": -81.7474718,
+	"latitude": 30.2484011,
+	"timestamp": 1532381547,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29064164.6203472018
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7433881,
+	"latitude": 30.2484085,
+	"timestamp": 1532381607,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29064556.9946381301
+	},
+	"speed": 8
+},
+{
+	"longitude": -81.7363178,
+	"latitude": 30.2481453,
+	"timestamp": 1532381679,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29065238.2114488892
+	},
+	"speed": 73
+},
+{
+	"longitude": -81.7284035,
+	"latitude": 30.2473806,
+	"timestamp": 1532381755,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29066011.3553764001
+	},
+	"speed": 73
+},
+{
+	"longitude": -81.7223716,
+	"latitude": 30.2474196,
+	"timestamp": 1532381815,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29066590.9395208992
+	},
+	"speed": 13
+},
+{
+	"longitude": -81.710268,
+	"latitude": 30.2474676,
+	"timestamp": 1532381875,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29067753.9112183638
+	},
+	"speed": 81
+},
+{
+	"longitude": -81.6980256,
+	"latitude": 30.2476328,
+	"timestamp": 1532381935,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29068930.3493149988
+	},
+	"speed": 8
+},
+{
+	"longitude": -81.6980175,
+	"latitude": 30.2476328,
+	"timestamp": 1532381995,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29068931.1275919862
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6977675,
+	"latitude": 30.249957,
+	"timestamp": 1532382057,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29069208.159960486
+	},
+	"speed": 20
+},
+{
+	"longitude": -81.6964771,
+	"latitude": 30.2511246,
+	"timestamp": 1532382094,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29069437.6263502464
+	},
+	"speed": 27
+},
+{
+	"longitude": -81.6944698,
+	"latitude": 30.252518,
+	"timestamp": 1532382180,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29069860.6365611702
+	},
+	"speed": 26
+},
+{
+	"longitude": -81.694669,
+	"latitude": 30.252564,
+	"timestamp": 1532382203,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 12859,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384292,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 13558,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384352,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384412,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384472,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384532,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13588,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.694759,
+	"latitude": 30.2524298,
+	"timestamp": 1532384592,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29069880.4475400485
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6937853,
+	"latitude": 30.2515506,
+	"timestamp": 1532384688,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29070072.2299072817
+	},
+	"speed": 16
+},
+{
+	"longitude": -81.6967676,
+	"latitude": 30.2509391,
+	"timestamp": 1532384739,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29070375.0475404225
+	},
+	"speed": 16
+},
+{
+	"longitude": -81.6968553,
+	"latitude": 30.2493135,
+	"timestamp": 1532384799,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13619,
+		"buzzer": 0,
+		"distance": 29070556.0533233546
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.6969581,
+	"latitude": 30.2476901,
+	"timestamp": 1532384833,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29070736.8881215118
+	},
+	"speed": 9
+},
+{
+	"longitude": -81.7016888,
+	"latitude": 30.247663,
+	"timestamp": 1532384892,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29071191.4404992983
+	},
+	"speed": 69
+},
+{
+	"longitude": -81.714208,
+	"latitude": 30.2475226,
+	"timestamp": 1532384952,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29072394.4318897575
+	},
+	"speed": 70
+},
+{
+	"longitude": -81.7266665,
+	"latitude": 30.2474461,
+	"timestamp": 1532385012,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29073591.5212042034
+	},
+	"speed": 72
+},
+{
+	"longitude": -81.7346228,
+	"latitude": 30.2475965,
+	"timestamp": 1532385100,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29074356.5255218968
+	},
+	"speed": 72
+},
+{
+	"longitude": -81.73947,
+	"latitude": 30.2484581,
+	"timestamp": 1532385159,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29074832.0173421875
+	},
+	"speed": 43
+},
+{
+	"longitude": -81.7427353,
+	"latitude": 30.2484775,
+	"timestamp": 1532385219,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29075145.7638058513
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7427353,
+	"latitude": 30.2484775,
+	"timestamp": 1532385279,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29075145.7638058513
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7468395,
+	"latitude": 30.2484686,
+	"timestamp": 1532385339,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29075540.1078999527
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7542503,
+	"latitude": 30.2484461,
+	"timestamp": 1532385399,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29076252.1625076607
+	},
+	"speed": 58
+},
+{
+	"longitude": -81.7625655,
+	"latitude": 30.2484355,
+	"timestamp": 1532385459,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13649,
+		"buzzer": 0,
+		"distance": 29077051.1109813787
+	},
+	"speed": 20
+},
+{
+	"longitude": -81.7701385,
+	"latitude": 30.2483816,
+	"timestamp": 1532385519,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29077778.7708752006
+	},
+	"speed": 46
+},
+{
+	"longitude": -81.7747908,
+	"latitude": 30.2483076,
+	"timestamp": 1532385579,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29078225.8530405201
+	},
+	"speed": 57
+},
+{
+	"longitude": -81.785439,
+	"latitude": 30.2481511,
+	"timestamp": 1532385639,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13710,
+		"buzzer": 0,
+		"distance": 29079249.1120593473
+	},
+	"speed": 66
+},
+{
+	"longitude": -81.798071,
+	"latitude": 30.2477565,
+	"timestamp": 1532385699,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29080463.629160963
+	},
+	"speed": 70
+},
+{
+	"longitude": -81.810258,
+	"latitude": 30.2478516,
+	"timestamp": 1532385759,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29081634.6454680637
+	},
+	"speed": 67
+},
+{
+	"longitude": -81.8221398,
+	"latitude": 30.2476683,
+	"timestamp": 1532385819,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29082776.4718871601
+	},
+	"speed": 70
+},
+{
+	"longitude": -81.835818,
+	"latitude": 30.247228,
+	"timestamp": 1532385879,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29084091.6368856244
+	},
+	"speed": 79
+},
+{
+	"longitude": -81.8478496,
+	"latitude": 30.2470115,
+	"timestamp": 1532385939,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29085247.9328797869
+	},
+	"speed": 75
+},
+{
+	"longitude": -81.8632728,
+	"latitude": 30.246627,
+	"timestamp": 1532385999,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29086730.4783654548
+	},
+	"speed": 93
+},
+{
+	"longitude": -81.8862436,
+	"latitude": 30.2462586,
+	"timestamp": 1532386092,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13680,
+		"buzzer": 0,
+		"distance": 29088938.0324835218
+	},
+	"speed": 25
+},
+{
+	"longitude": -81.8865236,
+	"latitude": 30.2486743,
+	"timestamp": 1532386155,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29089211.7073776536
+	},
+	"speed": 26
+},
+{
+	"longitude": -81.8870053,
+	"latitude": 30.2486945,
+	"timestamp": 1532386161,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29089258.0448440351
+	},
+	"speed": 42
+},
+{
+	"longitude": -81.898858,
+	"latitude": 30.2422696,
+	"timestamp": 1532386221,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13771,
+		"buzzer": 0,
+		"distance": 29090602.5576884039
+	},
+	"speed": 88
+},
+{
+	"longitude": -81.9120441,
+	"latitude": 30.2345578,
+	"timestamp": 1532386281,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13740,
+		"buzzer": 0,
+		"distance": 29092132.6728661284
+	},
+	"speed": 95
+},
+{
+	"longitude": -81.9383746,
+	"latitude": 30.2196373,
+	"timestamp": 1532386401,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29095159.0996435732
+	},
+	"speed": 90
+},
+{
+	"longitude": -81.9530496,
+	"latitude": 30.2122693,
+	"timestamp": 1532386461,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13832,
+		"buzzer": 0,
+		"distance": 29096790.3759502843
+	},
+	"speed": 102
+},
+{
+	"longitude": -81.9618716,
+	"latitude": 30.2087808,
+	"timestamp": 1532386497,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29097722.9026591815
+	},
+	"speed": 105
+},
+{
+	"longitude": -81.9799348,
+	"latitude": 30.2059508,
+	"timestamp": 1532386556,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29099487.492019061
+	},
+	"speed": 103
+},
+{
+	"longitude": -81.9912331,
+	"latitude": 30.2036045,
+	"timestamp": 1532386605,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29100647.2712460794
+	},
+	"speed": 51
+},
+{
+	"longitude": -81.9911966,
+	"latitude": 30.1857883,
+	"timestamp": 1532386693,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29102629.0275310762
+	},
+	"speed": 77
+},
+{
+	"longitude": -81.9938146,
+	"latitude": 30.1742468,
+	"timestamp": 1532386753,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 13801,
+		"buzzer": 0,
+		"distance": 29103937.192989707
+	},
+	"speed": 83
+},
+{
+	"longitude": -81.997184,
+	"latitude": 30.1217491,
+	"timestamp": 1532387190,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 2,
+		"volts": 13011,
+		"buzzer": 0,
+		"distance": 29110541.1984607577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.997184,
+	"latitude": 30.1217491,
+	"timestamp": 1532392005,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12859,
+		"buzzer": 0,
+		"distance": 29110541.1984607577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.997184,
+	"latitude": 30.1217491,
+	"timestamp": 1532406405,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12768,
+		"buzzer": 0,
+		"distance": 29110541.1984607577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.997184,
+	"latitude": 30.1217491,
+	"timestamp": 1532420804,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 3,
+		"volts": 12707,
+		"buzzer": 0,
+		"distance": 29110541.1984607577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.9971291,
+	"latitude": 30.1217445,
+	"timestamp": 1532431210,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 4,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29110541.1984607577
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.998394,
+	"latitude": 30.1216348,
+	"timestamp": 1532431293,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29110716.5114707761
+	},
+	"speed": 31
+},
+{
+	"longitude": -81.999483,
+	"latitude": 30.1328885,
+	"timestamp": 1532431349,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29111973.5391582958
+	},
+	"speed": 87
+},
+{
+	"longitude": -82.0075775,
+	"latitude": 30.1452756,
+	"timestamp": 1532431421,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29113574.7537378892
+	},
+	"speed": 34
+},
+{
+	"longitude": -82.0030851,
+	"latitude": 30.1531361,
+	"timestamp": 1532431469,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29114607.0923784412
+	},
+	"speed": 88
+},
+{
+	"longitude": -81.9976438,
+	"latitude": 30.165834,
+	"timestamp": 1532431529,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29116113.2588203177
+	},
+	"speed": 91
+},
+{
+	"longitude": -81.9919563,
+	"latitude": 30.1784721,
+	"timestamp": 1532431589,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29117621.5880787894
+	},
+	"speed": 91
+},
+{
+	"longitude": -81.9910431,
+	"latitude": 30.1917355,
+	"timestamp": 1532431649,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29119099.4379422143
+	},
+	"speed": 81
+},
+{
+	"longitude": -81.991168,
+	"latitude": 30.2028786,
+	"timestamp": 1532431709,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29120338.9023586959
+	},
+	"speed": 65
+},
+{
+	"longitude": -81.9908395,
+	"latitude": 30.204214,
+	"timestamp": 1532431737,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29120503.3351162709
+	},
+	"speed": 39
+},
+{
+	"longitude": -81.9745863,
+	"latitude": 30.2067476,
+	"timestamp": 1532431797,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29122090.8816835433
+	},
+	"speed": 101
+},
+{
+	"longitude": -81.9582781,
+	"latitude": 30.2096941,
+	"timestamp": 1532431857,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29123692.3522185124
+	},
+	"speed": 97
+},
+{
+	"longitude": -81.9444671,
+	"latitude": 30.2164528,
+	"timestamp": 1532431917,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29125217.906526491
+	},
+	"speed": 79
+},
+{
+	"longitude": -81.931476,
+	"latitude": 30.2230883,
+	"timestamp": 1532431977,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29126668.3104537092
+	},
+	"speed": 94
+},
+{
+	"longitude": -81.918252,
+	"latitude": 30.2308281,
+	"timestamp": 1532432037,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29128203.3100196384
+	},
+	"speed": 83
+},
+{
+	"longitude": -81.904744,
+	"latitude": 30.2387311,
+	"timestamp": 1532432097,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29129771.0014852881
+	},
+	"speed": 98
+},
+{
+	"longitude": -81.8906211,
+	"latitude": 30.2465086,
+	"timestamp": 1532432157,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29131380.3221666478
+	},
+	"speed": 91
+},
+{
+	"longitude": -81.886381,
+	"latitude": 30.2492676,
+	"timestamp": 1532432223,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29131902.9814657941
+	},
+	"speed": 49
+},
+{
+	"longitude": -81.8859935,
+	"latitude": 30.2707873,
+	"timestamp": 1532432331,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29134297.4487600625
+	},
+	"speed": 84
+},
+{
+	"longitude": -81.8824318,
+	"latitude": 30.2747563,
+	"timestamp": 1532432354,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29134863.8355473168
+	},
+	"speed": 86
+},
+{
+	"longitude": -81.877244,
+	"latitude": 30.2798686,
+	"timestamp": 1532432445,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29136013.7376581915
+	},
+	"speed": 89
+},
+{
+	"longitude": -81.878513,
+	"latitude": 30.2859158,
+	"timestamp": 1532432468,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29136697.3001684323
+	},
+	"speed": 116
+},
+{
+	"longitude": -81.8707113,
+	"latitude": 30.3070711,
+	"timestamp": 1532432554,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29139345.1710358039
+	},
+	"speed": 107
+},
+{
+	"longitude": -81.8520365,
+	"latitude": 30.3088045,
+	"timestamp": 1532432614,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29141148.7450045794
+	},
+	"speed": 113
+},
+{
+	"longitude": -81.8322105,
+	"latitude": 30.3103565,
+	"timestamp": 1532432674,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29143060.3062187247
+	},
+	"speed": 115
+},
+{
+	"longitude": -81.8128488,
+	"latitude": 30.3130851,
+	"timestamp": 1532432734,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29144944.0419048294
+	},
+	"speed": 114
+},
+{
+	"longitude": -81.7933966,
+	"latitude": 30.314771,
+	"timestamp": 1532432794,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29146821.2058887742
+	},
+	"speed": 110
+},
+{
+	"longitude": -81.774869,
+	"latitude": 30.3150888,
+	"timestamp": 1532432854,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14166,
+		"buzzer": 0,
+		"distance": 29148600.5346269384
+	},
+	"speed": 108
+},
+{
+	"longitude": -81.7568528,
+	"latitude": 30.3154035,
+	"timestamp": 1532432914,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14196,
+		"buzzer": 0,
+		"distance": 29150330.7572854981
+	},
+	"speed": 104
+},
+{
+	"longitude": -81.740166,
+	"latitude": 30.3158201,
+	"timestamp": 1532432974,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29151933.6442493163
+	},
+	"speed": 27
+},
+{
+	"longitude": -81.736953,
+	"latitude": 30.3168106,
+	"timestamp": 1532433034,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29152261.2261952534
+	},
+	"speed": 1
+},
+{
+	"longitude": -81.7322973,
+	"latitude": 30.3171958,
+	"timestamp": 1532433094,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29152710.2948621176
+	},
+	"speed": 23
+},
+{
+	"longitude": -81.7308421,
+	"latitude": 30.3172458,
+	"timestamp": 1532433154,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29152850.1271915883
+	},
+	"speed": 21
+},
+{
+	"longitude": -81.7280376,
+	"latitude": 30.3179166,
+	"timestamp": 1532433187,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 1,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29153129.5469989255
+	},
+	"speed": 25
+},
+{
+	"longitude": -81.7270113,
+	"latitude": 30.318339,
+	"timestamp": 1532433246,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29153238.7138065696
+	},
+	"speed": 0
+},
+{
+	"longitude": -81.7203318,
+	"latitude": 30.320719,
+	"timestamp": 1532433366,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29153945.2918342873
+	},
+	"speed": 20
+},
+{
+	"longitude": -81.7144483,
+	"latitude": 30.3207768,
+	"timestamp": 1532433426,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14075,
+		"buzzer": 0,
+		"distance": 29154510.2150300443
+	},
+	"speed": 3
+},
+{
+	"longitude": -81.7106123,
+	"latitude": 30.3208158,
+	"timestamp": 1532433486,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29154878.5424322709
+	},
+	"speed": 49
+},
+{
+	"longitude": -81.70748,
+	"latitude": 30.3208405,
+	"timestamp": 1532433546,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29155179.2931280918
+	},
+	"speed": 7
+},
+{
+	"longitude": -81.7027175,
+	"latitude": 30.3208768,
+	"timestamp": 1532433606,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14136,
+		"buzzer": 0,
+		"distance": 29155636.5675958581
+	},
+	"speed": 11
+},
+{
+	"longitude": -81.697587,
+	"latitude": 30.321544,
+	"timestamp": 1532433666,
+	"custom_data": {
+		"disabled": 0,
+		"typeId": 5,
+		"volts": 14105,
+		"buzzer": 0,
+		"distance": 29156134.7135141194
+	},
+	"speed": 46
+}]
