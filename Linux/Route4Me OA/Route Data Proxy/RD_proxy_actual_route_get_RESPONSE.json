@@ -1,0 +1,344 @@
+{
+	"addresses": [
+	{
+		"alias": "Start",
+		"address": "146 W Main St, Mount Pleasant, UT, USA",
+		"lat": 39.547188,
+		"route_destination_id": 0,
+		"time": 0,
+		"sequence_no": 0,
+		"is_depot": 1,
+		"lng": -111.45797,
+		"custom_fields": {
+			"mean_distance": "0.0 meters per signal",
+			"time_at_location": "1261.2 minutes",
+			"distance": "0 meters",
+			"arrival_to_location": "2018-07-27 01:24AM",
+			"avg_speed": "0.0 meters per second",
+			"signals_count": 2,
+			"is_depot_stop": "False",
+			"departure_from_location": "2018-07-27 10:25PM",
+			"confidence": "82.13%"
+		}
+	},
+	{
+		"alias": "Stop point #1",
+		"address": "40 N 400 E, Mount Pleasant, UT, USA",
+		"lat": 39.547237,
+		"route_destination_id": 1,
+		"time": 0,
+		"sequence_no": 1,
+		"is_depot": 0,
+		"lng": -111.447601,
+		"custom_fields": {
+			"mean_distance": "0.0 meters per signal",
+			"time_at_location": "27.6 minutes",
+			"distance": "0 meters",
+			"arrival_to_location": "2018-07-27 10:29PM",
+			"avg_speed": "0.0 meters per second",
+			"signals_count": 2,
+			"is_depot_stop": "False",
+			"departure_from_location": "2018-07-27 10:56PM",
+			"confidence": "82.02%"
+		}
+	},
+	{
+		"alias": "End",
+		"address": "146 W Main St, Mount Pleasant, UT, USA",
+		"lat": 39.547188,
+		"route_destination_id": 2,
+		"sequence_no": 0,
+		"is_depot": 1,
+		"lng": -111.45797,
+		"time": 0,
+		"custom_fields": {
+			"mean_distance": "0.0 meters per signal",
+			"time_at_location": "1261.2 minutes",
+			"distance": "0 meters",
+			"arrival_to_location": "2018-07-27 01:24AM",
+			"avg_speed": "0.0 meters per second",
+			"signals_count": 2,
+			"is_depot_stop": "False",
+			"departure_from_location": "2018-07-27 10:25PM",
+			"confidence": "82.13%"
+		}
+	}],
+	"vehicle": {
+		"last_position_received": 1532752336,
+		"last_moved_at": 1532983876,
+		"vendor_company_name": "TelProvider1",
+		"vehicle_id": "9d467437c20e33333333333333333333",
+		"timezone": "America/Denver",
+		"vendor_id": 4,
+		"vehicle_license_plate": "112222",
+		"created_time": 1527527945,
+		"external_id": "b123",
+		"vehicle_model": "Express",
+		"member_id": 794206,
+		"vehicle_alias": "8005",
+		"vendor_hash_id": "Nzc2REJFQzkzQTkxNEREQTk5MMMMMMMMMMMMMMMMMMM=",
+		"latitude": 39.547443,
+		"vehicle_make": "CHEVROLET",
+		"longitude": -111.458046,
+		"vehicle_model_year": 2008
+	},
+	"trip_costs": 26.661097309,
+	"trip_costs_formatted": "$27",
+	"links": {
+		"analyzed_route_id": "https://storage.googleapis.com/r4m-oa-actual-gps-data-prod/4FE9DD79D5FA466CCCCCCCCCCCCCCCCC.json.gz"
+	},
+	"trip_time_formatted": "3 minutes",
+	"scenario_label": "Estimated Current Cost",
+	"description": "Route4Me detected stops on route and actual driving route path",
+	"trip_distance": 1.255625,
+	"trip_time": 201,
+	"algorithm_type": 0,
+	"label": "Actual (Baseline)",
+	"raw_track": [{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532654685
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532656580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532658380
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532660180
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532661981
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532663781
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532665580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532667381
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532669181
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532670980
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532672780
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532674580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532676380
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532678180
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532679981
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532681780
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532683580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532685380
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532687180
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532688980
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532690780
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532692581
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532694381
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532696181
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532697980
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532699780
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532701580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532703381
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532705180
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532706981
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532708781
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532710580
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532712380
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532714180
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532715981
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532717781
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532719581
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532721381
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532723181
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532724980
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532726780
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532728581
+	},
+	{
+		"latitude": 39.547188,
+		"longitude": -111.45797,
+		"timestamp": 1532730315
+	},
+	{
+		"latitude": 39.546726,
+		"longitude": -111.455566,
+		"timestamp": 1532730414
+	},
+	{
+		"latitude": 39.546753,
+		"longitude": -111.452698,
+		"timestamp": 1532730477
+	},
+	{
+		"latitude": 39.547981,
+		"longitude": -111.447754,
+		"timestamp": 1532730551
+	},
+	{
+		"latitude": 39.547237,
+		"longitude": -111.447601,
+		"timestamp": 1532730608
+	},
+	{
+		"latitude": 39.547237,
+		"longitude": -111.447601,
+		"timestamp": 1532732205
+	},
+	{
+		"latitude": 39.546776,
+		"longitude": -111.450218,
+		"timestamp": 1532732275
+	}],
+	"trip_distance_formatted": "1 mi",
+	"path": "c~jpFhchgT?aC??AuD???gD??@m@?oD?qEAmCE_FB{JGwI?a@yA?qC?pC?@???vA??`@FvI?jB?@ClG??FlJ???pE???nDA@?rE??@tD???`C"
+}
