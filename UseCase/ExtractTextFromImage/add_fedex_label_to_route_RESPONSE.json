@@ -1,0 +1,20 @@
+{
+	"status": true,
+	"note_id": "938675",
+	"upload_id": "48538290a10e215932707b3658bb3db6",
+	"note": {
+		"note_id": 938675,
+		"route_id": "D68AAF9C015D8AA4A138583453CE90EB",
+		"route_destination_id": 196429351,
+		"ts_added": 1478596208,
+		"activity_type": "",
+		"upload_id": "48538290a10e215932707b3658bb3db6",
+		"upload_extension": "jpg",
+		"upload_url": "http:\/\/adb6def9928467589ebb-f540d5a8d53c2e76ad581b6e5c346ad6.r74.cf1.rackcdn.com\/48538290a10e215932707b3658bb3db6.jpg",
+		"upload_type": "ADDRESS_IMG",
+		"contents": "",
+		"lat": 41.194506,
+		"lng": -81.443352,
+		"device_type": "web"
+	}
+}

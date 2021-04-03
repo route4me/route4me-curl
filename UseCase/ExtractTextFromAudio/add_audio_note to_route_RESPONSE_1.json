@@ -1,0 +1,20 @@
+{
+	"status": true,
+	"note_id": "948587",
+	"upload_id": "bf63890ce6249eb5b3929e28df67a107",
+	"note": {
+		"note_id": 948587,
+		"route_id": "7FE9E1F17371A76869EB808C1CB619AB",
+		"route_destination_id": 196888777,
+		"ts_added": 1478790915,
+		"activity_type": "",
+		"upload_id": "bf63890ce6249eb5b3929e28df67a107",
+		"upload_extension": "mp3",
+		"upload_url": "http:\/\/adb6def9928467589ebb-f540d5a8d53c2e76ad581b6e5c346ad6.r74.cf1.rackcdn.com\/bf63890ce6249eb5b3929e28df67a107.mp3",
+		"upload_type": "ANY_FILE",
+		"contents": "",
+		"lat": 41.315117,
+		"lng": -81.558746,
+		"device_type": "web"
+	}
+}

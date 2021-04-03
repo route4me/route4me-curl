@@ -1,0 +1,6 @@
+{
+   "custom_fields": {
+      "cargo_place": "Leave the cargo near to the entrance door",
+	  "message_for_client": "Next cargo will be delivered tomorrow morning"
+    }
+}
