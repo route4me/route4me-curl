@@ -1,0 +1,23 @@
+{
+    "HIDE_NONFUTURE_ROUTES": "FALSE",
+    "HIDE_ROUTED_ADDRESSES": "FALSE",
+    "HIDE_VISITED_ADDRESSES": "FALSE",
+    "member_id": "147824",
+    "OWNER_MEMBER_ID": "1116",
+    "READONLY_USER": "FALSE",
+    "SHOW_ALL_DRIVERS": "FALSE",
+    "SHOW_ALL_VEHICLES": "TRUE",
+    "date_of_birth": "2010-00-00",
+    "member_email": "skrynkovskyy+newdispatcher@gmail.com",
+    "member_first_name": "Clay",
+    "member_last_name": "Abraham",
+    "member_phone": "571-259-5939",
+    "member_picture": null,
+    "member_type": "SUB_ACCOUNT_DISPATCHER",
+    "member_zipcode": "22102",
+    "preferred_language": "en",
+    "preferred_units": null,
+    "timezone": "America/New_York",
+    "user_reg_country_id": null,
+    "user_reg_state_id": null
+}
