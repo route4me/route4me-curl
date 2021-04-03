@@ -1,0 +1,34 @@
+{
+	"vendors": [{
+		"id": "52",
+		"name": "FleetComplete",
+		"slug": "fleetcomplete",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetcomplete589992529694e2.87947196.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "154",
+		"name": "Geotab",
+		"slug": "geotab",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/geotab58adab131f2792.24314443.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "153",
+		"name": "Teletrac Navman",
+		"slug": "teletrac-navman",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/teletrac-navman58ada84bd26158.03851096.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "3",
+		"name": "TomTom Webfleet",
+		"slug": "tomtom-webfleet",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tomtom589301bef0f1a6.35464894.png",
+		"is_integrated": "1"
+	}]
+}

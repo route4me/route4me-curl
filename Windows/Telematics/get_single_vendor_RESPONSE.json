@@ -1,0 +1,135 @@
+{
+	"vendor": {
+		"id": "153",
+		"name": "Teletrac Navman",
+		"title": "",
+		"slug": "teletrac-navman",
+		"description": "Teletrac Navman is trusted by more than 40,000 businesses worldwide, providing fleet management solutions that increase efficiency, boost profitability and simplify regulatory compliance.",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/teletrac-navman58ada84bd26158.03851096.png",
+		"website_url": "http:\/\/www.teletracnavman.com\/",
+		"api_docs_url": "",
+		"is_integrated": "1",
+		"size": "global",
+		"features": [{
+			"id": "1",
+			"name": "Customizable Reports",
+			"slug": "customizable-reports",
+			"feature_group": "Analytics & Reporting"
+		},
+		{
+			"id": "3",
+			"name": "Modern Software Development Kits (SDKs)",
+			"slug": "modern-sdks",
+			"feature_group": "API & SDK"
+		},
+		{
+			"id": "4",
+			"name": "Modern API Best Practices",
+			"slug": "modern-api-best-practices",
+			"feature_group": "API & SDK"
+		},
+		{
+			"id": "9",
+			"name": "3G",
+			"slug": "3g",
+			"feature_group": "Connectivity Type"
+		},
+		{
+			"id": "12",
+			"name": "Satellite",
+			"slug": "satellite",
+			"feature_group": "Connectivity Type"
+		},
+		{
+			"id": "13",
+			"name": "Document Management",
+			"slug": "document-management",
+			"feature_group": "CRM"
+		},
+		{
+			"id": "16",
+			"name": "OBD",
+			"slug": "obd",
+			"feature_group": "Devices Supported"
+		},
+		{
+			"id": "20",
+			"name": "Driver&#39;s behavior monitoring",
+			"slug": "driver-behavior-monitoring",
+			"feature_group": "Driver & Fleet Safety"
+		},
+		{
+			"id": "25",
+			"name": "Fuel usage reporting",
+			"slug": "fuel-usage-reporting",
+			"feature_group": "Fleet Management"
+		},
+		{
+			"id": "26",
+			"name": "Trip KPI dashboard",
+			"slug": "trip-kpi-dashboard",
+			"feature_group": "Fleet Management"
+		},
+		{
+			"id": "28",
+			"name": "Driver\/vehicle scheduling",
+			"slug": "driver-vehicle-scheduling",
+			"feature_group": "Fleet Management"
+		},
+		{
+			"id": "30",
+			"name": "OBD GPS Tracking",
+			"slug": "obd-gps-tracking",
+			"feature_group": "Fleet Management"
+		},
+		{
+			"id": "38",
+			"name": "Windows Desktop app",
+			"slug": "windows-desktop-app",
+			"feature_group": "Native Platforms Applications for Management"
+		},
+		{
+			"id": "54",
+			"name": "Maintenance Schedules",
+			"slug": "maintenance-schedules",
+			"feature_group": "Vehicle Maintenance"
+		},
+		{
+			"id": "55",
+			"name": "Vehicle Engine Diagnostics Codes",
+			"slug": "vehicle-engine-diagnostics-codes",
+			"feature_group": "Vehicle Maintenance"
+		},
+		{
+			"id": "57",
+			"name": "HOS\/ELD compliance",
+			"slug": "hos-eld-compliance",
+			"feature_group": "Driver & Fleet Safety"
+		}],
+		"countries": [{
+			"id": "13",
+			"country_code": "AU",
+			"country_name": "Australia"
+		},
+		{
+			"id": "142",
+			"country_code": "MX",
+			"country_name": "Mexico"
+		},
+		{
+			"id": "158",
+			"country_code": "NZ",
+			"country_name": "New Zealand"
+		},
+		{
+			"id": "229",
+			"country_code": "GB",
+			"country_name": "United Kingdom"
+		},
+		{
+			"id": "230",
+			"country_code": "US",
+			"country_name": "United States"
+		}]
+	}
+}
