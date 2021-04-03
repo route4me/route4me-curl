@@ -1,0 +1,28 @@
+{
+    "addresses": [
+	  {
+		"BatchId": "4b29302f-cecc-4317-a5bd-881b6774d85a",
+		"CustomerNumber": "0",
+		"DeliveryId": "7a2bae70-99cc-41d9-8297-abfd0ddd7de3",
+		"DeliveryInvoices": "<?xml version=\"1.0\" encoding=\"utf-16\"?>\u000d\u000a<!DOCTYPE PAMSDelivery SYSTEM \"PAMSDelivery.dtd\">\u000d\u000a<ArrayOfRouteDeliveryInvoice \/>",
+		"DeliveryNotes": "TEST",
+		"RouteId": "19813",
+		"address": "1508 Morning Glory Ave, Sartell, MN 56377, USA",
+		"alias": "TEST",
+		"cost": 0,
+		"cube": 0,
+		"customer_po": null,
+		"email": "",
+		"invoice_no": 0,
+		"is_visited": false,
+		"lat": 45.599797,
+		"lng": -94.239775,
+		"order_no": null,
+		"phone": "",
+		"pieces": 0,
+		"reference_no": null,
+		"time": 600,
+		"weight": 0
+	}
+    ]
+}

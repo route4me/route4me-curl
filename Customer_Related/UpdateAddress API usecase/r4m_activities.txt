@@ -1,0 +1,27 @@
+activity:
+route_id -> 8E1D64773050020ECBBD3FC2CB46C8FE
+route_destination_id -> 217213163
+member_id -> 1
+activity_type -> update-destinations
+activity_id -> FAD867CE74780D9D54988F5988CBB932
+activity_timestamp -> 1488830418
+activity_message -> Address '4805 BELLEVUE AVE, Louisville, KY, 40215' was updated
+account_type_id -> 123
+member_level -> 0
+root_owner_member_api_key -> 11111111111111111111111111111111
+root_owner_member_email -> aaaaaaaaa@gmail.com
+root_owner_member_id -> 1
+
+activity:
+route_id -> 8E1D64773050020ECBBD3FC2CB46C8FE
+route_destination_id -> 217213163
+member_id -> 1
+activity_type -> update-destinations
+activity_id -> C7004B88E48CC98FA9528D79225E08A1
+activity_timestamp -> 1488830420
+activity_message -> Address '4805 BELLEVUE AVE, Louisville, KY, 40215' was updated
+account_type_id -> 123
+member_level -> 0
+root_owner_member_api_key -> 11111111111111111111111111111111
+root_owner_member_email -> aaaaaaaaa@gmail.com
+root_owner_member_id -> 1

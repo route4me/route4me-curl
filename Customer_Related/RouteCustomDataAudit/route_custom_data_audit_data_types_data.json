@@ -1,0 +1,67 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+		"StoreRoute": true,
+		"RouteName": "Route custom data audit 7 Stops (curl (cmd) - english",
+		"route_time": 25200,
+		"optimize": "Distance",
+		"distance_unit": "mi",
+        "device_type": "web"
+    },
+    "addresses": [
+	  {
+		"lng": 34.775779,
+		"lat": 32.090734,
+		"is_depot": true,
+		"address": "Dizengoff 229 Tel Aviv-Yafo, 63116, Israel",
+		"custom_fields" : {
+			"depot_field": "this is depot field",
+			"number_field": 12544,
+			"boolean_field": true,
+			"double_field": 12545434.548741
+		}
+	  },
+	  {
+		"lng": 34.775371,
+		"lat": 32.088689,
+		"is_depot": false,
+		"address": "Dizengoff 213 Tel Aviv-Yafo, Israel",
+		"custom_fields" : {
+			"depot_field": "this is non-depot field",
+			"number_field": 12544,
+			"boolean_field": true,
+			"double_field": 12545434.548741
+		}
+	  },
+	  {
+		"lng": 34.776894,
+		"lat": 32.083080,
+		"is_depot": false,
+		"address": "Sderot Ben Gurion 68 Tel Aviv-Yafo, Israel"
+	  },
+	  {
+		"lng": 34.779909,
+		"lat": 32.081417,
+		"is_depot": false,
+		"address": "Malkhei Yisra'el Street Tel Aviv-Yafo, Israel"
+	  },
+	  {
+		"lng": 34.779866,
+		"lat": 32.077744,
+		"is_depot": false,
+		"address": "Netsach Israel Street 9 Tel Aviv-Yafo, Israel"
+	  },
+	  {
+		"lng": 34.783310,
+		"lat": 32.075644,
+		"is_depot": false,
+		"address": "Sderot Sha'ul HaMelech 1-13 Tel Aviv-Yafo, Israel"
+	  },
+	  {
+		"lng": 34.781916,
+		"lat": 32.085298,
+		"is_depot": false,
+		"address": "Arlozorov Street 88 Tel Aviv-Yafo, Israel"
+	  }
+	]
+}
