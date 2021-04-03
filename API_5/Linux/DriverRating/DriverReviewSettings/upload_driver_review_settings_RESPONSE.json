@@ -1,0 +1,10 @@
+{
+	"status": false,
+	"code": 406,
+	"exit_code": 1,
+	"messages": {
+		"question": [
+			"You can configure the question only once."
+		]
+	}
+}
