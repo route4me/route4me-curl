@@ -1,0 +1,50 @@
+{
+	"data": [{
+		"user_id": "44444444444444444444444444444444",
+		"measurement": 0,
+		"phone_number": "+1234567890",
+		"timezone": null,
+		"website": "https://route4me.com",
+		"company_name": "Joe Doe Affiliate Inc.",
+		"first_name": "Joe.Test",
+		"locale": null,
+		"email": "jonjin@route4me.com",
+		"last_name": "Doe"
+	},
+	{
+		"user_id": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+		"measurement": 0,
+		"phone_number": null,
+		"timezone": null,
+		"website": null,
+		"company_name": null,
+		"first_name": null,
+		"locale": null,
+		"email": "FleetUp",
+		"last_name": null
+	},
+	{
+		"user_id": "77777777777777777777777777777777",
+		"measurement": 0,
+		"phone_number": "(633) 444-1111",
+		"timezone": null,
+		"website": "https://vehtrack.com/",
+		"company_name": "Tracking Solutions",
+		"first_name": "Ryan",
+		"locale": null,
+		"email": "rwold@vehtrack.com",
+		"last_name": "Woldemar"
+	},
+	{
+		"user_id": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+		"measurement": 0,
+		"phone_number": "(555) 222-9999",
+		"timezone": null,
+		"website": "http://rushprises.com/",
+		"company_name": "Rush Prises",
+		"first_name": "Odel",
+		"locale": null,
+		"email": "odel@rushprises.com",
+		"last_name": "Monial"
+	}]
+}

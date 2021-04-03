@@ -1,0 +1,11 @@
+{
+  "message": "Stop does not exists",
+  "method": "GET",
+  "details": {
+    "device_id": "0013311c7b7954509999999999999999",
+    "stop_timestamp": "1534340000"
+  },
+  "error": "Stop does not exists",
+  "code": "argument.required",
+  "url": "https://oa.route4me.com/api/v1/user/members/devices/0013311c7b7954509999999999999999/stops/1534340000?api_key=c8f031c712715c90b2e0cd1ce19cabf247922222222222222222222222222222"
+}

@@ -1,0 +1,43 @@
+{
+	"metadata": {
+		"total": 3594
+	},
+	"data": [{
+		"last_position_received": 1532426449,
+		"vendor_id": 4,
+		"vehicle_model": "Ranger",
+		"external_id": "b77",
+		"longitude": -80.1717,
+		"vendor_hash_id": "22222222222222222222222222222222222222222222",
+		"vendor_company_name": "telserv",
+		"vehicle_alias": "10180753 - BOULIN",
+		"vehicle_model_year": 2010,
+		"vehicle_make": "FORD",
+		"last_moved_at": 1532426449,
+		"latitude": 26.643482,
+		"member_id": 794715,
+		"timezone": "America/New_York",
+		"created_time": 1527574995,
+		"vehicle_license_plate": "",
+		"vehicle_id": "33333333333333333333333333333333"
+	},
+	{
+		"last_position_received": 1532426413,
+		"vendor_id": 4,
+		"vehicle_model": "F-350",
+		"external_id": "b111",
+		"longitude": -80.219444,
+		"vendor_hash_id": "22222222222222222222222222222222222222222222",
+		"vendor_company_name": "telserv",
+		"vehicle_alias": "10203358 ROMAN",
+		"vehicle_model_year": 2017,
+		"vehicle_make": "FORD",
+		"last_moved_at": 1532420176,
+		"latitude": 26.698931,
+		"member_id": 794715,
+		"timezone": "America/New_York",
+		"created_time": 1527575007,
+		"vehicle_license_plate": "",
+		"vehicle_id": "66666666666666666666666666666666"
+	}]
+}

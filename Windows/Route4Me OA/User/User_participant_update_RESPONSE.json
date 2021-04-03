@@ -1,0 +1,24 @@
+{
+	"data": {
+		"phone_number": "+5123456789",
+		"website": "https://oa.route4me.com",
+		"original_r4m_api_key": null,
+		"email": "rexlentina@route4me.com",
+		"company_name": "Rex Lantina LLC",
+		"first_name": "Rex",
+		"vendor_user_id": null,
+		"timezone": null,
+		"vendor_company_name": null,
+		"locale": null,
+		"origin_r4m_member_id": 0,
+		"r4m_member_id": null,
+		"user_id": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+		"last_name": "Lentina",
+		"vendor_id": null,
+		"measurement": 0,
+		"r4m_api_key": null,
+		"affiliate_user_id": "99999999999999999999999999999999",
+		"affiliate_email": "",
+		"affiliate_company_name": "test_affiliate_semeyon"
+	}
+}
