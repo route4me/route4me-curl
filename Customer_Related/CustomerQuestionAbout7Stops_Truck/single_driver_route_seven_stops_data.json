@@ -1,0 +1,66 @@
+{
+	"parameters": {
+        "algorithm_type": 1,
+		"StoreRoute": true,
+		"RouteName": "Single Driver Route 7 Stops (Truck, curl for Delphi issue)",
+		"optimize": "Distance",
+		"travel_mode": "Trucking",
+		"truck_height": "160",
+		"truck_width": "108",
+		"truck_length": "548",
+		"has_trailer": true,
+		"trailer_weight_t": "5",
+		"limited_weight_t": "7.4",
+		"weight_per_axle_t": "3",
+		"dm": 6,
+		"dirm": 3,
+		"distance_unit": "mi",
+        "device_type": "web",
+		"optimization_quality": 1
+    },
+    "addresses": [
+	  {
+		"lng": -83.244743,
+		"lat": 33.132701,
+		"is_depot": true,
+		"sequence_no": 1,
+		"address": "151 Arbor Way Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.238278,
+		"lat": 33.141095,
+		"is_depot": false,
+		"address": "119 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.239336,
+		"lat": 33.143078,
+		"is_depot": false,
+		"address": "138 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.239066,
+		"lat": 33.142300,
+		"is_depot": false,
+		"address": "133 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.237464,
+		"lat": 33.142745,
+		"is_depot": false,
+		"address": "139 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.238278,
+		"lat": 33.141329,
+		"is_depot": false,
+		"address": "117 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  },
+	  {
+		"lng": -83.237563,
+		"lat": 33.144197,
+		"is_depot": false,
+		"address": "151 Bill Johnson Road Northeast Milledgeville, GA 31061, USA"
+	  }
+	]
+}
