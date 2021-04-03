@@ -1,0 +1,83 @@
+{
+	"parameters": {
+        "algorithm_type": 101,
+		"device_type": "web",
+		"distance_unit": "mi",
+		"optimize": "Time",
+		"route_date": 1579910400,
+		"route_max_duration": 36000,
+		"route_name": "Route for driver Joe on truck Truck7 For date 1/25/2020",
+		"route_time": 26800,
+		"rt": true,
+		"travel_mode": "Driving",
+		"vehicle_max_cargo_weight": 12800
+    },
+    "addresses":[
+		{ 
+			"address": "3634 W Market St, Fairlawn, OH 44333",
+			"is_depot": true,
+			"lat": 41.135762259364,
+			"lng": -81.629313826561,
+			"time": 300,
+			"time_window_start": 28800,
+			"time_window_end": 29100
+		},
+		{ 
+			"address": "1218 Ruth Ave, Cuyahoga Falls, OH 44221",
+			"lat": 41.135762259364,
+			"lng": -81.629313826561,
+			"time": 300,
+			"time_window_start": 29465,
+			"time_window_end": 30529
+		},
+		{ 
+			"address": "512 Florida Pl, Barberton, OH 44203",
+			"lat": 41.003671512008,
+			"lng": -81.598461046815,
+			"time": 300,
+			"time_window_start": 30529,
+			"time_window_end": 33779
+		},
+		{ 
+			"address": "512 Florida Pl, Barberton, OH 44203",
+			"lat": 41.003671512008,
+			"lng": -81.598461046815,
+			"time": 100,
+			"time_window_start": 33779,
+			"time_window_end": 33944
+		},
+		{ 
+			"address": "3495 Purdue St, Cuyahoga Falls, OH 44221",
+			"lat": 41.162971496582,
+			"lng": -81.479049682617,
+			"time": 300,
+			"time_window_start": 33944,
+			"time_window_end": 34801
+		},
+		{ 
+			"address": "1659 Hibbard Dr, Stow, OH 44224",
+			"is_depot": true,
+			"lat": 41.194505989552,
+			"lng": -81.443351581693,
+			"time": 300,
+			"time_window_start": 34801,
+			"time_window_end": 36366
+		},
+		{ 
+			"address": "2705 N River Rd, Stow, OH 44224",
+			"lat": 41.145240783691,
+			"lng": -81.410247802734,
+			"time": 300,
+			"time_window_start": 36366,
+			"time_window_end": 39173
+		},
+		{ 
+			"address": "10159 Bissell Dr, Twinsburg, OH 44087",
+			"lat": 41.340042114258,
+			"lng": -81.421226501465,
+			"time": 300,
+			"time_window_start": 39173,
+			"time_window_end": 41617
+		}
+	]
+}

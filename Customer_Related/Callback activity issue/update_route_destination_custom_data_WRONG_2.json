@@ -1,0 +1,23 @@
+{
+	"alias": "Steele's - MONTICELLO",
+	"address_stop_type": "wrong type",
+	"cost": 0,
+	"cube": 0,
+	"customer_po": null,
+	"email": "",
+	"invoice_no": 945822,
+	"is_visited": false,
+	"lat": 45.295958,
+	"lng": -93.805896,
+	"order_no": null,
+	"phone": "763-271-8500",
+	"pieces": 0,
+	"reference_no": null,
+	"time": 600,
+	"weight": 15,
+	"custom_fields": {
+		 "BatchId": "e7c672b1-a356-4a97-803e-97db88fdcf99",
+		 "CustomerNumber": "2718500",
+		 "DeliveryId": "2c71f6d9-c1aa-4672-a682-3e9f12badac9"
+		 }
+}
