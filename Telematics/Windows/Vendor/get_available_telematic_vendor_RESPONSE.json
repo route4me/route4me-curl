@@ -1,0 +1,330 @@
+[{
+	"id": 1,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "sapsan",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Sapsan",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "account_id",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 2,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "bentle",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Bentle",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "account_id",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 3,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "kankas",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Kankas",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "api_key",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 4,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "dinbon",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Dinbon",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "account_id",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 5,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "travelnger",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Travelnger",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "api_key",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 6,
+	"is_enabled": 1,
+	"is_readonly": 1,
+	"name": "kortondel",
+	"created_at": "2016-11-16 06:53:28",
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Kortondel",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "account_id",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 7,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "bounty",
+	"created_at": null,
+	"updated_at": "2017-04-04 15:08:09",
+	"title": "Bounty",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "account_id",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 8,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "artfacts",
+	"created_at": null,
+	"updated_at": "2016-11-16 06:53:30",
+	"title": "Artfacts",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "account_id",
+		"is_required": false,
+		"default": null
+	}]
+},
+{
+	"id": 10,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "beneton",
+	"created_at": "2017-02-24 05:07:05",
+	"updated_at": "2017-03-22 07:24:59",
+	"title": "Beneton",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 11,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "lepsgong",
+	"created_at": "2017-03-22 07:24:59",
+	"updated_at": "2017-03-22 07:24:59",
+	"title": "Lepsgong",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "api_key",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 12,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "lazerbim",
+	"created_at": "2017-03-24 10:42:10",
+	"updated_at": "2017-03-24 10:42:10",
+	"title": "Lazerbim",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 13,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "delevergps",
+	"created_at": "2017-06-07 04:40:14",
+	"updated_at": "2017-06-07 04:40:14",
+	"title": "Delever GPS",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 14,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "randomstorm",
+	"created_at": "2017-06-16 06:49:35",
+	"updated_at": "2017-06-16 06:49:35",
+	"title": "Random Storm",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "host",
+		"is_required": false,
+		"default": "ranstorm.net"
+	}]
+},
+{
+	"id": 15,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "ocationalbay",
+	"created_at": "2017-06-20 03:59:44",
+	"updated_at": "2017-06-20 03:59:44",
+	"title": "Ocational Bay",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "api_key",
+		"is_required": true,
+		"default": null
+	}]
+},
+{
+	"id": 16,
+	"is_enabled": 1,
+	"is_readonly": 0,
+	"name": "contrastgps",
+	"created_at": "2017-08-18 15:42:36",
+	"updated_at": "2017-08-18 15:42:36",
+	"title": "Contrast GPS",
+	"icon": null,
+	"hint": null,
+	"credentials": [{
+		"name": "username",
+		"is_required": true,
+		"default": null
+	},
+	{
+		"name": "password",
+		"is_required": true,
+		"default": null
+	}]
+}]
