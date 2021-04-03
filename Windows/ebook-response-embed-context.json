@@ -1,0 +1,132 @@
+[
+  {
+    "id": 5009,
+    "date": "2017-06-20T07:13:01",
+    "slug": "plan-smarter-deliver-faster-add-human-touch-route-planning",
+    "type": "r4m_ebooks",
+    "link": "http:\/\/blog.route4me.com\/ebooks\/plan-smarter-deliver-faster-add-human-touch-route-planning\/",
+    "title": {
+      "rendered": "Plan Smarter, Deliver Faster: Add a Human Touch to Route Planning"
+    },
+    "excerpt": {
+      "rendered": "<p>Route Planning: Keeping Customers Happy\u00a0Isn\u2019t As Easy As It Used To Be\u2026 A decade or two ago, it was relatively easy to keep customers happy.<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/ebooks\/plan-smarter-deliver-faster-add-human-touch-route-planning\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "featured_media": 5010,
+    "pdf": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Plan-Smarter-Deliver-Faster-Add-a-Human-Touch-to-Route-Planning.pdf",
+    "ebook_cover": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Plan-Smarter-Deliver-Faster-Add-a-Human-Touch-to-Route-Planning-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks\/5009"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_ebooks"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5009"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5010"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5009"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "ebook-language",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/language?post=5009"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5007,
+    "date": "2017-06-20T07:04:21",
+    "slug": "grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth",
+    "type": "r4m_ebooks",
+    "link": "http:\/\/blog.route4me.com\/ebooks\/grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth\/",
+    "title": {
+      "rendered": "Grow! Grow! Grow! Don&#8217;t Let  the Wrong Route Optimization Platform Stunt Your Growth"
+    },
+    "excerpt": {
+      "rendered": "<p>Finding The Right Route Optimization Platform Can Be A Challenge There are dozens of different route planners to choose from. How do you know which<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/ebooks\/grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "featured_media": 5008,
+    "pdf": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Grow-Grow-Grow-Dont-Let-The-Wrong-Route-Optimization-Platform-Stunt-Your-Growth.pdf",
+    "ebook_cover": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Grow-Grow-Grow-Dont-Let-the-Wrong-Route-Optimization-Platform-Stunt-Your-Growth-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks\/5007"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_ebooks"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5007"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5008"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5007"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "ebook-language",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/language?post=5007"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
