@@ -1,0 +1,10 @@
+{
+	"method": "DELETE",
+	"url": "https://oa.route4me.com/api/v1/user/participants/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/telematics-connection/22222222222222222222222222222222",
+	"message": "This connection is not active",
+	"error": "This connection is not active",
+	"code": "telematics.connection.restricted",
+	"details": {
+		
+	}
+}

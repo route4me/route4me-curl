@@ -1,0 +1,24 @@
+{
+  "data": {
+    "api_key": {
+      "creator_id": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+      "private": "HHHHHHHHHHHHHHHHH",
+      "public": "7777777777777777777777777777777777777777777777777777777777777777",
+      "ttl": 1564145747,
+      "owner_id": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+      "is_active": true,
+      "api_key_id": "88888888888888888888888888888888",
+      "created_at": 1532609747
+    },
+    "locale": null,
+    "first_name": "Charles",
+    "last_name": "Dickens",
+    "measurement": 0,
+    "phone_number": "+1234567890",
+    "email": "chalaffil@route4me.com",
+    "user_id": "66666666666666666666666666666666",
+    "company_name": "Charles Dickens Affiliate Inc.",
+    "timezone": null,
+    "website": "https://route4me.com"
+  }
+}
