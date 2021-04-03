@@ -1,0 +1,96 @@
+[
+	{
+		"group_id": "8A2401FE169B31E2136B4F7AECA3FB51",
+		"group_name": "All Group",
+		"group_color": "92e1c0",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "not_equal",
+					"value": "qwerty123456"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "54AC71733C0DE0A1B67EE1B39BDE1142",
+		"group_name": "All Group",
+		"group_color": "92e1c0",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "not_equal",
+					"value": "qwerty123456"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "D42FEF1C1B824EC040D1E2874FE3897F",
+		"group_name": "All Group",
+		"group_color": "92e1c0",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"operator": "not_equal",
+					"value": "qwerty123456"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "22813F499204474E8E66380CBD8A78F8",
+		"group_name": "FL",
+		"group_color": "92e1c0",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"type": "string",
+					"input": "text",
+					"operator": "has_word",
+					"value": "FL"
+				}
+			]
+		}
+	},
+	{
+		"group_id": "6CDC2A86D2073FB6F9FBD3884B9ACB92",
+		"group_name": "ca",
+		"group_color": "9fe1e7",
+		"group_icon": null,
+		"member_id": 1,
+		"filter": {
+			"condition": "AND",
+			"rules": [
+				{
+					"id": "address_1",
+					"field": "address_1",
+					"type": "string",
+					"input": "text",
+					"operator": "has_word",
+					"value": "CA"
+				}
+			]
+		}
+	}
+]
