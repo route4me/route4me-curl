@@ -1,0 +1,21 @@
+{
+	"status": true,
+	"note_id": "3573168",
+	"upload_id": "",
+	"note": {
+		"note_id": 3573168,
+		"route_id": "D1DF6BAF991E3CDC00134C28D27AEC12",
+		"route_destination_id": 289863166,
+		"ts_added": 1522164926,
+		"activity_type": "dropoff",
+		"upload_id": "",
+		"upload_extension": null,
+		"upload_url": null,
+		"upload_type": null,
+		"contents": "test1111",
+		"lat": -37.820712,
+		"lng": 144.958193,
+		"device_type": "web",
+		"custom_types": []
+	}
+}
