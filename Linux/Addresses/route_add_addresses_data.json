@@ -1,0 +1,12 @@
+{
+    "addresses": [
+      {  "address": "Fountayne Boulevard Lawrence Township United States of America",
+		"lat":     "40.274287",
+		"lng":     "-74.679565"
+      },
+	  {  "address": "Tennent Avenue Manalapan Township United States of America",
+		"lat":     "40.285026",
+		"lng":     "-74.333839"
+      }
+    ]
+}
