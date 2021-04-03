@@ -1,0 +1,3 @@
+alias,address,lat,lng,cost,time,onetime_fee,recurring_fee,recurring_fee_frequency,maximum_vehicles,cost_per_vehicle_per_hour,cost_per_driver_per_hour
+Depot 1,"Hartle Street Industrial Park in Sayreville, NJ",40.459402,-74.360846,10800,60,21600,10800,monthly,15,12,10
+Depot 2,"1430 Jersey Ave, North Brunswick, NJ, 08902",40.462336,-74.48231,15812,60,31624,15812,monthly,15,15,12
