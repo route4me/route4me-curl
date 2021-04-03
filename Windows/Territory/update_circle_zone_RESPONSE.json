@@ -1,0 +1,12 @@
+{
+	"territory_id": "39236C3A30F92CA338C41EB0978F9D8A",
+	"member_id": "1",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"addresses": [],
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+}
