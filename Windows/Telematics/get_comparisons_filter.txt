@@ -1,0 +1,1 @@
+["Name", "Size", "Features" ], (.vendors[] | [.name, .size,  ([.features[]  | .name] | sort_by(.) | join(", "))]) | @csv
