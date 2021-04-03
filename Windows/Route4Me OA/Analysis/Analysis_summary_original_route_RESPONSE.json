@@ -1,0 +1,42 @@
+{
+	"savings_summary": {
+		
+	},
+	"metadata": {
+		"original_route_id": "499d9fb8cbb3e350dddddddddddddddd",
+		"from_ts": 1534170811,
+		"user_id": "EBA794354DC847E3BC11111111111111",
+		"trim_ts": 1534775611,
+		"participant_label": "<a href=\"mailto:admin\">admin</a>",
+		"r4m_api_key": "None"
+	},
+	"assumptions": {
+		"service_time_per_hour": 10,
+		"resource_base_pay": 19,
+		"operating_cost_mile": 0.77,
+		"member_id": 1,
+		"metric_tons_of_co2_per_mile": 0.009071847,
+		"drive_time_per_hour": 10,
+		"accidents_per_million_miles": 6.24,
+		"miles_per_gallon": 8,
+		"cost_per_accident": 8400,
+		"gallon_fuel_cost": 3.45,
+		"stop_cost": 10
+	},
+	"aggregate_analysis_summary": {
+		"detailed_routes_analysis": [],
+		"optimization_scenarios": []
+	},
+	"statistics": {
+		"gps-counter": {
+			"period": 0,
+			"_args": {
+				"trim_ts": 1534775611,
+				"member_id": "1",
+				"@meta": "this is temporary node!",
+				"from_ts": 1534170811
+			},
+			"global": "72.1K"
+		}
+	}
+}

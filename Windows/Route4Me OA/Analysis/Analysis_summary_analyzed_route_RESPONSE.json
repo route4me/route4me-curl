@@ -1,0 +1,44 @@
+{
+	"statistics": {
+		"gps-counter": {
+			"global": 5339,
+			"_args": {
+				"from_ts": 1532730315,
+				"member_id": "777777",
+				"@meta": "this is temporary node!",
+				"trim_ts": 1532732366
+			},
+			"period": 104,
+			"period_formatted": "104",
+			"global_formatted": "6K"
+		}
+	},
+	"assumptions": {
+		"cost_per_accident": 8400,
+		"drive_time_per_hour": 10,
+		"resource_base_pay": 19,
+		"accidents_per_million_miles": 6.24,
+		"service_time_per_hour": 10,
+		"miles_per_gallon": 8,
+		"stop_cost": 10,
+		"metric_tons_of_co2_per_mile": 0.009071847,
+		"member_id": 777777,
+		"gallon_fuel_cost": 3.45,
+		"operating_cost_mile": 0.77
+	},
+	"aggregate_analysis_summary": {
+		"optimization_scenarios": [],
+		"detailed_routes_analysis": [],
+		"export_all_link": null
+	},
+	"savings_summary": {
+		
+	},
+	"metadata": {
+		"participant_label": "IHC OA account",
+		"from_ts": 1532730315,
+		"r4m_api_key": "3d77765dbe37d0955555555555555555",
+		"user_id": "FC08B5EC0EB34883A222222222222222",
+		"trim_ts": 1532732366
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"code": "argument.required",
+	"error": "Report does not exists",
+	"details": {
+		"report_id": "0000a03de5e31b49f4294ee18eeb14"
+	},
+	"url": "https://oa.route4me.com/api/v1/analysis/report/0000a03de5e31b49f4294ee18eeb14?show_savings=1&show_business_summary=1&api_key=c8f031c712715c90b2e0cd1ce19cabf24792eb2d299999999999999999999999&show_location_analysis_summary=1&show_location_analysis=1&show_detailed_routes_analysis=1",
+	"method": "GET",
+	"message": "Report does not exists. You have requested this URI [/api/v1/analysis/report/0000a03de5e31b49f4294ee18eeb14] but did you mean /api/v1/analysis/report/<report_id> ?"
+}

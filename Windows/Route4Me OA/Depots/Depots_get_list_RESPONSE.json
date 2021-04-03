@@ -1,0 +1,2670 @@
+{
+	"data": [{
+		"depot": [42.2565,
+		-82.9665],
+		"polygon_hash": "_c|`GvnkyNgE??gEfE??fE",
+		"polygon": [[42.256,
+		-82.967],
+		[42.257,
+		-82.967],
+		[42.257,
+		-82.966],
+		[42.256,
+		-82.966],
+		[42.256,
+		-82.967]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "6D1621F814504329B37D19513C2941A1"
+	},
+	{
+		"depot": [42.1815,
+		-83.0695],
+		"polygon_hash": "gnm`Gnr_zNgE??gEfE??fE",
+		"polygon": [[42.181,
+		-83.07],
+		[42.182,
+		-83.07],
+		[42.182,
+		-83.069],
+		[42.181,
+		-83.069],
+		[42.181,
+		-83.07]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "AEE92AF88C5B44ADA4EDD408CDF97FB5"
+	},
+	{
+		"depot": [42.3945,
+		-82.2235],
+		"polygon_hash": "oawaG~jztNgE??gEfE??fE",
+		"polygon": [[42.394,
+		-82.224],
+		[42.395,
+		-82.224],
+		[42.395,
+		-82.223],
+		[42.394,
+		-82.223],
+		[42.394,
+		-82.224]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "10D33AD8C75A4EDE8C929D2C603F2EBC"
+	},
+	{
+		"depot": [42.2395,
+		-83.0565],
+		"polygon_hash": "wxx`Gfa}yNgE??gEfE??fE",
+		"polygon": [[42.239,
+		-83.057],
+		[42.24,
+		-83.057],
+		[42.24,
+		-83.056],
+		[42.239,
+		-83.056],
+		[42.239,
+		-83.057]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "0E76BE2F7EBD4CDF85657AA138EF0C8F"
+	},
+	{
+		"depot": [42.3195,
+		-83.0775],
+		"polygon_hash": "wlhaGndazNgE??gEfE??fE",
+		"polygon": [[42.319,
+		-83.078],
+		[42.32,
+		-83.078],
+		[42.32,
+		-83.077],
+		[42.319,
+		-83.077],
+		[42.319,
+		-83.078]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "5CE00B6C54834D068576E394A0776B3A"
+	},
+	{
+		"depot": [42.0485,
+		-82.6035],
+		"polygon_hash": "_os_G~qdwNgE??gEfE??fE",
+		"polygon": [[42.048,
+		-82.604],
+		[42.049,
+		-82.604],
+		[42.049,
+		-82.603],
+		[42.048,
+		-82.603],
+		[42.048,
+		-82.604]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "AA49D207DC194443854ECBEBD354C5FA"
+	},
+	{
+		"depot": [42.0305,
+		-82.7365],
+		"polygon_hash": "o~o_Gfq~wNgE??gEfE??fE",
+		"polygon": [[42.03,
+		-82.737],
+		[42.031,
+		-82.737],
+		[42.031,
+		-82.736],
+		[42.03,
+		-82.736],
+		[42.03,
+		-82.737]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "BEC3907E6E7442E8ACC3C890B38EA925"
+	},
+	{
+		"depot": [42.3055,
+		-83.0265],
+		"polygon_hash": "gueaGvewyNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-83.027],
+		[42.306,
+		-83.027],
+		[42.306,
+		-83.026],
+		[42.305,
+		-83.026],
+		[42.305,
+		-83.027]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "D6EE5AD4A2524555B48344855E2CFCB5"
+	},
+	{
+		"depot": [42.1715,
+		-82.8325],
+		"polygon_hash": "wok`GfiqxNgE??gEfE??fE",
+		"polygon": [[42.171,
+		-82.833],
+		[42.172,
+		-82.833],
+		[42.172,
+		-82.832],
+		[42.171,
+		-82.832],
+		[42.171,
+		-82.833]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "8BECE7FE191B4A07B527285F7487087E"
+	},
+	{
+		"depot": [42.2565,
+		-83.0915],
+		"polygon_hash": "_c|`G~{czNgE??gEfE??fE",
+		"polygon": [[42.256,
+		-83.092],
+		[42.257,
+		-83.092],
+		[42.257,
+		-83.091],
+		[42.256,
+		-83.091],
+		[42.256,
+		-83.092]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "3AB2E5346E894BF389F88249C8C066E2"
+	},
+	{
+		"depot": [42.3055,
+		-82.9895],
+		"polygon_hash": "gueaGn~oyNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.99],
+		[42.306,
+		-82.99],
+		[42.306,
+		-82.989],
+		[42.305,
+		-82.989],
+		[42.305,
+		-82.99]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "DA0C459859E342F0AAB142CB10D70819"
+	},
+	{
+		"depot": [42.3055,
+		-82.8695],
+		"polygon_hash": "gueaGnpxxNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.87],
+		[42.306,
+		-82.87],
+		[42.306,
+		-82.869],
+		[42.305,
+		-82.869],
+		[42.305,
+		-82.87]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "4E4B4D8871B84761B7298213292BBC4A"
+	},
+	{
+		"depot": [42.3195,
+		-83.0225],
+		"polygon_hash": "wlhaGvlvyNgE??gEfE??fE",
+		"polygon": [[42.319,
+		-83.023],
+		[42.32,
+		-83.023],
+		[42.32,
+		-83.022],
+		[42.319,
+		-83.022],
+		[42.319,
+		-83.023]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B79C5A9CF6C84AAC97C30C6DD531C487"
+	},
+	{
+		"depot": [42.2915,
+		-83.0565],
+		"polygon_hash": "w}baGfa}yNgE??gEfE??fE",
+		"polygon": [[42.291,
+		-83.057],
+		[42.292,
+		-83.057],
+		[42.292,
+		-83.056],
+		[42.291,
+		-83.056],
+		[42.291,
+		-83.057]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "3A7ACB037926442BBACDED3FD7CA02F9"
+	},
+	{
+		"depot": [42.3205,
+		-82.8755],
+		"polygon_hash": "_shaG~uyxNgE??gEfE??fE",
+		"polygon": [[42.32,
+		-82.876],
+		[42.321,
+		-82.876],
+		[42.321,
+		-82.875],
+		[42.32,
+		-82.875],
+		[42.32,
+		-82.876]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "61C2D09A9E4742E591E862262C22C456"
+	},
+	{
+		"depot": [42.2675,
+		-82.9445],
+		"polygon_hash": "wg~`GfegyNgE??gEfE??fE",
+		"polygon": [[42.267,
+		-82.945],
+		[42.268,
+		-82.945],
+		[42.268,
+		-82.944],
+		[42.267,
+		-82.944],
+		[42.267,
+		-82.945]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "5E26AA07BB9B417BB31783BB4BFCA9B7"
+	},
+	{
+		"depot": [42.3175,
+		-82.3055],
+		"polygon_hash": "g`haGnkjuNgE??gEfE??fE",
+		"polygon": [[42.317,
+		-82.306],
+		[42.318,
+		-82.306],
+		[42.318,
+		-82.305],
+		[42.317,
+		-82.305],
+		[42.317,
+		-82.306]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "0083FDE00EF04294910FA63C12684C07"
+	},
+	{
+		"depot": [42.3055,
+		-82.8935],
+		"polygon_hash": "gueaGnf}xNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.894],
+		[42.306,
+		-82.894],
+		[42.306,
+		-82.893],
+		[42.305,
+		-82.893],
+		[42.305,
+		-82.894]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "BC7F34276C93440BBEAA44BC9B4D1225"
+	},
+	{
+		"depot": [42.0905,
+		-83.1055],
+		"polygon_hash": "ou{_GnsfzNgE??gEfE??fE",
+		"polygon": [[42.09,
+		-83.106],
+		[42.091,
+		-83.106],
+		[42.091,
+		-83.105],
+		[42.09,
+		-83.105],
+		[42.09,
+		-83.106]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "40FBF95558D04DA59BE7BE7B724F80C7"
+	},
+	{
+		"depot": [42.2825,
+		-82.9765],
+		"polygon_hash": "oeaaGfmmyNgE??gEfE??fE",
+		"polygon": [[42.282,
+		-82.977],
+		[42.283,
+		-82.977],
+		[42.283,
+		-82.976],
+		[42.282,
+		-82.976],
+		[42.282,
+		-82.977]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "19042DE8903F449C9E034EABD8350282"
+	},
+	{
+		"depot": [42.1595,
+		-82.8265],
+		"polygon_hash": "wdi`GvcpxNgE??gEfE??fE",
+		"polygon": [[42.159,
+		-82.827],
+		[42.16,
+		-82.827],
+		[42.16,
+		-82.826],
+		[42.159,
+		-82.826],
+		[42.159,
+		-82.827]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B6FD2B7D84AE450794BE22B68A89629E"
+	},
+	{
+		"depot": [42.2075,
+		-82.8755],
+		"polygon_hash": "wpr`G~uyxNgE??gEfE??fE",
+		"polygon": [[42.207,
+		-82.876],
+		[42.208,
+		-82.876],
+		[42.208,
+		-82.875],
+		[42.207,
+		-82.875],
+		[42.207,
+		-82.876]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "887D238AB5CB489D855C9B34CB245762"
+	},
+	{
+		"depot": [42.2365,
+		-82.9595],
+		"polygon_hash": "_fx`G~bjyNgE??gEfE??fE",
+		"polygon": [[42.236,
+		-82.96],
+		[42.237,
+		-82.96],
+		[42.237,
+		-82.959],
+		[42.236,
+		-82.959],
+		[42.236,
+		-82.96]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "BD61F3995AD74040BB77CFD87D24FE5D"
+	},
+	{
+		"depot": [42.3055,
+		-83.1105],
+		"polygon_hash": "gueaGvrgzNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-83.111],
+		[42.306,
+		-83.111],
+		[42.306,
+		-83.11],
+		[42.305,
+		-83.11],
+		[42.305,
+		-83.111]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "DC4819504ABA4C2AA7B2BE32546EDD17"
+	},
+	{
+		"depot": [42.3115,
+		-83.0555],
+		"polygon_hash": "wzfaG~z|yNgE??gEfE??fE",
+		"polygon": [[42.311,
+		-83.056],
+		[42.312,
+		-83.056],
+		[42.312,
+		-83.055],
+		[42.311,
+		-83.055],
+		[42.311,
+		-83.056]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "F7F1050240BF4E5D8A8CD58FB0C189E1"
+	},
+	{
+		"depot": [42.0995,
+		-83.0555],
+		"polygon_hash": "wm}_G~z|yNgE??gEfE??fE",
+		"polygon": [[42.099,
+		-83.056],
+		[42.1,
+		-83.056],
+		[42.1,
+		-83.055],
+		[42.099,
+		-83.055],
+		[42.099,
+		-83.056]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "3130501F88C84BE4996D48824D710A37"
+	},
+	{
+		"depot": [42.2565,
+		-82.8725],
+		"polygon_hash": "_c|`GfcyxNgE??gEfE??fE",
+		"polygon": [[42.256,
+		-82.873],
+		[42.257,
+		-82.873],
+		[42.257,
+		-82.872],
+		[42.256,
+		-82.872],
+		[42.256,
+		-82.873]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "335019A1BB6C45D6A3A96944A1582FEE"
+	},
+	{
+		"depot": [42.3355,
+		-82.9445],
+		"polygon_hash": "wpkaGfegyNgE??gEfE??fE",
+		"polygon": [[42.335,
+		-82.945],
+		[42.336,
+		-82.945],
+		[42.336,
+		-82.944],
+		[42.335,
+		-82.944],
+		[42.335,
+		-82.945]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "6080E68ED6D14942A58326F38F88D5C8"
+	},
+	{
+		"depot": [42.2525,
+		-83.0695],
+		"polygon_hash": "_j{`Gnr_zNgE??gEfE??fE",
+		"polygon": [[42.252,
+		-83.07],
+		[42.253,
+		-83.07],
+		[42.253,
+		-83.069],
+		[42.252,
+		-83.069],
+		[42.252,
+		-83.07]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "5880CD97308E480EA0E390A94DE9CF35"
+	},
+	{
+		"depot": [42.2655,
+		-83.2645],
+		"polygon_hash": "g{}`Gfue{NgE??gEfE??fE",
+		"polygon": [[42.265,
+		-83.265],
+		[42.266,
+		-83.265],
+		[42.266,
+		-83.264],
+		[42.265,
+		-83.264],
+		[42.265,
+		-83.265]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "E8A50C82AE87443BAEF9ABFDF7660297"
+	},
+	{
+		"depot": [42.1115,
+		-83.0975],
+		"polygon_hash": "wx_`GnaezNgE??gEfE??fE",
+		"polygon": [[42.111,
+		-83.098],
+		[42.112,
+		-83.098],
+		[42.112,
+		-83.097],
+		[42.111,
+		-83.097],
+		[42.111,
+		-83.098]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C3F1462660454C3FB59CC993300DE678"
+	},
+	{
+		"depot": [42.0855,
+		-82.8345],
+		"polygon_hash": "gvz_GvuqxNgE??gEfE??fE",
+		"polygon": [[42.085,
+		-82.835],
+		[42.086,
+		-82.835],
+		[42.086,
+		-82.834],
+		[42.085,
+		-82.834],
+		[42.085,
+		-82.835]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "A0D80D74C3FF41DE9BFE45036877B05E"
+	},
+	{
+		"depot": [42.3055,
+		-82.7925],
+		"polygon_hash": "gueaGfoixNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.793],
+		[42.306,
+		-82.793],
+		[42.306,
+		-82.792],
+		[42.305,
+		-82.792],
+		[42.305,
+		-82.793]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "6B2AE3F3CC15464E8BCB2528EF2E1993"
+	},
+	{
+		"depot": [42.3055,
+		-82.8055],
+		"polygon_hash": "gueaGn`lxNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.806],
+		[42.306,
+		-82.806],
+		[42.306,
+		-82.805],
+		[42.305,
+		-82.805],
+		[42.305,
+		-82.806]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C333B4625C0142529A9825E11BBDE846"
+	},
+	{
+		"depot": [42.1425,
+		-83.1105],
+		"polygon_hash": "oze`GvrgzNgE??gEfE??fE",
+		"polygon": [[42.142,
+		-83.111],
+		[42.143,
+		-83.111],
+		[42.143,
+		-83.11],
+		[42.142,
+		-83.11],
+		[42.142,
+		-83.111]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "E235E4D71F6C4164B189674929C43C9E"
+	},
+	{
+		"depot": [42.2945,
+		-82.7365],
+		"polygon_hash": "opcaGfq~wNgE??gEfE??fE",
+		"polygon": [[42.294,
+		-82.737],
+		[42.295,
+		-82.737],
+		[42.295,
+		-82.736],
+		[42.294,
+		-82.736],
+		[42.294,
+		-82.737]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "FE4E539359FE428399C10B48948CE18F"
+	},
+	{
+		"depot": [42.3195,
+		-83.0015],
+		"polygon_hash": "wlhaGniryNgE??gEfE??fE",
+		"polygon": [[42.319,
+		-83.002],
+		[42.32,
+		-83.002],
+		[42.32,
+		-83.001],
+		[42.319,
+		-83.001],
+		[42.319,
+		-83.002]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "516D5A713846401DA81723CBA90D5DAC"
+	},
+	{
+		"depot": [42.3045,
+		-83.0435],
+		"polygon_hash": "_oeaG~ozyNgE??gEfE??fE",
+		"polygon": [[42.304,
+		-83.044],
+		[42.305,
+		-83.044],
+		[42.305,
+		-83.043],
+		[42.304,
+		-83.043],
+		[42.304,
+		-83.044]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "97515D6AE0894D2A9722FF2E74125900"
+	},
+	{
+		"depot": [42.3045,
+		-82.5535],
+		"polygon_hash": "_oeaGnyzvNgE??gEfE??fE",
+		"polygon": [[42.304,
+		-82.554],
+		[42.305,
+		-82.554],
+		[42.305,
+		-82.553],
+		[42.304,
+		-82.553],
+		[42.304,
+		-82.554]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "CB13EA6AD116439CBC1338681DE13446"
+	},
+	{
+		"depot": [42.2535,
+		-83.0175],
+		"polygon_hash": "gp{`GnmuyNgE??gEfE??fE",
+		"polygon": [[42.253,
+		-83.018],
+		[42.254,
+		-83.018],
+		[42.254,
+		-83.017],
+		[42.253,
+		-83.017],
+		[42.253,
+		-83.018]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "8EAA8D7B0DC841FF82E2AD07E5270ACB"
+	},
+	{
+		"depot": [42.0635,
+		-82.7375],
+		"polygon_hash": "wlv_Gnw~wNgE??gEfE??fE",
+		"polygon": [[42.063,
+		-82.738],
+		[42.064,
+		-82.738],
+		[42.064,
+		-82.737],
+		[42.063,
+		-82.737],
+		[42.063,
+		-82.738]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "1DE92957A5444F98A3972D2FE8370850"
+	},
+	{
+		"depot": [42.3195,
+		-82.8555],
+		"polygon_hash": "wlhaG~xuxNgE??gEfE??fE",
+		"polygon": [[42.319,
+		-82.856],
+		[42.32,
+		-82.856],
+		[42.32,
+		-82.855],
+		[42.319,
+		-82.855],
+		[42.319,
+		-82.856]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "0013551D84E143D5BB0510C512207705"
+	},
+	{
+		"depot": [42.2715,
+		-82.1785],
+		"polygon_hash": "w`_aGvqqtNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-82.179],
+		[42.272,
+		-82.179],
+		[42.272,
+		-82.178],
+		[42.271,
+		-82.178],
+		[42.271,
+		-82.179]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "1C0B8256958D49F0A25D604C9DA3D10D"
+	},
+	{
+		"depot": [42.3045,
+		-82.8465],
+		"polygon_hash": "_oeaGv`txNgE??gEfE??fE",
+		"polygon": [[42.304,
+		-82.847],
+		[42.305,
+		-82.847],
+		[42.305,
+		-82.846],
+		[42.304,
+		-82.846],
+		[42.304,
+		-82.847]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "1DBCBAE7DC0740D8911F9218F8688349"
+	},
+	{
+		"depot": [42.1085,
+		-82.7215],
+		"polygon_hash": "_f_`Gns{wNgE??gEfE??fE",
+		"polygon": [[42.108,
+		-82.722],
+		[42.109,
+		-82.722],
+		[42.109,
+		-82.721],
+		[42.108,
+		-82.721],
+		[42.108,
+		-82.722]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "7AA109FE1A4A4AE7BFF1FFF06CB8409B"
+	},
+	{
+		"depot": [42.2415,
+		-82.9485],
+		"polygon_hash": "gey`Gf~gyNgE??gEfE??fE",
+		"polygon": [[42.241,
+		-82.949],
+		[42.242,
+		-82.949],
+		[42.242,
+		-82.948],
+		[42.241,
+		-82.948],
+		[42.241,
+		-82.949]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "AF2CA6DA97AB4209AC078C921642875D"
+	},
+	{
+		"depot": [42.3015,
+		-82.9445],
+		"polygon_hash": "g|daGfegyNgE??gEfE??fE",
+		"polygon": [[42.301,
+		-82.945],
+		[42.302,
+		-82.945],
+		[42.302,
+		-82.944],
+		[42.301,
+		-82.944],
+		[42.301,
+		-82.945]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "082A064588E44B229640EB4671135717"
+	},
+	{
+		"depot": [42.4105,
+		-82.1945],
+		"polygon_hash": "oezaGvuttNgE??gEfE??fE",
+		"polygon": [[42.41,
+		-82.195],
+		[42.411,
+		-82.195],
+		[42.411,
+		-82.194],
+		[42.41,
+		-82.194],
+		[42.41,
+		-82.195]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "60663160816A4E0BB1F3AE43C1E21366"
+	},
+	{
+		"depot": [42.2825,
+		-83.0555],
+		"polygon_hash": "oeaaG~z|yNgE??gEfE??fE",
+		"polygon": [[42.282,
+		-83.056],
+		[42.283,
+		-83.056],
+		[42.283,
+		-83.055],
+		[42.282,
+		-83.055],
+		[42.282,
+		-83.056]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "D92C1590AF524414B183EF2A5E002DA9"
+	},
+	{
+		"depot": [42.3055,
+		-82.9335],
+		"polygon_hash": "gueaGn`eyNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.934],
+		[42.306,
+		-82.934],
+		[42.306,
+		-82.933],
+		[42.305,
+		-82.933],
+		[42.305,
+		-82.934]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "88149B51A1FC42A48078B0B5A954A12D"
+	},
+	{
+		"depot": [42.0485,
+		-82.7355],
+		"polygon_hash": "_os_G~j~wNgE??gEfE??fE",
+		"polygon": [[42.048,
+		-82.736],
+		[42.049,
+		-82.736],
+		[42.049,
+		-82.735],
+		[42.048,
+		-82.735],
+		[42.048,
+		-82.736]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "A988640C2F224F5F9CD9386B71654FC3"
+	},
+	{
+		"depot": [42.1485,
+		-82.9595],
+		"polygon_hash": "_`g`G~bjyNgE??gEfE??fE",
+		"polygon": [[42.148,
+		-82.96],
+		[42.149,
+		-82.96],
+		[42.149,
+		-82.959],
+		[42.148,
+		-82.959],
+		[42.148,
+		-82.96]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B944B284A0E64C979A50E7A7E4982997"
+	},
+	{
+		"depot": [42.3265,
+		-82.9575],
+		"polygon_hash": "oxiaGnviyNgE??gEfE??fE",
+		"polygon": [[42.326,
+		-82.958],
+		[42.327,
+		-82.958],
+		[42.327,
+		-82.957],
+		[42.326,
+		-82.957],
+		[42.326,
+		-82.958]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B64C4C90DC5A4A148DFE428D73FB3FF4"
+	},
+	{
+		"depot": [42.3055,
+		-83.0695],
+		"polygon_hash": "gueaGnr_zNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-83.07],
+		[42.306,
+		-83.07],
+		[42.306,
+		-83.069],
+		[42.305,
+		-83.069],
+		[42.305,
+		-83.07]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "40D1E51915864ABE86F7237CA93B7CFD"
+	},
+	{
+		"depot": [42.2715,
+		-82.9975],
+		"polygon_hash": "w`_aGnpqyNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-82.998],
+		[42.272,
+		-82.998],
+		[42.272,
+		-82.997],
+		[42.271,
+		-82.997],
+		[42.271,
+		-82.998]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "8C5762DC2B1F4F06AC6AEFAF224EB454"
+	},
+	{
+		"depot": [42.2255,
+		-82.9295],
+		"polygon_hash": "gav`GngdyNgE??gEfE??fE",
+		"polygon": [[42.225,
+		-82.93],
+		[42.226,
+		-82.93],
+		[42.226,
+		-82.929],
+		[42.225,
+		-82.929],
+		[42.225,
+		-82.93]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B45097D2B8A7425DB278334E1E6F02AC"
+	},
+	{
+		"depot": [42.0475,
+		-82.6275],
+		"polygon_hash": "whs_G~giwNgE??gEfE??fE",
+		"polygon": [[42.047,
+		-82.628],
+		[42.048,
+		-82.628],
+		[42.048,
+		-82.627],
+		[42.047,
+		-82.627],
+		[42.047,
+		-82.628]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "95AEF395DDA44BC1870FBBA48A900415"
+	},
+	{
+		"depot": [42.0395,
+		-82.7215],
+		"polygon_hash": "wvq_Gns{wNgE??gEfE??fE",
+		"polygon": [[42.039,
+		-82.722],
+		[42.04,
+		-82.722],
+		[42.04,
+		-82.721],
+		[42.039,
+		-82.721],
+		[42.039,
+		-82.722]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "4FA5F9B61E474CF7AD196B0E1F52C10B"
+	},
+	{
+		"depot": [42.1125,
+		-83.1115],
+		"polygon_hash": "__``G~xgzNgE??gEfE??fE",
+		"polygon": [[42.112,
+		-83.112],
+		[42.113,
+		-83.112],
+		[42.113,
+		-83.111],
+		[42.112,
+		-83.111],
+		[42.112,
+		-83.112]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "FCABF723A4AA4D91990F8EAFD953D1DD"
+	},
+	{
+		"depot": [42.1065,
+		-82.4315],
+		"polygon_hash": "oy~_G~~bvNgE??gEfE??fE",
+		"polygon": [[42.106,
+		-82.432],
+		[42.107,
+		-82.432],
+		[42.107,
+		-82.431],
+		[42.106,
+		-82.431],
+		[42.106,
+		-82.432]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "801420841BDA4D4E8CAA1998F147B7A1"
+	},
+	{
+		"depot": [42.3145,
+		-82.9445],
+		"polygon_hash": "omgaGfegyNgE??gEfE??fE",
+		"polygon": [[42.314,
+		-82.945],
+		[42.315,
+		-82.945],
+		[42.315,
+		-82.944],
+		[42.314,
+		-82.944],
+		[42.314,
+		-82.945]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "77B1D8A86545403F94BFD921FE28326C"
+	},
+	{
+		"depot": [42.0965,
+		-82.5875],
+		"polygon_hash": "_{|_G~mawNgE??gEfE??fE",
+		"polygon": [[42.096,
+		-82.588],
+		[42.097,
+		-82.588],
+		[42.097,
+		-82.587],
+		[42.096,
+		-82.587],
+		[42.096,
+		-82.588]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "514E464E5F1D4C4AB2EFE616D1475934"
+	},
+	{
+		"depot": [42.2715,
+		-83.0455],
+		"polygon_hash": "w`_aGn|zyNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-83.046],
+		[42.272,
+		-83.046],
+		[42.272,
+		-83.045],
+		[42.271,
+		-83.045],
+		[42.271,
+		-83.046]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "A10834BB5F064BEFA744C1BBE01A97ED"
+	},
+	{
+		"depot": [42.2575,
+		-83.0035],
+		"polygon_hash": "gi|`G~uryNgE??gEfE??fE",
+		"polygon": [[42.257,
+		-83.004],
+		[42.258,
+		-83.004],
+		[42.258,
+		-83.003],
+		[42.257,
+		-83.003],
+		[42.257,
+		-83.004]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "1125938DE8C0467CB3E80ACAA2CE6107"
+	},
+	{
+		"depot": [42.1105,
+		-82.7465],
+		"polygon_hash": "or_`Gvo`xNgE??gEfE??fE",
+		"polygon": [[42.11,
+		-82.747],
+		[42.111,
+		-82.747],
+		[42.111,
+		-82.746],
+		[42.11,
+		-82.746],
+		[42.11,
+		-82.747]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "F06720C219C9489DA96425F2595009C9"
+	},
+	{
+		"depot": [42.1755,
+		-82.8465],
+		"polygon_hash": "whl`Gv`txNgE??gEfE??fE",
+		"polygon": [[42.175,
+		-82.847],
+		[42.176,
+		-82.847],
+		[42.176,
+		-82.846],
+		[42.175,
+		-82.846],
+		[42.175,
+		-82.847]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "A7685680F6474FD590BBD5D59B33F105"
+	},
+	{
+		"depot": [42.2745,
+		-83.0695],
+		"polygon_hash": "os_aGnr_zNgE??gEfE??fE",
+		"polygon": [[42.274,
+		-83.07],
+		[42.275,
+		-83.07],
+		[42.275,
+		-83.069],
+		[42.274,
+		-83.069],
+		[42.274,
+		-83.07]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "819AB0DBFABE4DB28FDF527BC97FBEF6"
+	},
+	{
+		"depot": [42.0475,
+		-83.1075],
+		"polygon_hash": "whs_G~_gzNgE??gEfE??fE",
+		"polygon": [[42.047,
+		-83.108],
+		[42.048,
+		-83.108],
+		[42.048,
+		-83.107],
+		[42.047,
+		-83.107],
+		[42.047,
+		-83.108]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "97E55B3010954E2E9A5A6F4F326F82FA"
+	},
+	{
+		"depot": [42.2355,
+		-83.0705],
+		"polygon_hash": "w_x`Gvx_zNgE??gEfE??fE",
+		"polygon": [[42.235,
+		-83.071],
+		[42.236,
+		-83.071],
+		[42.236,
+		-83.07],
+		[42.235,
+		-83.07],
+		[42.235,
+		-83.071]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "947A00DD4ACB479AA98E129CB81CC638"
+	},
+	{
+		"depot": [42.3055,
+		-82.8235],
+		"polygon_hash": "gueaG~poxNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.824],
+		[42.306,
+		-82.824],
+		[42.306,
+		-82.823],
+		[42.305,
+		-82.823],
+		[42.305,
+		-82.824]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "218E3673AFB34F0297083BD385F3F999"
+	},
+	{
+		"depot": [42.0375,
+		-82.7505],
+		"polygon_hash": "gjq_GvhaxNgE??gEfE??fE",
+		"polygon": [[42.037,
+		-82.751],
+		[42.038,
+		-82.751],
+		[42.038,
+		-82.75],
+		[42.037,
+		-82.75],
+		[42.037,
+		-82.751]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "24A1155884C441898753155C60E9B23E"
+	},
+	{
+		"depot": [42.2575,
+		-82.6695],
+		"polygon_hash": "gi|`GnnqwNgE??gEfE??fE",
+		"polygon": [[42.257,
+		-82.67],
+		[42.258,
+		-82.67],
+		[42.258,
+		-82.669],
+		[42.257,
+		-82.669],
+		[42.257,
+		-82.67]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "5DA80F5E6AB94125A8A32733DB023E98"
+	},
+	{
+		"depot": [42.1635,
+		-82.8465],
+		"polygon_hash": "w}i`Gv`txNgE??gEfE??fE",
+		"polygon": [[42.163,
+		-82.847],
+		[42.164,
+		-82.847],
+		[42.164,
+		-82.846],
+		[42.163,
+		-82.846],
+		[42.163,
+		-82.847]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "257ACD73BDE44BD28748B4811B554E2D"
+	},
+	{
+		"depot": [42.2565,
+		-83.1055],
+		"polygon_hash": "_c|`GnsfzNgE??gEfE??fE",
+		"polygon": [[42.256,
+		-83.106],
+		[42.257,
+		-83.106],
+		[42.257,
+		-83.105],
+		[42.256,
+		-83.105],
+		[42.256,
+		-83.106]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "5A5D55E40F4B4805A91B21DCED36EF3F"
+	},
+	{
+		"depot": [42.2865,
+		-82.9585],
+		"polygon_hash": "o~aaGv|iyNgE??gEfE??fE",
+		"polygon": [[42.286,
+		-82.959],
+		[42.287,
+		-82.959],
+		[42.287,
+		-82.958],
+		[42.286,
+		-82.958],
+		[42.286,
+		-82.959]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "EB36EA3FB2CB46B3883B086F15F1C58E"
+	},
+	{
+		"depot": [42.2715,
+		-82.6175],
+		"polygon_hash": "w`_aGnigwNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-82.618],
+		[42.272,
+		-82.618],
+		[42.272,
+		-82.617],
+		[42.271,
+		-82.617],
+		[42.271,
+		-82.618]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "D948CD05C1BD44799547FC82EA595FF8"
+	},
+	{
+		"depot": [42.2925,
+		-82.9305],
+		"polygon_hash": "_dcaGvmdyNgE??gEfE??fE",
+		"polygon": [[42.292,
+		-82.931],
+		[42.293,
+		-82.931],
+		[42.293,
+		-82.93],
+		[42.292,
+		-82.93],
+		[42.292,
+		-82.931]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "DC9C6E463B704738A83DD85A76924323"
+	},
+	{
+		"depot": [42.1425,
+		-83.0695],
+		"polygon_hash": "oze`Gnr_zNgE??gEfE??fE",
+		"polygon": [[42.142,
+		-83.07],
+		[42.143,
+		-83.07],
+		[42.143,
+		-83.069],
+		[42.142,
+		-83.069],
+		[42.142,
+		-83.07]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "4E1AED70129C4E3F9D37B9D944C63434"
+	},
+	{
+		"depot": [42.1105,
+		-83.0215],
+		"polygon_hash": "or_`GnfvyNgE??gEfE??fE",
+		"polygon": [[42.11,
+		-83.022],
+		[42.111,
+		-83.022],
+		[42.111,
+		-83.021],
+		[42.11,
+		-83.021],
+		[42.11,
+		-83.022]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "9EA22655B70945CC9B6ED80F07F2F8A5"
+	},
+	{
+		"depot": [42.4165,
+		-82.1775],
+		"polygon_hash": "_k{aGnkqtNgE??gEfE??fE",
+		"polygon": [[42.416,
+		-82.178],
+		[42.417,
+		-82.178],
+		[42.417,
+		-82.177],
+		[42.416,
+		-82.177],
+		[42.416,
+		-82.178]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "59AF02C42A25443EB0C6BC650EF50DAD"
+	},
+	{
+		"depot": [42.3945,
+		-82.1935],
+		"polygon_hash": "oawaGnottNgE??gEfE??fE",
+		"polygon": [[42.394,
+		-82.194],
+		[42.395,
+		-82.194],
+		[42.395,
+		-82.193],
+		[42.394,
+		-82.193],
+		[42.394,
+		-82.194]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "0D5F7212D8FE46D7964774010D840649"
+	},
+	{
+		"depot": [42.0895,
+		-82.9585],
+		"polygon_hash": "go{_Gv|iyNgE??gEfE??fE",
+		"polygon": [[42.089,
+		-82.959],
+		[42.09,
+		-82.959],
+		[42.09,
+		-82.958],
+		[42.089,
+		-82.958],
+		[42.089,
+		-82.959]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "6FA682AA747C4AE19480D696231242C5"
+	},
+	{
+		"depot": [42.3085,
+		-82.5415],
+		"polygon_hash": "_hfaGnnxvNgE??gEfE??fE",
+		"polygon": [[42.308,
+		-82.542],
+		[42.309,
+		-82.542],
+		[42.309,
+		-82.541],
+		[42.308,
+		-82.541],
+		[42.308,
+		-82.542]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "01752E91AFFB4F0DACCD66D0A7B1BC2F"
+	},
+	{
+		"depot": [42.3465,
+		-82.0005],
+		"polygon_hash": "oumaGfynsNgE??gEfE??fE",
+		"polygon": [[42.346,
+		-82.001],
+		[42.347,
+		-82.001],
+		[42.347,
+		-82.0],
+		[42.346,
+		-82.0],
+		[42.346,
+		-82.001]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "40D298D315DC495BB7708199139BC3B2"
+	},
+	{
+		"depot": [42.0855,
+		-82.5415],
+		"polygon_hash": "gvz_GnnxvNgE??gEfE??fE",
+		"polygon": [[42.085,
+		-82.542],
+		[42.086,
+		-82.542],
+		[42.086,
+		-82.541],
+		[42.085,
+		-82.541],
+		[42.085,
+		-82.542]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "FC037838306B42699EFD26C6D003802F"
+	},
+	{
+		"depot": [42.3395,
+		-82.9305],
+		"polygon_hash": "wilaGvmdyNgE??gEfE??fE",
+		"polygon": [[42.339,
+		-82.931],
+		[42.34,
+		-82.931],
+		[42.34,
+		-82.93],
+		[42.339,
+		-82.93],
+		[42.339,
+		-82.931]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "7BD9CFCA184D4CCBB5D07081792CCA8F"
+	},
+	{
+		"depot": [42.3155,
+		-82.9295],
+		"polygon_hash": "wsgaGngdyNgE??gEfE??fE",
+		"polygon": [[42.315,
+		-82.93],
+		[42.316,
+		-82.93],
+		[42.316,
+		-82.929],
+		[42.315,
+		-82.929],
+		[42.315,
+		-82.93]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C171CFC66092417EBA1A42AB9EADCEEB"
+	},
+	{
+		"depot": [42.2715,
+		-82.0385],
+		"polygon_hash": "w`_aGvfvsNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-82.039],
+		[42.272,
+		-82.039],
+		[42.272,
+		-82.038],
+		[42.271,
+		-82.038],
+		[42.271,
+		-82.039]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "3A325599E258474887829AD9473733C9"
+	},
+	{
+		"depot": [42.3865,
+		-82.2085],
+		"polygon_hash": "oouaGfmwtNgE??gEfE??fE",
+		"polygon": [[42.386,
+		-82.209],
+		[42.387,
+		-82.209],
+		[42.387,
+		-82.208],
+		[42.386,
+		-82.208],
+		[42.386,
+		-82.209]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "52C9DF79A0A246EBBD9B97ABA8A4BB07"
+	},
+	{
+		"depot": [42.0965,
+		-83.4335],
+		"polygon_hash": "_{|_Gnuf|NgE??gEfE??fE",
+		"polygon": [[42.096,
+		-83.434],
+		[42.097,
+		-83.434],
+		[42.097,
+		-83.433],
+		[42.096,
+		-83.433],
+		[42.096,
+		-83.434]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "8D79F15311BE4502A79737D26BFF64A7"
+	},
+	{
+		"depot": [42.3175,
+		-83.0415],
+		"polygon_hash": "g`haGnczyNgE??gEfE??fE",
+		"polygon": [[42.317,
+		-83.042],
+		[42.318,
+		-83.042],
+		[42.318,
+		-83.041],
+		[42.317,
+		-83.041],
+		[42.317,
+		-83.042]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "E9AAF3A9349E403EBCE976AA0A39E790"
+	},
+	{
+		"depot": [42.2705,
+		-82.9745],
+		"polygon_hash": "oz~`Gv`myNgE??gEfE??fE",
+		"polygon": [[42.27,
+		-82.975],
+		[42.271,
+		-82.975],
+		[42.271,
+		-82.974],
+		[42.27,
+		-82.974],
+		[42.27,
+		-82.975]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "A0D4052A795344369C25043A2B92B0ED"
+	},
+	{
+		"depot": [42.2925,
+		-82.6255],
+		"polygon_hash": "_dcaGn{hwNgE??gEfE??fE",
+		"polygon": [[42.292,
+		-82.626],
+		[42.293,
+		-82.626],
+		[42.293,
+		-82.625],
+		[42.292,
+		-82.625],
+		[42.292,
+		-82.626]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "171FF6CBAB68486BB8CD0DFA653ECEBD"
+	},
+	{
+		"depot": [42.2935,
+		-82.7215],
+		"polygon_hash": "gjcaGns{wNgE??gEfE??fE",
+		"polygon": [[42.293,
+		-82.722],
+		[42.294,
+		-82.722],
+		[42.294,
+		-82.721],
+		[42.293,
+		-82.721],
+		[42.293,
+		-82.722]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "342224C067A94AAD98A41D5C50F45C7B"
+	},
+	{
+		"depot": [42.2665,
+		-82.4155],
+		"polygon_hash": "oa~`G~z_vNgE??gEfE??fE",
+		"polygon": [[42.266,
+		-82.416],
+		[42.267,
+		-82.416],
+		[42.267,
+		-82.415],
+		[42.266,
+		-82.415],
+		[42.266,
+		-82.416]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "87461AB80358475DB03A4CA1B35B4967"
+	},
+	{
+		"depot": [42.3055,
+		-82.3355],
+		"polygon_hash": "gueaG~fpuNgE??gEfE??fE",
+		"polygon": [[42.305,
+		-82.336],
+		[42.306,
+		-82.336],
+		[42.306,
+		-82.335],
+		[42.305,
+		-82.335],
+		[42.305,
+		-82.336]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "ACFAD480D86B4680A14406BAC847C7B2"
+	},
+	{
+		"depot": [42.0485,
+		-82.5895],
+		"polygon_hash": "_os_GnzawNgE??gEfE??fE",
+		"polygon": [[42.048,
+		-82.59],
+		[42.049,
+		-82.59],
+		[42.049,
+		-82.589],
+		[42.048,
+		-82.589],
+		[42.048,
+		-82.59]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "E4450B247D6B43E29338B59DA23FDC56"
+	},
+	{
+		"depot": [42.2455,
+		-83.0415],
+		"polygon_hash": "g~y`GnczyNgE??gEfE??fE",
+		"polygon": [[42.245,
+		-83.042],
+		[42.246,
+		-83.042],
+		[42.246,
+		-83.041],
+		[42.245,
+		-83.041],
+		[42.245,
+		-83.042]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B541824104134CFFBE52C673254D93F7"
+	},
+	{
+		"depot": [42.2095,
+		-82.8985],
+		"polygon_hash": "g}r`Gve~xNgE??gEfE??fE",
+		"polygon": [[42.209,
+		-82.899],
+		[42.21,
+		-82.899],
+		[42.21,
+		-82.898],
+		[42.209,
+		-82.898],
+		[42.209,
+		-82.899]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C27FE9B23B3A4494A88E2CBEB6ACDDDD"
+	},
+	{
+		"depot": [42.2075,
+		-82.7185],
+		"polygon_hash": "wpr`Gv`{wNgE??gEfE??fE",
+		"polygon": [[42.207,
+		-82.719],
+		[42.208,
+		-82.719],
+		[42.208,
+		-82.718],
+		[42.207,
+		-82.718],
+		[42.207,
+		-82.719]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "D978B84DDCF340179E107AF95355387B"
+	},
+	{
+		"depot": [42.0885,
+		-82.5135],
+		"polygon_hash": "_i{_Gn_svNgE??gEfE??fE",
+		"polygon": [[42.088,
+		-82.514],
+		[42.089,
+		-82.514],
+		[42.089,
+		-82.513],
+		[42.088,
+		-82.513],
+		[42.088,
+		-82.514]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "FF33760399DF4AAEA82A123ACB2C8C59"
+	},
+	{
+		"depot": [42.0865,
+		-82.8475],
+		"polygon_hash": "o|z_G~ftxNgE??gEfE??fE",
+		"polygon": [[42.086,
+		-82.848],
+		[42.087,
+		-82.848],
+		[42.087,
+		-82.847],
+		[42.086,
+		-82.847],
+		[42.086,
+		-82.848]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C175C9FCD8B54CFD947B7AA36659F585"
+	},
+	{
+		"depot": [42.2565,
+		-82.7135],
+		"polygon_hash": "_c|`GnazwNgE??gEfE??fE",
+		"polygon": [[42.256,
+		-82.714],
+		[42.257,
+		-82.714],
+		[42.257,
+		-82.713],
+		[42.256,
+		-82.713],
+		[42.256,
+		-82.714]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "6E636F7761C54081867CDBC7BB36C4CA"
+	},
+	{
+		"depot": [42.1115,
+		-82.6545],
+		"polygon_hash": "wx_`GvpnwNgE??gEfE??fE",
+		"polygon": [[42.111,
+		-82.655],
+		[42.112,
+		-82.655],
+		[42.112,
+		-82.654],
+		[42.111,
+		-82.654],
+		[42.111,
+		-82.655]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B18C120878814AA29542CEF4F89C07C3"
+	},
+	{
+		"depot": [42.0485,
+		-82.6445],
+		"polygon_hash": "_os_GfrlwNgE??gEfE??fE",
+		"polygon": [[42.048,
+		-82.645],
+		[42.049,
+		-82.645],
+		[42.049,
+		-82.644],
+		[42.048,
+		-82.644],
+		[42.048,
+		-82.645]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "525A8C6D0BC649AB8C43B1349A3A1798"
+	},
+	{
+		"depot": [42.3205,
+		-82.8925],
+		"polygon_hash": "_shaGf`}xNgE??gEfE??fE",
+		"polygon": [[42.32,
+		-82.893],
+		[42.321,
+		-82.893],
+		[42.321,
+		-82.892],
+		[42.32,
+		-82.892],
+		[42.32,
+		-82.893]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "9AB4760F4C5D4E21ADA42DD2FF53C68B"
+	},
+	{
+		"depot": [42.3195,
+		-82.0575],
+		"polygon_hash": "wlhaGn}ysNgE??gEfE??fE",
+		"polygon": [[42.319,
+		-82.058],
+		[42.32,
+		-82.058],
+		[42.32,
+		-82.057],
+		[42.319,
+		-82.057],
+		[42.319,
+		-82.058]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "677A4A479A3D4D25A1610944FB2FA544"
+	},
+	{
+		"depot": [42.0775,
+		-82.7505],
+		"polygon_hash": "gdy_GvhaxNgE??gEfE??fE",
+		"polygon": [[42.077,
+		-82.751],
+		[42.078,
+		-82.751],
+		[42.078,
+		-82.75],
+		[42.077,
+		-82.75],
+		[42.077,
+		-82.751]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "F7BB6872330C46709679E52233C82043"
+	},
+	{
+		"depot": [42.0635,
+		-83.0505],
+		"polygon_hash": "wlv_Gv{{yNgE??gEfE??fE",
+		"polygon": [[42.063,
+		-83.051],
+		[42.064,
+		-83.051],
+		[42.064,
+		-83.05],
+		[42.063,
+		-83.05],
+		[42.063,
+		-83.051]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "945956DFAA4F4B258ADB18BC302DFB09"
+	},
+	{
+		"depot": [42.5285,
+		-82.0785],
+		"polygon_hash": "_gqbGv`~sNgE??gEfE??fE",
+		"polygon": [[42.528,
+		-82.079],
+		[42.529,
+		-82.079],
+		[42.529,
+		-82.078],
+		[42.528,
+		-82.078],
+		[42.528,
+		-82.079]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C9B3579D3EC14B99BCD7451EE07A6581"
+	},
+	{
+		"depot": [42.0635,
+		-83.0795],
+		"polygon_hash": "wlv_G~pazNgE??gEfE??fE",
+		"polygon": [[42.063,
+		-83.08],
+		[42.064,
+		-83.08],
+		[42.064,
+		-83.079],
+		[42.063,
+		-83.079],
+		[42.063,
+		-83.08]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "0BD6A5C12E974E75BA8305D3AC3C3069"
+	},
+	{
+		"depot": [42.0485,
+		-83.0865],
+		"polygon_hash": "_os_Gv|bzNgE??gEfE??fE",
+		"polygon": [[42.048,
+		-83.087],
+		[42.049,
+		-83.087],
+		[42.049,
+		-83.086],
+		[42.048,
+		-83.086],
+		[42.048,
+		-83.087]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "496CFF9245D24AEE9E221578A6C415A6"
+	},
+	{
+		"depot": [42.3045,
+		-83.0125],
+		"polygon_hash": "_oeaGfntyNgE??gEfE??fE",
+		"polygon": [[42.304,
+		-83.013],
+		[42.305,
+		-83.013],
+		[42.305,
+		-83.012],
+		[42.304,
+		-83.012],
+		[42.304,
+		-83.013]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "63E3DA03F6644C26BCAAF5D21C31CFB2"
+	},
+	{
+		"depot": [42.2715,
+		-83.0835],
+		"polygon_hash": "w`_aG~ibzNgE??gEfE??fE",
+		"polygon": [[42.271,
+		-83.084],
+		[42.272,
+		-83.084],
+		[42.272,
+		-83.083],
+		[42.271,
+		-83.083],
+		[42.271,
+		-83.084]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "B4686C5C89334A2CB5D16C886318A334"
+	},
+	{
+		"depot": [42.4175,
+		-82.2035],
+		"polygon_hash": "gq{aG~mvtNgE??gEfE??fE",
+		"polygon": [[42.417,
+		-82.204],
+		[42.418,
+		-82.204],
+		[42.418,
+		-82.203],
+		[42.417,
+		-82.203],
+		[42.417,
+		-82.204]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "C0E8D9BFE4B04E6D915B744839D2F516"
+	},
+	{
+		"depot": [42.1605,
+		-83.2155],
+		"polygon_hash": "_ki`G~b|zNgE??gEfE??fE",
+		"polygon": [[42.16,
+		-83.216],
+		[42.161,
+		-83.216],
+		[42.161,
+		-83.215],
+		[42.16,
+		-83.215],
+		[42.16,
+		-83.216]],
+		"metadata": {
+			"algo_name": "andrii_depots_detection",
+			"algo_params": {
+				"precision": 0.001
+			},
+			"algo_id": "7F3DC4020CCCCCCCCCCCCCCCCCCCCCCC"
+		},
+		"detected_depot_id": "D3FC71AB7FC84A288D11FEB458068308"
+	}]
+}
