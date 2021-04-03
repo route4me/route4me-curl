@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "cost_per_accident": 8400,
+    "accidents_per_million_miles": 6.24,
+    "resource_base_pay": 19,
+    "service_time_per_hour": 10,
+    "miles_per_gallon": 8,
+    "drive_time_per_hour": 11,
+    "metric_tons_of_co2_per_mile": 0.009071847,
+    "member_id": 853247,
+    "stop_cost": 10,
+    "operating_cost_mile": 0.77,
+    "gallon_fuel_cost": 3.45
+  },
+  "user_id": "7F9590B7777777777777777777777777",
+  "description": "Test Report Settings"
+}
