@@ -1,0 +1,122 @@
+{
+	"vendors": [{
+		"id": "52",
+		"name": "FleetComplete",
+		"slug": "fleetcomplete",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetcomplete589992529694e2.87947196.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "3",
+		"name": "TomTom Webfleet",
+		"slug": "tomtom-webfleet",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/tomtom589301bef0f1a6.35464894.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "33",
+		"name": "USFleetTracking",
+		"slug": "usfleettracking",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/us-fleet-tracking589834a9d204d6.62461661.png",
+		"is_integrated": "1"
+	},
+	{
+		"id": "107",
+		"name": "CloudFleet",
+		"slug": "cloudfleet",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/cloudfleet589b250e854482.12587954.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "92",
+		"name": "Fleetilla",
+		"slug": "fleetilla",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetilla589ad5a3d19294.56100508.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "25",
+		"name": "Fleetio",
+		"slug": "fleetio",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetio58981a74e0dfd2.33867187.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "64",
+		"name": "Fleetistics",
+		"slug": "fleetistics",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetistics5899b2265ce568.90597410.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "104",
+		"name": "Fleetlog",
+		"slug": "fleetlog",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetlog589b216e7e6078.32751754.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "10",
+		"name": "Fleetmatics",
+		"slug": "fleetmatics",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetmatics589490c180f305.39735584.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "62",
+		"name": "Fleetminder",
+		"slug": "fleetminder",
+		"size": "local",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetminder5899b03fa2b334.47540783.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "112",
+		"name": "FleetRobo",
+		"slug": "fleetrobo",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetrobo589b2aab997983.24118651.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "101",
+		"name": "FleetSharp",
+		"slug": "fleetsharp",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleetsharp589aee888444a4.84075415.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "122",
+		"name": "FleetTrax",
+		"slug": "fleettrax",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/fleettrax589b3e9acce534.25873794.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "71",
+		"name": "Hubio Fleet",
+		"slug": "hubio-fleet",
+		"size": "regional",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/hubio-fleet5899c0ecb48999.27857109.png",
+		"is_integrated": "0"
+	},
+	{
+		"id": "11",
+		"name": "Networkfleet",
+		"slug": "networkfleet",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/networkfleet5895c12fc95ca7.24787197.png",
+		"is_integrated": "0"
+	}]
+}
