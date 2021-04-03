@@ -1,0 +1,11 @@
+[
+  {
+    "note_custom_type_id": 1,
+    "note_custom_type": "note custom type",
+    "root_owner_member_id": 1,
+    "note_custom_type_values": [
+      "note custom value",
+      "note custom value 1"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "note_id": 0,
+  "upload_id": "string",
+  "route_id": "string",
+  "route_destination_id": 0,
+  "ts_added": 0,
+  "activity_type": "string",
+  "upload_extension": "string",
+  "upload_url": "string",
+  "upload_type": "string",
+  "contents": "string",
+  "lat": 0,
+  "lng": 0,
+  "device_type": "string",
+  "custom_types": [
+    {
+      "note_custom_entry_id": "string",
+      "note_id": 0,
+      "note_custom_type_id": 0,
+      "note_custom_value": "string",
+      "note_custom_type": "string"
+    }
+  ]
+}

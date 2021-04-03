@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "group_id": "79E506E7A696B3C7A47D2D287D91C040",
+      "group_name": "some group name",
+      "group_color": "#000000",
+      "group_icon": "emoji/emoji-thumbsup",
+      "member_id": 1,
+      "filter": {}
+    }
+  ]
+}
