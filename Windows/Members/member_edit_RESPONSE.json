@@ -1,0 +1,23 @@
+{
+	"member_first_name": "Dumbo",
+	"member_id": "220461",
+	"member_last_name": "The Elephant",
+	"member_email": "dumbo@route4me.com",
+	"preferred_units": "MI",
+	"preferred_language": "en",
+	"timezone": "America\/New_York",
+	"member_zipcode": null,
+	"OWNER_MEMBER_ID": "38392",
+	"member_type": "SUB_ACCOUNT_ADMIN",
+	"member_phone": "555-777-888",
+	"user_reg_state_id": "2",
+	"user_reg_country_id": "223",
+	"date_of_birth": "1980-01-01",
+	"HIDE_ROUTED_ADDRESSES": "FALSE",
+	"HIDE_VISITED_ADDRESSES": "FALSE",
+	"HIDE_NONFUTURE_ROUTES": "FALSE",
+	"READONLY_USER": "FALSE",
+	"SHOW_ALL_DRIVERS": "FALSE",
+	"SHOW_ALL_VEHICLES": "TRUE",
+	"member_picture": null
+}

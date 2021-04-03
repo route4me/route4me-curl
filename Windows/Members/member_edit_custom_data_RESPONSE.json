@@ -1,0 +1,27 @@
+{
+	"member_first_name": "Medvedson",
+	"member_id": "2",
+	"member_last_name": "David",
+	"member_email": "test_register255@aol.com",
+	"preferred_units": "MI",
+	"preferred_language": "en",
+	"timezone": "America/New_York",
+	"member_zipcode": null,
+	"OWNER_MEMBER_ID": "1",
+	"member_type": "SUB_ACCOUNT_DRIVER",
+	"member_phone": "+333333333333",
+	"user_reg_state_id": "2",
+	"user_reg_country_id": "223",
+	"date_of_birth": "1948-08-08",
+	"HIDE_ROUTED_ADDRESSES": "FALSE",
+	"HIDE_VISITED_ADDRESSES": "FALSE",
+	"HIDE_NONFUTURE_ROUTES": "FALSE",
+	"READONLY_USER": "TRUE",
+	"SHOW_ALL_DRIVERS": "FALSE",
+	"SHOW_ALL_VEHICLES": "FALSE",
+	"member_picture": null,
+	"api_key": "11111111111111111111111111111111",
+	"custom_data": {
+		"Custom Key 2": "Custom Value 2"
+	}
+}
