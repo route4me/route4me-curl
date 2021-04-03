@@ -1,0 +1,1192 @@
+[{
+	"territory_id": "1C4EC91F7C83E6D44A39C5EF0ED15422",
+	"territory_name": "Johny4037200794235010051",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "29AACF4A1B5F38F50EF7A7EAF6DCAFAB",
+	"territory_name": "AvZone above Hudson",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["41.247560243547596,-81.45002746896353",
+		"41.246527701980646,-81.43080139474478",
+		"41.26201411218092,-81.43286133126821",
+		"41.2713041959815,-81.43526459054556",
+		"41.27027202972156,-81.44934082345571",
+		"41.260723718226174,-81.45208740548696"]
+	}
+},
+{
+	"territory_id": "29FA5682B3CC0CF1F5DD8C1873D44FFB",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "2A4EE92CA6779F40FC4B020FE1384D52",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["37.769752822786455,-77.67833251953125",
+		"37.75886716305343,-77.68974800109863",
+		"37.74763966054455,-77.6917221069336",
+		"37.74655084306813,-77.68863220214844",
+		"37.7502255383101,-77.68125076293945",
+		"37.74797991274437,-77.67498512268066",
+		"37.73327960206065,-77.6411678314209",
+		"37.74430510679532,-77.63172645568848",
+		"37.76641925847049,-77.66846199035645"]
+	}
+},
+{
+	"territory_id": "2B46282D82C50FAFDA6FF99CA5699BEB",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "2FFA4D66878310DB527BF998656AD5A4",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "30AB54EFCA2388E8D0C57D99B624DFAA",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "36E5D6D8EBBB0449EEB81BE0BAC143A0",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "37CC4EDFE92128769B3B3F97E6063510",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "387F5B1A560A0BAEC32990163D72D9B5",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "3963196AC79410F5E166544A5771F554",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "3B5F2785996C996338CB9E2D51AC4536",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "40D6596710CB8224DC2403B69ED2EFF6",
+	"territory_name": "Circle Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "4305357003CF5FF53A99F11BAF19017B",
+	"territory_name": "Test Poligonian Zvoidance Zone 20005",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["37.769752822786455,-77.67833251953125",
+		"37.75886716305343,-77.68974800109863",
+		"37.74763966054455,-77.6917221069336",
+		"37.74655084306813,-77.68863220214844",
+		"37.7502255383101,-77.68125076293945",
+		"37.74797991274437,-77.67498512268066",
+		"37.73327960206065,-77.6411678314209",
+		"37.74430510679532,-77.63172645568848",
+		"37.76641925847049,-77.66846199035645"]
+	}
+},
+{
+	"territory_id": "43FD5D44CBA9834D3E0250109CF85A54",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "4D5359FFA1DFA58F77D1E682A0537ABE",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "56CB25091698E7D8123504714C46B25A",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "61530729DCBE498658EC8E1BE5B647B9",
+	"territory_name": "Test Rectangular Avoidance Zone 51119",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "62AC7A589AF2945F046D69080A2A821D",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "62F4B6F51EF01905EB9DEA4A7B01905D",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "6466262ED2566EBBDFF6A035138C97BF",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "666C788594C87357ADA8F0AB501817B0",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "669A14DECD50ACC205EC65D35D161811",
+	"territory_name": "Johny4037200794235010051",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "6784F66128CFE1FCB1138AC51A0BF12C",
+	"territory_name": "Test Territory Updated",
+	"territory_color": "ff5500",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["37.869752822786455,-77.49833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "685DF734D60BFCF879560CB040144467",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "6A44F69C00F46C6A18E3DEE6550E7E7F",
+	"territory_name": "Test Territory 54458",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "6EB1F8AA79BD44E23B15B1AE1C00D000",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "77ECD32E039302683D08D69BC48FB493",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "79F5E64C5B2BC10E5DBB049AA6A8389C",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "7DC979A7C2A2DB7D9669998F72A61E3D",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "849CF9DD75EAF036BB8E4768A2E9BC1A",
+	"territory_name": "Test Territory 88343",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "85AA29F13572A76490C1AF852468AA7C",
+	"territory_name": "Hartford",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "",
+		"data": [""]
+	}
+},
+{
+	"territory_id": "89DC64EB5D04D7E6273E02932E8A7FC1",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "90DC92735A5DE33F632B4FC08BDDA54C",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "91F8147AC92047915D8DA35A45519DD6",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"37.75886716305343,-77.68974800109863",
+		"37.74763966054455,-77.6917221069336",
+		"37.74655084306813,-77.68863220214844",
+		"37.7502255383101,-77.68125076293945",
+		"37.74797991274437,-77.67498512268066",
+		"37.73327960206065,-77.6411678314209",
+		"37.74430510679532,-77.63172645568848",
+		"37.76641925847049,-77.66846199035645"]
+	}
+},
+{
+	"territory_id": "924168D268F6B2B8CD6209DD7BAE7B10",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "92630C5ECC0FE77016376379C970D6B0",
+	"territory_name": "Test Territory 82943",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "934D4E007263BB48DE91FAED33C96D6F",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "94D5D609FD7F2BB337B61D31A03C89B0",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "982055E1F7ACF9BDAF2B302000C4B3C6",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "988DB4936E435735DABC9810BEF5D3C2",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "9B79C72C8137A06EC611C6540CD935AC",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "9CB695457E666A0E8A0B691EC4BF7E29",
+	"territory_name": "Test Territory 19865",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "9EA4E23CF78A1C0A035D3F6F271D288C",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "A250F3B3F6F886DE27D1B48FACC7C7B7",
+	"territory_name": "Test Territory 56257",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "A2DD26670DB2951CB676B4EB3D5B1BCB",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["37.769752822786455,-77.67833251953125",
+		"37.75886716305343,-77.68974800109863",
+		"37.74763966054455,-77.6917221069336",
+		"37.74655084306813,-77.68863220214844",
+		"37.7502255383101,-77.68125076293945",
+		"37.74797991274437,-77.67498512268066",
+		"37.73327960206065,-77.6411678314209",
+		"37.74430510679532,-77.63172645568848",
+		"37.76641925847049,-77.66846199035645"]
+	}
+},
+{
+	"territory_id": "A30CCFFBB56950DA116B0EA439A40527",
+	"territory_name": "Circle Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "A4086E246ABB2F94A574CD6B574EE5F7",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "A79C142A686E77D41EFBF023588F4BE9",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "AED90F6372EF20CFAAA41755135BA1C6",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "AF03ED947A8B9430787D44EF75BA40C1",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B09BE4EFC33F6ACAF1FA00AA00C01601",
+	"territory_name": "Circle Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B1538775697EDBD6F196E40674A73052",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B3D9FA928048BD72F62F13CF19A18C07",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B7B28C86380F319518827BB0965DDFB6",
+	"territory_name": "Test Territory 15391",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B8BF2E5DF618E24102D00242F92C33D3",
+	"territory_name": "Test Territory 91230",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "B9D0C20DF379E37B1ECD9C44A12C77A5",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "BAE0C48039BF7F753CDE2B4ED0F8C1DB",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "BCEFD70DA7BC381EE648B1E8460F99F5",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "BF2CECA3A1407283D344F136D5D21BA1",
+	"territory_name": "Polygon Territory Updated",
+	"territory_color": "ff00ff",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "C52476B7D1CFF11D302507091053D18E",
+	"territory_name": "Hartford",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "",
+		"data": [""]
+	}
+},
+{
+	"territory_id": "C62F26A9E824988AC0046FDD599D81CC",
+	"territory_name": "Test Territory 28020",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "C8AF6A5D4ABC18A4078EDDF4F879CCBF",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "",
+		"data": [""]
+	}
+},
+{
+	"territory_id": "CA6B51B762B917E3DBD1BEDF2D8CF05C",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "CB025276D5BC74625C038D8DC92BBD33",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "D54B15375B4BF05D7FC764A09A5D6CF5",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "D56E805B8C1114C81219A811B66FC9C1",
+	"territory_name": "Polygon Territory Updated",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "DC58B2DE9E90E2E868545159B35A7661",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "DD1821D5FA610DD9031868A0AA9EBFDC",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "DDD8D52C8E5955058F6985F6FE819305",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "DFB418B2DA85CE1E1B175A68D3D410D1",
+	"territory_name": "Test Territory 32601",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "E149580DCDE94842245C096025BDFC3F",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "E1C8F2CD37D0EDA4BA3014B7A799EF68",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": [""]
+	}
+},
+{
+	"territory_id": "E43040D6D1D63CB8952A688711A4743E",
+	"territory_name": "Circle Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "E6447978C11846A853A1741483E6D2E1",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["37.769752822786455,-77.67833251953125",
+		"37.75886716305343,-77.68974800109863",
+		"37.74763966054455,-77.6917221069336",
+		"37.74655084306813,-77.68863220214844",
+		"37.7502255383101,-77.68125076293945",
+		"37.74797991274437,-77.67498512268066",
+		"37.73327960206065,-77.6411678314209",
+		"37.74430510679532,-77.63172645568848",
+		"37.76641925847049,-77.66846199035645"]
+	}
+},
+{
+	"territory_id": "E84D6281421CB696019CB5462CB7F6C5",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "EB0586ECA12F919912C8B08B4E1E412F",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "EB0BC015466AA559ECB90CB69D843590",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "EBA40B4BA9D663486E1055F9165F393C",
+	"territory_name": "Test Territory Updated",
+	"territory_color": "ff00ff",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["38.41322259056806,-78.501953234",
+		"3000"]
+	}
+},
+{
+	"territory_id": "EC4262DA30FD4316F1F7BF270405338B",
+	"territory_name": "Polygon Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "poly",
+		"data": ["56.127184156131065,56.93115234375",
+		"58.41322259056806,59.501953125",
+		"61.53840616716746,59.315185546875",
+		"61.047650586031104,51.998291015625",
+		"59.254649544483726,53.63525390625",
+		"56.47462805805596,54.42626953125"]
+	}
+},
+{
+	"territory_id": "F64722C2EF6797A71942EC533DE67465",
+	"territory_name": "Rect Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "rect",
+		"data": ["43.51668853502909,-109.3798828125",
+		"46.98025235521883,-101.865234375"]
+	}
+},
+{
+	"territory_id": "F6EA2A401EE3A9041FE53D1911DF1466",
+	"territory_name": "Test Territory 37965",
+	"territory_color": "ff7700",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "FC0C96CF3ADE4AB30CCA32C6C4AFD6F1",
+	"territory_name": "John5577006791947779410",
+	"territory_color": "beeeee",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "FCF20B4847DD2BE5E9FA416D0BAB097E",
+	"territory_name": "Test Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "",
+		"data": [""]
+	}
+},
+{
+	"territory_id": "FF522D80A2AF803C92DA828354465B59",
+	"territory_name": "Circle Territory",
+	"territory_color": "ff0000",
+	"member_id": 1,
+	"territory": {
+		"type": "circle",
+		"data": ["37.569752822786455,-77.47833251953125",
+		"5000"]
+	}
+},
+{
+	"territory_id": "A93501CAE4C0AB873B033E8B0BD9884E",
+	"territory_name": "ferry",
+	"territory_color": "ff0000",
+	"member_id": 38392,
+	"territory": {
+		"type": "poly",
+		"data": ["47.52230157865766,-122.50202178955078",
+		"47.5297201563878,-122.38460540771484",
+		"47.51557758630511,-122.38666534423828",
+		"47.503286684046664,-122.45155334472656",
+		"47.50931654292719,-122.51129150390625"]
+	}
+},
+{
+	"territory_id": "093B1AB9700C9BA28478F9FCF11AC272",
+	"territory_name": "Dont Go Here",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.73190929073142,-74.03755187988281",
+		"40.72800677563629,-74.00751113891602",
+		"40.72429917430525,-74.00570869445801",
+		"40.72267296820732,-74.00914192199707",
+		"40.72657579608992,-74.04021263122559",
+		"40.733470232684915,-74.04295921325684",
+		"40.736201792985945,-74.03892517089844",
+		"40.73138896860918,-74.03677940368652"]
+	}
+},
+{
+	"territory_id": "120029C08A5DC0C1A41232BE2BA0B7C6",
+	"territory_name": "Avoid Uptown",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.84792605066134,-73.94033432356082",
+		"40.8455886564466,-73.93449783674441",
+		"40.83662788155381,-73.939647678053",
+		"40.837277253779284,-73.94428253523074",
+		"40.84078375387667,-73.94273758283816",
+		"40.84610808450798,-73.94084930769168"]
+	}
+},
+{
+	"territory_id": "28A2873EA7456CA1BCF878CD5CC44887",
+	"territory_name": "nyc",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.840047834495145,-73.9541244506836",
+		"40.701984159668676,-74.0372085571289",
+		"40.6957372183992,-73.98468017578125",
+		"40.85900590611001,-73.88442993164062",
+		"40.859525228993206,-73.92253875732422",
+		"40.85822691415107,-73.94142150878906",
+		"40.83745041598947,-73.95206451416016"]
+	}
+},
+{
+	"territory_id": "34C931F82749EEB22492A81B8E70E4D7",
+	"territory_name": "Avoidance zone in Houston (use case example)",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["29.475470141887218,-95.89828491210938",
+		"29.513720234908057,-95.89691162109375",
+		"29.637933183204566,-95.61538696289062",
+		"29.803709563173605,-95.56594848632812",
+		"29.91804252607081,-95.51651000976562",
+		"29.935895213372444,-95.30914306640625",
+		"29.841835102794132,-95.1251220703125",
+		"29.72025928058346,-95.23086547851562",
+		"29.602118211647337,-95.33248901367188",
+		"29.46949226032194,-95.38742065429688",
+		"29.513720234908057,-95.537109375",
+		"29.428833320925488,-95.7952880859375",
+		"NaN,-95.89141845703125"]
+	}
+},
+{
+	"territory_id": "B3D67DCE316AA0856B043C09722DA0C9",
+	"territory_name": "Avoid Ceiling",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.18726672309203,-77.1405029296875",
+		"40.010787140465524,-77.464599609375",
+		"39.930800820752765,-78.013916015625",
+		"40.53050177574321,-76.9537353515625"]
+	}
+},
+{
+	"territory_id": "BA6B958AFF4E59B3D5BF8348ED0913D8",
+	"territory_name": "Uptown Avoidance",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.82316279497129,-73.95172119140625",
+		"40.80627345566163,-73.9625358581543",
+		"40.798217025760515,-73.9409065246582",
+		"40.81874599835864,-73.93695831298828",
+		"40.82394219913679,-73.9431381225586"]
+	}
+},
+{
+	"territory_id": "BEA95EB067432E1B413680B4C9807D27",
+	"territory_name": "NJ 1",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.72852712420599,-74.08149719238281",
+		"40.70979201243498,-74.0914535522461",
+		"40.701984159668676,-74.07943725585938",
+		"40.71916022743469,-74.04510498046875",
+		"40.751678516237334,-74.0372085571289",
+		"40.76832172749444,-74.04029846191406",
+		"40.738673108048914,-74.06879425048828"]
+	}
+},
+{
+	"territory_id": "CB17F9FE5AA6931C137E2FD45897A4DF",
+	"territory_name": "Avoid Midtown",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.802574550516596,-73.96211242536083",
+		"40.757209379858445,-73.99764633039018",
+		"40.754088573459725,-73.98863410810014",
+		"40.75538892726274,-73.97618865827098",
+		"40.797376676067394,-73.94494628766552"]
+	}
+},
+{
+	"territory_id": "D79953A9649C77DC9378ED96D4EC5F49",
+	"territory_name": "Avoidance_zone_from_kml_file",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["36.7297793361512,-111.4822736871187",
+		"36.63102362428712,-111.2443656898759",
+		"36.6665462601863,-110.9126627221284",
+		"36.66907066312044,-110.9055611529173",
+		"36.79469709253618,-110.812743026432",
+		"36.79934496596439,-110.8129596671974",
+		"36.92555665634004,-110.812785000038",
+		"36.98854280027455,-110.8684097852461",
+		"36.9920740514542,-110.8685767528249",
+		"37.00984426300698,-111.1421567703024",
+		"36.95493250816586,-111.4300100857367",
+		"36.7297793361512,-111.4822736871187"]
+	}
+},
+{
+	"territory_id": "F5C2D152771FC6A99DBD294C9D13E030",
+	"territory_name": "Downtown",
+	"territory_color": "ff0000",
+	"member_id": 44143,
+	"territory": {
+		"type": "poly",
+		"data": ["40.7416732497151,-73.99756622035056",
+		"40.72866588499005,-74.00614928919822",
+		"40.72242144663569,-73.98692321497947",
+		"40.73699089137927,-73.977653500624"]
+	}
+}]
