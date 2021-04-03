@@ -1,0 +1,46 @@
+"parameters": {
+	"route_name": "Tuesday 2nd of August 2016 06:44 PM (+04:00)",
+	"route_date": 1470096000,
+	"route_time": 10800,
+	"override_addresses": {
+		
+	},
+	"route_email": "demo@route4me.com",
+	"metric": 4,
+	"optimize": "Time",
+	"travel_mode": "Driving",
+	"uturn": "1",
+	"leftturn": "1",
+	"rightturn": "1",
+	"avoid": "",
+	"limited_weight_t": "36",
+	"weight_per_axle_t": "",
+	"has_trailer": false,
+	"trailer_weight_t": "",
+	"truck_height": "",
+	"truck_width": "",
+	"truck_length": "",
+	"truck_hazardous_goods": "",
+	"routeType": "multi_tw",
+	"algorithm_type": 3,
+	"parts": "10", (olo - number of Vehicles)
+	"min_tour_size": "10", (olo - minimum number of stops per route)
+	"max_tour_size": "15", (olo - maximum number of stops per route)
+	"route_max_duration": 28800,
+	"rt": false,
+	"vehicle_capacity": "20",
+	"vehicle_max_cargo_weight": "35",
+	"vehicle_max_cargo_volume": "150",
+	"subtour_max_revenue": "1000",
+	"member_id": "44143",
+	"vehicle_id": "525DE8F7846C3CD568F47DC15559E13B",
+	"disable_optimization": false,
+	"uploads": [{
+		"upload_id": "d212d1f356fa3a60fa150c4a255a7cc4"
+	}]
+},
+"analytics": {
+	"route_settings_open_timestamps": [1470149104.561],
+	"optimization_post_timestamps": [1470149154.774]
+}
+}
