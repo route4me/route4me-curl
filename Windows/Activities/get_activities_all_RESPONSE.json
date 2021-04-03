@@ -1,0 +1,423 @@
+{
+	"results": [{
+		"activity_id": "66457E628B7391C2364AF6DA23BAE6D2",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "user_message",
+		"activity_timestamp": "1467298315",
+		"activity_message": "Hello!",
+		"route_id": "2EA70721624592FC41522A708603876D",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "DDC6088ED878F7612C6CD457FC59C5B6",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "user_message",
+		"activity_timestamp": "1467297253",
+		"activity_message": "Hello!",
+		"route_id": "2EA70721624592FC41522A708603876D",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "312105A0BE7C5D213F3F6C29015C4B2C",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467207550",
+		"activity_message": "Optimized route 'Wed, 29 Jun 2016 13:39:09 +0000 UTC'",
+		"route_id": "C5247B13984927F246645BB8408665AB",
+		"route_name": "Wed, 29 Jun 2016 13:39:09 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "8B6CB07B422B799C755CEA8F734C56D8",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467119064",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Unrouted Destinations)'",
+		"route_id": "BB28ED748445C751110B84384943E3F0",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Unrouted Destinations)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "BBEA5C75096A8608771306F21C0787DC",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467119063",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 003)'",
+		"route_id": "A729A098CAC1DCF21382EFA610D3173F",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 003)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "DBDB098D0D1AF52F069C305B75D71D70",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467119063",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 002)'",
+		"route_id": "AF032411BBDD9033412AA185DFD10967",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 002)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "D09CFF8B4E538CE4340D2B844C8CC052",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467119063",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 004)'",
+		"route_id": "7D9F7DC422D546E2BA334C86FE1F6C3F",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 004)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "198591D421B01E67B3AF6D28E623FA67",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467119062",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 001)'",
+		"route_id": "4F75EC5AC7E663171BBDCA22724AB9A0",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "E998ED04EE8E7A34430B770B39A54340",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467118653",
+		"activity_message": "Optimized route 'Tue, 28 Jun 2016 12:57:28 +0000 UTC'",
+		"route_id": "D35D7118567473C199865EC95BF30E28",
+		"route_name": "Tue, 28 Jun 2016 12:57:28 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "63BDCAFA31154BFC4968CA2657DF25BB",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467037507",
+		"activity_message": "Optimized route 'Single Driver Route 10 Stops'",
+		"route_id": "FD92DFFBA9378C9E3B97819B6CE0F6CF",
+		"route_name": "Single Driver Route 10 Stops",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "5FCAA7AABD849C70907E3385FF3F3898",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467024682",
+		"activity_message": "Directions prepared for route 'Single Driver Route 10 Stops'",
+		"route_id": "3F8F89E15199446941E16851D0AC9DEE",
+		"route_name": "Single Driver Route 10 Stops",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "DC95955B6676B6E77603E927CC90DF12",
+		"destination_name": "222 Blake Cir Milledgeville GA 31061",
+		"destination_alias": "",
+		"activity_type": "insert-destination",
+		"activity_timestamp": "1467024673",
+		"activity_message": "Address '222 Blake Cir Milledgeville GA 31061' was added into route 'Single Driver Route 10 Stops'",
+		"route_id": "3F8F89E15199446941E16851D0AC9DEE",
+		"route_name": "Single Driver Route 10 Stops",
+		"route_destination_id": "171184214",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "33D31BD90A25161EF888A1D67CE9280E",
+		"destination_name": "146 Bill Johnson Rd NE Milledgeville GA 31061",
+		"destination_alias": "",
+		"activity_type": "insert-destination",
+		"activity_timestamp": "1467024673",
+		"activity_message": "Address '146 Bill Johnson Rd NE Milledgeville GA 31061' was added into route 'Single Driver Route 10 Stops'",
+		"route_id": "3F8F89E15199446941E16851D0AC9DEE",
+		"route_name": "Single Driver Route 10 Stops",
+		"route_destination_id": "171184215",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "EE64B39644A91CB5DCEC520D870520B6",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1467024667",
+		"activity_message": "Optimized route 'Single Driver Route 10 Stops'",
+		"route_id": "3F8F89E15199446941E16851D0AC9DEE",
+		"route_name": "Single Driver Route 10 Stops",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "3EA8F95D0AAB5FD14A97B887BF854707",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466780413",
+		"activity_message": "Directions prepared for route 'Multiple Depot, Multiple Driver (Part 010)'",
+		"route_id": "1CF995BF0972FD627CBCDDB7F708D025",
+		"route_name": "Multiple Depot, Multiple Driver (Part 010)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "CBAB4D9F0F71D6DE507B43359F29E69A",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-delete",
+		"activity_timestamp": "1466780404",
+		"activity_message": "The 'Multiple Depot, Multiple Driver (Part 010)' route was deleted",
+		"route_id": "1CF995BF0972FD627CBCDDB7F708D025",
+		"route_name": "Multiple Depot, Multiple Driver (Part 010)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "A67C67C3E2E2B7A1BDFEE873C70C988C",
+		"destination_name": "717 5th Ave New York, NY 10021",
+		"destination_alias": "Giorgio Armani",
+		"activity_type": "insert-destination",
+		"activity_timestamp": "1466780403",
+		"activity_message": "Address '717 5th Ave New York, NY 10021' was added into route 'Multiple Depot, Multiple Driver (Part 010)'",
+		"route_id": "1CF995BF0972FD627CBCDDB7F708D025",
+		"route_name": "Multiple Depot, Multiple Driver (Part 010)",
+		"route_destination_id": "170949490",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "C9D482C3A14BE2CAE3FF814EE060A429",
+		"destination_name": "3634 W Market St, Fairlawn, OH 44333",
+		"destination_alias": "Updated1443635317331776148",
+		"activity_type": "update-destinations",
+		"activity_timestamp": "1466780400",
+		"activity_message": "Address '3634 W Market St, Fairlawn, OH 44333' was updated",
+		"route_id": "1CF995BF0972FD627CBCDDB7F708D025",
+		"route_name": "Multiple Depot, Multiple Driver (Part 010)",
+		"route_destination_id": "170949390",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "A204B670A847E0B1B7D58B89E2129A68",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466780385",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver (Part 005)'",
+		"route_id": "FD3999B265F15BC896012BA3E1ADCBEB",
+		"route_name": "Multiple Depot, Multiple Driver (Part 005)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "ADFBDB25E4A65A00E7F1188D6722E8AC",
+		"destination_name": null,
+		"destination_alias": null,
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466780384",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver (Part 009)'",
+		"route_id": "C41627EA2C259FDBB0549A774BFA8E79",
+		"route_name": "Multiple Depot, Multiple Driver (Part 009)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	}],
+	"total": 361750
+}
