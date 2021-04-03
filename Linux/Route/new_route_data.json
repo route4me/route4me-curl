@@ -1,0 +1,34 @@
+{
+    "addresses": [
+        { 
+			"address": "3634 W Market St, Fairlawn, OH 44333",
+			"is_depot": true,
+			"lat": 41.135762259364,
+			"lng": -81.629313826561
+		},
+		{ 
+			"address": "1218 Ruth Ave, Cuyahoga Falls, OH 44221",
+			"lat": 41.135762259364,
+			"lng": -81.629313826561
+		},
+		{ 
+			"address": "512 Florida Pl, Barberton, OH 44203",
+			"lat": 41.003671512008,
+			"lng": -81.598461046815
+		}
+    ],
+    "parameters": {
+        "algorithm_type": "1",
+        "device_type": "web",
+        "distance_unit": "mi",
+        "member_id": "177496",
+        "optimize": "Distance",
+        "remote_ip": "0",
+        "route_max_duration": "86400",
+        "route_time": "0",
+        "store_route": "true",
+        "travel_mode": "Driving",
+        "vehicle_capacity": "1",
+        "vehicle_max_distance_mi": "10000"
+    }
+}
