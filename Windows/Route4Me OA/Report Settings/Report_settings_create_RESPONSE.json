@@ -1,0 +1,23 @@
+{
+	"created_at": 1533283921,
+	"description": "Test Report Settings",
+	"report_settings": {
+		"ID": "RjdGMUI1RENDNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
+	},
+	"settings": {
+		"miles_per_gallon": 8,
+		"stop_cost": 10,
+		"cost_per_accident": 8400,
+		"member_id": 888888,
+		"service_time_per_hour": 10,
+		"metric_tons_of_co2_per_mile": 0.009071847,
+		"drive_time_per_hour": 11,
+		"accidents_per_million_miles": 6.24,
+		"resource_base_pay": 19,
+		"operating_cost_mile": 0.77,
+		"gallon_fuel_cost": 3.45
+	},
+	"settings_id": "F7F1B5DCCccccccccccccccccccccccc",
+	"updated_at": 1533284877,
+	"user_id": "7F9590B7777777777777777777777777"
+}
