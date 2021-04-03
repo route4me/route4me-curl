@@ -1,0 +1,29 @@
+{
+	"address_1": "4805 BELLEVUE AVE, Louisville, KY, 40215",
+	"address_2": "4806 BELLEVUE AVE, Louisville, KY, 40215",
+	"address_alias": "4805 BELLEVUE AVE 40215",
+	"address_group": "Scheduled monthly",
+	"first_name": "Bart",
+	"last_name": "Douglas",
+	"address_email": "bdouglas9514@yahoo.com",
+	"address_phone_number": "95487454",
+	"cached_lat": 38.178844,
+	"cached_lng": -85.774864,
+	"curbside_lat": 38.178844,
+	"curbside_lng": -85.774864,
+	"address_city": "Louisville",
+	"address_country_id": "US",
+	"address_state_id": "KY",
+	"address_zip": "40215",
+	"schedule": [{
+		"enabled": true,
+		"mode": "monthly",
+		"monthly": {
+			"every": 1,
+			"mode": "dates",
+			"dates": [20,22,23,24,25]
+		}
+	}],
+	"service_time": 750,
+	"color": "red"	
+}
