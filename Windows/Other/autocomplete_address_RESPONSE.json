@@ -1,0 +1,26 @@
+[
+	{
+		"key": "4bacbe9f905e7510173c39e581bde9a2",
+		"name": "Heatherwood Dr, Salem, VA, USA",
+		"bbox": [
+			38.2498913,
+			-77.5647182,
+			38.2463374,
+			-77.5683899
+		],
+		"coordinates": {
+			"lat": 38.2477691,
+			"lng": -77.5666956
+		},
+		"confidence": "medium",
+		"type": "route",
+		"countryRegion": "",
+		"alias": "",
+		"address_book_id": null,
+		"memberFullName": null,
+		"curbside_coordinates": {
+			"lat": 38.2477691,
+			"lng": -77.5666956
+		}
+	}
+]
