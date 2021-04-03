@@ -1,0 +1,25 @@
+{
+	"address_1": "7305 ROYAL WOODS DR, Louisville, KY, 40214",
+	"cached_lat"            : 38.162472,
+	"cached_lng"            : -85.792854,
+	"curbside_lat"            : 38.162472,
+	"curbside_lng"            : -85.792854,
+	"address_alias"         : "7305 ROYAL WOODS DR 40214",
+	"address_city"          : "Louisville",
+	"EXT_FIELD_first_name"  : "Nad",
+	"EXT_FIELD_last_name"   : "Parson",
+	"EXT_FIELD_email"       : "nparson874@yahoo.com",
+	"EXT_FIELD_phone"       : "6587412",
+	"EXT_FIELD_custom_data" : [
+		{
+			"order_type"     : "scheduled order"
+		}
+	],
+	"day_scheduled_for_YYMMDD": "2017-02-24",
+	"local_time_window_end": 43800,
+	"local_time_window_end_2": 51000,
+	"local_time_window_start": 42600,
+	"local_time_window_start_2": 49800,
+	"local_timezone_string": "America/New_York",
+	"order_icon": "emoji/emoji-white_flower"
+}

@@ -1,0 +1,1586 @@
+{
+    "route_id": "79E68E967815A31F63EA77D947442B46",
+    "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+    "user_route_rating": null,
+    "member_id": 1,
+    "member_email": "dan@novapulsar.com",
+    "member_first_name": "Dan",
+    "member_last_name": "Khasis",
+    "channel_name": "1c827aea49ba7d31a949093d7cc54e9b",
+    "vehicle_alias": "N\/A",
+    "driver_alias": "N\/A",
+    "trip_distance": 17.03,
+    "is_unrouted": false,
+    "route_cost": 0,
+    "route_revenue": 0,
+    "net_revenue_per_distance_unit": 0,
+    "created_timestamp": 1488562069,
+    "mpg": 10,
+    "gas_price": 2,
+    "route_duration_sec": 2288,
+    "planned_total_route_duration": 3788,
+    "actual_travel_distance": 0,
+    "actual_travel_time": 0,
+    "actual_footsteps": 0,
+    "working_time": 0,
+    "driving_time": 0,
+    "idling_time": 0,
+    "paying_miles": 0,
+    "geofence_polygon_type": "circle",
+    "geofence_polygon_size": 200,
+    "parameters": {
+        "is_upload": false,
+        "rt": false,
+        "route_name": "Fri, 03 Mar 2017 17:27:48 +0000 UTC",
+        "route_date": 1488499200,
+        "route_time": 0,
+        "shared_publicly": false,
+        "disable_optimization": false,
+        "optimize": "Distance",
+        "lock_last": true,
+        "vehicle_capacity": 1,
+        "vehicle_max_cargo_weight": null,
+        "vehicle_max_cargo_volume": null,
+        "vehicle_max_distance_mi": 10000,
+        "subtour_max_revenue": null,
+        "distance_unit": "mi",
+        "travel_mode": "Driving",
+        "avoid": "",
+        "avoidance_zones": [],
+        "vehicle_id": null,
+        "driver_id": null,
+        "dev_lat": null,
+        "dev_lng": null,
+        "route_max_duration": 86400,
+        "route_email": null,
+        "store_route": true,
+        "metric": 4,
+        "algorithm_type": 1,
+        "member_id": 1,
+        "ip": 529711888,
+        "dm": 1,
+        "dirm": 5,
+        "parts": 10,
+        "parts_min": 1,
+        "device_id": null,
+        "device_type": "web",
+        "first_drive_then_wait_between_stops": false,
+        "has_trailer": false,
+        "trailer_weight_t": null,
+        "limited_weight_t": null,
+        "weight_per_axle_t": null,
+        "truck_height": null,
+        "truck_width": null,
+        "truck_length": null,
+        "truck_hazardous_goods": "",
+        "optimization_quality": 1,
+        "override_addresses": {},
+        "max_tour_size": null,
+        "min_tour_size": 0,
+        "uturn": 1,
+        "leftturn": 1,
+        "rightturn": 1
+    },
+    "addresses": [
+        {
+            "route_destination_id": 216831859,
+            "alias": "",
+            "member_id": 1,
+            "address": "1407 MCCOY, Louisville, KY, 40215",
+            "is_depot": true,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.202496,
+            "lng": -85.786514,
+            "curbside_lat": 38.202496,
+            "curbside_lng": -85.786514,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "route_name": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 0,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 747,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 5.55,
+            "channel_name": "8413e16533bbb2d4bab9fb5cc3b1923a",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 0,
+            "tracking_number": null,
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.202496,
+                    "lng": -85.786514
+                },
+                {
+                    "lat": 38.20228,
+                    "lng": -85.78636
+                },
+                {
+                    "lat": 38.20254,
+                    "lng": -85.7858
+                },
+                {
+                    "lat": 38.20321,
+                    "lng": -85.78629
+                },
+                {
+                    "lat": 38.20332,
+                    "lng": -85.78636
+                },
+                {
+                    "lat": 38.20369,
+                    "lng": -85.78662
+                },
+                {
+                    "lat": 38.20396,
+                    "lng": -85.78685
+                },
+                {
+                    "lat": 38.20567,
+                    "lng": -85.78812
+                },
+                {
+                    "lat": 38.20578,
+                    "lng": -85.78825
+                },
+                {
+                    "lat": 38.20659,
+                    "lng": -85.78767
+                },
+                {
+                    "lat": 38.20675,
+                    "lng": -85.78753
+                },
+                {
+                    "lat": 38.20733,
+                    "lng": -85.78797
+                },
+                {
+                    "lat": 38.20768,
+                    "lng": -85.7884
+                },
+                {
+                    "lat": 38.20883,
+                    "lng": -85.7876
+                },
+                {
+                    "lat": 38.21093,
+                    "lng": -85.78619
+                },
+                {
+                    "lat": 38.21264,
+                    "lng": -85.78498
+                },
+                {
+                    "lat": 38.21314,
+                    "lng": -85.78458
+                },
+                {
+                    "lat": 38.21364,
+                    "lng": -85.78411
+                },
+                {
+                    "lat": 38.21445,
+                    "lng": -85.78332
+                },
+                {
+                    "lat": 38.21998,
+                    "lng": -85.7775
+                },
+                {
+                    "lat": 38.22364,
+                    "lng": -85.77198
+                },
+                {
+                    "lat": 38.22374,
+                    "lng": -85.77185
+                },
+                {
+                    "lat": 38.22415,
+                    "lng": -85.7712
+                },
+                {
+                    "lat": 38.22455,
+                    "lng": -85.77065
+                },
+                {
+                    "lat": 38.22475,
+                    "lng": -85.77041
+                },
+                {
+                    "lat": 38.22504,
+                    "lng": -85.77015
+                },
+                {
+                    "lat": 38.22627,
+                    "lng": -85.76926
+                },
+                {
+                    "lat": 38.22835,
+                    "lng": -85.76817
+                },
+                {
+                    "lat": 38.22963,
+                    "lng": -85.76756
+                },
+                {
+                    "lat": 38.23055,
+                    "lng": -85.7671
+                },
+                {
+                    "lat": 38.23078,
+                    "lng": -85.76702
+                },
+                {
+                    "lat": 38.23106,
+                    "lng": -85.76702
+                },
+                {
+                    "lat": 38.23179,
+                    "lng": -85.76715
+                },
+                {
+                    "lat": 38.23272,
+                    "lng": -85.76729
+                },
+                {
+                    "lat": 38.23419,
+                    "lng": -85.76743
+                },
+                {
+                    "lat": 38.23539,
+                    "lng": -85.7675
+                },
+                {
+                    "lat": 38.2359,
+                    "lng": -85.76756
+                },
+                {
+                    "lat": 38.23776,
+                    "lng": -85.76792
+                },
+                {
+                    "lat": 38.2382,
+                    "lng": -85.76797
+                },
+                {
+                    "lat": 38.23877,
+                    "lng": -85.76801
+                },
+                {
+                    "lat": 38.23909,
+                    "lng": -85.768
+                },
+                {
+                    "lat": 38.23943,
+                    "lng": -85.76799
+                },
+                {
+                    "lat": 38.24003,
+                    "lng": -85.76789
+                },
+                {
+                    "lat": 38.24038,
+                    "lng": -85.76791
+                },
+                {
+                    "lat": 38.24061,
+                    "lng": -85.76786
+                },
+                {
+                    "lat": 38.24296,
+                    "lng": -85.76753
+                },
+                {
+                    "lat": 38.24431,
+                    "lng": -85.76724
+                },
+                {
+                    "lat": 38.24526,
+                    "lng": -85.76697
+                },
+                {
+                    "lat": 38.24609,
+                    "lng": -85.76651
+                },
+                {
+                    "lat": 38.24683,
+                    "lng": -85.76638
+                },
+                {
+                    "lat": 38.24688,
+                    "lng": -85.76666
+                },
+                {
+                    "lat": 38.24716,
+                    "lng": -85.76883
+                },
+                {
+                    "lat": 38.24721,
+                    "lng": -85.76911
+                },
+                {
+                    "lat": 38.24824,
+                    "lng": -85.77655
+                },
+                {
+                    "lat": 38.24849,
+                    "lng": -85.7782
+                },
+                {
+                    "lat": 38.24868,
+                    "lng": -85.77972
+                },
+                {
+                    "lat": 38.24897,
+                    "lng": -85.78185
+                },
+                {
+                    "lat": 38.24903,
+                    "lng": -85.78249
+                },
+                {
+                    "lat": 38.24916,
+                    "lng": -85.78653
+                },
+                {
+                    "lat": 38.25075,
+                    "lng": -85.78625
+                },
+                {
+                    "lat": 38.25224,
+                    "lng": -85.79956
+                },
+                {
+                    "lat": 38.25227,
+                    "lng": -85.79998
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 0,
+                "running_travel_time": 0,
+                "running_wait_time": 0,
+                "running_distance": 5.55,
+                "fuel_from_start": 0.555,
+                "fuel_cost_from_start": 1.11,
+                "projected_arrival_time_ts": 1488499200,
+                "projected_departure_time_ts": 1488499200,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488499200,
+                "estimated_departure_time_ts": 1488499200,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 216831862,
+            "alias": "",
+            "member_id": 1,
+            "address": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.251923,
+            "lng": -85.800034,
+            "curbside_lat": 38.251923,
+            "curbside_lng": -85.800034,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 1,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 266,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 1.4,
+            "channel_name": "b5c1ccf9b445e9f0cc4a5e3e9c5b7f21",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "tracking_number": "Y3L3KKNZ",
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.251923,
+                    "lng": -85.800034
+                },
+                {
+                    "lat": 38.25227,
+                    "lng": -85.79998
+                },
+                {
+                    "lat": 38.2524,
+                    "lng": -85.80115
+                },
+                {
+                    "lat": 38.24967,
+                    "lng": -85.80163
+                },
+                {
+                    "lat": 38.24976,
+                    "lng": -85.80452
+                },
+                {
+                    "lat": 38.24986,
+                    "lng": -85.80736
+                },
+                {
+                    "lat": 38.24987,
+                    "lng": -85.8082
+                },
+                {
+                    "lat": 38.24991,
+                    "lng": -85.80886
+                },
+                {
+                    "lat": 38.25031,
+                    "lng": -85.8206
+                },
+                {
+                    "lat": 38.24866,
+                    "lng": -85.82074
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 300,
+                "running_travel_time": 747,
+                "running_wait_time": 0,
+                "running_distance": 6.95,
+                "fuel_from_start": 0.695,
+                "fuel_cost_from_start": 1.39,
+                "projected_arrival_time_ts": 1488499947,
+                "projected_departure_time_ts": 1488500247,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488499947,
+                "estimated_departure_time_ts": 1488500247,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 216831861,
+            "alias": "",
+            "member_id": 1,
+            "address": "730 CECIL AVENUE, Louisville, KY, 40211",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.248684,
+            "lng": -85.821121,
+            "curbside_lat": 38.248684,
+            "curbside_lng": -85.821121,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 2,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 762,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 6.45,
+            "channel_name": "e3ccb7db54f442e5183cc57e10fdd5a5",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "tracking_number": "RQ1QLLEE",
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.248684,
+                    "lng": -85.821121
+                },
+                {
+                    "lat": 38.24866,
+                    "lng": -85.82074
+                },
+                {
+                    "lat": 38.24547,
+                    "lng": -85.82098
+                },
+                {
+                    "lat": 38.24409,
+                    "lng": -85.82112
+                },
+                {
+                    "lat": 38.24144,
+                    "lng": -85.82161
+                },
+                {
+                    "lat": 38.24132,
+                    "lng": -85.82017
+                },
+                {
+                    "lat": 38.24122,
+                    "lng": -85.81983
+                },
+                {
+                    "lat": 38.24107,
+                    "lng": -85.81752
+                },
+                {
+                    "lat": 38.24098,
+                    "lng": -85.81738
+                },
+                {
+                    "lat": 38.24085,
+                    "lng": -85.81711
+                },
+                {
+                    "lat": 38.2407,
+                    "lng": -85.81695
+                },
+                {
+                    "lat": 38.24057,
+                    "lng": -85.81687
+                },
+                {
+                    "lat": 38.24023,
+                    "lng": -85.81679
+                },
+                {
+                    "lat": 38.23867,
+                    "lng": -85.81707
+                },
+                {
+                    "lat": 38.23801,
+                    "lng": -85.81725
+                },
+                {
+                    "lat": 38.2378,
+                    "lng": -85.81732
+                },
+                {
+                    "lat": 38.23584,
+                    "lng": -85.81813
+                },
+                {
+                    "lat": 38.23135,
+                    "lng": -85.82104
+                },
+                {
+                    "lat": 38.23104,
+                    "lng": -85.8212
+                },
+                {
+                    "lat": 38.2308,
+                    "lng": -85.8213
+                },
+                {
+                    "lat": 38.23037,
+                    "lng": -85.82143
+                },
+                {
+                    "lat": 38.22979,
+                    "lng": -85.82152
+                },
+                {
+                    "lat": 38.22697,
+                    "lng": -85.82183
+                },
+                {
+                    "lat": 38.22636,
+                    "lng": -85.82191
+                },
+                {
+                    "lat": 38.2251,
+                    "lng": -85.82202
+                },
+                {
+                    "lat": 38.22339,
+                    "lng": -85.8222
+                },
+                {
+                    "lat": 38.22034,
+                    "lng": -85.82242
+                },
+                {
+                    "lat": 38.21762,
+                    "lng": -85.82254
+                },
+                {
+                    "lat": 38.21537,
+                    "lng": -85.82268
+                },
+                {
+                    "lat": 38.21507,
+                    "lng": -85.82272
+                },
+                {
+                    "lat": 38.21456,
+                    "lng": -85.82283
+                },
+                {
+                    "lat": 38.21427,
+                    "lng": -85.82292
+                },
+                {
+                    "lat": 38.21393,
+                    "lng": -85.82306
+                },
+                {
+                    "lat": 38.21313,
+                    "lng": -85.82353
+                },
+                {
+                    "lat": 38.21276,
+                    "lng": -85.82383
+                },
+                {
+                    "lat": 38.21245,
+                    "lng": -85.82411
+                },
+                {
+                    "lat": 38.21216,
+                    "lng": -85.82442
+                },
+                {
+                    "lat": 38.21155,
+                    "lng": -85.82519
+                },
+                {
+                    "lat": 38.21132,
+                    "lng": -85.82551
+                },
+                {
+                    "lat": 38.21071,
+                    "lng": -85.82625
+                },
+                {
+                    "lat": 38.21042,
+                    "lng": -85.82656
+                },
+                {
+                    "lat": 38.20999,
+                    "lng": -85.82697
+                },
+                {
+                    "lat": 38.20933,
+                    "lng": -85.82744
+                },
+                {
+                    "lat": 38.20896,
+                    "lng": -85.82765
+                },
+                {
+                    "lat": 38.20873,
+                    "lng": -85.82776
+                },
+                {
+                    "lat": 38.20857,
+                    "lng": -85.82781
+                },
+                {
+                    "lat": 38.20813,
+                    "lng": -85.82794
+                },
+                {
+                    "lat": 38.20764,
+                    "lng": -85.82804
+                },
+                {
+                    "lat": 38.20742,
+                    "lng": -85.82806
+                },
+                {
+                    "lat": 38.20722,
+                    "lng": -85.82807
+                },
+                {
+                    "lat": 38.2066,
+                    "lng": -85.82806
+                },
+                {
+                    "lat": 38.20428,
+                    "lng": -85.82762
+                },
+                {
+                    "lat": 38.20377,
+                    "lng": -85.82753
+                },
+                {
+                    "lat": 38.20224,
+                    "lng": -85.82744
+                },
+                {
+                    "lat": 38.20138,
+                    "lng": -85.82744
+                },
+                {
+                    "lat": 38.20101,
+                    "lng": -85.82746
+                },
+                {
+                    "lat": 38.20008,
+                    "lng": -85.82758
+                },
+                {
+                    "lat": 38.19953,
+                    "lng": -85.82768
+                },
+                {
+                    "lat": 38.19903,
+                    "lng": -85.8278
+                },
+                {
+                    "lat": 38.19835,
+                    "lng": -85.82799
+                },
+                {
+                    "lat": 38.19751,
+                    "lng": -85.82828
+                },
+                {
+                    "lat": 38.19265,
+                    "lng": -85.83031
+                },
+                {
+                    "lat": 38.19204,
+                    "lng": -85.83049
+                },
+                {
+                    "lat": 38.19165,
+                    "lng": -85.83055
+                },
+                {
+                    "lat": 38.19126,
+                    "lng": -85.83058
+                },
+                {
+                    "lat": 38.19081,
+                    "lng": -85.83057
+                },
+                {
+                    "lat": 38.19055,
+                    "lng": -85.83054
+                },
+                {
+                    "lat": 38.19017,
+                    "lng": -85.83047
+                },
+                {
+                    "lat": 38.18966,
+                    "lng": -85.83032
+                },
+                {
+                    "lat": 38.18931,
+                    "lng": -85.83017
+                },
+                {
+                    "lat": 38.18888,
+                    "lng": -85.82994
+                },
+                {
+                    "lat": 38.18848,
+                    "lng": -85.82968
+                },
+                {
+                    "lat": 38.18822,
+                    "lng": -85.82947
+                },
+                {
+                    "lat": 38.18792,
+                    "lng": -85.82921
+                },
+                {
+                    "lat": 38.18771,
+                    "lng": -85.82899
+                },
+                {
+                    "lat": 38.18728,
+                    "lng": -85.82848
+                },
+                {
+                    "lat": 38.18686,
+                    "lng": -85.82784
+                },
+                {
+                    "lat": 38.1866,
+                    "lng": -85.82734
+                },
+                {
+                    "lat": 38.18646,
+                    "lng": -85.82706
+                },
+                {
+                    "lat": 38.18628,
+                    "lng": -85.82657
+                },
+                {
+                    "lat": 38.18607,
+                    "lng": -85.82588
+                },
+                {
+                    "lat": 38.18593,
+                    "lng": -85.82518
+                },
+                {
+                    "lat": 38.18588,
+                    "lng": -85.82481
+                },
+                {
+                    "lat": 38.18581,
+                    "lng": -85.8241
+                },
+                {
+                    "lat": 38.18555,
+                    "lng": -85.82032
+                },
+                {
+                    "lat": 38.1855,
+                    "lng": -85.81978
+                },
+                {
+                    "lat": 38.18544,
+                    "lng": -85.81969
+                },
+                {
+                    "lat": 38.18481,
+                    "lng": -85.81491
+                },
+                {
+                    "lat": 38.18476,
+                    "lng": -85.81473
+                },
+                {
+                    "lat": 38.18472,
+                    "lng": -85.81463
+                },
+                {
+                    "lat": 38.18456,
+                    "lng": -85.8144
+                },
+                {
+                    "lat": 38.18441,
+                    "lng": -85.8143
+                },
+                {
+                    "lat": 38.18413,
+                    "lng": -85.8142
+                },
+                {
+                    "lat": 38.18393,
+                    "lng": -85.81421
+                },
+                {
+                    "lat": 38.18379,
+                    "lng": -85.81425
+                },
+                {
+                    "lat": 38.18344,
+                    "lng": -85.81438
+                },
+                {
+                    "lat": 38.18249,
+                    "lng": -85.81508
+                },
+                {
+                    "lat": 38.18128,
+                    "lng": -85.81588
+                },
+                {
+                    "lat": 38.18093,
+                    "lng": -85.81619
+                },
+                {
+                    "lat": 38.17922,
+                    "lng": -85.81791
+                },
+                {
+                    "lat": 38.17789,
+                    "lng": -85.8193
+                },
+                {
+                    "lat": 38.17588,
+                    "lng": -85.82164
+                },
+                {
+                    "lat": 38.17552,
+                    "lng": -85.82208
+                },
+                {
+                    "lat": 38.17619,
+                    "lng": -85.82296
+                },
+                {
+                    "lat": 38.177,
+                    "lng": -85.82412
+                },
+                {
+                    "lat": 38.17628,
+                    "lng": -85.82495
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 600,
+                "running_travel_time": 1013,
+                "running_wait_time": 0,
+                "running_distance": 13.4,
+                "fuel_from_start": 1.34,
+                "fuel_cost_from_start": 2.68,
+                "projected_arrival_time_ts": 1488500513,
+                "projected_departure_time_ts": 1488500813,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488500513,
+                "estimated_departure_time_ts": 1488500813,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 216831863,
+            "alias": "",
+            "member_id": 1,
+            "address": "4629 HILLSIDE DRIVE, Louisville, KY, 40216",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.176067,
+            "lng": -85.824638,
+            "curbside_lat": 38.176067,
+            "curbside_lng": -85.824638,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 3,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 500,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 3.57,
+            "channel_name": "f7a3882397d37ed8d14567ea449cc162",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "tracking_number": "ZL7L66DK",
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.176067,
+                    "lng": -85.824638
+                },
+                {
+                    "lat": 38.17628,
+                    "lng": -85.82495
+                },
+                {
+                    "lat": 38.177,
+                    "lng": -85.82412
+                },
+                {
+                    "lat": 38.17619,
+                    "lng": -85.82296
+                },
+                {
+                    "lat": 38.17541,
+                    "lng": -85.82195
+                },
+                {
+                    "lat": 38.17697,
+                    "lng": -85.82011
+                },
+                {
+                    "lat": 38.17828,
+                    "lng": -85.81862
+                },
+                {
+                    "lat": 38.18062,
+                    "lng": -85.81626
+                },
+                {
+                    "lat": 38.18086,
+                    "lng": -85.81606
+                },
+                {
+                    "lat": 38.18194,
+                    "lng": -85.81525
+                },
+                {
+                    "lat": 38.1829,
+                    "lng": -85.81432
+                },
+                {
+                    "lat": 38.18307,
+                    "lng": -85.81404
+                },
+                {
+                    "lat": 38.18316,
+                    "lng": -85.8138
+                },
+                {
+                    "lat": 38.18328,
+                    "lng": -85.81325
+                },
+                {
+                    "lat": 38.18351,
+                    "lng": -85.81191
+                },
+                {
+                    "lat": 38.18362,
+                    "lng": -85.81157
+                },
+                {
+                    "lat": 38.18376,
+                    "lng": -85.81122
+                },
+                {
+                    "lat": 38.18393,
+                    "lng": -85.81091
+                },
+                {
+                    "lat": 38.18406,
+                    "lng": -85.81074
+                },
+                {
+                    "lat": 38.18462,
+                    "lng": -85.81013
+                },
+                {
+                    "lat": 38.18478,
+                    "lng": -85.8099
+                },
+                {
+                    "lat": 38.18497,
+                    "lng": -85.80955
+                },
+                {
+                    "lat": 38.18508,
+                    "lng": -85.80927
+                },
+                {
+                    "lat": 38.1852,
+                    "lng": -85.80888
+                },
+                {
+                    "lat": 38.18525,
+                    "lng": -85.80865
+                },
+                {
+                    "lat": 38.18551,
+                    "lng": -85.80691
+                },
+                {
+                    "lat": 38.18567,
+                    "lng": -85.80546
+                },
+                {
+                    "lat": 38.18578,
+                    "lng": -85.80493
+                },
+                {
+                    "lat": 38.18628,
+                    "lng": -85.79946
+                },
+                {
+                    "lat": 38.18646,
+                    "lng": -85.79729
+                },
+                {
+                    "lat": 38.18654,
+                    "lng": -85.7961
+                },
+                {
+                    "lat": 38.18682,
+                    "lng": -85.79015
+                },
+                {
+                    "lat": 38.18686,
+                    "lng": -85.78924
+                },
+                {
+                    "lat": 38.18686,
+                    "lng": -85.7883
+                },
+                {
+                    "lat": 38.18692,
+                    "lng": -85.78778
+                },
+                {
+                    "lat": 38.18705,
+                    "lng": -85.78702
+                },
+                {
+                    "lat": 38.18708,
+                    "lng": -85.7866
+                },
+                {
+                    "lat": 38.18707,
+                    "lng": -85.78615
+                },
+                {
+                    "lat": 38.18701,
+                    "lng": -85.7858
+                },
+                {
+                    "lat": 38.18693,
+                    "lng": -85.7855
+                },
+                {
+                    "lat": 38.18674,
+                    "lng": -85.78494
+                },
+                {
+                    "lat": 38.18664,
+                    "lng": -85.78424
+                },
+                {
+                    "lat": 38.18652,
+                    "lng": -85.78406
+                },
+                {
+                    "lat": 38.18624,
+                    "lng": -85.78389
+                },
+                {
+                    "lat": 38.18535,
+                    "lng": -85.78406
+                },
+                {
+                    "lat": 38.18524,
+                    "lng": -85.78406
+                },
+                {
+                    "lat": 38.1796,
+                    "lng": -85.78327
+                },
+                {
+                    "lat": 38.18001,
+                    "lng": -85.77876
+                },
+                {
+                    "lat": 38.17973,
+                    "lng": -85.77863
+                },
+                {
+                    "lat": 38.17935,
+                    "lng": -85.77518
+                },
+                {
+                    "lat": 38.17893,
+                    "lng": -85.77528
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 900,
+                "running_travel_time": 1775,
+                "running_wait_time": 0,
+                "running_distance": 16.97,
+                "fuel_from_start": 1.697,
+                "fuel_cost_from_start": 3.394,
+                "projected_arrival_time_ts": 1488501575,
+                "projected_departure_time_ts": 1488501875,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488501575,
+                "estimated_departure_time_ts": 1488501875,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 216831860,
+            "alias": "",
+            "member_id": 1,
+            "address": "4805 BELLEVUE AVE, Louisville, KY, 40215",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.178844,
+            "lng": -85.774864,
+            "curbside_lat": 38.178844,
+            "curbside_lng": -85.774864,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 4,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": 13,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": 0.06,
+            "channel_name": "0eca83b806f2b61eca690f3072ac1a40",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "tracking_number": "Q787NN6G",
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "path_to_next": [
+                {
+                    "lat": 38.178844,
+                    "lng": -85.774864
+                },
+                {
+                    "lat": 38.17893,
+                    "lng": -85.77528
+                },
+                {
+                    "lat": 38.17922,
+                    "lng": -85.7752
+                },
+                {
+                    "lat": 38.17976,
+                    "lng": -85.77511
+                }
+            ],
+            "wait_time_to_next_destination": 0,
+            "manifest": {
+                "running_service_time": 1200,
+                "running_travel_time": 2275,
+                "running_wait_time": 0,
+                "running_distance": 17.03,
+                "fuel_from_start": 1.703,
+                "fuel_cost_from_start": 3.406,
+                "projected_arrival_time_ts": 1488502375,
+                "projected_departure_time_ts": 1488502675,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488502375,
+                "estimated_departure_time_ts": 1488502675,
+                "time_impact": null
+            }
+        },
+        {
+            "route_destination_id": 216831864,
+            "alias": "",
+            "member_id": 1,
+            "address": "4738 BELLEVUE AVE, Louisville, KY, 40215",
+            "is_depot": false,
+            "timeframe_violation_state": null,
+            "timeframe_violation_time": 0,
+            "timeframe_violation_rate": 0,
+            "lat": 38.179806,
+            "lng": -85.775558,
+            "curbside_lat": 38.179806,
+            "curbside_lng": -85.775558,
+            "priority": null,
+            "route_id": "79E68E967815A31F63EA77D947442B46",
+            "original_route_id": null,
+            "optimization_problem_id": "B324902AD88C4ECDED213460CF0915C0",
+            "sequence_no": 5,
+            "geocoded": false,
+            "preferred_geocoding": null,
+            "failed_geocoding": false,
+            "geocodings": [],
+            "contact_id": null,
+            "order_id": null,
+            "address_stop_type": "DELIVERY",
+            "is_visited": false,
+            "timestamp_last_visited": null,
+            "visited_lat": null,
+            "visited_lng": null,
+            "is_departed": false,
+            "departed_lat": null,
+            "departed_lng": null,
+            "timestamp_last_departed": null,
+            "group": null,
+            "customer_po": null,
+            "invoice_no": null,
+            "reference_no": null,
+            "order_no": null,
+            "weight": 0,
+            "cost": 0,
+            "revenue": 0,
+            "cube": 0,
+            "pieces": 0,
+            "first_name": null,
+            "last_name": null,
+            "email": null,
+            "phone": null,
+            "destination_note_count": 0,
+            "drive_time_to_next_destination": null,
+            "abnormal_traffic_time_to_next_destination": null,
+            "uncongested_time_to_next_destination": null,
+            "traffic_time_to_next_destination": null,
+            "distance_to_next_destination": null,
+            "channel_name": "22ceac37bf59bf8cbd66d971f6edc72d",
+            "generated_time_window_start": null,
+            "generated_time_window_end": null,
+            "time_window_start": null,
+            "time_window_end": null,
+            "time_window_start_2": null,
+            "time_window_end_2": null,
+            "geofence_detected_visited_timestamp": null,
+            "geofence_detected_departed_timestamp": null,
+            "geofence_detected_service_time": null,
+            "geofence_detected_visited_lat": null,
+            "geofence_detected_visited_lng": null,
+            "geofence_detected_departed_lat": null,
+            "geofence_detected_departed_lng": null,
+            "time": 300,
+            "tracking_number": "PLMLNNKE",
+            "custom_fields": {},
+            "custom_fields_str_json": "{}",
+            "custom_fields_config": null,
+            "custom_fields_config_str_json": "null",
+            "notes": [],
+            "wait_time_to_next_destination": null,
+            "manifest": {
+                "running_service_time": 1500,
+                "running_travel_time": 2288,
+                "running_wait_time": 0,
+                "running_distance": 17.03,
+                "fuel_from_start": 1.703,
+                "fuel_cost_from_start": 3.406,
+                "projected_arrival_time_ts": 1488502688,
+                "projected_departure_time_ts": 1488502988,
+                "actual_arrival_time_ts": null,
+                "actual_departure_time_ts": null,
+                "estimated_arrival_time_ts": 1488502688,
+                "estimated_departure_time_ts": 1488502988,
+                "time_impact": null
+            }
+        }
+    ],
+    "links": {
+        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=79E68E967815A31F63EA77D947442B46&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+        "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=B324902AD88C4ECDED213460CF0915C0&api_key=11111111111111111111111111111111&member_id=1"
+    },
+    "notes": [],
+    "path": null,
+    "member_config_storage": {
+        "destination_icon_width": "32",
+        "randomString_2#dsR#f1": "aSD23dSD@sd",
+        "destination_icon_uri": "444"
+    }
+}

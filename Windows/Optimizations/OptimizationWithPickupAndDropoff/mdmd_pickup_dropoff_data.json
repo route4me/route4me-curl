@@ -1,0 +1,145 @@
+{	"parameters": {
+        "algorithm_type": 4,
+		"store_route": true,
+		"route_name": "MDMD with pickup and dropoff",	
+		"route_date": 1581607834,
+		"route_time": 25200,
+		"optimize": "Distance",
+		"distance_unit": "mi",
+        "device_type": "web"
+    },
+	"addresses": [
+		{
+			"alias": "Depot1",
+			"pickup": "",
+			"dropoff": "",
+			"is_depot": "TRUE",
+			"address": "455 S 4th St, Louisville, KY 40202",
+			"lat": 38.251698,
+			"lng": -85.757308
+		},
+		{
+			"alias": "pickup1",
+			"pickup": "Stop_1",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
+			"lat": 38.141598,
+			"lng": -85.793846
+		},
+		{
+			"alias": "dropoff1",
+			"pickup": "",
+			"dropoff": "Stop_1",
+			"is_depot": "",
+			"address": "1407 ?53MCCOY, Louisville, KY, 40215",
+			"lat": 38.202496,
+			"lng": -85.786514
+		},
+		{
+			"alias": "pickup2",
+			"pickup": "Stop_2",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "4805 BELLEVUE AVE, Louisville, KY, 40215",
+			"lat": 38.178844,
+			"lng": -85.774864
+		},
+		{
+			"alias": "dropoff2",
+			"pickup": "",
+			"dropoff": "Stop_2",
+			"is_depot": "",
+			"address": "730 CECIL AVENUE, Louisville, KY, 40211",
+			"lat": 38.248684,
+			"lng": -85.821121
+		},
+		{
+			"alias": "pickup3",
+			"pickup": "Stop_3",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211",
+			"lat": 38.251923,
+			"lng": -85.800034
+		},
+		{
+			"alias": "dropoff3",
+			"pickup": "",
+			"dropoff": "Stop_3",
+			"is_depot": "",
+			"address": "4629 HILLSIDE DRIVE, Louisville, KY, 40216",
+			"lat": 38.176067,
+			"lng": -85.824638
+		},
+		{
+			"alias": "pickup4",
+			"pickup": "Stop_4",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "4738 BELLEVUE AVE, Louisville, KY, 40215",
+			"lat": 38.179806,
+			"lng": -85.775558
+		},
+		{
+			"alias": "dropoff4",
+			"pickup": "",
+			"dropoff": "Stop_4",
+			"is_depot": "",
+			"address": "318 SO. 39TH STREET, Louisville, KY, 40212",
+			"lat": 38.259335,
+			"lng": -85.815094
+		},
+		{
+			"alias": "pickup5",
+			"pickup": "Stop_5",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "1324 BLUEGRASS AVE, Louisville, KY, 40215",
+			"lat": 38.179253,
+			"lng": -85.785118
+		},
+		{
+			"alias": "dropoff5",
+			"pickup": "",
+			"dropoff": "Stop_5",
+			"is_depot": "",
+			"address": "7305 ROYAL WOODS DR, Louisville, KY, 40214",
+			"lat": 38.162472,
+			"lng": -85.792854
+		},
+		{
+			"alias": "pickup6",
+			"pickup": "Stop_6",
+			"dropoff": "",
+			"is_depot": "",
+			"address": "1661 W HILL ST, Louisville, KY, 40210",
+			"lat": 38.229584,
+			"lng": -85.783966
+		},
+		{
+			"alias": "dropoff6",
+			"pickup": "",
+			"dropoff": "Stop_6",
+			"address": "3222 KINGSWOOD WAY, Louisville, KY, 40216",
+			"lat": 38.210606,
+			"lng": -85.822594
+		},
+		{
+			"alias": "pickup7",
+			"pickup": "Stop_7",
+			"dropoff": "",
+			"address": "1922 PALATKA RD, Louisville, KY, 40214",
+			"lat": 38.153767,
+			"lng": -85.796783
+		},
+		{
+			"alias": "Dropoff7",
+			"pickup": "",
+			"dropoff": "Stop_7",
+			"address": "1314 SOUTH 26TH STREET, Louisville, KY, 40210",
+			"lat": 38.235847,
+			"lng": -85.796852
+		}
+	]
+}
