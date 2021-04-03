@@ -1,0 +1,10 @@
+{
+	"vendors": [{
+		"id": "153",
+		"name": "Teletrac Navman",
+		"slug": "teletrac-navman",
+		"size": "global",
+		"logo_url": "https:\/\/telematics.route4me.com\/logos\/teletrac-navman58ada84bd26158.03851096.png",
+		"is_integrated": "1"
+	}]
+}

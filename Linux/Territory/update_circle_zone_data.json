@@ -1,0 +1,9 @@
+{
+	"territory_name":"Test Territory",
+	"territory_color":"ff0000",
+	"territory":
+		{
+			"type":"circle",
+			"data":["37.569752822786455,-77.47833251953125", "5000"]
+		}
+}
