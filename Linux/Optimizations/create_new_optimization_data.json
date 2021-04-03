@@ -1,0 +1,65 @@
+{
+    "addresses": [
+        {
+		"lng": -85.786514,
+		"lat": 38.202496,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 2,
+		"address": "1407 MCCOY, Louisville, KY, 40215"
+	  },
+	  {
+		"lng": -85.774864,
+		"lat": 38.178844,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 3,
+		"address": "4805 BELLEVUE AVE, Louisville, KY, 40215"
+	  },
+	  {
+		"lng": -85.821121,
+		"lat": 38.248684,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 4,
+		"address": "730 CECIL AVENUE, Louisville, KY, 40211"
+	  },
+	  {
+		"lng": -85.800034,
+		"lat": 38.251923,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 5,
+		"address": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211"
+	  },
+	  {
+		"lng": -85.824638,
+		"lat": 38.176067,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 6,
+		"address": "4629 HILLSIDE DRIVE, Louisville, KY, 40216"
+	  },
+	  {
+		"lng": -85.775558,
+		"lat": 38.179806,
+		"is_depot": false,
+		"time": 300,
+		"sequence_no": 7,
+		"address": "4738 BELLEVUE AVE, Louisville, KY, 40215"
+	  }
+    ],
+    "parameters": {
+        "algorithm_type": "1",
+        "device_type": "web",
+        "distance_unit": "mi",
+        "member_id": "1",
+        "optimize": "Distance",
+        "route_max_duration": "86400",
+        "route_time": "0",
+        "store_route": "true",
+        "travel_mode": "Driving",
+        "vehicle_capacity": "1",
+        "vehicle_max_distance_mi": "10000"
+    }
+}

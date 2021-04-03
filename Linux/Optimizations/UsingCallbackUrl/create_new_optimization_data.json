@@ -1,0 +1,46 @@
+{
+    "addresses":[
+      {
+        "address":"455 S 4th St, Louisville, KY 40202",
+        "lat": 38.251698,
+        "lng": -85.757308,
+        "is_depot": 1,
+        "time": 300
+      },
+      {
+        "address": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
+        "lat": 38.141598,
+        "lng": -85.793846,
+        "time": 300,
+        "time_window_start": 29400,
+        "time_window_end": 30000      	
+      },
+      {
+        "address": "1407 MCCOY, Louisville, KY, 40215",
+        "lat": 38.202496,
+        "lng": -85.786514,
+        "time": 300,
+        "time_window_start": 30000,
+        "time_window_end": 30600      	
+      },
+      {
+        "address": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
+        "lat": 38.141598,
+        "lng": -85.793846,
+        "time": 300,
+        "time_window_start": 29400,
+        "time_window_end": 30000      	
+      }
+   ],
+   "parameters": {
+		"lock_last":false,
+		"travel_mode": "Driving",
+		"optimize": "Distance", 
+		"algorithm_type": 3,
+		"route_time": 21600,
+		"route_max_duration": 128000,
+		"metric": 4,
+		"vehicle_capacity": 160,
+		"vehicle_max_distance_mi": 1000000
+   }
+}

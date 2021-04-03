@@ -1,0 +1,27 @@
+{
+	"address_1": "1604 PARKRIDGE PKWY, Louisville, KY, 40214",
+	"address_alias": "1604 PARKRIDGE PKWY 40214",
+	"address_group": "Scheduled daily",
+	"first_name": "Peter",
+	"last_name": "Newman",
+	"address_email": "pnewman6564@yahoo.com",
+	"address_phone_number": "65432178",
+	"cached_lat": 38.141598,
+	"cached_lng": -85.793846,
+	"curbside_lat": 38.141598,
+	"curbside_lng": -85.793846,
+	"address_city": "Louisville",
+	"address_custom_data": {
+		"scheduled": "yes",
+		"serice type": "publiching"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "daily",
+		"daily": {
+			"every": 1
+		}
+	}],
+	"service_time": 900
+		
+}

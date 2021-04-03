@@ -1,0 +1,24 @@
+{
+	"address_1": "1407 MCCOY, Louisville, KY, 40215",
+	"address_alias": "1407 MCCOY 40215",
+	"address_group": "Scheduled weekly",
+	"first_name": "Bart",
+	"last_name": "Douglas",
+	"address_email": "bdouglas9514@yahoo.com",
+	"address_phone_number": "95487454",
+	"cached_lat": 38.202496,
+	"cached_lng": -85.786514,
+	"curbside_lat": 38.202496,
+	"curbside_lng": -85.786514,
+	"address_city": "Louisville",
+	"schedule": [{
+		"enabled": true,
+		"mode": "weekly",
+		"weekly": {
+			"every": 1,
+			"weekdays": [1,2,3,4,5]
+		}
+	}],
+	"service_time": 600
+		
+}

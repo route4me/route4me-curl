@@ -1,0 +1,58 @@
+{
+	"created_timestamp": 1487596215,
+	"address_id": 13600395,
+	"address_group": "Scheduled annually",
+	"address_alias": "650 SOUTH 29TH ST UNIT 315",
+	"address_1": "650 SOUTH 29TH ST UNIT 315, Louisville, KY, 40211",
+	"address_2": "",
+	"member_id": 1,
+	"first_name": "Shean",
+	"last_name": "Pogarchuk",
+	"address_email": "spogar2587@yahoo.com",
+	"address_phone_number": "544782221",
+	"address_city": "Louisville",
+	"address_state_id": null,
+	"address_country_id": "0",
+	"address_zip": "",
+	"cached_lat": 38.251923,
+	"cached_lng": -85.800034,
+	"curbside_lat": 38.251923,
+	"curbside_lng": -85.800034,
+	"address_custom_data": {
+		"scheduled": "yes",
+		"service type": "restaurant"
+	},
+	"schedule": [{
+		"enabled": true,
+		"mode": "annually",
+		"annually": {
+			"every": 1,
+			"use_nth": true,
+			"nth": {
+				"n": 1,
+				"what": 4
+			}
+		}
+	},
+	{
+		"enabled": true,
+		"mode": "annually",
+		"annually": {
+			"every": 1,
+			"use_nth": false,
+			"months": [2,3,4,5,6,7,8,9,10,11]
+		}
+	}],
+	"schedule_blacklist": null,
+	"in_route_count": 0,
+	"last_visited_timestamp": 0,
+	"last_routed_timestamp": 0,
+	"local_time_window_start": null,
+	"local_time_window_end": null,
+	"local_time_window_start_2": null,
+	"local_time_window_end_2": null,
+	"service_time": 480,
+	"local_timezone_string": null,
+	"color": null,
+	"address_icon": "emoji\/emoji-taxi"
+}

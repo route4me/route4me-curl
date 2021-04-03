@@ -1,0 +1,42 @@
+{
+	"created_timestamp": 1487595613,
+	"address_id": 13599646,
+	"address_group": "Scheduled weekly",
+	"address_alias": "1407 MCCOY 40215",
+	"address_1": "1407 MCCOY, Louisville, KY, 40215",
+	"address_2": "",
+	"member_id": 1,
+	"first_name": "Bart",
+	"last_name": "Douglas",
+	"address_email": "bdouglas9514@yahoo.com",
+	"address_phone_number": "95487454",
+	"address_city": "Louisville",
+	"address_state_id": null,
+	"address_country_id": "0",
+	"address_zip": "",
+	"cached_lat": 38.202496,
+	"cached_lng": -85.786514,
+	"curbside_lat": 38.202496,
+	"curbside_lng": -85.786514,
+	"address_custom_data": [],
+	"schedule": [{
+		"enabled": true,
+		"mode": "weekly",
+		"weekly": {
+			"every": 1,
+			"weekdays": [1, 2, 3, 4, 5]
+		}
+	}],
+	"schedule_blacklist": null,
+	"in_route_count": 0,
+	"last_visited_timestamp": 0,
+	"last_routed_timestamp": 0,
+	"local_time_window_start": null,
+	"local_time_window_end": null,
+	"local_time_window_start_2": null,
+	"local_time_window_end_2": null,
+	"service_time": 600,
+	"local_timezone_string": null,
+	"color": null,
+	"address_icon": null
+}
