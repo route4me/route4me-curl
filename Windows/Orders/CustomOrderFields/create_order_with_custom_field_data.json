@@ -1,0 +1,13 @@
+{
+	"address_1": "1358 E Luzerne St, Philadelphia, PA 19124, US",
+    "cached_lat"            : 48.335991,
+    "day_scheduled_for_YYMMDD": "2019-10-11",
+    "cached_lng"            : 31.18287,
+    "address_alias"         : "Auto test address",
+	"custom_user_fields": [
+      {
+       	"order_custom_field_id": 93, 
+       	"order_custom_field_value": "false"
+      }
+    ]
+}

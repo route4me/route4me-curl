@@ -1,0 +1,22 @@
+[
+	{
+		"order_custom_field_id": 174,
+		"order_custom_field_name": "CustomField3",
+		"order_custom_field_label": "Custom Field 3",
+		"order_custom_field_type": "checkbox",
+		"root_owner_member_id": 1,
+		"order_custom_field_type_info": {
+			"short_label": "cFl3"
+		}
+	},
+	{
+		"order_custom_field_id": 175,
+		"order_custom_field_name": "CustomField4",
+		"order_custom_field_label": "Custom Field 44",
+		"order_custom_field_type": "checkbox",
+		"root_owner_member_id": 1,
+		"order_custom_field_type_info": {
+			"short_label": "Fld4"
+		}
+	}
+]
