@@ -1,0 +1,286 @@
+{
+    "approved_for_execution": true,
+	"parameters": {
+        "algorithm_type": 1,
+        "device_type": "iphone",
+		"route_name": "Professional account testing for TW executing. 10/15/2017 23:38",
+		"avoid": "Tolls",
+        "distance_unit": "km",
+        "member_id": "1",
+		"driver_id": 435540,
+        "optimize": "Distance",
+        "remote_ip": "0",
+        "route_max_duration": 86400,
+        "route_time": 0,
+        "store_route": true,
+        "travel_mode": "Driving",
+        "vehicle_capacity": "1",
+        "vehicle_max_distance_mi": "10000",
+		"rt":true
+    },
+    "addresses": [ {
+      "is_depot": "TRUE",
+      "address": "2 Victoria Ct, Fredericksburg, VA 22407",
+      "lat": 38.23988342,
+      "lng": -77.51651001
+   },
+   {
+      "address": "9 Bainbridge Ln, Fredericksburg, VA 22407",
+      "lat": 38.2421608,
+      "lng": -77.52193451,
+      "time_window_start": 28800,
+      "time_window_end": 57600
+   },
+   {
+      "address": "6107 Prospect St, Fredericksburg, VA 22407",
+      "lat": 38.22298813,
+      "lng": -77.54519653,
+      "time_window_start": 25200,
+      "time_window_end": 57600
+   },
+   {
+      "address": "6202 Blackstone Blvd, Fredericksburg, VA 22407",
+      "lat": 38.22402191,
+      "lng": -77.54888153,
+      "time_window_start": 28800,
+      "time_window_end": 54000
+   },
+   {
+      "address": "10700 Heatherwood Dr, Spotsylvania, VA 22553",
+      "lat": 38.24650574,
+      "lng": -77.56491089,
+      "time_window_start": 28800,
+      "time_window_end": 54000
+   },
+   {
+      "address": "10416 Rolling Ridge Dr, Spotsylvania, VA 22553",
+      "lat": 38.24656677,
+      "lng": -77.5721283,
+      "time_window_start": 25200,
+      "time_window_end": 61200
+   },
+   {
+      "address": "10609 Mystic Pointe Dr, Fredericksburg, VA 22407",
+      "lat": 38.25134277,
+      "lng": -77.59936523,
+      "time_window_start": 39600,
+      "time_window_end": 61200
+   },
+   {
+      "address": "10705 Mystic Pointe Dr, Fredericksburg, VA 22407",
+      "lat": 38.25383759,
+      "lng": -77.60083771,
+      "time_window_start": 39600,
+      "time_window_end": 61200
+   },
+   {
+      "address": "11121 Cloverdale St, Fredericksburg, VA 22407",
+      "lat": 38.26173401,
+      "lng": -77.60549927,
+      "time_window_start": 36000,
+      "time_window_end": 54000
+   },
+   {
+      "address": "11123 Cloverdale St, Fredericksburg, VA 22407",
+      "lat": 38.26176453,
+      "lng": -77.60552979,
+      "time_window_start": 0,
+      "time_window_end": 54000
+   },
+   {
+      "address": "12602 Wesley Dr, Fredericksburg, VA 22407",
+      "lat": 38.30175781,
+      "lng": -77.61495209,
+      "time_window_start": 39600,
+      "time_window_end": 50400
+   },
+   {
+      "address": "7406 Drew Ln, Fredericksburg, VA 22407",
+      "lat": 38.29963684,
+      "lng": -77.58686829,
+      "time_window_start": 25200,
+      "time_window_end": 50400
+   },
+   {
+      "address": "7404 Drew Ln, Fredericksburg, VA 22407",
+      "lat": 38.29959106,
+      "lng": -77.58682251,
+      "time_window_start": 36000,
+      "time_window_end": 43200
+   },
+   {
+      "address": "12316 Willow Woods Dr, Fredericksburg, VA 22407",
+      "lat": 38.29549026,
+      "lng": -77.58434296,
+      "time_window_start": 39600,
+      "time_window_end": 54000
+   },
+   {
+      "address": "12207 McClain St, Fredericksburg, VA 22407",
+      "lat": 38.29514313,
+      "lng": -77.58358002,
+      "time_window_start": 25200,
+      "time_window_end": 54000
+   },
+   {
+      "address": "12305 Corter Ave, Fredericksburg, VA 22407",
+      "lat": 38.29640579,
+      "lng": -77.58313751,
+      "time_window_start": 39600,
+      "time_window_end": 57600
+   },
+   {
+      "address": "12319 McClain St, Fredericksburg, VA 22407",
+      "lat": 38.29692078,
+      "lng": -77.58209991,
+      "time_window_start": 28800,
+      "time_window_end": 57600
+   },
+   {
+      "address": "12634 Isle of Pines Blvd, Fredericksburg, VA 22407",
+      "lat": 38.30523682,
+      "lng": -77.5591507,
+      "time_window_start": 28800,
+      "time_window_end": 61200
+   },
+   {
+      "address": "12428 Single Oak Rd, Fredericksburg, VA 22407",
+      "lat": 38.29850006,
+      "lng": -77.55356598,
+      "time_window_start": 28800,
+      "time_window_end": 50400
+   },
+   {
+      "address": "1045 Bernstein Rd, Fredericksburg, VA 22407",
+      "lat": 38.28959274,
+      "lng": -77.54082489,
+      "time_window_start": 32400,
+      "time_window_end": 50400
+   },
+   {
+      "address": "5033 Tara Dr, Fredericksburg, VA 22407",
+      "lat": 38.28433228,
+      "lng": -77.54606628,
+      "time_window_start": 32400,
+      "time_window_end": 61200
+   },
+   {
+      "address": "5040 Tara Dr, Fredericksburg, VA 22407",
+      "lat": 38.28390121,
+      "lng": -77.54647064,
+      "time_window_start": 28800,
+      "time_window_end": 50400
+   },
+   {
+      "address": "5075 MacNamara Dr, Fredericksburg, VA 22407",
+      "lat": 38.28368378,
+      "lng": -77.54904175,
+      "time_window_start": 36000,
+      "time_window_end": 50400
+   },
+   {
+      "address": "5077 Blarney St, Fredericksburg, VA 22407",
+      "lat": 38.28321838,
+      "lng": -77.55122375,
+      "time_window_start": 0,
+      "time_window_end": 43200
+   },
+   {
+      "address": "823 Galway Ln, Fredericksburg, VA 22407",
+      "lat": 38.28552628,
+      "lng": -77.55226135,
+      "time_window_start": 25200,
+      "time_window_end": 61200
+   },
+   {
+      "address": "5117 MacNamara Dr, Fredericksburg, VA 22407",
+      "lat": 38.28620148,
+      "lng": -77.55170441,
+      "time_window_start": 25200,
+      "time_window_end": 46800
+   },
+   {
+      "address": "12027 N Dickinson Dr, Fredericksburg, VA 22407",
+      "lat": 38.28735352,
+      "lng": -77.55574036,
+      "time_window_start": 36000,
+      "time_window_end": 50400
+   },
+   {
+      "address": "6817 Harrison Rd, Fredericksburg, VA 22407",
+      "lat": 38.28585815,
+      "lng": -77.56072998,
+      "time_window_start": 25200,
+      "time_window_end": 54000
+   },
+   {
+      "address": "11921 N Dickinson Dr, Fredericksburg, VA 22407",
+      "lat": 38.28507614,
+      "lng": -77.5557251,
+      "time_window_start": 32400,
+      "time_window_end": 57600
+   },
+   {
+      "address": "10954 Houser Dr, Fredericksburg, VA 22408",
+      "lat": 38.25771713,
+      "lng": -77.50820923,
+      "time_window_start": 25200,
+      "time_window_end": 46800
+   },
+   {
+      "address": "128 Woodland Dr, Stafford, VA 22556",
+      "lat": 38.50175476,
+      "lng": -77.54008484,
+      "time_window_start": 0,
+      "time_window_end": 54000
+   },
+   {
+      "address": "2232 Aquia Dr, Stafford, VA 22554",
+      "lat": 38.46336365,
+      "lng": -77.37402344,
+      "time_window_start": 25200,
+      "time_window_end": 46800
+   },
+   {
+      "address": "94 The Vance Way, Fredericksburg, VA 22405",
+      "lat": 38.34377289,
+      "lng": -77.35821533,
+      "time_window_start": 36000,
+      "time_window_end": 50400
+   },
+   {
+      "address": "3 Edgewood Circle, Fredericksburg, VA 22405",
+      "lat": 38.35602188,
+      "lng": -77.44276428,
+      "time_window_start": 25200,
+      "time_window_end": 54000
+   },
+   {
+      "address": "609 Jett St, Fredericksburg, VA 22405",
+      "lat": 38.32167816,
+      "lng": -77.43450928,
+      "time_window_start": 32400,
+      "time_window_end": 57600
+   },
+   {
+      "address": "1120 Potomac Ave, Fredericksburg, VA 22405",
+      "lat": 38.3113327,
+      "lng": -77.4356308,
+      "time_window_start": 25200,
+      "time_window_end": 46800
+   },
+   {
+      "address": "10809 Stacy Run, Fredericksburg, VA 22408",
+      "lat": 38.25823975,
+      "lng": -77.42526245,
+      "time_window_start": 0,
+      "time_window_end": 54000
+   },
+   {
+      "address": "10102 Westover Ct, Fredericksburg, VA 22408",
+      "lat": 38.2338562,
+      "lng": -77.48287201,
+      "time_window_start": 0,
+      "time_window_end": 57600
+   }]
+}
