@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "activity_id": "EA4A73DD76FAAC6BAC6E33BE10E3916F",
+      "member_id": 1,
+      "activity_timestamp": 1573206294,
+      "activity_type": "some-activity-type",
+      "activity_message": "Some activity message",
+      "route_id": "B9F8A72EEC2B168084588DFFCD9B8284",
+      "route_destination_id": null,
+      "note_id": null,
+      "member": {
+        "member_id": 1,
+        "member_first_name": "John",
+        "member_last_name": "Doe",
+        "member_email": "JohnDoe@example.com"
+      }
+    }
+  ],
+  "total": 1
+}

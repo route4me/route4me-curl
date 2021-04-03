@@ -1,0 +1,15 @@
+{
+	"id": 75813,
+	"name": "addresses_linked.xlsx",
+	"download_url": "https://route4me.com/webapi/v5.0/team/files/75813/download",
+	"started_at": "2020-08-13T18:51:23+00:00",
+	"finished_at": "2020-08-13T18:51:23+00:00",
+	"is_finished": true,
+	"is_failed": null,
+	"error": null,
+	"source_file_type_id": 2,
+	"source_file_type": "user-file-uploads",
+	"tags": [
+		"xlsx file"
+	]
+}
