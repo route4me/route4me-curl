@@ -1,0 +1,41 @@
+{
+	"data": [{
+		"phone_number": "0636195245",
+		"measurement": 0,
+		"website": null,
+		"user_id": "0D7C9EC7777777777777777777777777",
+		"last_name": "soyer",
+		"email": "tomsoyer@route4me.com",
+		"vendor_id": 1,
+		"company_name": "Tom Soyer",
+		"first_name": "tom",
+		"timezone": null,
+		"locale": null
+	},
+	{
+		"phone_number": "+1234567890",
+		"measurement": 0,
+		"website": "https://route4me.com",
+		"user_id": "58CB4190FFFFFFFFFFFFFFFFFFFFFFFF",
+		"last_name": "Doe",
+		"email": "vendor.test@route4me.com",
+		"vendor_id": 99999999,
+		"company_name": "Jon The Vendor",
+		"first_name": "Jon",
+		"timezone": null,
+		"locale": null
+	},
+	{
+		"phone_number": null,
+		"measurement": 0,
+		"website": "https://www.bentalker.com/",
+		"user_id": "1ED38993BCDDDDDDDDDDDDDDDDDDDDDD",
+		"last_name": "Talker",
+		"email": "bentalker@route4me.com",
+		"vendor_id": 18,
+		"company_name": "BenTalk",
+		"first_name": "Ben",
+		"timezone": null,
+		"locale": null
+	}]
+}
