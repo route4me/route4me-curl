@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Route4Me Enhances Dynamic Route Optimization Capabilities To Meet Same-Day Economy Needs",
+    "description": "<p>Route4Me, Inc. (<a href=\"http:\/\/www.route4me.com\/\">http:\/\/www.route4me.com<\/a>) recently introduced a new version of its proprietary route optimization engine that dramatically improves the speed of its dynamic route optimization algorithm \u2013 a type of route optimization that simultaneously generates optimally sequenced multi-stop driving routes for many drivers originating from many depots.<\/p>\n<p>The platform enhancement creates higher density routes, with more drops and\/or pickups per hour, permitting businesses to employ or subcontract routes to fewer drivers. This is absolutely critical when working with a dynamic pool of drivers that is rapidly growing and shrinking as demand fluctuates. Businesses that have a high volume number of orders will see applications that need constant route re-evaluation because of on-demand orders.<\/p>\n<p>Real-time route re-evaluation is a mission critical capability which incorporates real-world problematic situations into the route planning and route execution lifecycle. Unfortunately, vehicle failures, customer cancellations, late freight, road closures, weather, and traffic all cause highly optimized routes to become obsolete very quickly. However, Route4Me\u2019s platform capabilities finally permit companies to overcome these problems with industry-first features such as over-the-air route updates, GPS-based planned versus actual tracking, route deviation detection, dynamic geofencing, and real-time route sequence re-optimization.<\/p>\n<p>\u201cOptimizing routes using previous-generation software is extremely time consuming, usually a batch process prone to failures, but especially because the computations were done on someone&#8217;s personal computer or using an obsolete server sitting in the office network closet.\u201d says George Shchegolev, Route4Me\u2019s co-founder and vice president of operations. \u201cBecause our new low latency architecture has multiple points-of-presence around the world, our customers can access the real-time route planning API and integrate it directly into their e-commerce workflow, in conjunction with their proprietary systems, or a TMS and WMS.\u201d<\/p>\n<p>In addition to letting businesses add orders to optimized routes as they come in, the new release lets businesses execute real-time feasibility checks with time windows and multiple constraints, while simultaneously doing delivery prioritization and proximity clustering. This helps meet the needs of VIP customers that demand nearly impossible delivery and pickup times\u2014all while handling thousands of orders from one or multiple depots. Orders can even be sent to Route4Me using its EDI gateway.<\/p>\n<p>\u201cProcessing new orders in real-time and generating optimized routes is absolutely critical for continuous-flow logistics and last-mile\/final-mile optimization. Our goal is to dramatically improve today\u2019s same-day economy by lowering the fully-loaded transportation costs for our customers. No other route planning platform in the world can match the dynamic route optimization capabilities now available in our platform,\u201d says Shchegolev.<\/p>\n<p>Route4Me\u2019s new platform is so fast that it can generate optimized routes in milliseconds for thousands of concurrently connected users. As an example, one commodity cloud server with only 8GB of memory and 4 cores can run 1,000 simultaneous 50 stop route optimizations per second. With an average execution latency of 200 milliseconds per route, it would only take a total time of 5 seconds to optimally sequence 1,000 routes, or to run 1,000 different simulations of one route.<\/p>\n<p>The optimization API is accessible using the industry\u2019s most popular languages, including C#, Python, Node, Java, C++, Ruby on Rails, PHP, Erlang, and Go.<\/p>\n<p>About the company<br \/>\nFounded in 2009 and now with over 3,000 customers worldwide, Route4Me, Inc. provides the world\u2019s most-used dynamic route sequencing and optimization software platform for small and medium-sized businesses and Fortune 500 enterprises. Highly intuitive and easy to use, the Route4Me platform allows customers to create, share, manage, track and drive optimized routes in a matter of seconds using the company\u2019s web-browser software-as-a-service (SaaS), RESTful API and Smartphone apps. Route4Me was the first route optimization company to release native iOS and Android apps simultaneously and reach over 1 million downloads. The apps are consistently ranked Top 10 highest grossing apps in the Navigation category in both app stores. Completely cloud-based, Route4Me is ideal for fleets of any size, parcel and service delivery, ecommerce, territory management, GPS-tracking, final-mile optimization, dynamic routing, and supports API integration with any CRM, TMS, WMS and ISV. Register for a free 7-day trial at:\u00a0<a href=\"http:\/\/www.route4me.com\/\">http:\/\/www.route4me.com<\/a><\/p>\n",
+    "excerpt": "<p>Route4Me&#8217;s dynamic route optimization technology now makes its platform a powerful tool for businesses who want to dominate today\u2019s highly competitive real-time economy.<\/p>\n",
+    "date": "2015-12-23T12:00:22",
+    "slug": "route4me-enhances-dynamic-route-optimization-capabilities-meet-day-economy-needs",
+    "categories": [
+      
+    ],
+    "tags": [
+      {
+        "name": "Dynamic Routing",
+        "slug": "dynamic-routing",
+        "count": 1
+      },
+      {
+        "name": "Route Optimization",
+        "slug": "route-optimization",
+        "count": 1
+      }
+    ],
+    "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/Dynamic-Route-Optimization-Capabilities.jpg",
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/Dynamic-Route-Optimization-Capabilities-388x220.jpg"
+  },
+  {
+    "title": "Route4Me Adds Time Saving Auto Check-in\/Check-out Feature",
+    "description": "<p><a href=\"http:\/\/route4me.com\/\">Route4Me, Inc.<\/a>\u00a0recently announced that it has added an auto check-in feature for drivers to its industry-leading route sequencing and optimization platform. The new feature, which cuts costs, saves time, and boosts employee productivity, uses dynamic geo-fencing to eliminate the need for drivers to check in and out of locations manually. Convenient for all businesses, the new check-in feature is ideal when drivers have to visit many destinations per day.<\/p>\n<p>\u201cOur platform is among the few that offer an automatic geo-fencing check-in feature,\u201d says George Shchegolev, Route4Me\u2019s co-founder and vice president of operations. \u201cWhen combined with our high-speed route sequencing and optimization capabilities, the new feature enhances an already powerful tool by showing users a planned versus actual route in real-time. We have seen an efficiency increase in our beta program by double-digit percentages. Auto check-in also provides tighter control over field personnel, virtually eliminating the need for more training and hours of non-billable wasted time.\u201d<\/p>\n<p>Route4Me\u2019s new\u00a0<a href=\"http:\/\/route4me.com\/\">auto check-in feature<\/a>\u00a0lets businesses specify a proximity shape and size for stops on their route and the amount of time it takes to trigger an automatic check in either in seconds or as a percentage of the expected time on site.<\/p>\n<p>In addition, Route4Me\u2019s new auto check-in feature updates dynamic estimated arrival times in the manifest and logs in times when a driver deviates from a planned route, enabling businesses to detect when drivers are \u201cfreestyling.\u201d Drivers can still manually enter their arrival and departure time, and both data sets are stored and available for analysis.<\/p>\n<p>\u201cThe more drivers a business has, the bigger the savings,\u201d says Shchegolev. \u201cBusinesses with 100 drivers visiting 100 locations a day each will save about 55 hours per day using this feature. Productivity-wise, it&#8217;s like adding seven drivers to a fleet at no additional cost.\u201d<\/p>\n<p>The new feature also improves safety on the road, because drivers using Route4Me do not have to look at their phone to manually \u201ccheck in.\u201d Route4Me plans to link its geo-fencing capability with its forthcoming customer messaging and notification module. The module will automatically notify customers by text message or phone call when a driver is approaching or is going to be late.<\/p>\n<p>Geo-fencing uses the global positioning system (GPS), cellular tower triangulation, WiFi signal detection, and radio frequency identification (RFID) to define geographical boundaries, creating a virtual zone so that drivers no longer have to repeat the same wasteful operations many times per day. About the company<\/p>\n<p>Founded in 2009,\u00a0<a href=\"http:\/\/route4me.com\/\">Route4Me, Inc.<\/a>\u00a0provides the world\u2019s most used route sequencing and optimization software for small and medium businesses and enterprises. Route4Me, Inc. was the first route optimization company to release iPhone and Android apps simultaneously. Highly intuitive and easy to use, the Route4Me app allows users to create, share, manage, and drive optimized routing plans in a matter of seconds using the company\u2019s web-browser software and smartphone apps. Completely in the Cloud, Route4Me is ideal for field sales, field marketing, field merchandising, and territory management and optimization.<\/p>\n",
+    "excerpt": "<p>Route4Me, Inc. recently announced that it has added an auto check-in feature for drivers to its industry-leading route sequencing and optimization platform. Convenient for all businesses, the new check-in feature is ideal when drivers have to visit many destinations per day.<\/p>\n",
+    "date": "2015-11-30T09:30:28",
+    "slug": "route4me-adds-time-saving-auto-check-incheck-feature",
+    "categories": [
+      
+    ],
+    "tags": [
+      {
+        "name": "Family business",
+        "slug": "family-business",
+        "count": 2
+      },
+      {
+        "name": "Small business",
+        "slug": "small-business",
+        "count": 2
+      },
+      {
+        "name": "Time Saving",
+        "slug": "time-saving",
+        "count": 1
+      }
+    ],
+    "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/route4me-auto-checkin.jpg",
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/route4me-auto-checkin-388x220.jpg"
+  },
+  {
+    "title": "Route4Me Announces New Program To Help Abandoned MapPoint Users",
+    "description": "<p>FORT LEE, NJ, November 4, 2015 \u2014\u00a0<a href=\"http:\/\/route4me.com\/\">Route4Me<\/a>, Inc., provider of the marketplace&#8217;s most user-friendly and downloaded route optimization solution for small and medium size businesses, recently introduced a\u00a0<a href=\"http:\/\/try.route4me.com\/mappoint-alternative-route-planner\/\">new onboarding program<\/a>\u00a0designed specifically to help Microsoft MapPoint users move to Route4Me.<\/p>\n<p>\u201cOur new onboarding program makes the transition to Route4Me quick and painless,\u201d says Bjorn Orvar, Director of Marketing, Route4Me. \u201cEvery MapPoint user gets free onboarding and training from an assigned small business routing expert. Plus, they have a single point of contact throughout the process. Route4Me proprietary route sequence optimization engine has already eliminated over 40 billion wasted driving miles, making it ideal for today\u2019s business owners.\u201d<\/p>\n<p>As an added incentive, Route4Me is also providing MapPoint users a free 7-day trial period\u2014with no credit card needed. Businesses can take immediate advantage of Route4Me\u2019s new program by calling 1-888-552-9045 or visiting the company\u2019s newly created\u00a0<a href=\"http:\/\/try.route4me.com\/mappoint-alternative-route-planner\/\">MapPoint center<\/a>.<\/p>\n<p>Route4Me&#8217;s MapPoint program consists of four easy steps. The steps are:<\/p>\n<ul>\n<li><strong>Step 1:<\/strong>\u00a0We create and set-up your Route4Me trial account<\/li>\n<li><strong>Step 2:<\/strong>\u00a0We help you import your data from Map Point<\/li>\n<li><strong>Step 3:<\/strong>\u00a0A routing expert will plan your first routes by remote screen-sharing<\/li>\n<li><strong>Step 4:<\/strong>\u00a0Get additional onboard training. We will train you, your employees and hold your hand through the process for free.<\/li>\n<\/ul>\n<p>Once the onboarding is completed, former MapPoint users gain access to one of the most reachable customer support department in the route planning industry. Support options include live chat support, e-mail support, an extensive knowledge base with videos, weekly open question and answer sessions, and business hours phone support.<\/p>\n<p>\u201cSmall businesses are often hesitant to make unnecessary software changes due to perceived costs and risks. The good news is that Route4Me works in a regular web- browser and on iPhone\/Android devices, so businesses can now get state-of-the-art mapping and optimization software without fear that it won\u2019t work on their existing office computers. The customer will never have to purchase a server,\u201d said George Shchegelov, VP Operations and Co-Founder, Route4Me.<\/p>\n<p>Microsoft discontinued MapPoint in 2014 and is no longer offering map updates or improving optimization algorithms. Simple and easy to use, Route4Me is available on the Mac, PC, iPhone, iPads, Android. Route4Me optimally sequences routes of almost any size in seconds and geocodes tens of thousands of addresses in minutes.<\/p>\n<p>For more information about Route4Me&#8217;s new onboarding program or the Route4Me application: Tel: 1-888-552-9045<\/p>\n<p>MapPoint Center:\u00a0<a href=\"http:\/\/try.route4me.com\/mappoint-alternative-route-planner\/\">www.try.route4me.com\/mappoint-alternative-route-planner<\/a><\/p>\n",
+    "excerpt": "<p>Free onboarding program helps MapPoint users transition quickly and painlessly<\/p>\n",
+    "date": "2015-11-04T00:00:24",
+    "slug": "route4me-announces-new-program-help-abandoned-mappoint-users",
+    "categories": [
+      
+    ],
+    "tags": [
+      {
+        "name": "Family business",
+        "slug": "family-business",
+        "count": 2
+      },
+      {
+        "name": "MapPoint",
+        "slug": "mappoint",
+        "count": 1
+      },
+      {
+        "name": "Small business",
+        "slug": "small-business",
+        "count": 2
+      }
+    ],
+    "image": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/mappoint.jpg",
+    "thumbnail": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/08\/mappoint-388x220.jpg"
+  }
+]

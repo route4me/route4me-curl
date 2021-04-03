@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Navigating the Family Business Through a Time of &#8220;Dangerous Change&#8221;",
+    "excerpt": "<p>A surprising statistic published in May, 2011, by the United States Small Business Administration was that family-owned businesses account for 90% of all businesses in<a class=\"moretag\" href=\"https:\/\/blog.route4me.com\/r4m_resource_center\/navigating-family-business-time-dangerous-change\/\"> [&#8230;]<\/a><\/p>\n",
+    "date": "2018-11-12T11:26:54",
+    "slug": "navigating-family-business-time-dangerous-change",
+    "categories": [
+      {
+        "term_id": 398,
+        "name": "Business",
+        "slug": "business",
+        "term_group": 0,
+        "term_taxonomy_id": 398,
+        "taxonomy": "rc-categories",
+        "description": "",
+        "parent": 0,
+        "count": 12,
+        "filter": "raw"
+      },
+      {
+        "term_id": 399,
+        "name": "Family Business",
+        "slug": "family-business",
+        "term_group": 0,
+        "term_taxonomy_id": 399,
+        "taxonomy": "rc-categories",
+        "description": "",
+        "parent": 398,
+        "count": 12,
+        "filter": "raw"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Family Business",
+        "slug": "family-business",
+        "count": 12
+      }
+    ],
+    "image": false,
+    "thumbnail": false
+  },
+  {
+    "title": "Family Business Issues and some Tools to Help &#8211; Theory vs Real World",
+    "excerpt": "<p>Universities are studying \u201cthe family business\u201d. Fairleigh Dickinson University, in New Jersey, established the O. Berk Company Family Business Forum in 1992, to support local<a class=\"moretag\" href=\"https:\/\/blog.route4me.com\/r4m_resource_center\/family-business-issues-tools-help-theory-vs-real-world\/\"> [&#8230;]<\/a><\/p>\n",
+    "date": "2018-11-12T11:25:52",
+    "slug": "family-business-issues-tools-help-theory-vs-real-world",
+    "categories": [
+      {
+        "term_id": 398,
+        "name": "Business",
+        "slug": "business",
+        "term_group": 0,
+        "term_taxonomy_id": 398,
+        "taxonomy": "rc-categories",
+        "description": "",
+        "parent": 0,
+        "count": 12,
+        "filter": "raw"
+      },
+      {
+        "term_id": 399,
+        "name": "Family Business",
+        "slug": "family-business",
+        "term_group": 0,
+        "term_taxonomy_id": 399,
+        "taxonomy": "rc-categories",
+        "description": "",
+        "parent": 398,
+        "count": 12,
+        "filter": "raw"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Family Business",
+        "slug": "family-business",
+        "count": 12
+      }
+    ],
+    "image": false,
+    "thumbnail": false
+  }
+]

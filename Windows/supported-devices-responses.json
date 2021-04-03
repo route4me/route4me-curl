@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Meizu U20",
+    "slug": "meizu-u20",
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "6.0",
+    "make": "Meizu",
+    "model": "U20",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20-158x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/7593df5e-meizu_u20-63x128.jpg"
+  },
+  {
+    "title": "Meizu U10",
+    "slug": "meizu-u10",
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": null,
+    "make": "Meizu",
+    "model": "U10",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/3b94eaaa-meizu_u10.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/3b94eaaa-meizu_u10.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/3b94eaaa-meizu_u10.jpg"
+  },
+  {
+    "title": "Meizu MX5e",
+    "slug": "meizu-mx5e",
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "5.0.1",
+    "make": "Meizu",
+    "model": "MX5e",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e-178x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/c637d0fa-meizu_mx5e-71x128.jpg"
+  },
+  {
+    "title": "Meizu Pro 6 Plus",
+    "slug": "meizu-pro-6-plus",
+    "os": "android",
+    "formfactor": "smartphone",
+    "os_version": "6.0",
+    "make": "Meizu",
+    "model": "Pro 6 Plus",
+    "img_full": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus.jpg",
+    "img_medium": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus-161x320.jpg",
+    "img_small": "https:\/\/storage.googleapis.com\/r4m-blog-cdn\/2018\/01\/d8989cd1-meizu_pro_6_plus-65x128.jpg"
+  }
+]
