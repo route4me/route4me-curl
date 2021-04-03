@@ -1,0 +1,166 @@
+[
+  {
+    "id": 5009,
+    "date": "2017-06-20T07:13:01",
+    "date_gmt": "2017-06-20T07:13:01",
+    "guid": {
+      "rendered": "http:\/\/blog.route4me.com\/?post_type=r4m_ebooks&#038;p=5009"
+    },
+    "modified": "2017-06-20T07:17:39",
+    "modified_gmt": "2017-06-20T07:17:39",
+    "slug": "plan-smarter-deliver-faster-add-human-touch-route-planning",
+    "status": "publish",
+    "type": "r4m_ebooks",
+    "link": "http:\/\/blog.route4me.com\/ebooks\/plan-smarter-deliver-faster-add-human-touch-route-planning\/",
+    "title": {
+      "rendered": "Plan Smarter, Deliver Faster: Add a Human Touch to Route Planning"
+    },
+    "content": {
+      "rendered": "<h1><b>Route Planning: Keeping Customers Happy\u00a0<\/b><b>Isn\u2019t As Easy As It Used To Be\u2026<\/b><\/h1>\n<p>A decade or two ago, it was relatively easy to keep customers happy. As long as their order got to their house within a day or two of the scheduled arrival date, people were happy.\u00a0Customers today are much more demanding. They want their items to arrive quickly &#8211; on the next day or even the same day that they placed their order. Is your business efficient enough to offer same-day delivery? Let&#8217;s explore the world of route planning.<\/p>\n<h2><b>Route Optimization Software Can Help<\/b><\/h2>\n<p>Planning routes by yourself is a nightmare. There\u2019s more to it than just figuring out which roads your drivers must take to reach your customers. You also need to account for traffic, weather, construction, customer availability\u2026 that can take hours. And after all that work, there\u2019s no guarantee that the routes you come up with are actually efficient.<\/p>\n<p>But there\u2019s no reason to plan routes by yourself. Route planning software will do the hard work for you. All you need to do is plug in the addresses of your customers. Then, the software will produce a 100% accurate and optimized route for you in 30 seconds or less.<\/p>\n<h2><b>Reduce Your Fuel Expenses<\/b><\/h2>\n<p>Final mile delivery software guarantees that every route you give your drivers is the most efficient route possible.<\/p>\n<p>Gas is one of your biggest expenses, right?<\/p>\n<p>Well, more efficient routes means you won\u2019t need to pay for as much gas. In fact, studies show that route planning software can cut your fuel costs by up to 30%. How do you like that?<\/p>\n<h2><b>Keep An Eye On Your Drivers<\/b><\/h2>\n<p>Everyone tends to slack off at work when they\u2019re unsupervised, and drivers are almost always unsupervised.\u00a0Your drivers might be stopping for snacks or running personal errands while they\u2019re on the clock. You can\u2019t see them, so how do you know?<\/p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Route Planning: Keeping Customers Happy\u00a0Isn\u2019t As Easy As It Used To Be\u2026 A decade or two ago, it was relatively easy to keep customers happy.<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/ebooks\/plan-smarter-deliver-faster-add-human-touch-route-planning\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "featured_media": 5010,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "language": [
+      112
+    ],
+    "pdf": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Plan-Smarter-Deliver-Faster-Add-a-Human-Touch-to-Route-Planning.pdf",
+    "ebook_cover": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Plan-Smarter-Deliver-Faster-Add-a-Human-Touch-to-Route-Planning-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks\/5009"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_ebooks"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5009"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5010"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5009"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "ebook-language",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/language?post=5009"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5007,
+    "date": "2017-06-20T07:04:21",
+    "date_gmt": "2017-06-20T07:04:21",
+    "guid": {
+      "rendered": "http:\/\/blog.route4me.com\/?post_type=r4m_ebooks&#038;p=5007"
+    },
+    "modified": "2017-06-28T02:25:08",
+    "modified_gmt": "2017-06-28T02:25:08",
+    "slug": "grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth",
+    "status": "publish",
+    "type": "r4m_ebooks",
+    "link": "http:\/\/blog.route4me.com\/ebooks\/grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth\/",
+    "title": {
+      "rendered": "Grow! Grow! Grow! Don&#8217;t Let  the Wrong Route Optimization Platform Stunt Your Growth"
+    },
+    "content": {
+      "rendered": "<h1><b>Finding The Right Route Optimization Platform Can Be A Challenge<\/b><\/h1>\n<p>There are dozens of different route planners to choose from. How do you know which one is right for your business?\u00a0It\u2019s all about features. While every route planner can take a set of stops and turn it into an efficient route, not every route planner has extra features like GPS tracking, geofencing, and territory mapping.\u00a0Route optimization will improve efficiency, but it\u2019s these extra features that will really work wonders for your bottom line.<\/p>\n<p>\u201cThe first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.\u201c<\/p>\n<p>&#8211; Bill Gates<\/p>\n<h2><strong>5 Must-Have Route Planner Features<\/strong><\/h2>\n<p>Not all route planner are equal. Some companies haven\u2019t quite figured out their algorithm yet, and the routes their products come up with aren\u2019t 100% efficient. Other companies are much better &#8211; their products guarantee that every route you give your drivers is the most efficient route possible, and they offer additional features that will make your business even more efficient.<\/p>\n<p>Before you invest in route planning software, make sure it has the following five features:<\/p>\n<h2><b style=\"font-family: inherit; font-style: inherit;\">Turn Restrictions<\/b><\/h2>\n<p>The first feature to look for is turn restrictions.<\/p>\n<p>UPS saves hundreds of millions of dollars every year by avoiding left turns.<\/p>\n<p>You could save money by doing this, too. Think about it: every time your driver tries to turn left, they need to wait for traffic to clear before they can go. They don\u2019t have the right of way. All that idling eats up a lot of time and gas\u2026<\/p>\n<p>Route planners with a turn restriction feature produce routes that take you to all your stops while avoiding left turns. Your drivers will be able to complete their routes more efficiently.<\/p>\n<p>Download this eBook to learn more about the other features.<\/p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Finding The Right Route Optimization Platform Can Be A Challenge There are dozens of different route planners to choose from. How do you know which<a class=\"moretag\" href=\"http:\/\/blog.route4me.com\/ebooks\/grow-grow-grow-dont-let-wrong-route-optimization-platform-stunt-growth\/\"> [&#8230;]<\/a><\/p>\n",
+      "protected": false
+    },
+    "featured_media": 5008,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "language": [
+      112
+    ],
+    "pdf": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Grow-Grow-Grow-Dont-Let-The-Wrong-Route-Optimization-Platform-Stunt-Your-Growth.pdf",
+    "ebook_cover": "http:\/\/blog.route4me.com\/wp-content\/uploads\/2017\/06\/Grow-Grow-Grow-Dont-Let-the-Wrong-Route-Optimization-Platform-Stunt-Your-Growth-388x220.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks\/5007"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/ebooks"
+        }
+      ],
+      "about": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/types\/r4m_ebooks"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/comments?post=5007"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media\/5008"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/media?parent=5007"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "ebook-language",
+          "embeddable": true,
+          "href": "http:\/\/blog.route4me.com\/wp-json\/wp\/v2\/language?post=5007"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
