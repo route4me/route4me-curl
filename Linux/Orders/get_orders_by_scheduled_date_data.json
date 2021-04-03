@@ -1,0 +1,7 @@
+{
+   "filter": {
+	"display": "all",
+	"scheduled_for_YYMMDD": ["2019-06-01", "2019-06-18"],
+	"limit": 10
+   }
+}
