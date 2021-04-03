@@ -1,0 +1,107 @@
+{
+	"addresses": [{
+		"address": "754 5th Ave New York, NY 10019",
+		"address_stop_type": null,
+		"alias": "Bergdorf Goodman",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"is_depot": true,
+		"lat": 40.7636197,
+		"lng": -73.9744388,
+		"time": 0
+	},
+	{
+		"address": "717 5th Ave New York, NY 10022",
+		"address_stop_type": null,
+		"alias": "Giorgio Armani",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7669692,
+		"lng": -73.9693864,
+		"time": 0
+	},
+	{
+		"address": "888 Madison Ave New York, NY 10014",
+		"address_stop_type": null,
+		"alias": "Ralph Lauren Women's and Home",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7715154,
+		"lng": -73.9669241,
+		"time": 0
+	},
+	{
+		"address": "1011 Madison Ave New York, NY 10075",
+		"address_stop_type": null,
+		"alias": "Yigal Azrou'l",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7772129,
+		"lng": -73.9669,
+		"time": 0
+	},
+	{
+		"address": "440 Columbus Ave New York, NY 10024",
+		"address_stop_type": null,
+		"alias": "Frank Stella Clothier",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7808364,
+		"lng": -73.9732729,
+		"time": 0
+	},
+	{
+		"address": "324 Columbus Ave #1 New York, NY 10023",
+		"address_stop_type": null,
+		"alias": "Liana",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7803123,
+		"lng": -73.9793079,
+		"time": 0
+	},
+	{
+		"address": "110 W End Ave New York, NY 10023",
+		"address_stop_type": null,
+		"alias": "Toga Bike Shop",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7753077,
+		"lng": -73.9861529,
+		"time": 0
+	},
+	{
+		"address": "555 W 57th St New York, NY 10019",
+		"address_stop_type": null,
+		"alias": "BMW of Manhattan",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7718005,
+		"lng": -73.9897716,
+		"time": 0
+	},
+	{
+		"address": "57 W 57th St New York, NY 10019",
+		"address_stop_type": null,
+		"alias": "Verizon Wireless",
+		"curbside_lat": null,
+		"curbside_lng": null,
+		"lat": 40.7558695,
+		"lng": -73.9862019,
+		"time": 0
+	}],
+	"parameters": {
+		"algorithm_type": 1,
+		"device_type": "web",
+		"distance_unit": "mi",
+		"optimize": "Distance",
+		"route_date": 1502928000,
+		"route_max_duration": 86400,
+		"route_name": "Single Driver Round Trip",
+		"route_time": 25200,
+		"store_route": false,
+		"travel_mode": "Driving",
+		"vehicle_capacity": 1,
+		"vehicle_max_distance_mi": 10000
+	}
+}
