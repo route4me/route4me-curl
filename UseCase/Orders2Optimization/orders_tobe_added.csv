@@ -1,0 +1,5 @@
+address,lat,lng,alias,curbside_lat,curbside_lng,is_depot,email,phone,first_name,last_name,custom_fields/icon,time,order_id
+"455 S 4th St, Louisville, KY 40202",38.251698,-85.757308,,38.251698,-85.757308,true,,,,,,,
+"5500 WILKE FARM AVE, Louisville, KY, 40216",38.166065,-85.863319,BK Restaurant #: 2446,38.166065,-85.863319,,,(917) 338-1887,,,NULL,0,7205705
+"1020 BLUEGRASS AVE, Louisville, KY, 40215",38.17952,-85.780037,BK Restaurant #: 20333,38.17952,-85.780037,,,(212) 227-7535,,,NULL,0,7205704
+"7315 ST ANDREWS WOODS CIRCLE UNIT 104, Louisville, KY, 40214",38.151072,-85.802867,BK Restaurant #: 17871,38.151072,-85.802867,,,(212) 566-5132,,,NULL,0,7205703

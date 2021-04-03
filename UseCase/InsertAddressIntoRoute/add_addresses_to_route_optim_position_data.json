@@ -1,0 +1,16 @@
+{
+	"addresses":[
+		{
+			"address":"1386 South Medina Line Road Wadsworth, OH 44281, USA",
+			"alias":"",
+			"lat": 41.097507,
+			"lng": -81.688719,
+			"curbside_lat": 41.097507,
+			"curbside_lng": -81.688719,
+			"contact_id":null,
+			"is_departed":false,
+			"is_visited":false
+		}
+	],
+	"optimal_position":true
+}
