@@ -1,0 +1,19 @@
+{
+	"parameters": {
+        "algorithm_type": 4,
+		"store_route": false,
+		"route_name": "Route for 50000 vehicles, Single Depot, Multiple Driver, No Time Window",
+		"route_date": 1464523994,
+		"route_time": 25200,
+		"rt": true,
+		"route_max_duration": 86400,
+		"vehicle_capacity": "20",
+		"vehicle_max_distance_mi": "99999",
+		"parts": 4,
+		"optimize": "Time",
+		"distance_unit": "mi",
+        "device_type": "web",
+		"travel_mode": "Driving",
+		"metric": 3
+    }
+}

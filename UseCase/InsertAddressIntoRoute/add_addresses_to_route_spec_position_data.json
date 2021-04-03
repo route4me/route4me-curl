@@ -1,0 +1,17 @@
+{
+	"addresses":[
+		{
+			"address":"2633 Hudson Aurora Road Hudson, OH 44236, USA",
+			"alias":"",
+			"lat": 41.260991,
+			"lng": -81.413057,
+			"curbside_lat": 41.260991,
+			"curbside_lng": -81.413057,
+			"contact_id":null,
+			"sequence_no":9,
+			"is_departed":false,
+			"is_visited":false
+		}
+	],
+	"optimal_position":false
+}

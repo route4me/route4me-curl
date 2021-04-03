@@ -1,0 +1,37 @@
+	"parameters": {
+		"route_name": "Visit_Many_Addresses_In_Few_Routes_2_08-04-2016",
+		"route_date": 1470268800,
+		"route_time": 10800,
+		"override_addresses": {
+			
+		},
+		"route_email": "demo@route4me.com",
+		"metric": 4,
+		"optimize": "Distance",
+		"travel_mode": "Driving",
+		"uturn": "1",
+		"leftturn": "1",
+		"rightturn": "1",
+		"avoid": "",
+		"limited_weight_t": "36",
+		"weight_per_axle_t": "",
+		"has_trailer": false,
+		"trailer_weight_t": "",
+		"truck_height": "",
+		"truck_width": "",
+		"truck_length": "",
+		"truck_hazardous_goods": "",
+		"routeType": "multi_tw",
+		"algorithm_type": 3,
+		"parts": "2",
+		"route_max_duration": 691200,
+		"rt": false,
+		"min_tour_size": "45",
+		"max_tour_size": "100",
+		"member_id": "44143",
+		"vehicle_id": "525DE8F7846C3CD568F47DC15559E13B",
+		"disable_optimization": false,
+		"uploads": [{
+			"upload_id": "cabe2ae7b2ec56e3fbfc4469e546d518"
+		}]
+	}
