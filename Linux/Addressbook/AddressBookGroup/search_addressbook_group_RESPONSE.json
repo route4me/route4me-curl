@@ -1,0 +1,20 @@
+{
+	"results": [
+		[
+			47639626,
+			"HybridContactGroup",
+			"730 CECIL AVENUE, Louisville, KY, 40211"
+		],
+		[
+			47639628,
+			"HybridContactGroup",
+			"4629 HILLSIDE DRIVE, Louisville, KY, 40216"
+		]
+	],
+	"total": 11,
+	"fields": [
+		"address_id",
+		"address_1",
+		"address_group"
+	]
+}
