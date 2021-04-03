@@ -1,0 +1,573 @@
+{
+	"results": [{
+		"activity_id": "B98EBDD3A44AB3D64243A704432097B9",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466163155",
+		"activity_message": "Optimized route 'Friday 6th of May 2016 01:30:02 PM (+00:00) (Duplicate)'",
+		"route_id": "BBBB494FFE48ED224E5FEAAEB721EF77",
+		"route_name": "Friday 6th of May 2016 01:30:02 PM (+00:00) (Duplicate)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "ACBC8198F69D3BAF42EC9A5A57F6556E",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161478",
+		"activity_message": "Directions prepared for route 'Route updated on Fri Jun 17 2016 11:04:29 GMT+0000 (UTC)'",
+		"route_id": "BBBB304B55A5D538406CA2B2834639D3",
+		"route_name": "Route updated on Fri Jun 17 2016 11:04:29 GMT+0000 (UTC)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "48A535EEE6A2443875DEE4F0676C4F68",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161466",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:24 +0000 UTC'",
+		"route_id": "BBBB7621D2AA3401E49D87FA70576290",
+		"route_name": "Fri, 17 Jun 2016 11:04:24 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "95C80B24166E8A94D98864FDB3C6B599",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161462",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:20 +0000 UTC'",
+		"route_id": "BBBB304B55A5D538406CA2B2834639D3",
+		"route_name": "Route updated on Fri Jun 17 2016 11:04:29 GMT+0000 (UTC)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "DC35B1EF72FF1F659361A3F56CCFABCC",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161457",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:15 +0000 UTC'",
+		"route_id": "BBBBBE4D1CA9E030D2007A473ACBCE00",
+		"route_name": "Fri, 17 Jun 2016 11:04:15 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "ED04526905F635DE951369AC795D039C",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161453",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:12 +0000 UTC'",
+		"route_id": "BBBBAB94FA9A422A726A3268E04830CD",
+		"route_name": "Fri, 17 Jun 2016 11:04:12 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "6B24027B6AD6933BF7DEA94F3340437C",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161450",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:09 +0000 UTC'",
+		"route_id": "BBBB50AC639792C047DD5AD960271917",
+		"route_name": "Fri, 17 Jun 2016 11:04:09 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "B2A23AAF247E660224844A6405B0F0D4",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161447",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:05 +0000 UTC'",
+		"route_id": "BBBB25C378F27F536D05061878313428",
+		"route_name": "Fri, 17 Jun 2016 11:04:05 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "10A088CCDCCB1F6B6B6A32DE94B20BE1",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466161443",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 11:04:01 +0000 UTC'",
+		"route_id": "BBBB34B0B11C14B5819E55CC40BCFACF",
+		"route_name": "Fri, 17 Jun 2016 11:04:01 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "E445D37EF8AC1F10E13C544266374633",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154315",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 09:05:13 +0000 UTC'",
+		"route_id": "BBBB870256972F924A31C60D6FA8B028",
+		"route_name": "Fri, 17 Jun 2016 09:05:13 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "C2EB8685DFC4D5E52D3D1AEE13D855C7",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154257",
+		"activity_message": "Optimized route 'Fri, 17 Jun 2016 09:04:12 +0000 UTC'",
+		"route_id": "BBBB4F3344DACB8BB6A7914B56E28C18",
+		"route_name": "Fri, 17 Jun 2016 09:04:12 +0000 UTC",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "2C14098D30DF9B95518110A56FCF4C2A",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154165",
+		"activity_message": "Optimized route 'Single Driver Multiple TimeWindows 12 Stops'",
+		"route_id": "BBBBE81603E590775543E7788968C796",
+		"route_name": "Single Driver Multiple TimeWindows 12 Stops",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "AA421195124819AB92D13FB3E30E4131",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154102",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 002)'",
+		"route_id": "BBBBB00BE4FD4334F312F706809F7285",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 002)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "C33CB6895437D2E74B5EE213E18A16BA",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154102",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 001)'",
+		"route_id": "BBBBDDA1938CCA127046AE8E62403E9D",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "B4CF91EA623918253B3B0A57F3E7F526",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154101",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Unrouted Destinations)'",
+		"route_id": "BBBB41213115007199B375E301E7C77F",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Unrouted Destinations)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "E3729DD2AA7FCEA43BD4C0E3D43EB33E",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154101",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 004)'",
+		"route_id": "BBBB42524E7CB557609603DE207113A1",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 004)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "55943217A80FEE9276A7D14115AD5421",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154100",
+		"activity_message": "Optimized route 'Single Depot, Multiple Driver, No Time Window (Part 003)'",
+		"route_id": "BBBB59D80AA0312D21B1BB805CC231E5",
+		"route_name": "Single Depot, Multiple Driver, No Time Window (Part 003)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "490513D9FF38EC4D348A83387B7151AF",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154018",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver, Time Window (Unrouted Destinations)'",
+		"route_id": "BBBB344025BE41B00A9911BC02837F94",
+		"route_name": "Multiple Depot, Multiple Driver, Time Window (Unrouted Destinations)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "811AD1510335BA57E8AD3D08AE220B75",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154018",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver, Time Window (Part 002)'",
+		"route_id": "BBBBF0EE671357C74BDCD8B055880AA4",
+		"route_name": "Multiple Depot, Multiple Driver, Time Window (Part 002)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "FA0CDCA40D7C50770915A48F86C508C6",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466154017",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver, Time Window (Part 001)'",
+		"route_id": "BBBB733378E843D235C8DBF5ED778825",
+		"route_name": "Multiple Depot, Multiple Driver, Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "5F9CABE785B3844B62A34588093654DB",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153940",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 002)'",
+		"route_id": "BBBB2E3E322957E0DFC347DC91443632",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 002)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "A679D4341880A9F42D5CC645334D68F7",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153940",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 004)'",
+		"route_id": "BBBBCD0899EDE5CAD9D256EBFD2C2FED",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 004)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "E747A23197AE7673406CC247CE182635",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153939",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Unrouted Destinations)'",
+		"route_id": "BBBB46849F2E50D28778A6CAAB5FB1EC",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Unrouted Destinations)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "9C54D6DD396EF059F2C3A599EEA02F5C",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153939",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 006)'",
+		"route_id": "BBBB3EEDF43254BC52536FBDBA521A75",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 006)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "2DEDE6BFF0696827F001BB5D9B61B2F7",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153938",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 001)'",
+		"route_id": "BBBB44A1BDC584B63A6B3C6856241DA0",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 001)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "FC53121AFBF2D88D8952B8A32741D572",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153938",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 003)'",
+		"route_id": "BBBBC6842476764C18544620D566C159",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 003)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "FD00EECA0C06178753CA6985B6E013C5",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153937",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 005)'",
+		"route_id": "BBBB94CA48C6094FCE8AF53740001970",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 005)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "099FE52819C2C03338B3ABE4505B9477",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153937",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 007)'",
+		"route_id": "BBBBEDC73EBABDBB95AF815F99D168FB",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 007)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "1FF6D5C6A52C7732418F0C9BC41FABCB",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153936",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 009)'",
+		"route_id": "BBBB8DA1C31BA1772EEAC6A6AFA8E8A0",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 009)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	},
+	{
+		"activity_id": "6B0DBA0292F288A757A455B3432CB25E",
+		"activity_type": "route-optimized",
+		"activity_timestamp": "1466153936",
+		"activity_message": "Optimized route 'Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 010)'",
+		"route_id": "BBBBBA41D9F45009B6669A7E34B72C8F",
+		"route_name": "Multiple Depot, Multiple Driver with 24 Stops, Time Window (Part 010)",
+		"route_destination_id": null,
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "David",
+			"member_last_name": "Progman",
+			"member_email": "david@novapulsar.com"
+		}
+	}],
+	"total": 106039
+}

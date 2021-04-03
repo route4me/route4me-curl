@@ -1,0 +1,24 @@
+{
+	"results": [{
+		"activity_id": "AED2D5EE219B6FE06FB41AC88B6B7052",
+		"destination_name": "3557-3593 W Market St, Fairlawn, OH 44333, USA",
+		"destination_alias": "",
+		"activity_type": "insert-destination",
+		"activity_timestamp": "1470407091",
+		"activity_message": "Address '3557-3593 W Market St, Fairlawn, OH 44333, USA' was added into route 'Reveive_notifications_address_checkin_08-05-2016'",
+		"route_id": "87B8873BAEA4E09942C68E2C92A9C4B7",
+		"route_name": "Reveive_notifications_address_checkin_08-05-2016",
+		"route_destination_id": "178204838",
+		"note_id": null,
+		"note_type": null,
+		"note_contents": null,
+		"note_file": null,
+		"member": {
+			"member_id": "1",
+			"member_first_name": "Kevin",
+			"member_last_name": "Bacon",
+			"member_email": "demo333@yahoo.com"
+		}
+	}],
+	"total": 1
+}
