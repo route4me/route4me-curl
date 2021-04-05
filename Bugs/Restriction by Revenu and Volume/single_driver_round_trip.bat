@@ -8,6 +8,6 @@ SET apikey=11111111111111111111111111111111
 
 ECHO ON
 
-curl -o file1.txt -g -X POST -k -d "@single_driver_round_trip_data.json" "%URL%?api_key=%apikey%" 
+curl -o file1.txt -g -k -X POST -d "@single_driver_round_trip_data.json" "%URL%?api_key=%apikey%" 
 
 timeout /t 30

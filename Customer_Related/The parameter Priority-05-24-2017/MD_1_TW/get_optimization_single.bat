@@ -9,6 +9,6 @@ SET optprobid=CB1E7EA96E1D5987A3ECC43062A8949D
 
 ECHO ON
 
-curl -o file1.txt -g -k -X GET "%url%?api_key=%apikey%&optimization_problem_id=%optprobid%" 
+curl -o file1.txt -g -k -X GET "%url%?api_key=%apikey%&optimization_problem_id=%optprobid%"
 
 timeout /t 30

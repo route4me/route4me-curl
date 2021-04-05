@@ -19,4 +19,3 @@ curl -o file1.txt -g -k -X POST -H "Content-Type: application/json" -d "@add_sch
 echo "Finished..."
 
 sleep 15
-
