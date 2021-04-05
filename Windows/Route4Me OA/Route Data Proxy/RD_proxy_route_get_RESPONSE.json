@@ -556,8 +556,8 @@
 	"trip_distance": 1.14,
 	"route_revenue": 0,
 	"links": {
-		"route": "http://www.route4me.com/api.v4/route.php?route_id=DB5E95F09FF7443335A4444444444444&api_key=3d77765dbe37d0958244444444444444&member_id=1&device_tracking_history=0&original=0&notes=1",
-		"optimization_problem_id": "http://www.route4me.com/api.v4/optimization_problem.php?optimization_problem_id=F22A3E2AA169484547D9673333333333&api_key=3d77765dbe37d0958244444444444444&member_id=1"
+		"route": "https://api.route4me.com/api.v4/route.php?route_id=DB5E95F09FF7443335A4444444444444&api_key=3d77765dbe37d0958244444444444444&member_id=1&device_tracking_history=0&original=0&notes=1",
+		"optimization_problem_id": "https://api.route4me.com/api.v4/optimization_problem.php?optimization_problem_id=F22A3E2AA169484547D9673333333333&api_key=3d77765dbe37d0958244444444444444&member_id=1"
 	},
 	"destination_count": 1,
 	"created_timestamp": 1533555328,
