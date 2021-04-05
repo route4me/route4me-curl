@@ -740,6 +740,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=4F2D7619D9BF44C8976C8B2DF9215AB4&api_key=11111111111111111111111111111111&member_id=1"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=4F2D7619D9BF44C8976C8B2DF9215AB4&api_key=11111111111111111111111111111111&member_id=1"
     }
 }

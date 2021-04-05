@@ -66,7 +66,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=7EC3FC88737C29E93A54E88243ACBC77&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=7EC3FC88737C29E93A54E88243ACBC77&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 16
 	},
@@ -137,7 +137,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=781C0F8355298C5EEA32C861C49D0127&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=781C0F8355298C5EEA32C861C49D0127&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 16
 	},
@@ -208,7 +208,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=31AC533ECF9429CDECCECC530745F7BD&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=31AC533ECF9429CDECCECC530745F7BD&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 7
 	},
@@ -279,7 +279,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=7988378F70C533283BAD5024E6E37201&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=7988378F70C533283BAD5024E6E37201&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 828
 	},
@@ -350,7 +350,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=123974C887534E84B6114F18A65847E3&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=123974C887534E84B6114F18A65847E3&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 112
 	},
@@ -421,7 +421,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=F2B4E23810BEC82113D5398A91318D8B&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=F2B4E23810BEC82113D5398A91318D8B&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 440
 	},
@@ -492,7 +492,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=98A5B2B2ACCD4CD94B3FABA0E2A3BC46&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=98A5B2B2ACCD4CD94B3FABA0E2A3BC46&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 440
 	},
@@ -563,7 +563,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=CA1488C18A6C57BEEE12D836050E1079&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=CA1488C18A6C57BEEE12D836050E1079&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 3
 	},
@@ -634,7 +634,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=522BB9E5BEF0722E02B47430B06405A6&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=522BB9E5BEF0722E02B47430B06405A6&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 315
 	},
@@ -705,7 +705,7 @@
 		"addresses": [],
 		"routes": [],
 		"links": {
-			"view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=60B356E326F24A46B9448E8D90B8D422&api_key=11111111111111111111111111111111&member_id=1"
+			"view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=60B356E326F24A46B9448E8D90B8D422&api_key=11111111111111111111111111111111&member_id=1"
 		},
 		"total_addresses": 29
 	}],

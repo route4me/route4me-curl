@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://www.route4me.com
+SET url=https://api.route4me.com
 SET apikey=11111111111111111111111111111111
 SET optprobid=BC25F0EC2192810B3540B20B2E2A79C7
 

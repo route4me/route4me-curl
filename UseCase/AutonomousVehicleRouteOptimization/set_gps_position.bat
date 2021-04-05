@@ -1,6 +1,6 @@
 @ECHO OFF
 :: route_id and member_id are not real values - put real values
-SET url=https://www.route4me.com/track/set.php
+SET url=https://api.route4me.com/track/set.php
 SET apikey=11111111111111111111111111111111
 SET frm=XML
 SET membid=1

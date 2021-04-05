@@ -3,7 +3,7 @@ setlocal enableDelayedExpansion
 
 :: Example refers to the process of an address validation
 
-SET url=https://www.route4me.com/api/address.php
+SET url=https://api.route4me.com/api/address.php
 SET format=xml
 SET "address=448 MAIN ST LYNFIELD MA 01940"
 SET detailed=true

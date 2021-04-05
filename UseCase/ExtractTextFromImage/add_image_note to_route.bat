@@ -2,7 +2,7 @@
 
 :: Add a note to the route using of file uploading
 
-SET url=https://www.route4me.com/actions/addRouteNotes.php
+SET url=https://api.route4me.com/actions/addRouteNotes.php
 SET apikey=11111111111111111111111111111111
 SET routeid=D68AAF9C015D8AA4A138583453CE90EB
 SET addrid=196429349

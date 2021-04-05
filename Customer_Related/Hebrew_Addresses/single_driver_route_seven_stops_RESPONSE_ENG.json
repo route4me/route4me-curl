@@ -590,6 +590,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=A177119DDB2446042E80ACB221B6E397&api_key=1d479a8464677d9fc054eb7d00b046d2&member_id=44143"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=A177119DDB2446042E80ACB221B6E397&api_key=1d479a8464677d9fc054eb7d00b046d2&member_id=44143"
     }
 }

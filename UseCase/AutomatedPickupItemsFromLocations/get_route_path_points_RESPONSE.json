@@ -2481,8 +2481,8 @@
         }
     ],
     "links": {
-        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=0092301EE6B55D085DBFAF52FAE74A87&api_key=BD48828717021141485A701453273458&member_id=403634&device_tracking_history=0&original=0&notes=1",
-        "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=457FA558EBDAED3128430A3CEBB97DE1&api_key=BD48828717021141485A701453273458&member_id=403634"
+        "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=0092301EE6B55D085DBFAF52FAE74A87&api_key=BD48828717021141485A701453273458&member_id=403634&device_tracking_history=0&original=0&notes=1",
+        "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=457FA558EBDAED3128430A3CEBB97DE1&api_key=BD48828717021141485A701453273458&member_id=403634"
     },
     "notes": [],
     "path": null,

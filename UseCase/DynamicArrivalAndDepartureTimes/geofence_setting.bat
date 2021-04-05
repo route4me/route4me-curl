@@ -4,7 +4,7 @@
 
 ::See video tutorial here: http://support.route4me.com/route-planning-help.php?id=manual0:tutorial2:chapter1:subchapter2
 
-SET url=https://www.route4me.com/actions/myAccount_settings_action.php
+SET url=https://api.route4me.com/actions/myAccount_settings_action.php
 SET apikey=11111111111111111111111111111111
 SET route_path_output=Points
 

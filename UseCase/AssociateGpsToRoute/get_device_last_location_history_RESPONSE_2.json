@@ -919,8 +919,8 @@
         }
     ],
     "links": {
-        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=814FB49CEA8188D134E9D4D4B8B0DAF7&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=1&original=0&notes=0",
-        "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=E454F67078391C9A46D9C40CD022D450&api_key=11111111111111111111111111111111&member_id=1"
+        "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=814FB49CEA8188D134E9D4D4B8B0DAF7&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=1&original=0&notes=0",
+        "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=E454F67078391C9A46D9C40CD022D450&api_key=11111111111111111111111111111111&member_id=1"
     },
     "notes": [],
     "tracking_history": null

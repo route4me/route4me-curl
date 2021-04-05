@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/api.v3/route/reoptimize_2.php
+SET url=https://api.route4me.com/api.v3/route/reoptimize_2.php
 SET apikey=11111111111111111111111111111111
 SET routeid=422E488B1ABD5C37C23583052D3EFD73
 SET opt_type=Distance

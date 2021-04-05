@@ -1,5 +1,5 @@
 ECHO OFF
-SET url=https://www.route4me.com/api/address_book/add_contact.php
+SET url=https://api.route4me.com/api/address_book/add_contact.php
 SET apikey=11111111111111111111111111111111
 
 ECHO ON

@@ -3072,7 +3072,7 @@
         }
     ],
     "links": {
-        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=5C15E83A4BE005BCD1537955D28D51D7&api_key=11111111111111111111111111111111&member_id=177496&device_tracking_history=0&original=0&notes=0"
+        "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=5C15E83A4BE005BCD1537955D28D51D7&api_key=11111111111111111111111111111111&member_id=177496&device_tracking_history=0&original=0&notes=0"
     },
     "notes": [],
     "path": null

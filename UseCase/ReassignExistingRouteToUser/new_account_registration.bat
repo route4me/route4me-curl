@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/register_action.php
+SET url=https://api.route4me.com/actions/register_action.php
 SET apikey=11111111111111111111111111111111
 SET plan=free
 

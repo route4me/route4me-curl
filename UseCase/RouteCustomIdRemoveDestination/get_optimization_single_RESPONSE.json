@@ -2407,8 +2407,8 @@
                 }
             ],
             "links": {
-                "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=3F0F18E21A3A4411027EC277449D2878&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
-                "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+                "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=3F0F18E21A3A4411027EC277449D2878&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+                "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
             },
             "notes": []
         },
@@ -2955,8 +2955,8 @@
                 }
             ],
             "links": {
-                "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=4F9A4259F7C80127349ED8BB7F62A9E9&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
-                "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+                "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=4F9A4259F7C80127349ED8BB7F62A9E9&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+                "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
             },
             "notes": []
         },
@@ -4047,8 +4047,8 @@
                 }
             ],
             "links": {
-                "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=9F019B4481C6566F7E338136DAC0B89E&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
-                "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+                "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=9F019B4481C6566F7E338136DAC0B89E&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+                "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
             },
             "notes": [],
             "path": [],
@@ -4597,8 +4597,8 @@
                 }
             ],
             "links": {
-                "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=A1D840B5A4CE2A5D3840CA3C99593A6F&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
-                "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+                "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=A1D840B5A4CE2A5D3840CA3C99593A6F&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+                "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
             },
             "notes": []
         },
@@ -5145,13 +5145,13 @@
                 }
             ],
             "links": {
-                "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=D2F21FAD3F92C55ADA81FC841CCA3A1A&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
-                "optimization_problem_id": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+                "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=D2F21FAD3F92C55ADA81FC841CCA3A1A&api_key=11111111111111111111111111111111&member_id=1&device_tracking_history=0&original=0&notes=0",
+                "optimization_problem_id": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
             },
             "notes": []
         }
     ],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=8E23ED7EEC79D27E5B2F092023FF055E&api_key=11111111111111111111111111111111&member_id=1"
     }
 }
