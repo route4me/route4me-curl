@@ -2,7 +2,7 @@ ECHO OFF
 
 setlocal enableDelayedExpansion
 
-SET url=https://www.route4me.com/api.v4/address_book.php
+SET url=https://api.route4me.com/api.v4/address_book.php
 SET apikey=11111111111111111111111111111111
 
 :: Example demostrates search for all Addressbook contacts, any fields which of contains search_text value.

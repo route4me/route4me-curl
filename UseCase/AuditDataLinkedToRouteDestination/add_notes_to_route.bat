@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/addRouteNotes.php
+SET url=https://api.route4me.com/actions/addRouteNotes.php
 
 SET apikey=11111111111111111111111111111111
 SET routeid=DD376C7148E7FEE36CFABE2BD9978BDD

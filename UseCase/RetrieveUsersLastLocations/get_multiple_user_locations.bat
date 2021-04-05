@@ -1,7 +1,7 @@
 @ECHO OFF
 
-SET url0=https://www.route4me.com/actions/authenticate.php
-SET url=https://www.route4me.com/api/track/view_user_locations.php
+SET url0=https://api.route4me.com/actions/authenticate.php
+SET url=https://api.route4me.com/api/track/view_user_locations.php
 SET apikey=11111111111111111111111111111111
 SET email=dan@novapulsar.com
 

@@ -1,11 +1,13 @@
 @ECHO OFF
-SET url=http://www.route4me.com
+
+SET url=https://api.route4me.com/api.v4/route.php
+
 SET apikey=11111111111111111111111111111111
 SET routeid=BD9E024C21820FE9B28B6B8B7B6C3462
 SET rpo=Points
 
 ECHO ON
 
-curl -o file1.txt -g -X GET "%URL%/api.v4/route.php?route_id=%routeid%&api_key=%apikey%&route_path_output=%rpo%"
+curl -o file1.txt -g -k -X GET "%url%?route_id=%routeid%&api_key=%apikey%&route_path_output=%rpo%"
 
 timeout /t 30

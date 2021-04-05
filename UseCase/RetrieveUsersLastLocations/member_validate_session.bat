@@ -1,5 +1,5 @@
 @ECHO OFF
-SET url=https://www.route4me.com/datafeed/session/validate_session.php
+SET url=https://api.route4me.com/datafeed/session/validate_session.php
 SET apikey=11111111111111111111111111111111
 SET sesid=9ab4def60f804e2cc0dc4e5bce14658e
 SET memid=1

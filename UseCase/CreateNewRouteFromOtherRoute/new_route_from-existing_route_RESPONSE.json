@@ -442,6 +442,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=DC389C49A9A1AE555336140E189BA104&api_key=1d479a8464677d9fc054eb7d00b046d2&member_id=44143"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=DC389C49A9A1AE555336140E189BA104&api_key=1d479a8464677d9fc054eb7d00b046d2&member_id=44143"
     }
 }

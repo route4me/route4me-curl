@@ -541,7 +541,7 @@
         }
     ],
     "links": {
-        "route": "http:\/\/www.route4me.com\/api.v4\/route.php?route_id=4F9A4259F7C80127349ED8BB7F62A9E9&api_key=11111111111111111111111111111111&member_id=44194&device_tracking_history=0&original=0&notes=0"
+        "route": "https:\/\/api.route4me.com\/api.v4\/route.php?route_id=4F9A4259F7C80127349ED8BB7F62A9E9&api_key=11111111111111111111111111111111&member_id=44194&device_tracking_history=0&original=0&notes=0"
     },
     "notes": []
 }

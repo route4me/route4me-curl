@@ -1,6 +1,6 @@
 @ECHO OFF
 :: asset_id is not real value in query parameter - put real value
-SET url=https://www.route4me.com/api/asset/find_route.php
+SET url=https://api.route4me.com/api/asset/find_route.php
 SET apikey=11111111111111111111111111111111
 SET query=2121541
 

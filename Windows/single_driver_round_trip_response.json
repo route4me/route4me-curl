@@ -3788,6 +3788,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=CB8146A0318B96F5E741D033C6F4B679&api_key=11111111111111111111111111111111&member_id=1"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=CB8146A0318B96F5E741D033C6F4B679&api_key=11111111111111111111111111111111&member_id=1"
     }
 }

@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/upload/csv-xls-geocode.php
+SET url=https://api.route4me.com/actions/upload/csv-xls-geocode.php
 SET apikey=11111111111111111111111111111111
 SET upload_id=9c86efe1e3d07763e947f921e84175c9
 

@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET url=https://www.route4me.com/actions/duplicate_route.php
+SET url=https://api.route4me.com/actions/duplicate_route.php
 SET apikey=11111111111111111111111111111111
 SET routeid=754102B132D59AF502869797760A4E4E
 

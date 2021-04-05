@@ -515,6 +515,6 @@
     ],
     "routes": [],
     "links": {
-        "view": "http:\/\/www.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=457FA558EBDAED3128430A3CEBB97DE1&api_key=BD48828717021141485A701453273458&member_id=403634"
+        "view": "https:\/\/api.route4me.com\/api.v4\/optimization_problem.php?optimization_problem_id=457FA558EBDAED3128430A3CEBB97DE1&api_key=BD48828717021141485A701453273458&member_id=403634"
     }
 }
