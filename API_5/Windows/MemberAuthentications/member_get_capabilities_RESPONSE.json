@@ -1,0 +1,19 @@
+{
+	"api_capabilities": {
+		"sortable_fields": [
+			"authentication_timestamp",
+			"member_id"
+		],
+		"filterable_fields": [
+			"authentication_timestamp",
+			"member_id",
+			"remote_ip"
+		],
+		"search": false
+	},
+	"api_preferences": {
+		"force_server_side_search": false,
+		"partial_load": false,
+		"simple_pagination": true
+	}
+}

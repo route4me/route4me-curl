@@ -1,0 +1,41 @@
+{
+	"data": [
+		{
+			"rating_id": "5fba24c1d4c3d",
+			"tracking_number": "ZE19REZV",
+			"review": "excelent",
+			"rating": 4,
+			"added_at": "2020-11-22T01:43:45-07:00"
+		}
+	],
+	"simple_pagination": {
+		"per_page": 30,
+		"current_page": 0,
+		"path": "https://addons/api/v5.0/driver-reviews",
+		"first": "https://addons/api/v5.0/driver-reviews?simple_pagination[per_page]=30&simple_pagination[page]=0",
+		"prev": null,
+		"next": null
+	},
+	"total": [
+		{
+			"type": 0,
+			"quantity": 0
+		},
+		{
+			"type": 1,
+			"quantity": 0
+		},
+		{
+			"type": 2,
+			"quantity": 0
+		},
+		{
+			"type": 3,
+			"quantity": 0
+		},
+		{
+			"type": 4,
+			"quantity": 1
+		}
+	]
+}

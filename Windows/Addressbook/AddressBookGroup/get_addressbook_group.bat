@@ -2,7 +2,7 @@ ECHO OFF
 
 SET url=https://api.route4me.com/api.v4/address_book_group.php
 SET apikey=11111111111111111111111111111111
-SET group_id=1322968F9B217C64785752B838849200
+SET group_id=35DC986E1AECDD71C9389641675024EE
 
 :: The example refers to the process of getting an adddress group by group ID.
 

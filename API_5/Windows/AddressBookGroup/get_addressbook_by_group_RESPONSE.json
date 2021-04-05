@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "created_timestamp": "2019-08-08T08:53:03.000Z",
+      "address_id": 1,
+      "address_group": null,
+      "address_alias": "Jenkins Ways",
+      "address_1": "999 Aurelio Summit, Jamirtown, CO 52979-8465",
+      "address_2": null,
+      "member_id": 1,
+      "first_name": "Keyon",
+      "last_name": "Will",
+      "address_email": null,
+      "address_phone_number": null,
+      "address_city": null,
+      "address_state_id": null,
+      "address_country_id": null,
+      "address_zip": null,
+      "cached_lat": -79.102999,
+      "cached_lng": -162.156663,
+      "curbside_lat": -79.102999,
+      "curbside_lng": -162.156663,
+      "address_custom_data": {
+        "custom field name #1": "custom field value #1",
+        "custom field name #2": "custom field value #2"
+      },
+      "schedule": {},
+      "schedule_blacklist": {},
+      "in_route_count": 0,
+      "visited_count": 0,
+      "last_visited_timestamp": 0,
+      "last_routed_timestamp": 0,
+      "local_time_window_start": null,
+      "local_time_window_end": null,
+      "local_time_window_start_2": null,
+      "local_time_window_end_2": null,
+      "service_time": null,
+      "local_timezone_string": null,
+      "color": "#000000",
+      "address_icon": null,
+      "address_stop_type": null,
+      "address_cube": null,
+      "address_pieces": null,
+      "address_reference_no": null,
+      "address_revenue": null,
+      "address_weight": null,
+      "address_priority": null,
+      "address_customer_po": null
+    }
+  ],
+  "total": 1,
+  "fields": null
+}

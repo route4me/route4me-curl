@@ -1,0 +1,35 @@
+{
+	"rules": {
+		"condition": "AND",
+		"rules": [
+			{
+				"id": "address_1",
+				"field": "address_1",
+				"type": "string",
+				"input": "text",
+				"operator": "contains",
+				"value": "Louisville"
+			}
+		],
+		"valid": true
+	},
+	"fields": [
+		"address_id",
+		"address_alias",
+		"first_name"
+	],
+	"order_by": [
+		[
+			"address_1",
+			"desc"
+		],
+		[
+			"address_alias",
+			"desc"
+		],
+		[
+			"first_name",
+			"asc"
+		]
+	]
+}
