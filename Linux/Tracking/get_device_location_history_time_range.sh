@@ -9,7 +9,7 @@ start=$(date -d"2016-10-20T00:00" +%s)
 end=$(date -d"2016-10-26T23:59" +%s)
 
 # The example refers to the process of getting last location history of a device during the specified time range by sending HTTP parameters.
-# See other parameters at: https://github.com/route4me/route4me-json-schemas/blob/master/TrackingHistory_request.dtd
+# See other parameters at: https://github.com/route4me/route4me-json-schemas/blob/master/TrackingHistory_request.json
 
 curl -o file1.txt -k -g -X GET "$url?route_id=$routeid&api_key=$apikey&format=json&time_period=$time_period&start_date=$start&end_date=$end"
 
