@@ -2,7 +2,7 @@
 
 SET url=https://api.route4me.com/api.v4/address.php
 
-SET apikey=4dc953f3649388afacb498836476b05d
+SET apikey=11111111111111111111111111111111
 SET routeid=E6DA23FECE9A23A097D8966BD70D39D0
 SET routedestinationid=221228840,
 
