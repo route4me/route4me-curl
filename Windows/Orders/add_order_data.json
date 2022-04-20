@@ -9,10 +9,8 @@
 	"EXT_FIELD_last_name"   : "Progman",
 	"EXT_FIELD_email"       : "progman@gmail.com",
 	"EXT_FIELD_phone"       : "380380380380",
-	"EXT_FIELD_custom_data" : [
-		{
-			"order_id" : "10",
-			"name"     : "Bill Soul"
-		}
-	]
+	"EXT_FIELD_custom_data" : {
+		"order_id" : "10",
+		"name"     : "Bill Soul"
+	}
 }
