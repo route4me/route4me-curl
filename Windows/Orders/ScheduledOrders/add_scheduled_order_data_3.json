@@ -10,11 +10,9 @@
 	"EXT_FIELD_last_name"   : "Parson",
 	"EXT_FIELD_email"       : "nparson874@yahoo.com",
 	"EXT_FIELD_phone"       : "6587412",
-	"EXT_FIELD_custom_data" : [
-		{
-			"order_type"     : "scheduled order"
-		}
-	],
+	"EXT_FIELD_custom_data" : {
+		"order_type"     : "scheduled order"
+	},
 	"day_scheduled_for_YYMMDD": "2017-12-20",
 	"local_time_window_end": 43800,
 	"local_time_window_end_2": 51000,
