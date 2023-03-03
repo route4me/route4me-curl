@@ -8,6 +8,6 @@ SET vehicle_id=AE350EF3153448665300F2C8216698C6
 
 ECHO ON
 
-curl -o get_vehicle_y_id_RESPONSE.json -g -X GET -k "%url%/%vehicle_id%?api_key=%apikey%"
+curl -o get_vehicle_by_id_RESPONSE.json -g -X GET -k "%url%/%vehicle_id%?api_key=%apikey%"
 
 timeout /t 30
