@@ -6,7 +6,7 @@ vehicle_id=AE350EF3153448665300F2C8216698C6
 
 # The example refers to the process of updating a vehicle.
 
-curl -o update_vehicle_RESPONSE.json -H "Content-Type: application/json" -H "Accept: application/json" -g -X PUT -k -d "@update_vehicle_data.json" "$url/$vehicle_id?api_key=$apikey"
+curl -o update_vehicle_RESPONSE.json -H "Content-Type: application/json" -H "Accept: application/json" -g -X PATCH -k -d "@update_vehicle_data.json" "$url/$vehicle_id?api_key=$apikey"
 
 echo "Finished..."
 
